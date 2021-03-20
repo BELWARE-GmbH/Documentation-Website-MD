@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "Connector 365"
+  name = "Connector 365"
+  url = "connector365"
+  weight = 1
+
+[[main]]
+  identifier = "Legal Notice"
+  name = "Legal Notice"
+  url = "legalnotice"
+  weight = 2
+
+[[main]]
+  identifier = "BELWARE"
+  name = "BELWARE"
+  url = "https://belware.de"
+  weight = 3

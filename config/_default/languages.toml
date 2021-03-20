@@ -1,0 +1,11 @@
+[de-de]
+  title = "Connector Hilfe"
+  languageName = "Deutsch"
+  weight = 1
+  contentdir = "content/de-de"
+
+[en-us]
+  title = "Connector Help"
+  languageName = "English"
+  weight = 2
+  contentdir = "content/en-us"
