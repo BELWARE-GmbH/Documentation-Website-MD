@@ -1,4 +1,4 @@
-/*
+
 .top {
   @include themify($themes) {
     background-color: themed('single-header-title-background-color');
@@ -66,4 +66,3 @@
     @include align-items(flex-end);
   }
 }
-*/

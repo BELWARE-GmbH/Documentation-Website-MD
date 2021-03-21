@@ -1,13 +1,13 @@
 [[main]]
-  identifier = "Connector 365"
-  name = "Connector 365"
-  url = "connector365"
+  identifier = "Dokumentation"
+  name = "Dokumentation"
+  url = "documentation"
   weight = 1
 
 [[main]]
-  identifier = "Impressum"
-  name = "Impressum"
-  url = "impressum"
+  identifier = "Support"
+  name = "Support"
+  url = "https://www.belware.de/kontakt"
   weight = 2
 
 [[main]]
@@ -15,3 +15,10 @@
   name = "BELWARE"
   url = "https://belware.de"
   weight = 3
+
+[[main]]
+  identifier = "Impressum"
+  name = "Impressum"
+  url = "legalnotice"
+  weight = 4
+
