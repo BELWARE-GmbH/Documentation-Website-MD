@@ -56,10 +56,6 @@ footer:
   contents: 
     align: left
     applySinglePageCss: false
-    markdown:
-      |
-      ## Zzo docs
-      Copyright © 2020. All rights reserved.
 
 sections:
   - bgcolor: teal

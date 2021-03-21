@@ -16,7 +16,7 @@
     @include flexbox();
     @include flex-direction(column);
     @include flex-grow(1);
-    @include align-items(flex-start);
+    @include align-items(center);
 
     &--wrapper {
       @include flexbox();
@@ -44,7 +44,7 @@
     margin: 2rem 0;
 
     @include flexbox();
-    @include align-items(flex-start);
+    @include align-items(center);
     @include flex-direction(column);
   }
 }
