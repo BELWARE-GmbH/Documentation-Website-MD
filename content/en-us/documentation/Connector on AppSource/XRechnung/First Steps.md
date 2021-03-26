@@ -1,5 +1,5 @@
 ---
-title: "Erste Schritte"
+title: "First steps"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -68,10 +68,10 @@ Then you should adjust the field **International Standard Code"** according to t
 
 ![](images/XRechnung/erste_schritte/xrechnungeinheiten.PNG)
 
-#### Überprüfen der Steuerkategorie
+#### Check the Tax Category
 
-Zuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der MwSt.-Buchungsmatrix zu finden, diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
+Finally, it is also worth looking at the tax category, this can be found in the **VAT Posting Setup**, this can again be called up most quickly via the search function.
 
-Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie [hier](https://docs.peppol.eu/poacc/billing/3.0/codelist/UNCL5305/) finden. In den meisten Fällen werden Sie nur E S und Z benötigen.
+Here you should now fill the field "Tax category" with the respective designation, you can find this [here](https://docs.peppol.eu/poacc/billing/3.0/codelist/UNCL5305/). In most cases you will only need E S and Z.
 
 ![](images/XRechnung/erste_schritte/xrechnungmatrix.PNG)

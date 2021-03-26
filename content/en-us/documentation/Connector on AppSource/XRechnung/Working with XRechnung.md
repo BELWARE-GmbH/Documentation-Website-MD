@@ -1,5 +1,5 @@
 ---
-title: "Arbeiten mit XRechnung"
+title: "Working with XRechnung"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -24,29 +24,29 @@ If you have other attachments that you want to send, then you can add more attac
 
 **Note:** _If you have selected embedded attachments in the document layouts, these will also be embedded in the XML and can then only be read by machine. You have to pay attention to which attachments the recipient accepts._
 
-Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über **„E-Mail senden“** auslösen. Im Hintergrund wird nun noch eine Prüfung auf das Schema der XRechnung
+If you have made the desired changes, you can trigger the dispatch via **"Send Email"**. In the background, a check for the scheme of the XRechnung is now performed.
 
 #### Negative XRechnungen
 
-Für den Fall, dass eine XRechnung nicht dem geforderten Schema entspricht, kommt es zu einer Fehlermeldung, wird diese bestätigt öffnet sich der Prüfbericht für die XRechnung.
+In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
 
 ![](images/XRechnung/xrechnungbericht.png)
 
-Dort lässt sich einsehen, welche Punkte nicht zum geforderten Schema passen. Korrigieren Sie diese Punkte und versenden Sie die XRechnung erneut.
+There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
 
-Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema entspricht. Für die häufigsten haben wir eine Auflisten und Anleitung unter [Erste Schritte](de-de/documentation/connector-on-appsource/xrechnung/erste-schritte)
+There are many places that cause an XInvoice to not conform to the schema. For the most common ones we have a list and guidance at [First Steps](en-us/documentation/connector-on-appsource/xrechnung/first-steps)
 
-#### Nach dem Versand
+#### After sending
 
-Falls die Prüfung des Dokumentes erfolgreich war, so wird die Rechnung versendet.
+If the verification of the document was successful, the invoice will be sent.
 
-Nach dem Absenden erhält der Empfänger unter anderem eine **„xml“-Datei.** 
-Diese ist die zugehörige Rechnung im **„XRechnung“**-Format.
+After sending, the recipient will receive, among other things, a **"xml-file"**. 
+This is the corresponding invoice in **"XRechnung"** format.
 
 ![](images/XRechnung/XRechnungScreenshot5.PNG)
 
-### Status
-In Ihrem Rollencenter können Sie zwei neue Kästen finden. Dort lässt sich der Status der versendeten und fehlerhaften XRechnungen nachverfolgen 
+### State
+In your role center you can find two new boxes. There you can track the status of sent and faulty XRechnung.
 
 ![](images/XRechnung/xrechnungstatus.png)
 
@@ -54,11 +54,11 @@ In Ihrem Rollencenter können Sie zwei neue Kästen finden. Dort lässt sich der
 
 ![](images/XRechnung/xrechnunguebersicht.png)
 
-Hier werden alle erfolgreich versendeten XRechnung abgebildet – Was wurde wann, an wen versendet.
-Sie haben hier auch die Möglichkeit schon versendete XRechnungen erneut zu versenden.
+All successfully sent XRechnung are displayed here - what was sent when, to whom.
+You also have the possibility to resend already sent XRechnung.
 
-#### XRechnung Entwurf
+#### XRechnung Draft
 
 ![](images/XRechnung/xrechnungentwuerfe.png)
 
-Hier werden XRechnungen abgebildet, welche durch die Prüfung durchgefallen sind und nicht als XRechnung akzeptiert werden. Dies kann unterschiedliche Gründe haben – Welche genau, können Sie herausfinden indem Sie den Prüfbericht öffnen. 
+Here XRechnung are displayed, which failed the check and are not accepted as XRechnung. This can have different reasons - you can find out exactly which ones by opening the validation report. 
