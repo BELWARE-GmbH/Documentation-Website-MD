@@ -1,24 +1,18 @@
 [[main]]
-  identifier = "Dokumentation"
-  name = "Dokumentation"
-  url = "documentation"
+  identifier = "On AppSource"
+  name = "On AppSource"
+  url = "connector-on-appsource"
   weight = 1
 
 [[main]]
-  identifier = "Support"
-  name = "Support"
-  url = "support"
+  identifier = "AppsOnPrem"
+  name = "AppsOnPrem"
+  url = "appsonprem"
   weight = 2
-
-[[main]]
-  identifier = "BELWARE"
-  name = "BELWARE"
-  url = "https://belware.de"
-  weight = 3
 
 [[main]]
   identifier = "Impressum"
   name = "Impressum"
   url = "legalnotice"
-  weight = 4
+  weight = 3
 

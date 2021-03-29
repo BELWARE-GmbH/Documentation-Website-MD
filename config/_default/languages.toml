@@ -1,11 +1,11 @@
 [de-de]
-  title = "Connector Hilfe"
+  title = "Connector 365 Online Hilfe"
   languageName = "Deutsch"
   weight = 1
   contentdir = "content/de-de"
 
 [en-us]
-  title = "Connector Help"
+  title = "Connector 365 Online Help"
   languageName = "English"
   weight = 2
   contentdir = "content/en-us"
