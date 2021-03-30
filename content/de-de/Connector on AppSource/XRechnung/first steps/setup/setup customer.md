@@ -12,25 +12,25 @@ weight: 2
 
 ![](images/XRechnung/XRechnungScreenshot1.png)
 
-Um Rechnungen im XRechnung-Format senden zu können, müssen Sie Einstellungen unter den **„Dokumentenlayouts“** des jeweiligen Debitors vornehmen.
+Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter **„Navigieren“ - „Dokumentenlayouts“** des jeweiligen Debitors vornehmen.
 
-Diese finden Sie auf der Seite des Debitors unter: 
-**„Navigieren“ -> „Dokumentenlayouts“**
-
-Nach Installation der App befinden sich drei neue Spalten namens **„XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“** auf der Seite.
+Im Dokumentenlayout stehen Ihnen nun neue Felder zur Verfügung.
+**„XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“**
 
 ![](images/XRechnung/XRechnungScreenshot2.PNG)
 
-In das Feld **„XRechnung“** setzen Sie ein Häkchen, um zu signalisieren, dass Rechnungen für diesen Debitor als XRechnung versendet werden sollen. 
+In das Feld **„XRechnung“** setzen Sie ein Häkchen, um die Funktion zu aktivieren, dass Rechnungen/Gutschriften für diesen Debitor als XRechnung versendet werden sollen.
  
 In das Feld **„Leitweg-ID“** wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs
 
-Im Feld **„Beleg als Anhang hinzufügen“** haben Sie 3 Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.
+Im Feld **„Beleg als Anhang hinzufügen“** haben Sie 3 Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.
 
-**Nein** - Der Originalbeleg wird _nicht_ zusätzlich mitversendet, es wird nur die XML der XRechnung versendet. Reguläre Anhänge werden wie gewohnt versendet.
+![](images/XRechnung/xrechnungbeleganhang.PNG)
+
+**Nein** - Der Originalbeleg wird nicht zusätzlich mitversendet, es wird nur die XML der XRechnung versendet. Reguläre Anhänge werden wie gewohnt versendet.
 
 **Eingebettet**- Der Originalbeleg wird mitversendet, wird aber in die XML der XRechnung eingebettet. Weitere Anhänge werden ebenfalls in die XML-Eingebettet. Diese können später maschinell ausgelesen werden.
 
 **PDF** - Der Originalbeleg wird zusätzlich zu der XML der XRechnung als PDF angehangen. Weitere Anhänge werden ebenfalls wie gewohnt angehängt.
 
-Ist das Häkchen für XRechnung gesetzt, eine korrekte Leitweg-ID hinterlegt und die gewünschte Anhangs-Option gewählt, können Rechnungen im XRechnung-Format gesendet werden.
+Ist das Häkchen für XRechnung gesetzt, eine korrekte Leitweg-ID hinterlegt, die gewünschte Anhangs-Option gewählt und alle nötigen Stammdaten können Rechnungen/Gutschriften im XRechnung-Format gesendet werden.

@@ -24,6 +24,16 @@ Anhand der so genannten Grobadressierung wird unterschieden, ob der Rechnungsemp
 
 - 991: Der Rechnungsempfänger ist Teil der unmittelbaren Bundesverwaltung oder ein Verfassungsorgan und empfängt elektronische Rechnungen über die ZRE.
 - 992:
-- a) Der Rechnungsempfänger ist Teil der mittelbaren Bundesverwaltung und empfängt elektronische Rechnungen über die OZG-RE.
-- b) Der Rechnungsempfänger ist ein Bundesland, welches elektronische Rechnungen über die OZG-RE empfängt.
+  a) Der Rechnungsempfänger ist Teil der mittelbaren Bundesverwaltung und empfängt elektronische Rechnungen über die OZG-RE.
+  b) Der Rechnungsempfänger ist ein Bundesland, welches elektronische Rechnungen über die OZG-RE empfängt.
 - 993: Der Rechnungsempfänger ist Teil der mittelbaren Bundesverwaltung und empfängt über eine eigene Lösung (weder ZRE noch OZG-RE) elektronische Rechnungen.
+
+Beispiel Aufbau einer Leitweg ID: 123-456-76
+
+Ein Rechnungsempfänger der Bundesverwaltung hat mindestens eine Leitweg-ID.
+
+Die Ausgestaltung der Leitweg-ID in einer Behörde basiert auf der Organisation der internen Rechnungsbearbeitung. Behörden mit mehreren Leitweg-IDs stellen über die Angabe der entsprechenden Leitweg-IDs sicher, dass die Rechnung direkt an den zuständigen Bereich für die Bewirtschaftung adressiert wird. Es ist daher essentiell, dass stets die im Auftrag angegebene Leitweg-ID für die Rechnungsstellung verwendet wird.
+
+Die Leitweg-IDs werden dezentral von Bund und Ländern vergeben. Daher existiert aktuell auch keine bundesweite Datenbank, in der alle Leitweg-IDs eingetragen sind.
+
+**Die Leitweg-ID erhalten Sie ausschließlich von dem jeweiligen Rechnungsempfänger.**
