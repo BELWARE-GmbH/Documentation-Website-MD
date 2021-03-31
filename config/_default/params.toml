@@ -1,13 +1,13 @@
 logo = true
 logoText = "Connector 365 Online Hilfe"
 logoType = "short" # long, short
-description = "The ZDoc theme for Hugo example site."
+description = "Online Dokumentation für BELWARE-Produkte"
 
 themeOptions = ["light", "dark"]
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
-enableTocSwitch = true
+enableTocSwitch = false
 enableLandingBackground = false
 enableSearch = true
 enableSearchHighlight = true
@@ -16,11 +16,13 @@ enableDarkMode = false
 enableBreadcrumb = true
 enableBlogBreadcrumb = true
 enableEditBtn = false
-enableToc = true
+enableToc = false
 enableMenu = true
 enableNavbar = true
 enableFooter = true
 showPoweredBy = true
+wideViewAsDefault = true
+
 
 tocLevels = ["h2", "h3", "h4"]
 paginateWindow = 1

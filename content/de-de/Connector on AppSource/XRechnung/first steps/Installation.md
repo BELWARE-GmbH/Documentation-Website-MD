@@ -12,15 +12,27 @@ weight: 3
 
 Öffnen Sie mithilfe der Suchfunktion den **Marketplace für Erweiterungen** und öffnen Sie ihn.
 
--- SCREENSHOT SUCHFUNKTION --
+![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 XRechnung** zu finden. Wählen Sie ihn im Menü aus.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 XRechnung** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
-Es öffnet sich nun Seite der XRechnungs APP, von hier aus können Sie via eines Klicks auf **Free Trial** die Installation starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktedaten übermitteln.
-
--- Screenshot AppSource Seite --
+![](images/XRechnung/xrechnungmarketplace.PNG)
 
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließen **Installieren**.
 
--- Screenshot Installationsbildschirm --
+![](images/XRechnung/xrechnungsprache.PNG)
+
+Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt wird. Diese findet Vollautomatisch im Hintergrund statt
+
+![](images/XRechnung/xrechnunginstallation.PNG)
+
+Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
+
+Wenn alles geklappt hat, können Sie nun den **Connector 365 XRechnung** unter **Installierte Erweiterungen** finden.
+
+![](images/XRechnung/xrechnunginstalliert.png)
+
+Sie können nun mit der [Einrichtung](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/) starten.
+
+
 

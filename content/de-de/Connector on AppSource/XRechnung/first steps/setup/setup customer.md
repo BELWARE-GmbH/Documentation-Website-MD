@@ -12,9 +12,9 @@ weight: 2
 
 ![](images/XRechnung/XRechnungScreenshot1.png)
 
-Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter **„Navigieren“ - „Dokumentenlayouts“** des jeweiligen Debitors vornehmen.
+Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter **„Navigieren“ - „Dokumentenlayouts“** des jeweiligen Debitors.
 
-Im Dokumentenlayout stehen Ihnen nun neue Felder zur Verfügung.
+Wenn Sie die Dokumentenlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
 **„XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“**
 
 ![](images/XRechnung/XRechnungScreenshot2.PNG)
@@ -27,7 +27,7 @@ Im Feld **„Beleg als Anhang hinzufügen“** haben Sie 3 Auswahlmöglichkeit
 
 ![](images/XRechnung/xrechnungbeleganhang.PNG)
 
-**Nein** - Der Originalbeleg wird nicht zusätzlich mitversendet, es wird nur die XML der XRechnung versendet. Reguläre Anhänge werden wie gewohnt versendet.
+**Nein** - Der Originalbeleg wird nicht zusätzlich mitversendet, es wird nur die XML der XRechnung versendet.
 
 **Eingebettet**- Der Originalbeleg wird mitversendet, wird aber in die XML der XRechnung eingebettet. Weitere Anhänge werden ebenfalls in die XML-Eingebettet. Diese können später maschinell ausgelesen werden.
 

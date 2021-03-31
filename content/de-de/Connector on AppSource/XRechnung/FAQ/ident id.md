@@ -11,3 +11,5 @@ weight: 1
 #### Was ist die Leitweg ID?
 
 Die Leitweg ID ist eine eindeutige Kennung für den Rechnungsempfänger. Als Rechnungssteller benötigen Sie selbst keine. Sie benötigen nur die Leitweg ID des Empfängers, die dieser Ihnen bei der Bestellung bei Ihnen mitteilen sollte.
+
+Weitere Informationen zur Leitweg-ID finden Sie auf der entsprechenden [Seite](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/)

@@ -6,7 +6,7 @@ defaultContentLanguage = "de-de"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year} - Germany - BELWARE® GmbH - Dorsten"
 timeout = 10000
 enableEmoji = true
 paginate = 13

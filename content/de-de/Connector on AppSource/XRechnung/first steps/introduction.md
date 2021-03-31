@@ -18,11 +18,9 @@ Gemäß des [Beschlusses des IT-Planungsrats vom 22.06.2017](https://www.it-pla
 
 Der Standard XRechnung wird von der KoSIT im Auftrag des IT-Planungsrats betrieben und besteht aus verschiedenen Komponenten, die die technische Umsetzung unterstützen. Der Standard wurde im Rahmen des Steuerungsprojekts eRechnung von Expertinnen und Experten aus Bund, Ländern und Kommunen entwickelt.
 
-#### Gültigkeitszeitraum
+### Gültigkeitszeitraum
 
-Die nachfolgende Tabelle gibt einen Übersicht der Gültigkeitszeiträume der einzelnen Versionen des Standards. Es ist immer nur die aktuell gültige Version zu nutzen.
-
-Die Versionstabelle können wir selber erstellen und mit einblenden
+Die nachfolgende Tabelle gibt eine Übersicht über die Gültigkeitzeiträume der einzelnen Versionen des Standards. Es ist immer nur die aktuell gültige Version zu nutzen.
 
 | XRechnung-Version | Fassung vom     | Gültigkeitszeitraum         |
 |-------------------|-----------------|-----------------------------|
