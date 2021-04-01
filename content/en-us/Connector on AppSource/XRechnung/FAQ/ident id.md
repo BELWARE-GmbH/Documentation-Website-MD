@@ -11,3 +11,5 @@ weight: 1
 #### What is the Ident ID?
 
 The ident ID is a unique identifier for the recipient of the invoice. As invoicing party you do not need one yourself. You only need the ident ID of the recipient, which they should tell you when ordering from you.
+
+More Information about the Ident ID can be found on the specific [page](en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/)

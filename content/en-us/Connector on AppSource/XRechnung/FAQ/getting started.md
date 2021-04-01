@@ -10,4 +10,4 @@ weight: 4
 
 #### How do I start?
 
-Once the app is installed, go to the customer that should receive the XRechnung and tick the box in document layouts and add the ident ID. Then you can start sending. A more detailed guide can be found onthis page.
+Once the app is installed, go to the customer that should receive the XRechnung and tick the box in document layouts and add the ident ID. Then you can start sending. A more detailed guide can be found under [Working with XRechnung](en-us/connector-on-appsource/xrechnung/working-with-xrechnung/sending/) or [Setup](en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/).

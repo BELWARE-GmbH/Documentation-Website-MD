@@ -16,4 +16,4 @@ Für den Fall, dass eine XRechnung nicht dem geforderten Schema entspricht, komm
 
 Dort lässt sich einsehen, welche Punkte nicht zum geforderten Schema passen. Korrigieren Sie diese Punkte und versenden Sie die XRechnung erneut.
 
-Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema entspricht. Für die häufigsten haben wir eine Auflisten und Anleitung unter [Erste Schritte](de-de/documentation/connector-on-appsource/xrechnung/erste-schritte)
+Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema entspricht. Für die häufigsten haben wir eine Auflisten und Anleitung unter [Einrichtung](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/)

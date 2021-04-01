@@ -1,123 +1,62 @@
 ---
 title: Connector 365 Online Help
-description: Hugo zzo, zdoc theme documentation home page
+description: Connector 365 Online Help
 date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
 landing:
-  height: 500
+  height: 300
   image: favicon/android-icon-192x192.png
   title:
-    - Z Themes
-  text:
-    - This is Hugo Z Themes documentation site
+    - Connector 365 Online Help
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
-  buttons:
-    - link: docs
-      text: HUGO THEME ZDOC
-      color: primary
-  # backgroundImage: 
-  #   src: images/landscape.jpg
-  #   height: 600
 footer:
   sections:
     - title: General
       links:
-        - title: Docs
-          link: https://gohugo.io/
-        - title: Learn
-          link: https://gohugo.io/
-        - title: Showcase
-          link: https://gohugo.io/
-        - title: Blog
-          link: https://gohugo.io/
-    - title: resources
-      links:
-        - title: GitHub
-          link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
-    - title: Features
-      links:
-        - title: GitHub
-          link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
+        - title: Hauptseite
+          link: https://belware.de/
+        - title: Support
+          link: support/
+        - title: Impressum
+          link: legalnotice/
   contents: 
     align: left
     applySinglePageCss: false
 
 sections:
-  - bgcolor: teal
+  - bgcolor: "#f7f8f9"
     type: card
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+    description: "In our portal you will find the documentation and help resources for our apps. They are divided into the two categories APPs on AppSource, our APPs directly from the Microsoft AppSource and APPs onPrem, our AppSource APPs available in the onpremise world."
+    color: "#000000"
     header: 
-      title: Why Zdoc
-      hlcolor: "#8bc34a"
-      color: '#fff'
+      title: Our Solutions
+      color: '#000000'
       fontSize: 32
       width: 220
     cards:
-      - subtitle: Performance
+      - subtitle: APPs on AppSource
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue."
-        image: images/section/keyboard.png
-        color: white
+        image: images/appsourcebanner.png
+        color: "#000000"
         button: 
-          name: Naver
-          link: https://gohugo.io/
+          name: To the help
+          link: connector-on-appsource
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
-      - subtitle: Reliability
+          bgcolor: '#184977'
+      - subtitle: APPs onPrem
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-        image: images/section/processor.png
-        color: white
+        image: images/appsonprembanner.jpg
+        color: "#000000"
         button: 
-          name: Google
-          link: https://gohugo.io/
+          name: To the help
+          link: appsonprem
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
-      - subtitle: Productivity
-        subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-        image: images/section/root-server.png
-        color: white
-        button: 
-          name: Yahoo
-          link: https://gohugo.io/
-          size: large
-          target: _blank
-          color: 'white'
-          bgcolor: '#283593'
-  - bgcolor: DarkSlateBlue
-    type: normal
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-    header:
-      title: Build it with Zdoc
-      hlcolor: DarkKhaki
-      color: "#fff"
-      fontSize: 32
-      width: 340
-    body:
-      subtitle: Extensible and customizable.
-      subtitlePosition: left
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-      color: white
-      image: images/section/root-server.png
-      imagePosition: left
+          bgcolor: '#184977'
 ---

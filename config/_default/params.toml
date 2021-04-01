@@ -5,7 +5,7 @@ description = "Online Dokumentation für BELWARE-Produkte"
 
 themeOptions = ["light", "dark"]
 
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = true
 
 enableTocSwitch = false
 enableLandingBackground = false

@@ -10,13 +10,11 @@ weight: 2
 
 ### Test & Kauf
 
-Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_xrechnung%7CPAPPID.0e71f27e-d331-4045-a643-c2777a797cc4?tab=Overview) zur Verfügung.
 
 ![](images/XRechnung/xrechnungstore.PNG)
 
 Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
-
-SCREENSHOT 5 GRATIS RECHNUNGEN
 
 Sind diese erreicht, haben Sie die Möglichkeit, ihre App direkt zu [bestellen](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUMTQxRTA4WDNIUUU2TFE4WUwxS0RDTTFYSy4u).
 

@@ -12,7 +12,7 @@ weight: 1
 
 #### XRechnung - der Standard zur elektronischen Rechnungsstellung bei öffentlichen Auftraggebern
 
-Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten „XRechnung“-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
+Ab dem **27.11.2020** müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten **„XRechnung“-Format** versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
 
 Gemäß des [Beschlusses des IT-Planungsrats vom 22.06.2017](https://www.it-planungsrat.de/SharedDocs/Sitzungen/DE/2017/Sitzung_23.html?pos=3) ist XRechnung maßgeblich für die Umsetzung der [Richtlinie 2014/55/EU](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX%3A32014L0055) in Deutschland. Damit bildet XRechnung eine verlässliche Basis für den Austausch elektronischer Rechnungen von und mit deutschen Verwaltungen.
 

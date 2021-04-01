@@ -16,4 +16,5 @@ In case an XRechnung does not correspond to the required scheme, an error messag
 
 There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
 
-There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at First Steps
+There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the [setup](en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/)
+
