@@ -16,11 +16,11 @@ footer:
   sections:
     - title: General
       links:
-        - title: Hauptseite
+        - title: Main Page
           link: https://belware.de/
         - title: Support
           link: support/
-        - title: Impressum
+        - title: Legal Notice
           link: legalnotice/
   contents: 
     align: left
