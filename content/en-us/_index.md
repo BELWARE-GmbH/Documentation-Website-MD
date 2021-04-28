@@ -1,26 +1,18 @@
 ---
-title: Connector 365 Online Help
-description: Connector 365 Online Help
+title: Connector 365 Online Hilfe
+description: Connector 365 Online Hilfe
 date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
-landing:
-  height: 300
-  image: favicon/android-icon-192x192.png
-  title:
-    - Connector 365 Online Help
-  titleColor:
-  textColor:
-  spaceBetweenTitleText: 25
 footer:
   sections:
-    - title: General
+    - title: Allgemein
       links:
-        - title: Main Page
+        - title: Hauptseite
           link: https://belware.de/
         - title: Support
           link: support/
-        - title: Legal Notice
+        - title: Impressum
           link: legalnotice/
   contents: 
     align: left
@@ -32,28 +24,28 @@ sections:
     description: "In our portal you will find the documentation and help resources for our apps. They are divided into the two categories APPs on AppSource, our APPs directly from the Microsoft AppSource and APPs onPrem, our AppSource APPs available in the onpremise world."
     color: "#000000"
     header: 
-      title: Our Solutions
+      title: Unsere Lösungen
       color: '#000000'
       fontSize: 32
       width: 220
     cards:
-      - subtitle: APPs on AppSource
+      - subtitle:
         subtitlePosition: center
-        image: images/appsourcebanner.png
+        image: images/appsbanner.png
         color: "#000000"
         button: 
-          name: To the help
-          link: connector-on-appsource
+          name: To our APPs
+          link: apps
           size: large
           target: _blank
           color: 'white'
           bgcolor: '#184977'
-      - subtitle: APPs onPrem
+      - subtitle:
         subtitlePosition: center
-        image: images/appsonprembanner.jpg
+        image: images/addonsbanner.png
         color: "#000000"
         button: 
-          name: To the help
+          name: To our Addons
           link: appsonprem
           size: large
           target: _blank

@@ -4,14 +4,6 @@ description: Connector 365 Online Hilfe
 date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
-landing:
-  height: 300
-  image: favicon/android-icon-192x192.png
-  title:
-    - Connector 365 Online Hilfe
-  titleColor:
-  textColor:
-  spaceBetweenTitleText: 25
 footer:
   sections:
     - title: Allgemein
@@ -37,23 +29,23 @@ sections:
       fontSize: 32
       width: 220
     cards:
-      - subtitle: APPs on AppSource
+      - subtitle:
         subtitlePosition: center
-        image: images/appsourcebanner.png
+        image: images/appsbanner.png
         color: "#000000"
         button: 
-          name: Zur Hilfe
-          link: connector-on-appsource
+          name: Zu unseren APPs
+          link: apps
           size: large
           target: _blank
           color: 'white'
           bgcolor: '#184977'
-      - subtitle: APPs onPrem
+      - subtitle:
         subtitlePosition: center
-        image: images/appsonprembanner.jpg
+        image: images/addonsbanner.png
         color: "#000000"
         button: 
-          name: Zur Hilfe
+          name: Zu den Addons
           link: appsonprem
           size: large
           target: _blank

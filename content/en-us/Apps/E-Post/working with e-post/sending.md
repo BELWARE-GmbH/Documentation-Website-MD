@@ -33,13 +33,13 @@ After you have made all desired changes, you can execute the dispatch with a cli
 
 #### Actions
 
-| Field        | Description                                                                                                                   |
-|--------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Color selection  | Hier wählen Sie ob der Brief farbig oder s/w gedruckt wird                                                                     |
-| Deckblatt    | Briefe mit Deckblatt versenden stellt sicher das der Brief nicht die Bereiche überschreitet, welche die Deutsche Post benötigt |
-| Einschreiben | Hier können Sie die verschiedenen Möglichkeiten des Einschreibens einzurichten                                                 |
-| Kontaktname  | Der Name des Kunden                                                                                                            |
-| Straße       | Die Straße des Kunden                                                                                                          |
-| PLZ          | Die PLZ des Kunden                                                                                                             |
-| Stadt        | Die Stadt des Kunden                                                                                                           |
-| Land         | Das Land des Kunden                                                                                                            |
+| Field             | Description                                                                                                                |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Color selection   | This is where you choose if the letter will be in color or b/w.                                                            |
+| Coverletter       | Sending a letter with a coverletterensures that the letter adheres to the blocked areas that the Deutsche Post requires.   |
+| Registered Letter | Here you can choose the different options for a registered letter.                                                         |
+| Contactname       | The name of the customer.                                                                                                  |
+| Streetname        | The street of the customer.                                                                                                |
+| ZipCode           | The zip code of the customer.                                                                                              |
+| City              | The city of the customer.                                                                                                  |
+| Country           | The country of the customer.                                                                                               |

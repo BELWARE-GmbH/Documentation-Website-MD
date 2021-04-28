@@ -6,10 +6,14 @@ draft: false
 collapsible: true
 weight: 1
 ---
-### Finden Sie die richtige App für Microsoft Dynamics 365 Business Central im Microsoft AppSource
+### Finden Sie die richtige Extension für Microsoft Dynamics 365 Business Central onPrem
 
-Im Microsoft AppSource finden Sie eine große Auswahl an Lösungen mit der Sie Ihre bestehenden Geschäftsanwendungen in Dynamics 365 Business Central mit neuen Funktionen über exklusive Apps erweitern können.
+Die Produktlinie "Connector 365 Apps onPrem" ist für onPrem Installationen gedacht, die mit Microsoft Business Central Standards arbeiten und passgenau schnelle und kleinere Erweiterungen benötigen. Analog unseren Apps aus dem Microsoft App-Source stellen wir die Lösungen auch für onPrem Installationen als Granule-Erweiterung ab der Version BC15 zur Verfügung.
 
-![](images/appsourcebanner.png)
+![](images/appsonprembanner.jpg)
 
-Mit der neuen Produktlinie "Connector 365" erhalten SIe passgenau kleine Apps aus der Connector NAV Produktreihe. Unsere Apps erweitern Ihre Geschäftsanwendungen in den Bereichen Belegausgabe, Kommunikation und Schnittstellen zu Dritt-Produkten, die im Standard nicht verfügbar sind. Mit der Produktlinie Connector 365 - immer genau die richtige App für Sie. Testen Sie einfach jede App vor dem Erwerb kostenlos, bevor Sie Ihre neue Lösung implementieren.
+Unsere Apps erweitern Ihre Geschäftsanwendungen in den Bereichen Belegausgabe, Kommunikation und Schnittstellen zu Dritt-Produkten, die im Standard nicht verfügbar oder optimal gelöst sind.
+
+Mit unseren Produktlinien immer genau die richtige App oder Lösung für Ihre Installation und Anwendung.
+
+Testen Sie einfach jede App onPrem vor dem Erwerb kostenlos.

@@ -1,17 +1,5 @@
 [[main]]
-  identifier = "On AppSource"
-  name = "On AppSource"
-  url = "connector-on-appsource"
-  weight = 1
-
-[[main]]
-  identifier = "AppsOnPrem"
-  name = "AppsOnPrem"
-  url = "appsonprem"
-  weight = 2
-
-[[main]]
-  identifier = "Impressum"
-  name = "Impressum"
+  identifier = "legalnotice"
+  name = "Legal Notice"
   url = "legalnotice"
-  weight = 3
+  weight = 1
