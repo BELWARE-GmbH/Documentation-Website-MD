@@ -10,4 +10,9 @@ weight: 6
 
 #### Ist es möglich andere Berichte per E-Post zu senden?
 
-Zur Zeit unterstützen wir lediglich den Versand von geb. Verkaufsrechnungen.
+Ja, ab der Version X.X.X.X. ist es möglich weitere Belegarten zu versenden, dazu gehören neben Rechnungen die folgenden:
+
+- Gutschriften
+- Mahnungen
+- Angebote
+- Aufträge

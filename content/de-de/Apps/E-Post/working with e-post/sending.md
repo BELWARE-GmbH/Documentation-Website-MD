@@ -10,6 +10,8 @@ weight: 1
 
 ### Versand
 
+Sie können jeden Beleg der von unserer APP unterstützt wird als Brief versenden, in unserem Beispiel werden wir geb. Verkaufsrechnungen nutzen.
+
 **SCREENSHOT GEB. RECHNUNGEN**
 
 Wählen Sie zunächst die Rechnung aus welche Sie versenden möchten.

@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 4
+weight: 3
 ---
 ### Erste Schritte
 
@@ -14,9 +14,9 @@ weight: 4
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 E-POST API** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Mail Attachment Plus** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
-![](images/apps/storeepost.PNG)
+![](images/apps/mailattachmentssuche.PNG)
 
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließen **Installieren**.
 
@@ -28,11 +28,11 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
 
-Wenn alles geklappt hat, können Sie nun den **Connector 365 E-POST API** unter **Installierte Erweiterungen** finden.
+Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Attachment Plus** unter **Installierte Erweiterungen** finden.
 
-![](images/apps/epostinstalliert.png)
+![](images/XRechnung/xrechnunginstalliert.png)
 
-Sie können nun mit der [Einrichtung](/de-de/apps/e-post/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/) starten.
 
 
 
