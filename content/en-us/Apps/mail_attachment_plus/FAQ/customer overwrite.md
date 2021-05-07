@@ -1,5 +1,5 @@
 ---
-title: "Kunde überschreibt Bericht?"
+title: "Customer overwrites report?"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,6 +8,6 @@ weight: 5
 ---
 ### FAQ
 
-#### Warum überschreiben die Standardanhänge pro Kunde die Standardanhänge pro Bericht?
+#### Why are the defaults per customer overwriting the defaults per report?
 
-Um sowohl Standardanhänge pro Kunde als auch Standardanhänge pro Bericht anzuhängen, müssen Sie in das Dokumentlayout des gewählten Kunden gehen und das Kästchen "Standardanhang" ankreuzen. Auf diese Weise werden sowohl der Standard pro Kunde als auch der Standard pro Bericht angehängt. 
+To attach both default attachments per customer and default attachments per report you need to go into the document layout of the chosen customer and tick the box called "Attach Default". This way both the default per customer and the default per report will be attached. 

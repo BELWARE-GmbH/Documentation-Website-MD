@@ -6,33 +6,31 @@ draft: false
 collapsible: false
 weight: 3
 ---
-### Erste Schritte
+### First steps
 
 ### Installation
 
-Öffnen Sie mithilfe der Suchfunktion den **Marketplace für Erweiterungen** und öffnen Sie ihn.
+Use the search function to open the **Marketplace for Extensions** and open it.
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Mail Attachment Plus** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+The Microsoft AppSource will open. There you can use the search function again to find the **Connector 365 Mail Attachment Plus**. Click on **Free Trial** to start the installation. Before the installation starts, you have to provide some contact information.
 
 ![](images/apps/mailattachmentssuche.PNG)
 
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließen **Installieren**.
+After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German. Then click **Install**.
 
 ![](images/XRechnung/xrechnungsprache.PNG)
 
-Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt wird. Diese findet Vollautomatisch im Hintergrund statt
+You will receive a short confirmation that the installation is being performed. This takes place fully automatically in the background
 
 ![](images/XRechnung/xrechnunginstallation.PNG)
 
-Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
+You will not be notified about the completion of the installation, but the process should not take more than a few minutes.
 
-Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Attachment Plus** unter **Installierte Erweiterungen** finden.
+If everything worked, you can now find **Connector 365 Mail Attachment Plus** under **Installed Extensions**.
 
-![](images/XRechnung/xrechnunginstalliert.png)
-
-Sie können nun mit der [Einrichtung](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/) starten.
+You can now start with [setup](en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/).
 
 
 

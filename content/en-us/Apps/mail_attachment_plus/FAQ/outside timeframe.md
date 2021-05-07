@@ -1,5 +1,5 @@
 ---
-title: "Außerhalb des Zeitrahmen?"
+title: "Outside timeframe?"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,6 +8,6 @@ weight: 2
 ---
 ### FAQ
 
-#### Warum wurde mein Anhang angehängt, obwohl er außerhalb des vorgegebenen Zeitrahmens lag?
+#### Wh was my default attached despite it being outside of the given date range?
 
-Stellen Sie sicher, dass Sie Ihre Standard-Anhänge nach dem Arbeitsdatum Ihrer Dynamics Umgebung und nicht nach dem Ihres Systems datieren.
+Make sure that you are dating your default attachments according to the work date of your Dynamics environment and not the your system

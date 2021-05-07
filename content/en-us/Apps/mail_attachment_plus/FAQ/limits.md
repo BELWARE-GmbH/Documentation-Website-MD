@@ -1,5 +1,5 @@
 ---
-title: "Limitationen?"
+title: "Limitations?"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,6 +8,6 @@ weight: 1
 ---
 ### FAQ
 
-#### Welche Limitationen hat die freie Version?
+#### What are my limits in the free version?
 
-Wenn Sie die kostenlose Version verwenden, sind Sie auf einen einzigen Benutzer beschränkt. Dieser Benutzer kann jedoch die App in vollem Umfang nutzen.
+When using the free version you are limited to a single user. That user however can utilize the app to its full extent.

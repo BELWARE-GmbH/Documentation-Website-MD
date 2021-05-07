@@ -11,3 +11,5 @@ weight: 2
 #### How do I register with the Deutsche Post?
 
 The registration for the E-POST API can be found here [here](https://www.deutschepost.de/de/e/epost/geschaeftskunden/partner/business-api.html) (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de
+
+The registration for the E-POST API can be found [here](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp) (Please note that the site is only available in German). Instructions for the registration can be found [here](de-de/apps/e-post/first-steps/registration/). We are happy to support you during the registration process. Just contact us via support@belware.de

@@ -1,20 +1,20 @@
 ---
-title: "Einleitung"
+title: "Introduction"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
 weight: 1
 ---
-### Erste Schritte
+### First steps
 
-### Einleitung
+### Introduction
 
-#### Connector 365 Mail Attachment Plus - Ihre Lösung für Anhänge in Microsoft Dynamics 365 Business Central
-Finden Sie sich auch in Situationen wieder, in denen Sie mehr als nur den Bericht an eine E-Mail anhängen möchten? Wie z. B. Ihre AGB, Entwürfe oder zusätzliche Informationen für Kunden, aber die Standardeinstellungen von Microsoft Dynamics 365 Business Central hindert Sie daran? Das zwingt Sie dazu, den Workflow zu unterbrechen und diese Dateien zu versenden, nachdem der Empfänger den Bericht bereits erhalten hat... Im schlimmsten Fall werden Sie durch andere Arbeiten abgelenkt und vergessen, die E-Mail zu versenden.
+#### Connector 365 Mail Attachment Plus - Your Attachment Solution in Microsoft Dynamics 365 Business Central
+Do you also find yourself in situations where you want to attach more than just the report to an email? Like your T&Cs, drafts or additional information for customers, but the default settings of Microsoft Dynamics 365 Business Central prevent you from doing so? This forces you to interrupt the workflow and send these files after the recipient has already received the report.... In the worst case, you get distracted by other work and forget to send the email.
 
-**Verwalten Sie Ihre Anhänge wie ein Profi**
-Mail Attachments Plus bietet Ihnen eine Fülle von Funktionen, die Sie bei Ihren Anhängen unterstützen - und Sie müssen Dynamics 365 Business Central nie mehr verlassen, um die Anhänge an die Empfänger zu senden. Der Workflow bleibt gleich, starten Sie einfach den Versandprozess für Ihr ausgewähltes Dokument und Sie werden das neue Feld für Anhänge bemerken, in dem Sie alle gewünschten Anhänge hinzufügen können - der Dateityp spielt keine Rolle. Darüber hinaus können Sie ganz einfach Standard-Anhänge für Dokumente wie z.B. AGBs einrichten, die immer an eine E-Mail zugefügt werden sollen.
+**Manage your attachments like a pro**.
+Mail Attachments Plus offers a wealth of features to help you with your attachments - and you'll never have to leave Dynamics 365 Business Central to send attachments to recipients. The workflow remains the same, just start the sending process for your selected document and you'll notice the new Attachments field where you can add all the attachments you want - the file type doesn't matter. Moreover, you can easily set up default attachments for documents such as T&Cs that should always be attached to an email.
 
-**Standardanhänge in allen Berichten**
-Hängen Sie immer wieder die gleichen Dateien an? Fügen Sie sie einfach zu den Standardanhängen hinzu. Mit Standardanhängen können Sie Zeit sparen, indem Sie bestimmte Dateien einrichten, die immer dann verschickt werden, wenn Sie einen bestimmten Bericht versenden. Dies ist besonders nützlich für Dinge wie Geschäftsbedingungen oder Werbung. Diese sehen Ihnen auch auf Debitoren-Ebene zur Verfügung.
+**Standard attachments in all reports**.
+Do you attach the same files over and over again? Just add them to the standard attachments. Standard attachments allow you to save time by setting up specific files to be sent whenever you send a particular report. This is especially useful for things like terms and conditions or advertisements. You will also see these available at the accounts receivable level.

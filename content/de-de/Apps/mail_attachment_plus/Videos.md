@@ -8,7 +8,7 @@ weight: 6
 ---
 ### Videos
 
-Hier finden Sie einige informative Videos zur unserer XRechnung, jedes Video behandelt ein spezielles Thema
+Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus APP, jedes Video behandelt ein spezielles Thema
 
 #### Nutzung der APP
 

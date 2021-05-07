@@ -44,7 +44,7 @@ Wenn diese Schritte erfolgt sind können Sie die Schaltfläche **"Kostenpflichti
 {{< /notice >}}
 #
 
-Nach Abschluss der Registrierung erhalten Sie eine E-Mail an die von Ihnen zuvor angegebene Adresse, welche Ihnen die Registrierung bestätigt. Innerhalb der nächsten 3 Werktage werden Sie abschließend noch Ihre Auftragsdaten (und Ihre EKP) von der Deutschen Post erhalten, womit die Registrierung dann entgültig abgeschlossen ist und mit der [Einrichtung](de-de/apps/e-post/setup/) fortgefahren werden kann. 
+Nach Abschluss der Registrierung erhalten Sie eine E-Mail an die von Ihnen zuvor angegebene Adresse, welche Ihnen die Registrierung bestätigt. Innerhalb der nächsten 3 Werktage werden Sie abschließend noch Ihre Auftragsdaten (und Ihre EKP) von der Deutschen Post erhalten, womit die Registrierung dann entgültig abgeschlossen ist und mit der [Einrichtung](de-de/apps/e-post/setup/countrynames) fortgefahren werden kann. 
 
 
 

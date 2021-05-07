@@ -32,7 +32,7 @@ Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Attachment Plu
 
 ![](images/XRechnung/xrechnunginstalliert.png)
 
-Sie können nun mit der [Einrichtung](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/) starten.
+Sie können nun mit der [Einrichtung](de-de/apps/mail_attachment_plus/first-steps/setup/allocating-license/) starten.
 
 
 

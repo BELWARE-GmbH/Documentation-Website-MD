@@ -10,4 +10,8 @@ weight: 4
 
 #### Wie kann ich anfangen?
 
-Nach der Installation der App ist theoretisch keine Einrichtung erforderlich, Sie können den Versand sofort über die Standard-Mailing-Funktion starten und dort Ihre Anhänge hinzufügen. Nur Standardanlagen für Berichte oder Kunden erfordern eine Einrichtung.
+Nach der Installation der App sollten Sie zunächst Standardanhänge einrichten, dies ist an mehreren Stellen möglich:
+
+- [Pro Debitor](/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-customer/)
+- [Pro Bericht](/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-report/)
+- [Pro Dokument](/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/)

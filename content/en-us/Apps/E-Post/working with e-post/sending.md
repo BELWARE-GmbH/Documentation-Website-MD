@@ -6,40 +6,44 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### Working with the E-POST API
+### Working with E-POST
 
 ### Sending
 
-**SCREENSHOT GEB. RECHNUNGEN**
+With our API you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
+
+![](images/apps/epostrechnung.PNG)
 
 First select the invoice you want to send.
 
-Now click on **"More options"** in the menu to reach the E-POST buttons. Click on **"Actions"** and select **"Send as E-Post letter"**. The dialog for sending the letter will open.
+The function for sending E-POST letters can be found under **"Print/Send"** in the menu bar. Open it and select **"Send as E-Post letter"** to open the dialog for sending E-POST letters.
 
-**SCREENSHOT ACTIONS**
+![](images/apps/epostprintsend.PNG)
 
-### The Dialog
+### The dialog
 
 In the dialog you have the possibility to adjust certain options for sending the letter, e.g. whether you want to send the letter in black and white or in color.
 
-**SCREENSHOT DIALOG**
+![](images/apps/epostdialog.PNG)
 
 After you have made all desired changes, you can execute the dispatch with a click on **"OK"**. Your invoice will now be sent to Deutsche Post and from there to the recipient.
 
-{{< notice info "Notice" >}}
- _The APP automatically pulls the address of the customer from their data_
+{{< notice info "Note" >}}
+ _The APP automatically extracts the recipient's address from their data_
 {{< /notice >}}
 #
 
-#### Actions
+#### Aktionen
 
-| Field             | Description                                                                                                                |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Color selection   | This is where you choose if the letter will be in color or b/w.                                                            |
-| Coverletter       | Sending a letter with a coverletterensures that the letter adheres to the blocked areas that the Deutsche Post requires.   |
-| Registered Letter | Here you can choose the different options for a registered letter.                                                         |
-| Contactname       | The name of the customer.                                                                                                  |
-| Streetname        | The street of the customer.                                                                                                |
-| ZipCode           | The zip code of the customer.                                                                                              |
-| City              | The city of the customer.                                                                                                  |
-| Country           | The country of the customer.                                                                                               |
+| Feld              | Beschreibung                                                                                                                   |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Color             | Here you choose whether the letter is printed in color or b/w                                                                  |
+| With Coverletter  | Sending letters with a cover sheet ensures that the letter does not exceed the areas required by Deutsche Post.                |
+| Duplex            | Allows letters to be sent as a duplex                                                                                          |
+| Registered Letter | Here you can set up the different ways of registered letters                                                                   |
+| Contact Name      | The name of the recipient                                                                                                      |
+| Adressline 1      | The street of the recipient                                                                                                    |
+| Adressline 2      | More information about the address                                                                                             |
+| Post Code         | The postal code of the recipient                                                                                               |
+| City              | The city of the recipient                                                                                                      |
+| Country           | The country of the recipient                                                                                                   |

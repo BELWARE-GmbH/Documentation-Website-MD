@@ -10,26 +10,26 @@ weight: 1
 
 ### Versand
 
-Sie können jeden Beleg der von unserer APP unterstützt wird als Brief versenden, in unserem Beispiel werden wir geb. Verkaufsrechnungen nutzen.
+Mit unserer API können Sie Rechnungen, Gutschriften, Mahnungen, Angebote und Aufträge versenden. In unserem Beispiel für die Anwendung werden wir uns aber auf Rechnungen konzentrieren.
 
-**SCREENSHOT GEB. RECHNUNGEN**
+![](images/apps/epostrechnung.PNG)
 
 Wählen Sie zunächst die Rechnung aus welche Sie versenden möchten.
 
-Klicken Sie nun im Menü auf **"Weitere Optionen"** um die E-POST Knöpfe zu erreichen. Klicken Sie auf **"Aktionen"** und wählen Sie **"Als E-Post Brief versenden"** aus. Daraufhin öffnet sich der Dialog zum Versand des Briefes.
+Die Funktion zum versenden von E-POST Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als E-Post Brief versenden"**, um den Dialog zum versenden von E-POST Briefen zu öffnen.
 
-**SCREENSHOT ACTIONS**
+![](images/apps/epostprintsend.PNG)
 
 ### Der Dialog
 
 Im Dialog haben Sie die Möglichkeit bestimmte Optionen für den Versand des Briefes anzupassen, z.B. ob Sie den Brief schwarz-weiß oder in Farbe versenden möchten.
 
-**SCREENSHOT DIALOG**
+![](images/apps/epostdialog.PNG)
 
 Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Click auf **"OK"** ausführen. Ihre Rechnung wird nun an die Deutsche Post übermittelt und von dort aus an den Empfänger.
 
 {{< notice info "Hinweis" >}}
- _Die APP zieht sich die Adresse des Kunden automatisch aus dessen Daten_
+ _Die APP zieht sich die Adresse des Empfängers automatisch aus dessen Daten_
 {{< /notice >}}
 #
 
@@ -39,9 +39,11 @@ Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Ver
 |--------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Farbauswahl  | Hier wählen Sie ob der Brief farbig oder s/w gedruckt wird                                                                     |
 | Deckblatt    | Briefe mit Deckblatt versenden stellt sicher das der Brief nicht die Bereiche überschreitet, welche die Deutsche Post benötigt |
+| Duplex       | Ermöglicht, dass Briefe als Duplext versendet werden                                                                           |
 | Einschreiben | Hier können Sie die verschiedenen Möglichkeiten des Einschreibens einzurichten                                                 |
-| Kontaktname  | Der Name des Kunden                                                                                                            |
-| Straße       | Die Straße des Kunden                                                                                                          |
-| PLZ          | Die PLZ des Kunden                                                                                                             |
-| Stadt        | Die Stadt des Kunden                                                                                                           |
-| Land         | Das Land des Kunden                                                                                                            |
+| Kontaktname  | Der Name des Empfängers                                                                                                        |
+| Adresse 1    | Die Straße des Empfängers                                                                                                      |
+| Adresse 2    | Weitere Informationen zur Adresse                                                                                              |
+| PLZ          | Die PLZ des Empfängers                                                                                                         |
+| Stadt        | Die Stadt des Empfängers                                                                                                       |
+| Land         | Das Land des Empfängers                                                                                                        |

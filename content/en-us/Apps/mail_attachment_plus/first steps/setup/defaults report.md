@@ -1,35 +1,34 @@
 ---
-title: "Standardanhänge Bericht"
+title: "Report default attachments"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 1
+weight: 2
 ---
-### Einrichtung
+### Setup
 
-### Hinzufügen von Standardanhängen pro Bericht
+### Adding default attachments per report
 
-**Screenshot Berichtsauswahl**
+![](images/apps/attachmentreportselection.png)
 
-Standardanhänge sind eine gute Möglichkeit, Zeit zu sparen, wenn Sie Ihren E-Mails Dateien hinzufügen. Wenn Sie den gleichen Anhang in jeder E-Mail verwenden, fügen Sie ihn einfach als Standard hinzu, und er wird automatisch an jede E-Mail angehängt.
+Default attachments are a great way to save time when adding files to your emails. If you use the same attachment in every email, just add it as a default and it will be automatically attached to every email.
 
-Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in diesem Beispiel werden wir Verkäufe und Rechnungen verwenden. Wenn Sie sich nicht sicher sind, wo Sie die Berichtsauswahl finden, können Sie jederzeit die Suchfunktion von Dynamics 365 Business Central verwenden.
+Start by opening the report selection of the report you want, in this example we will use Sales and Invoices. If you are not sure where to find the report selector, you can always use the Dynamics 365 Business Central search feature.
 
-Wie Sie im obigen Screenshot sehen können, gibt es in diesem Fenster auch ein neues Feld für Anhänge. Der Prozess des Hinzufügens neuer Standard-Anhänge funktioniert wie das Hinzufügen von Anhängen zu Ihrer regulären Mail. Beginnen Sie mit einem Klick auf die 0, um den Anhangsdialog zu öffnen und fügen Sie Ihre Dateien über "Neu" und "Anhang hinzufügen" hinzu.
+As you can see in the screenshot above, there is also a new Attachments field in this window. The process of adding new default attachments works like adding attachments to your regular mail. Start by clicking on the 0 to open the attachment dialog and add your files via "New" and "Add attachment".
 
 **Festlegen eines Anhangs auf einen bestimmten Zeitraum**
 
-**Screenshot Kalender**
+![](images/apps/attachmentdates.png)
 
-Nach dem Hinzufügen der Datei(en) sind Ihnen möglicherweise die Felder "Von Datum" und "Bis Datum" aufgefallen, die sich nicht im E-Mail-Dialogfeld befinden. Diese beiden Felder ermöglichen es Ihnen, einen Standard-Anhang nur für eine bestimmte Zeitspanne festzulegen. Dies kann z. B. verwendet werden, um Ihren Mails eine Werbung hinzuzufügen, die nur für eine bestimmte Zeitdauer gültig ist. Bevor Sie das Datum einstellen, müssen Sie zuerst im Menü auf "Liste bearbeiten" klicken, sonst können die Datumsfelder nicht bearbeitet werden
+After adding the file(s), you may have noticed the "From Date" and "To Date" fields. These two fields allow you to set a default attachment for a specific time period only. This can be used, for example, to add an advertisement to your mails that is only valid for a certain period of time. Before setting the date, you must first click on "Edit list" in the menu, otherwise the date fields cannot be edited
 
 {{< notice info "Hinweis" >}}
- _Das für die Anlage eingestellte Datum verwendet nicht das Systemdatum zur Bestimmung des Tages, sondern das Arbeitsdatum Ihrer Business Central Umgebung._
+ _The date set for the installation does not use the system date to determine the day, but the working date of your Business Central environment._
 {{< /notice >}}
+#
 
-**Screenshot Dialog Report**
+This completes adding default settings for your attachments, close the window and you are done. The next time you send an email with the report set up, in this case invoices, you will notice that the attachments will show the file you attached earlier.
 
-Damit ist das Hinzufügen von Standardeinstellungen für Ihre Anhänge abgeschlossen, schließen Sie das Fenster, und Sie sind fertig. Wenn Sie das nächste Mal eine E-Mail mit dem eingerichteten Bericht, in diesem Fall Rechnungen, versenden, werden Sie feststellen, dass die Nummer des Anhangs jetzt auf die von Ihnen eingestellte Anzahl von Standards eingestellt ist und die Dateien im Dialogfeld für Anhänge sichtbar sind.
-
-Wenn ein bestimmter Standard-Anhang nicht zu Ihrer aktuellen E-Mail passt, können Sie ihn einfach im Dialog löschen, dies löscht den Anhang nur für diesen Vorgang und nicht als Standard.
+If a particular default attachment does not match your current email, you can simply delete it in the dialog, this will delete the attachment only for that operation and not as default.
