@@ -6,16 +6,16 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Arbeiten mit der E-POST API
+### Working with the E-POST API
 
-### Archiv
+### Archive
 
-Nachdem Versand der Rechnung können Sie den Status in der Jobliste prüfen. Diese finden Sie in dem Bereich der Factboxen direkt auf der Übersicht der Belege. Hier wird angezeigt, wann der Brief versendet wurde, wer ihn versendet hat und wie der Status lautet.
+After sending the invoice, you can check the status in the job list. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 
 ![](images/apps/epostjoblisteover.PNG)
 
-Die Jobliste bietet Ihnen eine detaillierte Übersicht zu allen Briefen die versendet wurden. Hier wird angezeigt welche Optionen genutzt wurden und zeigt Fehlermeldungen die eventuell aufgetreten sind. Ist in der Einrichtung die Option **"Datei in Jobliste speichern"** aktiv, dann können Sie den versendeten Beleg ebenfall einsehen. Dazu klicken Sie einfach unter **"Dateiname"** auf den jeweiligen Namen der Datei.
+The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred. If the option **"Save file in job list"** is active in the setup, you can also view the sent document. To do this, simply click on the name of the file under **"File name"**.
 
 ![](images/apps/epostjoblistfull.PNG)
 
-Zusätzlich kann die Jobliste auch direkt aus dem Dashboard aufgerufen werden, dort finden Sie die Jobliste in den Kacheln.
+In addition, the job list can also be accessed directly from the dashboard, where you will find the job list in the tiles.
