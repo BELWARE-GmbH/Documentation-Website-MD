@@ -46,7 +46,7 @@ sections:
         color: "#000000"
         button: 
           name: Zu den Addons
-          link: appsonprem
+          link: under-construction
           size: large
           target: _blank
           color: 'white'

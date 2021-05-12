@@ -6,9 +6,9 @@ draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
 footer:
   sections:
-    - title: Allgemein
+    - title: General
       links:
-        - title: Hauptseite
+        - title: Main Page
           link: https://belware.de/
         - title: Support
           link: support/
@@ -24,7 +24,7 @@ sections:
     description: "In our portal you will find the documentation and help resources for our apps. They are divided into the two categories APPs on AppSource, our APPs directly from the Microsoft AppSource and APPs onPrem, our AppSource APPs available in the onpremise world."
     color: "#000000"
     header: 
-      title: Unsere Lösungen
+      title: Our Solutions
       color: '#000000'
       fontSize: 32
       width: 220
@@ -46,7 +46,7 @@ sections:
         color: "#000000"
         button: 
           name: To our Addons
-          link: appsonprem
+          link: under-construction
           size: large
           target: _blank
           color: 'white'
