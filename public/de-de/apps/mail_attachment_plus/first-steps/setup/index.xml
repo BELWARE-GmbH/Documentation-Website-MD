@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Lizenz zuweisen</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/allocating-license/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
+        <description>Einrichtung Einem Nutzer die Lizenz zuweisen Damit ein Nutzer die Funktionen der Mail Attachments Plus APP nutzen kann, muss diesem zunächst eine Lizenz zugewiesen werden. Diese können Sie in der Benutzer Einrichtung einstellen. Gehen Sie in die Suche und suchen Sie nach &amp;ldquo;Benutzer Einrichtung&amp;rdquo;, falls der Nutzer noch nicht vorhanden ist, fügen Sie ihn der Einrichtung hinzu. Setzen Sie anschließend noch einen Haken im Feld &amp;ldquo;Attachment Plus&amp;rdquo;.
+Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht ist.</description>
+      </item>
+      
+      <item>
+        <title>Bericht Standardanhänge</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-report/</guid>
+        <description>Einrichtung Hinzufügen von Standardanhängen pro Bericht Standardanhänge sind eine gute Möglichkeit, Zeit zu sparen, wenn Sie Ihren E-Mails Dateien hinzufügen. Wenn Sie den gleichen Anhang in jeder E-Mail verwenden, fügen Sie ihn einfach als Standard hinzu, und er wird automatisch an jede E-Mail angehängt.
+Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in diesem Beispiel werden wir Verkäufe und Rechnungen verwenden. Wenn Sie sich nicht sicher sind, wo Sie die Berichtsauswahl finden, können Sie jederzeit die Suchfunktion von Dynamics 365 Business Central verwenden.</description>
+      </item>
+      
+      <item>
+        <title>Debitor Standardanhänge</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
+        <description>Einrichtung Standardanhänge pro Debitor und Bericht Eine weitere Möglichkeit, Anhänge hinzuzufügen, besteht darin, sie als Standard für Kunden hinzuzufügen, z. B. wenn es Bedingungen gibt, die nur für einen bestimmten Kunden gelten. Öffnen Sie den Kunden, dem Sie Standardwerte hinzufügen möchten, und erweitern Sie die Optionen im Menü über &amp;ldquo;Weitere Optionen&amp;rdquo;, klicken Sie auf &amp;ldquo;Navigieren&amp;rdquo; und wählen Sie &amp;ldquo;Dokumentlayouts&amp;rdquo;.
+Wählen Sie den Bericht aus, für den Sie Standardanhänge hinzufügen möchten, wir werden in diesem Beispiel wieder Rechnungen verwenden.</description>
+      </item>
+      
+      <item>
+        <title>Dokument Standardanhänge</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/</guid>
+        <description>Einrichtung Hinzufügen von Standardanhängen pro Dokument Über die Factbox haben Sie die Möglichkeit jedem Dokument Standardanhänge mitzugeben, die automatisch bei einem Versand mitangehängt werden. Wählen Sie dazu in der Übersicht den gewünschten Beleg aus und wählen Sie rechts in der Factbox &amp;ldquo;Anhänge&amp;rdquo;
+Klicken Sie nun bei &amp;ldquo;Belege&amp;rdquo; auf die 0, es öffnet sich ein Fenster in dem Sie via &amp;ldquo;Datei auswählen&amp;rdquo; in der Tabelle Anhänge hinzufügen können.
+Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle gewünschten Dateien angehängt sind.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erste Schritte on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/e-post/first-steps/</link>
+    <description>Recent content in Erste Schritte on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/e-post/first-steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einleitung</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</guid>
+        <description>Erste Schritte Schneller hybrider Versand mit der App Connector 365 E-POSTBUSINESS API Der Bedarf an postalischen Rechnungsempfang ist immer noch allgegenwärtig. Was heißt das für meine Cloud ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Rechnung im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Rechnungsersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Rechnungen kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Kosten</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/test-costs/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/test-costs/</guid>
+        <description>Erste Schritte Test Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download haben Sie folgende Testmöglichkeiten:
+Kein registrierter E-POST Kunde
+Sie erhalten beim testen der App eine Nachricht mit dem Hinweis, dass an dieser Stelle ein Briefversand stattfinden würde.
+Registrierter E-POST Kunde
+Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:
+ Testmodus Versand - Sie erhalten den Brief per Mail an eine zuvor angegebene Adresse. Produktiver Versand - Ihr Brief wird korrekt an den Empfänger gesendet.</description>
+      </item>
+      
+      <item>
+        <title>Registrierung</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/registration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/registration/</guid>
+        <description>Erste Schritte Registrierung Um die APP voll zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie hier aber auch direkt in der E-POST Einrichtung.
+Gerne unterstützen wir Sie bei der Registrierung bei der Deutschen Post, wenden Sie sich dafür einfach an support@belware.de  Im Formular für die Registrierung werden verschiedene Kontaktinformationen Ihnen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher Sicher dass Sie sich als Geschäftskunde registrieren.</description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/</guid>
+        <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 E-POST API zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

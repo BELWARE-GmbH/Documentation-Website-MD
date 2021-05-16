@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with Mail Attachments Plus on Connector 365 Online Help</title>
+    <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/</link>
+    <description>Recent content in Working with Mail Attachments Plus on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Mail report</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-report/</guid>
+        <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail.
+For this example, we have set up the default attachments in invoice shipping as follows:
+In this example we have attached two PDFs and a time-limited image.
+If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different.</description>
+      </item>
+      
+      <item>
+        <title>Mail customer</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-customer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-customer/</guid>
+        <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail.
+For this example, we have set up the default attachments in invoice shipping as follows:
+Two PDFs are attached, each with the standards set up per document/report
+If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different.</description>
+      </item>
+      
+      <item>
+        <title>Mail document</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-document/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-document/</guid>
+        <description>Working with Mail Attachment Plus Once you have added all your desired attachments via the &amp;ldquo;Attachments &amp;ldquo; menu, you can start sending.
+For the example, we have set up the attachments for a receipt as follows:
+An image and a PDF have been set as standard.
+If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different. At the bottom of the page you will find instructions on how to do this  Mail with standard attachments per document To do this, simply open the report for which you previously set up your attachments and then click &amp;ldquo;Print/Send&amp;rdquo; and the regular &amp;ldquo;Send by Email&amp;rdquo; function.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

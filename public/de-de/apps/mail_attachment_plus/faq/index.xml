@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/</link>
+    <description>Recent content in FAQ on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Limitationen?</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/limits/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/limits/</guid>
+        <description>FAQ Welche Limitationen hat die freie Version? Wenn Sie die kostenlose Version verwenden, sind Sie auf einen einzigen Benutzer beschränkt. Dieser Benutzer kann jedoch die App in vollem Umfang nutzen.</description>
+      </item>
+      
+      <item>
+        <title>Außerhalb des Zeitrahmen?</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/outside-timeframe/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/outside-timeframe/</guid>
+        <description>FAQ Warum wurde mein Anhang angehängt, obwohl er außerhalb des vorgegebenen Zeitrahmens lag? Stellen Sie sicher, dass Sie Ihre Standard-Anhänge nach dem Arbeitsdatum Ihrer Dynamics Umgebung und nicht nach dem Ihres Systems datieren.</description>
+      </item>
+      
+      <item>
+        <title>Preisgestaltung?</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/pricing/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/pricing/</guid>
+        <description>FAQ Wie sieht die Preisgestaltung aus? Die kostenlose Version beinhaltet einem einzelnen kostenlosen Benutzer, weitere Benutzer können für 0,90€ pro Benutzer lizenziert werden. Abhängig von Ihren Wünschen versenden wir Rechnungen entweder monatlich, vierteljährlich oder jährlich.
+Weitere Lizenzen können Sie direkt über dieses Formular erwerben.</description>
+      </item>
+      
+      <item>
+        <title>Wie kann ich anfangen?</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/getting-started/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/getting-started/</guid>
+        <description>FAQ Wie kann ich anfangen? Nach der Installation der App sollten Sie zunächst Standardanhänge einrichten, dies ist an mehreren Stellen möglich:
+ Pro Debitor Pro Bericht Pro Dokument  </description>
+      </item>
+      
+      <item>
+        <title>Kunde überschreibt Bericht?</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/customer-overwrite/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/faq/customer-overwrite/</guid>
+        <description>FAQ Warum überschreiben die Standardanhänge pro Kunde die Standardanhänge pro Bericht? Um sowohl Standardanhänge pro Kunde als auch Standardanhänge pro Bericht anzuhängen, müssen Sie in das Dokumentlayout des gewählten Kunden gehen und das Kästchen &amp;ldquo;Standardanhang&amp;rdquo; ankreuzen. Auf diese Weise werden sowohl der Standard pro Kunde als auch der Standard pro Bericht angehängt.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

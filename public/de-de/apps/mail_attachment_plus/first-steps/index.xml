@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erste Schritte on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/</link>
+    <description>Recent content in Erste Schritte on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einleitung</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Connector 365 Mail Attachment Plus - Ihre Lösung für Anhänge in Microsoft Dynamics 365 Business Central Finden Sie sich auch in Situationen wieder, in denen Sie mehr als nur den Bericht an eine E-Mail anhängen möchten? Wie z. B. Ihre AGB, Entwürfe oder zusätzliche Informationen für Kunden, aber die Standardeinstellungen von Microsoft Dynamics 365 Business Central hindert Sie daran? Das zwingt Sie dazu, den Workflow zu unterbrechen und diese Dateien zu versenden, nachdem der Empfänger den Bericht bereits erhalten hat&amp;hellip; Im schlimmsten Fall werden Sie durch andere Arbeiten abgelenkt und vergessen, die E-Mail zu versenden.</description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Kauf</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/</guid>
+        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann ein Nutzer die APP komplett frei benutzen.
+Für den Fall, dass weitere Nutzer die Funktionen der APP nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+ SaaS Essential SaaS Premium  </description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/</guid>
+        <description>Erste Schritte Installation Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Attachment Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

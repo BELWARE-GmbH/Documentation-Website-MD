@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connector 365 Apps on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/</link>
+    <description>Recent content in Connector 365 Apps on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>E-Post</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/</guid>
+        <description>Connector 365 XRechnung Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource E-POST API APP.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Mail Attachments Plus</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/</guid>
+        <description>Connector 365 Mail Attachments Plus Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Attachments Plus APP.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>XRechnung</title>
+        <link>http://docs.belware.de/de-de/apps/xrechnung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/xrechnung/</guid>
+        <description>Connector 365 XRechnung Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource XRechnungs APP.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

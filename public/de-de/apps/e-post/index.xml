@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-Post on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/e-post/</link>
+    <description>Recent content in E-Post on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/e-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Erste Schritte</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Neu und geplant</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/new-and-planned/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Arbeiten mit der E-POST API</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>FAQ</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/faq/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer E-Post APP, jedes Video behandelt ein spezielles Thema
+Versand von E-Post Briefen </description>
+      </item>
+      
+    
+  </channel>
+</rss>

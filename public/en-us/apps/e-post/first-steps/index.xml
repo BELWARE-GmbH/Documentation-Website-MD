@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Steps on Connector 365 Online Help</title>
+    <link>http://docs.belware.de/en-us/apps/e-post/first-steps/</link>
+    <description>Recent content in First Steps on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/en-us/apps/e-post/first-steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Introduction</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</guid>
+        <description>First steps Fast hybrid sending with the Connector 365 E-POSTBUSINESS API APP The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site.</description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Costs</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</guid>
+        <description>First Steps Test &amp;amp; Costs The APP is available on Microsoft AppSource.
+After the download you have the following test options:
+No registered E-POST customer
+You will receive a message when testing the app stating that there would be a letter dispatch at this point.
+Registered E-POST customer
+The following options are available to you as a registered E-POST customer:
+ Test mode sending - you will receive the letter by mail to a previously specified address.</description>
+      </item>
+      
+      <item>
+        <title>Registration</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/registration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/registration/</guid>
+        <description>First steps Registration To fully use the APP, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 setup.
+We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.</description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/</guid>
+        <description>Erste Schritte Installation Using the search function, open the Marketplace for Extensions and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST API. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>Setup</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

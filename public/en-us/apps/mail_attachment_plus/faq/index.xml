@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Connector 365 Online Help</title>
+    <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/</link>
+    <description>Recent content in FAQ on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Limitations?</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/limits/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/limits/</guid>
+        <description>FAQ What are my limits in the free version? When using the free version you are limited to a single user. That user however can utilize the app to its full extent.</description>
+      </item>
+      
+      <item>
+        <title>Outside timeframe?</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/outside-timeframe/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/outside-timeframe/</guid>
+        <description>FAQ Wh was my default attached despite it being outside of the given date range? Make sure that you are dating your default attachments according to the work date of your Dynamics environment and not the your system</description>
+      </item>
+      
+      <item>
+        <title>Pricing?</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</guid>
+        <description>FAQ Wie sieht die Preisgestaltung aus? The free version offers a single free user, additional users can be licensed for 0,90€ per licensed User. Depending on your wishes we will send invoices either monthly, quarterly or yearly.
+You can purchase additional licenses directly via this form.</description>
+      </item>
+      
+      <item>
+        <title>How can I get started?</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/getting-started/</guid>
+        <description>FAQ How can I get started? After installing the app you should first set up default attachments, this is possible in several places:
+ Per Debtor Per Report Per Document  </description>
+      </item>
+      
+      <item>
+        <title>Customer overwrites report?</title>
+        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/customer-overwrite/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/customer-overwrite/</guid>
+        <description>FAQ Why are the defaults per customer overwriting the defaults per report? To attach both default attachments per customer and default attachments per report you need to go into the document layout of the chosen customer and tick the box called &amp;ldquo;Attach Default&amp;rdquo;. This way both the default per customer and the default per report will be attached.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

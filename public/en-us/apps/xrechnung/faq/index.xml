@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Connector 365 Online Help</title>
+    <link>http://docs.belware.de/en-us/apps/xrechnung/faq/</link>
+    <description>Recent content in FAQ on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/en-us/apps/xrechnung/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Ident ID?</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/ident-id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/ident-id/</guid>
+        <description>FAQ What is the Ident ID? The ident ID is a unique identifier for the recipient of the invoice. As invoicing party you do not need one yourself. You only need the ident ID of the recipient, which they should tell you when ordering from you.
+More Information about the Ident ID can be found on the specific page</description>
+      </item>
+      
+      <item>
+        <title>Not sent?</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/not-sent/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/not-sent/</guid>
+        <description>FAQ Why was my invoice not sent? Make sure that the invoice you are trying to send is compliant with the requirement of the XRechung. You can check this by looking at the report that is displayed when a compliancy error exists. These can be missing information on the customer or in the invoice.</description>
+      </item>
+      
+      <item>
+        <title>Pricing?</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/pricing/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/pricing/</guid>
+        <description>FAQ How does the pricing work? A license for the XRechnung app costs 19,90€/month and is billed either quartly or yearly. The license is not bound to certain users. Please contact us for more information.
+If you want to purchase additional licenses for the app, you can use our form.</description>
+      </item>
+      
+      <item>
+        <title>How do I start?</title>
+        <link>http://docs.belware.de/en-us/apps/xrechnung/faq/getting-started/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/xrechnung/faq/getting-started/</guid>
+        <description>FAQ How do I start? Once the app is installed, go to the customer that should receive the XRechnung and tick the box in document layouts and add the ident ID. Then you can start sending. A more detailed guide can be found under Working with XRechnung or Setup.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

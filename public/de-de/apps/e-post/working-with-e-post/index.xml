@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbeiten mit der E-POST API on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</link>
+    <description>Recent content in Arbeiten mit der E-POST API on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/e-post/working-with-e-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Versand</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
+        <description>Arbeiten mit der E-POST API Versand Mit unserer API können Sie Rechnungen, Gutschriften, Mahnungen, Angebote und Aufträge versenden. In unserem Beispiel für die Anwendung werden wir uns aber auf Rechnungen konzentrieren.
+Wählen Sie zunächst die Rechnung aus welche Sie versenden möchten.
+Die Funktion zum versenden von E-POST Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste. Klappen Sie diese auf und wählen &amp;ldquo;Als E-Post Brief versenden&amp;rdquo;, um den Dialog zum versenden von E-POST Briefen zu öffnen.</description>
+      </item>
+      
+      <item>
+        <title>Archiv</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</guid>
+        <description>Arbeiten mit der E-POST API Archiv Nachdem Versand der Rechnung können Sie den Status in der Jobliste prüfen. Diese finden Sie in dem Bereich der Factboxen direkt auf der Übersicht der Belege. Hier wird angezeigt, wann der Brief versendet wurde, wer ihn versendet hat und wie der Status lautet.
+Die Jobliste bietet Ihnen eine detaillierte Übersicht zu allen Briefen die versendet wurden. Hier wird angezeigt welche Optionen genutzt wurden und zeigt Fehlermeldungen die eventuell aufgetreten sind.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

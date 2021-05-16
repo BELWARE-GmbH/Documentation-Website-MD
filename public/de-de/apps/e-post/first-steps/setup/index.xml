@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Ländernamen</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</guid>
+        <description>Erste Schritte Ländercodes Die Deutsche Post benutzt im Versand Ländernamen nach ISO 3166-1, wenn Sie die E-POST API nutzen möchten, müssen Sie also zuvor in Ihrer Business Central Umgebung die Ländernamen in der entsprechenden Einrichtung anpassen.
+Die Einrichtung dafür finden Sie in der Suche unter &amp;ldquo;Länder/Regionen&amp;rdquo;. Sie müssen in dieser Einrichtung nur Ländernamen ändern welche auch von Ihnen Briefe erhalten, der Inlandsversand ist nicht betroffen. Bitte schreiben Sie die Ländernamen in Großbuchstaben.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/setup/</guid>
+        <description>Erste Schritte Einrichtung Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die E-POST API finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die APP ohne Probleme funktioniert.
+Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die APP zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

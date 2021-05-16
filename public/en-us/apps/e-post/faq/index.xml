@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Connector 365 Online Help</title>
+    <link>http://docs.belware.de/en-us/apps/e-post/faq/</link>
+    <description>Recent content in FAQ on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/en-us/apps/e-post/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Countries?</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/faq/countries/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/faq/countries/</guid>
+        <description>FAQ In what countries is the extension available? Since the Deutsche Post is a German business, the E-Post Connector is also currently only available in Germany.</description>
+      </item>
+      
+      <item>
+        <title>Registration?</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/faq/registration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/faq/registration/</guid>
+        <description>FAQ How do I register with the Deutsche Post? The registration for the E-POST API can be found here here (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de
+The registration for the E-POST API can be found here (Please note that the site is only available in German). Instructions for the registration can be found here.</description>
+      </item>
+      
+      <item>
+        <title>International?</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/faq/international/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/faq/international/</guid>
+        <description>FAQ Does the app support international shipping? Yes, the extension allows its users to send invoices in any country of their choice.</description>
+      </item>
+      
+      <item>
+        <title>Pricing?</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/faq/pricing/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/faq/pricing/</guid>
+        <description>FAQ how does the pricing work? Please contact us under info@belware.de if you want more information about prices.</description>
+      </item>
+      
+      <item>
+        <title>Starting?</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/faq/getting-started/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/faq/getting-started/</guid>
+        <description>FAQ How do I start? After installing the extension and registering with the Deutsche Post, you simply need to fill in the necessary fields on the E-Post setup page. You can find this Menu via the search function. For a more detailed guide please refer to our extended documentation.</description>
+      </item>
+      
+      <item>
+        <title>Other reports?</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/faq/reports/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/faq/reports/</guid>
+        <description>FAQ Is it possible to send other reports via E-POST Currently we only support sending out posted sales invoices.
+Yes, from version X.X.X.X. it is possible to send additional types of reports, which include the following in addition to invoices:
+ Credit memo Reminder Quotes Orders  </description>
+      </item>
+      
+    
+  </channel>
+</rss>

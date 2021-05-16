@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/e-post/faq/</link>
+    <description>Recent content in FAQ on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/e-post/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Länder?</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/faq/countries/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/countries/</guid>
+        <description>FAQ In welchen Ländern in die Erweiterung Verfügbar? Da die Deutsche Post ein deutsches Unternehmen ist, ist unsere Erweiterung nur in Deutschland verfügbar.</description>
+      </item>
+      
+      <item>
+        <title>Registrierung?</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/faq/registration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/registration/</guid>
+        <description>FAQ Wie registriere ich mich bei der Deutschen Post? Die Registrierung für die E-Post API finden Sie hier. Eine Anleitung für die Registrierung finden Sie hier. Gerne unterstützen wir Sie auch persönlich bei der Registrierung, wenden Sie sich dazu einfach an support@belware.de.</description>
+      </item>
+      
+      <item>
+        <title>International?</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/faq/international/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/international/</guid>
+        <description>FAQ Unterstützt die Erweiterung internationalen Versand? Ja, mit Hilfe unserer APP können Sie Ihre Rechnung um den ganzen Globus schicken.</description>
+      </item>
+      
+      <item>
+        <title>Preismodell?</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/faq/pricing/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/pricing/</guid>
+        <description>FAQ Wie ist das Preismodell? Bitte kontaktieren Sie uns unter info@belware.de falls Sie mehr Informationen zu den Preisen benötigen.</description>
+      </item>
+      
+      <item>
+        <title>Anfangen?</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/faq/getting-started/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/getting-started/</guid>
+        <description>FAQ Wie fange ich an? Nachdem Sie unserere Erweiterung installiert haben und sich bei der Deutschen Post registriert haben, müssen Sie nur noch alle benötigten Felder in der E-Post Einrichtung ausfüllen. Das Menü lässt sich über die Suchfunktion finden. Für eine detaillierte Anleitung schauen Sie bitte in unsere Dokumentation.</description>
+      </item>
+      
+      <item>
+        <title>Andere Reports?</title>
+        <link>http://docs.belware.de/de-de/apps/e-post/faq/reports/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/reports/</guid>
+        <description>FAQ Ist es möglich andere Berichte per E-Post zu senden? Ja, ab der Version X.X.X.X. ist es möglich weitere Belegarten zu versenden, dazu gehören neben Rechnungen die folgenden:
+ Gutschriften Mahnungen Angebote Aufträge  </description>
+      </item>
+      
+    
+  </channel>
+</rss>
