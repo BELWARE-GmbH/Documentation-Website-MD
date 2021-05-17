@@ -1,5 +1,5 @@
 ---
-title: "Mail report"
+title: "Report default attachments"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -7,7 +7,7 @@ collapsible: false
 weight: 1
 ---
 ### Working with Mail Attachment Plus
-After you have added the attachments you want in the report selection, you can start sending the mail.
+After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the [Report Default Attachments](/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/) in the **"Getting Started"** section.
 
 For this example, we have set up the default attachments in invoice shipping as follows:
 
@@ -15,8 +15,8 @@ For this example, we have set up the default attachments in invoice shipping as 
 
 In this example we have attached two PDFs and a time-limited image.
 
-{{< notice info "Hinweis" >}}
- _If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different. At the bottom of the page you will find instructions on how to do this_
+{{< notice info "Note" >}}
+ _If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different._
 {{< /notice >}}
 #
 
@@ -40,5 +40,4 @@ When you have made all the changes to your attachments, you can send your mail a
 
 ![](images/apps/attachmentreportmail.PNG)
 
-#### Mail with standard attachments per report - without the Mail Experience
 

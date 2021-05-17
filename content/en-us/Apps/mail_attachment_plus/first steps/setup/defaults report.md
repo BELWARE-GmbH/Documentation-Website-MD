@@ -29,6 +29,4 @@ After adding the file(s), you may have noticed the "From Date" and "To Date" fie
 {{< /notice >}}
 #
 
-This completes adding default settings for your attachments, close the window and you are done. The next time you send an email with the report set up, in this case invoices, you will notice that the attachments will show the file you attached earlier.
-
-If a particular default attachment does not match your current email, you can simply delete it in the dialog, this will delete the attachment only for that operation and not as default.
+Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Report Default Attachments](en-us/apps/mail_attachment_plus/working-with-map/defaults-report/)

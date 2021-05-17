@@ -19,3 +19,5 @@ Now click on the 0 at "Documents", a window opens in which you can add attachmen
 ![](images/apps/attachmentdoc.PNG)
 
 Select the desired file and repeat this process until all the desired files are attached. From now on, the selected files will be sent whenever you send the selected document.
+
+Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Document Default Attachments](en-us/apps/mail_attachment_plus/working-with-map/defaults-document/)

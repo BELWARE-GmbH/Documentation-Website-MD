@@ -1,5 +1,5 @@
 ---
-title: "Mail document"
+title: "Document default attachments"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,7 +8,7 @@ weight: 3
 ---
 ### Working with Mail Attachment Plus
 
-Once you have added all your desired attachments via the **"Attachments "** menu, you can start sending.
+Once you have added all your desired attachments via the **"Attachments "** menu, you can start sending. If you have not done so yet, you can find the setup of the [Document Default Attachments](/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/) in the **"Getting Started"** section.
 
 For the example, we have set up the attachments for a receipt as follows:
 
@@ -16,8 +16,8 @@ For the example, we have set up the attachments for a receipt as follows:
 
 An image and a PDF have been set as standard.
 
-{{< notice info "Hinweis" >}}
- _If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different. At the bottom of the page you will find instructions on how to do this_
+{{< notice info "Note" >}}
+ _If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different._
 {{< /notice >}}
 #
 
@@ -39,5 +39,3 @@ Using the Mail Attachment Plus APP does not prevent you from using the attachmen
 When you have made all the changes to your attachments, you can send your mail as usual by clicking **"Send email"**.
 
 ![](images/apps/attachmentdocumentmail.PNG)
-
-### Mail with standard attachments per document - without the Mail Experience

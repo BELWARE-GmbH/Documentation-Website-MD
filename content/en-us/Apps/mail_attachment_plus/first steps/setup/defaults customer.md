@@ -1,5 +1,5 @@
 ---
-title: "Debitor default attachments"
+title: "Customer default attachments"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -25,4 +25,4 @@ The rest of the process works the same as adding standard attachments to reports
 {{< /notice >}}
 #
 
-Once the attachments are set, a mail can be sent as usual, depending on your setup all standards including customer standards will be added. As before, you can still remove attachments or add more attachments when you are in the dialog.
+Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Customer Default Attachments](en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/)
