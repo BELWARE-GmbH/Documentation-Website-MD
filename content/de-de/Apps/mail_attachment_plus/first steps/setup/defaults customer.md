@@ -25,4 +25,4 @@ Der restliche Prozess funktioniert genauso wie das Hinzufügen von Standardanhä
 {{< /notice >}}
 #
 
-Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, je nach Ihrer Einrichtung werden alle Standards einschließlich der Kundenstandards hinzugefügt. Wie bisher können Sie auch weiterhin Anlagen entfernen oder weitere Anlagen hinzufügen, wenn Sie sich im Dialog befinden.
+Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Debitor Standardanhänge](de-de/apps/mail_attachment_plus/working-with-map/defaults-customer/)

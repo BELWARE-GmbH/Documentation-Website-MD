@@ -29,6 +29,4 @@ Nach dem Hinzufügen der Datei(en) sind Ihnen möglicherweise die Felder "Von Da
 {{< /notice >}}
 #
 
-Damit ist das Hinzufügen von Standardeinstellungen für Ihre Anhänge abgeschlossen, schließen Sie das Fenster, und Sie sind fertig. Wenn Sie das nächste Mal eine E-Mail mit dem eingerichteten Bericht, in diesem Fall Rechnungen, versenden, werden Sie feststellen, dass in den Anhängen die zuvor angehängte Datei auftaucht.
-
-Wenn ein bestimmter Standard-Anhang nicht zu Ihrer aktuellen E-Mail passt, können Sie ihn einfach im Dialog löschen, dies löscht den Anhang nur für diesen Vorgang und nicht als Standard.
+Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Bericht Standardanhänge](de-de/apps/mail_attachment_plus/working-with-map/defaults-report/)
