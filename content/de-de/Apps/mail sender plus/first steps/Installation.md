@@ -14,7 +14,7 @@ weight: 3
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Mail Attachment Plus** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Mail Sender Plus** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
 ![](images/apps/mailattachmentssuche.PNG)
 
@@ -28,11 +28,11 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
 
-Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Attachment Plus** unter **Installierte Erweiterungen** finden.
+Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Sender Plus** unter **Installierte Erweiterungen** finden.
 
-![](images/apps/attachmentinstalledextensions.png)
+![](images/apps/senderinstalledextensions.png)
 
-Sie können nun mit der [Einrichtung](de-de/apps/mail_attachment_plus/first-steps/setup/allocating-license/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/) starten.
 
 
 

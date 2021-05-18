@@ -1,0 +1,13 @@
+---
+title: "Introduction"
+date: 2020-02-28T10:08:56+09:00
+description: 
+draft: false
+collapsible: false
+weight: 1
+---
+### First steps
+
+### Introduction
+
+The Connector 365 Mail Sender Plus APP allows you to control and use multiple mail sender addresses via an extended mail setup. By default, it is only possible to use a single SMTP sender address per company. The Mail Sender Plus APP offers a priority-controlled setup for various scenarios within the sender addresses. It is possible to simply change the address in the dialog or set an address as default per report or customer/vendor. With that it is for example possible to set a global address for the sending of invoices. With our APP you can make your mails more personal.
