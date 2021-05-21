@@ -9,7 +9,7 @@ weight: 1
 ### Arbeiten mit Mail Attachment Plus
 
 #### Unterschiede im Dialog
-Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer APP während des Versand von Mails. Der Prozess zum setzen von Standards ändern sich nicht, lediglich das handhaben der Anhänge im Dialog.
+Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versand von Mails. Der Prozess zum setzen von Standards ändern sich nicht, lediglich das handhaben der Anhänge im Dialog.
 
 ##### Mail Experience
 

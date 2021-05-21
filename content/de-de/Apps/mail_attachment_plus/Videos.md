@@ -8,8 +8,8 @@ weight: 6
 ---
 ### Videos
 
-Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus APP, jedes Video behandelt ein spezielles Thema
+Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
 
-#### Nutzung der APP
+#### Nutzung der App
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/rTufnaeAYtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

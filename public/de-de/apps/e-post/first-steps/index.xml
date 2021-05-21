@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</guid>
-        <description>Erste Schritte Schneller hybrider Versand mit der App Connector 365 E-POSTBUSINESS API Der Bedarf an postalischen Rechnungsempfang ist immer noch allgegenwärtig. Was heißt das für meine Cloud ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Rechnung im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Rechnungsersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Rechnungen kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
+        <description>Erste Schritte Schneller hybrider Versand mit der App Connector 365 E-POST Der Bedarf an postalischen Rechnungsempfang ist immer noch allgegenwärtig. Was heißt das für meine Cloud ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Rechnung im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Rechnungsersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Rechnungen kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
       </item>
       
       <item>
@@ -44,8 +44,9 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/registration/</guid>
-        <description>Erste Schritte Registrierung Um die APP voll zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie hier aber auch direkt in der E-POST Einrichtung.
-Gerne unterstützen wir Sie bei der Registrierung bei der Deutschen Post, wenden Sie sich dafür einfach an support@belware.de  Im Formular für die Registrierung werden verschiedene Kontaktinformationen Ihnen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher Sicher dass Sie sich als Geschäftskunde registrieren.</description>
+        <description>Erste Schritte Registrierung Um die App voll zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie hier aber auch direkt in der E-POST Einrichtung.
+Gerne unterstützen wir Sie bei der Registrierung bei der Deutschen Post, wenden Sie sich dafür einfach an support@belware.de
+  Im Formular für die Registrierung werden verschiedene Kontaktinformationen Ihnen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher Sicher dass Sie sich als Geschäftskunde registrieren.</description>
       </item>
       
       <item>

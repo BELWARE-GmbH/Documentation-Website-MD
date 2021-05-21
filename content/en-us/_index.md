@@ -21,7 +21,7 @@ footer:
 sections:
   - bgcolor: "#f7f8f9"
     type: card
-    description: "In our portal you will find the documentation and help resources for our apps. They are divided into the two categories APPs on AppSource, our APPs directly from the Microsoft AppSource and APPs onPrem, our AppSource APPs available in the onpremise world."
+    description: "In our portal you will find the documentation and help resources for our apps. They are divided into the two categories Apps on AppSource, our Apps directly from the Microsoft AppSource and Apps onPrem, our AppSource Apps available in the onpremise world."
     color: "#000000"
     header: 
       title: Our Solutions
@@ -34,7 +34,7 @@ sections:
         image: images/appsbanner.png
         color: "#000000"
         button: 
-          name: To our APPs
+          name: To our Apps
           link: apps
           size: large
           target: _blank

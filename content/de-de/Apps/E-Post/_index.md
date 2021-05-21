@@ -6,9 +6,9 @@ draft: false
 collapsible: true
 weight: 1
 ---
-### Connector 365 XRechnung Online Hilfe
+### Connector 365 E-POST Online Hilfe
 
-Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource E-POST API APP.
+Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource E-POST App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

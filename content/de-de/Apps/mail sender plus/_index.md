@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Connector 365 Mail Sender Plus Online help
 
-Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Sender Plus APP.
+Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Sender Plus App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

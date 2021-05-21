@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Connector 365 XRechnung Online Hilfe
 
-Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource XRechnungs APP.
+Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource XRechnungs App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

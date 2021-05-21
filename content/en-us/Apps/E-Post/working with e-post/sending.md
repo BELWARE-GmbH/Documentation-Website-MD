@@ -29,7 +29,7 @@ In the dialog you have the possibility to adjust certain options for sending the
 After you have made all desired changes, you can execute the dispatch with a click on **"OK"**. Your invoice will now be sent to Deutsche Post and from there to the recipient.
 
 {{< notice info "Note" >}}
- _The APP automatically extracts the recipient's address from their data_
+ _The App automatically extracts the recipient's address from their data_
 {{< /notice >}}
 #
 

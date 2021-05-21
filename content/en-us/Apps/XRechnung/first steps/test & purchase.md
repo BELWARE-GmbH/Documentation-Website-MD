@@ -9,7 +9,7 @@ weight: 2
 ### First Steps
 
 ### Test & Purchase
-The App is available on [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_xrechnung%7CPAPPID.0e71f27e-d331-4045-a643-c2777a797cc4?tab=Overview).
+The App is available on [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_xrechnung%7CPAppID.0e71f27e-d331-4045-a643-c2777a797cc4?tab=Overview).
 
 ![](images/XRechnung/xrechnungstore.PNG)
 

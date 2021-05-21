@@ -32,7 +32,7 @@ Es wird Ihnen sicherlich aufgefallen sein, dass nicht alle Anhänge die zuvor ei
 
 Sollte einer der Anhänge nicht passen können Sie diese einfach wie gewohnt, über die 3 Punkte und **"löschen"** entfernen.
 
-Ein nutzen der Mail Attachment Plus APP verhindert nicht die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei anhängen"** weitere Anhänge hinzufügen. Mit einem Klick auf **"Verwalten"** -> **"Datei anhängen"** ist dies auch möglich.
+Ein nutzen der Mail Attachment Plus App verhindert nicht die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei anhängen"** weitere Anhänge hinzufügen. Mit einem Klick auf **"Verwalten"** -> **"Datei anhängen"** ist dies auch möglich.
 
 ![](images/apps/attachmentreportsetupchange.PNG)
 

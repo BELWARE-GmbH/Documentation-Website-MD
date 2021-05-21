@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Connector 365 Mail Attachments Plus Online Hilfe
 
-Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Attachments Plus APP.
+Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Attachments Plus App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

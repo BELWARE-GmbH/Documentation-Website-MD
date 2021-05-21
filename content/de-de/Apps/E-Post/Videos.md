@@ -8,7 +8,7 @@ weight: 6
 ---
 ### Videos
 
-Hier finden Sie einige informative Videos zur unserer E-Post APP, jedes Video behandelt ein spezielles Thema
+Hier finden Sie einige informative Videos zur unserer E-Post App, jedes Video behandelt ein spezielles Thema
 
 #### Versand von E-Post Briefen
 

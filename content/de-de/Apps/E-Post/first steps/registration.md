@@ -9,7 +9,7 @@ weight: 3
 ### Erste Schritte
 
 ### Registrierung
-Um die APP voll zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie [hier](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp) aber auch direkt in der E-POST Einrichtung.
+Um die App voll zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie [hier](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp) aber auch direkt in der E-POST Einrichtung.
 
 {{< notice info "Hinweis" >}}
  _Gerne unterstützen wir Sie bei der Registrierung bei der Deutschen Post, wenden Sie sich dafür einfach an support@belware.de_

@@ -29,7 +29,7 @@ Im Dialog haben Sie die Möglichkeit bestimmte Optionen für den Versand des Bri
 Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Click auf **"OK"** ausführen. Ihre Rechnung wird nun an die Deutsche Post übermittelt und von dort aus an den Empfänger.
 
 {{< notice info "Hinweis" >}}
- _Die APP zieht sich die Adresse des Empfängers automatisch aus dessen Daten_
+ _Die App zieht sich die Adresse des Empfängers automatisch aus dessen Daten_
 {{< /notice >}}
 #
 

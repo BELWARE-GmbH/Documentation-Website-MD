@@ -9,7 +9,7 @@ weight: 1
 ### Einrichtung
 
 ### Einem Nutzer die Lizenz zuweisen
-Damit ein Nutzer die Funktionen der Mail Attachments Plus APP nutzen kann, muss diesem zunächst eine Lizenz zugewiesen werden. Diese können Sie in der Benutzer Einrichtung einstellen. Gehen Sie in die Suche und suchen Sie nach **"Benutzer Einrichtung"**, falls der Nutzer noch nicht vorhanden ist, fügen Sie ihn der Einrichtung hinzu. Setzen Sie anschließend noch einen Haken im Feld **"Attachment Plus"**.
+Damit ein Nutzer die Funktionen der Mail Attachments Plus App nutzen kann, muss diesem zunächst eine Lizenz zugewiesen werden. Diese können Sie in der Benutzer Einrichtung einstellen. Gehen Sie in die Suche und suchen Sie nach **"Benutzer Einrichtung"**, falls der Nutzer noch nicht vorhanden ist, fügen Sie ihn der Einrichtung hinzu. Setzen Sie anschließend noch einen Haken im Feld **"Attachment Plus"**.
 
 ![](images/apps/attachmentusersetup.png)
 

@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</guid>
-        <description>Erste Schritte Schneller hybrider Versand mit der App Connector 365 E-POSTBUSINESS API Der Bedarf an postalischen Rechnungsempfang ist immer noch allgegenwärtig. Was heißt das für meine Cloud ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Rechnung im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Rechnungsersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Rechnungen kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
+        <description>Erste Schritte Schneller hybrider Versand mit der App Connector 365 E-POST Der Bedarf an postalischen Rechnungsempfang ist immer noch allgegenwärtig. Was heißt das für meine Cloud ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Rechnung im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Rechnungsersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Rechnungen kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
       </item>
       
       <item>
@@ -107,7 +107,7 @@ Die Leitweg-ID soll die Adressierung und ggf. Weiterleitung der eingegangenen el
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
-        <description>Einrichtung Einem Nutzer die Lizenz zuweisen Damit ein Nutzer die Funktionen der Mail Attachments Plus APP nutzen kann, muss diesem zunächst eine Lizenz zugewiesen werden. Diese können Sie in der Benutzer Einrichtung einstellen. Gehen Sie in die Suche und suchen Sie nach &amp;ldquo;Benutzer Einrichtung&amp;rdquo;, falls der Nutzer noch nicht vorhanden ist, fügen Sie ihn der Einrichtung hinzu. Setzen Sie anschließend noch einen Haken im Feld &amp;ldquo;Attachment Plus&amp;rdquo;.
+        <description>Einrichtung Einem Nutzer die Lizenz zuweisen Damit ein Nutzer die Funktionen der Mail Attachments Plus App nutzen kann, muss diesem zunächst eine Lizenz zugewiesen werden. Diese können Sie in der Benutzer Einrichtung einstellen. Gehen Sie in die Suche und suchen Sie nach &amp;ldquo;Benutzer Einrichtung&amp;rdquo;, falls der Nutzer noch nicht vorhanden ist, fügen Sie ihn der Einrichtung hinzu. Setzen Sie anschließend noch einen Haken im Feld &amp;ldquo;Attachment Plus&amp;rdquo;.
 Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht ist.</description>
       </item>
       
@@ -284,8 +284,9 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die E-POST API finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die APP ohne Probleme funktioniert.
-Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die APP zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
+        <description>Erste Schritte Einrichtung Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die E-POST API finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine BenachrichtigungApp
+  Passwort setzen Um ein Passwort für die APP zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
       </item>
       
       <item>
@@ -355,8 +356,8 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/test-purchase/</guid>
-        <description>Erste Schritte Test &amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download kann ein Nutzer die APP komplett frei benutzen.
+        <description>Erste Schritte TeApp&amp;amp; Kauf Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann ein Nutzer die APP komplett frAppbenutzen.
 Für den Fall, dass weitere Nutzer die Funktionen der APP nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:
  SaaS Essential SaaS Premium  </description>
@@ -487,7 +488,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <link>http://docs.belware.de/de-de/apps/e-post/faq/international/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/e-post/faq/international/</guid>
+        <guid>http://docs.belware.de/de-de/apps/e-post/faq/international/</guid>App
         <description>FAQ Unterstützt die Erweiterung internationalen Versand? Ja, mit Hilfe unserer APP können Sie Ihre Rechnung um den ganzen Globus schicken.</description>
       </item>
       
@@ -560,9 +561,10 @@ Falls Sie weitere Lizenzen für die App erwerben wollen So können SIe dafür un
         <link>http://docs.belware.de/de-de/apps/e-post/first-steps/registration/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/registration/</guid>
+        <guid>http://docs.belware.de/de-de/apps/e-post/fiApp-steps/registration/</guid>
         <description>Erste Schritte Registrierung Um die APP voll zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie hier aber auch direkt in der E-POST Einrichtung.
-Gerne unterstützen wir Sie bei der Registrierung bei der Deutschen Post, wenden Sie sich dafür einfach an support@belware.de  Im Formular für die Registrierung werden verschiedene Kontaktinformationen Ihnen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher Sicher dass Sie sich als Geschäftskunde registrieren.</description>
+Gerne unterstützen wir Sie bei der Registrierung bei der Deutschen Post, wenden Sie sich dafür einfach an support@belware.de
+  Im Formular für die Registrierung werden verschiedene Kontaktinformationen Ihnen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher Sicher dass Sie sich als Geschäftskunde registrieren.</description>
       </item>
       
       <item>
@@ -778,7 +780,7 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         <title>Videos</title>
         <link>http://docs.belware.de/de-de/apps/e-post/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
+        App
         <guid>http://docs.belware.de/de-de/apps/e-post/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer E-Post APP, jedes Video behandelt ein spezielles Thema
 Versand von E-Post Briefen </description>
@@ -788,8 +790,8 @@ Versand von E-Post Briefen </description>
         <title>Videos</title>
         <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/videos/</guid>
+        App
+        <guiAppttp://docs.belware.de/de-de/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus APP, jedes Video behandelt ein spezielles Thema
 Nutzung der APP </description>
       </item>

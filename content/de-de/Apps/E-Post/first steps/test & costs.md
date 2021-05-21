@@ -37,4 +37,9 @@ Connector 365 E-POST API steht Ihnen für die folgende BC Lizensierung zur Verf�
 - SaaS Essential
 - SaaS Premium
 
-Wenn Sie eine Vollversion unserer APP erwerben möchten, kontaktieren Sie uns bitte via **info@belware.de**
+Wenn Sie eine Vollversion unserer App erwerben möchten, kontaktieren Sie uns bitte via **info@belware.de**
+
+### Kosten
+Eine Lizenz für die Connector 365 E-POST App kostet 9,90€ und beinhaltet das unbegrenzte Versenden von Briefen für eine unbegrenzte Anzahl von Nutzern.
+
+Die durch die Nutzung entstehenden Portokosten werden direkt über die Deutsche Post mit Ihnen abgerechnet.

@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Connector 365 XRechnung Online Hilfe
 
-Here you will find all help and learning resources, for our Microsoft AppSource E-POST API APP.
+Here you will find all help and learning resources, for our Microsoft AppSource E-POST API App.
 
 Simply use either the bottom or left navigation menu.
 

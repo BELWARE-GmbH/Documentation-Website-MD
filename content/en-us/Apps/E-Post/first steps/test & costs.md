@@ -8,9 +8,9 @@ weight: 2
 ---
 ### First Steps
 
-### Test & Costs
+### Test
 
-The APP is available on [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview).
+The App is available on [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview).
 
 ![](images/apps/epoststore.PNG)
 
@@ -37,4 +37,9 @@ Connector 365 E-POST API is available for the following BC licensing:
 - SaaS Essential
 - SaaS Premium
 
-If you would like to purchase a full version of our APP, please contact us via **info@belware.de**
+If you would like to purchase a full version of our App, please contact us via **info@belware.de**
+
+### Costs
+A license for the Connector 365 E-POST app costs 9,90€ and includes unlimited sending of letters for an unlimited number of users.
+
+The postage costs incurred through use are billed directly to you via Deutsche Post.

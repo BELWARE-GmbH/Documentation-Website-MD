@@ -32,7 +32,7 @@ since the box for attachements per report and document were ticked in the setup 
 
 If one of the attachments does not fit, you can simply remove them as usual, via the 3 dots and **"delete"**.
 
-Using the Mail Attachment Plus APP does not prevent you from using the attachment functionality of the standard. You can still add more attachments via the menu bar under **"Attach file"**. With a click on **"Manage"** -> **"Attach file"** this is also possible.
+Using the Mail Attachment Plus App does not prevent you from using the attachment functionality of the standard. You can still add more attachments via the menu bar under **"Attach file"**. With a click on **"Manage"** -> **"Attach file"** this is also possible.
 
 ![](images/apps/attachmentdialogcustomerchange.PNG)
 

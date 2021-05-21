@@ -10,13 +10,13 @@ weight: 2
 
 ### Test & Kauf
 
-Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.connector_365_mail_sender_plus|PAPPID.84a5708d-038e-4f8d-9e92-06c2bbdaa857?tab=Overview) zur Verfügung.
+Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.connector_365_mail_sender_plus|PAppID.84a5708d-038e-4f8d-9e92-06c2bbdaa857?tab=Overview) zur Verfügung.
 
 ![](images/apps/senderappsource.PNG)
 
-Nach dem Download kann ein Nutzer die APP komplett frei benutzen.
+Nach dem Download kann ein Nutzer die App komplett frei benutzen.
 
-Für den Fall, dass weitere Nutzer die Funktionen der APP nutzen sollen, können Sie über unser [Formular](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOFhKRzI1WUI2WUNUWDg3Ukk0SFBMT1JXMy4u) kostenpflichtig weitere Lizenzen erwerben.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser [Formular](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOFhKRzI1WUI2WUNUWDg3Ukk0SFBMT1JXMy4u) kostenpflichtig weitere Lizenzen erwerben.
 
 ![](images/apps/senderforms.PNG)
  

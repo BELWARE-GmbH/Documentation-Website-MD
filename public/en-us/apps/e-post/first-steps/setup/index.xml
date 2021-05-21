@@ -30,8 +30,9 @@ You can find the setup for this in the search under &amp;ldquo;Countries/Regions
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup &amp;ldquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the APP works without problems.
-While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the APP, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup &amp;ldquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notificationApp
+  Set a Passwort To set a password for the APP, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
       </item>
       
     

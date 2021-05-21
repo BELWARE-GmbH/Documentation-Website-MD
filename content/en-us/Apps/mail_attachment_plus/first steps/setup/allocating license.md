@@ -9,7 +9,7 @@ weight: 1
 ### Setup
 
 ### Assigning a license to a user
-In order for a user to use the Mail Attachments Plus APP features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for **"User Setup"**, if the user does not already exist, add it to the setup. Then put another check mark in the **"Attachment Plus"** field.
+In order for a user to use the Mail Attachments Plus App features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for **"User Setup"**, if the user does not already exist, add it to the setup. Then put another check mark in the **"Attachment Plus"** field.
 
 ![](images/apps/attachmentusersetup.png)
 

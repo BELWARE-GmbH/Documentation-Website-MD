@@ -10,4 +10,4 @@ weight: 3
 
 #### Unterstützt die Erweiterung internationalen Versand?
 
-Ja, mit Hilfe unserer APP können Sie Ihre Rechnung um den ganzen Globus schicken.
+Ja, mit Hilfe unserer App können Sie Ihre Rechnung um den ganzen Globus schicken.

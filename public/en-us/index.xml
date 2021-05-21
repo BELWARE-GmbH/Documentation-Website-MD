@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
-        <description>Setup Assigning a license to a user In order for a user to use the Mail Attachments Plus APP features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for &amp;ldquo;User Setup&amp;rdquo;, if the user does not already exist, add it to the setup. Then put another check mark in the &amp;ldquo;Attachment Plus&amp;rdquo; field.
+        <description>Setup Assigning a license to a user In order for a user to use the Mail Attachments Plus App features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for &amp;ldquo;User Setup&amp;rdquo;, if the user does not already exist, add it to the setup. Then put another check mark in the &amp;ldquo;Attachment Plus&amp;rdquo; field.
 Repeat this process until your license capacity is used up.</description>
       </item>
       
@@ -89,7 +89,7 @@ More Information about the Ident ID can be found on the specific page</descripti
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</guid>
-        <description>First steps Fast hybrid sending with the Connector 365 E-POSTBUSINESS API APP The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site.</description>
+        <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site.</description>
       </item>
       
       <item>
@@ -347,8 +347,9 @@ Start by opening the report selection of the report you want, in this example we
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup &amp;ldquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the APP works without problems.
-While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the APP, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup &amp;ldquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notificationApp
+  Set a Passwort To set a password for the APP, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
       </item>
       
       <item>
@@ -356,7 +357,7 @@ While the test mode is activated, no invoices are sent. Instead, the previously 
         <link>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</guid>
+        <guid>http://docs.belware.de/en-us/apps/e-post/firAppsteps/test-costs/</guid>
         <description>First Steps Test &amp;amp; Costs The APP is available on Microsoft AppSource.
 After the download you have the following test options:
 No registered E-POST customer
@@ -372,8 +373,8 @@ The following options are available to you as a registered E-POST customer:
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/</guid>
-        <description>First steps Test &amp;amp; Purchase The app is available in the Microsoft AppSource.
-After downloading, one user can use the APP completely free.
+        <description>First steps Test &aAppamp; Purchase The app is available in the Microsoft AppSource.
+After downloading, one user can use the APP completely free.App
 In the event that additional users are to use the functions of the APP, you can purchase additional licenses for a fee via our form.
 Connector 365 XInvoice is available for the following BC licensing:
  SaaS Essential SaaS Premium  </description>
@@ -502,7 +503,8 @@ After submitting your contact information, you will be prompted to choose a lang
         <description>Working with Mail Attachment Plus Once you have added all your desired attachments via the &amp;ldquo;Attachments &amp;ldquo; menu, you can start sending.
 For the example, we have set up the attachments for a receipt as follows:
 An image and a PDF have been set as standard.
-If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different. At the bottom of the page you will find instructions on how to do this  Mail with standard attachments per document To do this, simply open the report for which you previously set up your attachments and then click &amp;ldquo;Print/Send&amp;rdquo; and the regular &amp;ldquo;Send by Email&amp;rdquo; function.</description>
+If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different. At the bottom of the page you will find instructions on how to do this
+  Mail with standard attachments per document To do this, simply open the report for which you previously set up your attachments and then click &amp;ldquo;Print/Send&amp;rdquo; and the regular &amp;ldquo;Send by Email&amp;rdquo; function.</description>
       </item>
       
       <item>
@@ -539,10 +541,11 @@ If you want to purchase additional licenses for the app, you can use our form.</
         <title>Registration</title>
         <link>http://docs.belware.de/en-us/apps/e-post/first-steps/registration/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
+        App
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/registration/</guid>
         <description>First steps Registration To fully use the APP, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 setup.
-We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.</description>
+We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de.
+  In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.</description>
       </item>
       
       <item>
@@ -779,7 +782,7 @@ Yes, from version X.X.X.X. it is possible to send additional types of reports, w
       <item>
         <title>Videos</title>
         <link>http://docs.belware.de/en-us/apps/e-post/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>App
         
         <guid>http://docs.belware.de/en-us/apps/e-post/videos/</guid>
         <description>Videos Here you can find some informative videos about our E-POST APP, each video covers a special topic
@@ -789,8 +792,8 @@ Sending E-POST Letters </description>
       <item>
         <title>Videos</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>App
+        App
         <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our Mail Attachments Plus APP, each video covers a special topic
 Using the APP </description>

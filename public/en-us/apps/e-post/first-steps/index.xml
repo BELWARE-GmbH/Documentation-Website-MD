@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</guid>
-        <description>First steps Fast hybrid sending with the Connector 365 E-POSTBUSINESS API APP The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site.</description>
+        <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site.</description>
       </item>
       
       <item>
@@ -29,7 +29,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</guid>
-        <description>First Steps Test &amp;amp; Costs The APP is available on Microsoft AppSource.
+        <description>First Steps Test &amp;amp; Costs The App is available on Microsoft AppSource.
 After the download you have the following test options:
 No registered E-POST customer
 You will receive a message when testing the app stating that there would be a letter dispatch at this point.
@@ -44,8 +44,9 @@ The following options are available to you as a registered E-POST customer:
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/registration/</guid>
-        <description>First steps Registration To fully use the APP, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 setup.
-We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.</description>
+        <description>First steps Registration To fully use the App, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 setup.
+We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de.
+  In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.</description>
       </item>
       
       <item>

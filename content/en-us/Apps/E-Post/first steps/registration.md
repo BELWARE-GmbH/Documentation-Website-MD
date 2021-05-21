@@ -9,7 +9,7 @@ weight: 3
 ### First steps
 
 ### Registration
-To fully use the APP, prior registration with Deutsche Post is required. The registration page can be found [here](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp) (only available in German) but also directly in the Connector 365 setup.
+To fully use the App, prior registration with Deutsche Post is required. The registration page can be found [here](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp) (only available in German) but also directly in the Connector 365 setup.
 
 {{< notice info "Note" >}}
  _We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de._

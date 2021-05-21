@@ -10,9 +10,7 @@ weight: 6
 
 #### Is it possible to send other reports via E-POST
 
-Currently we only support sending out posted sales invoices.
-
-Yes, from version X.X.X.X. it is possible to send additional types of reports, which include the following in addition to invoices:
+Yes, from version 1.0.1.0 it is possible to send additional types of reports, which include the following in addition to invoices:
 
 - Credit memo
 - Reminder
