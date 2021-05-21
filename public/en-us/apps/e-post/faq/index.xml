@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/countries/</guid>
-        <description>FAQ In what countries is the extension available? Since the Deutsche Post is a German business, the E-POST Connector is also currently only available in Germany.</description>
+        <description>FAQ In what countries is the App available? Since the Deutsche Post is a German business, the Connector 365 E-POST App is also currently only available in Germany.</description>
       </item>
       
       <item>
@@ -29,8 +29,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/registration/</guid>
-        <description>FAQ How do I register with the Deutsche Post? The registration for the E-POST API can be found here here (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de
-The registration for the E-POST API can be found here (Please note that the site is only available in German). Instructions for the registration can be found here.</description>
+        <description>FAQ How do I register with the Deutsche Post? The registration for the E-POSTBUSINESS API can be found here here (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de</description>
       </item>
       
       <item>
@@ -66,8 +65,7 @@ The registration for the E-POST API can be found here (Please note that the site
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/faq/reports/</guid>
-        <description>FAQ Is it possible to send other reports via E-POST Currently we only support sending out posted sales invoices.
-Yes, from version X.X.X.X. it is possible to send additional types of reports, which include the following in addition to invoices:
+        <description>FAQ Is it possible to send other reports via E-POST Yes, from version 1.0.1.0 it is possible to send additional types of reports, which include the following in addition to invoices:
  Credit memo Reminder Quotes Orders  </description>
       </item>
       

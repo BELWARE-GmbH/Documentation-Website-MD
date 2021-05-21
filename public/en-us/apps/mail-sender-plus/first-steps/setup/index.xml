@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Help</title>
+    <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Priority System</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</guid>
+        <description>Setup The Priority System As mentioned in the introduction, the addresses that will be used are controlled by a priority
+system. The priority system works as follows, from lowest zu highest:
+ Default An address per user An address per report An address per customer  This documentation will go into detail how to set up each layer to your wishes.</description>
+      </item>
+      
+      <item>
+        <title>Expanding the Setup</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</guid>
+        <description>Setup Expanding the mail setup &amp;amp; setting up addresses per user First you need to fill the setup with additional addresses that the system can use. Use the search function to get into the setup, just search for &amp;ldquo;Mail Sender Plus&amp;rdquo;. Here you enter the additional addresses you want to use.
+The following fields have to be filled
+Email Sender
+You can search for a user or select them directly. It is also possible to enter EMail Sender that are not bound to a user.</description>
+      </item>
+      
+      <item>
+        <title>Settings per report</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/report/</guid>
+        <description>Setup Setting up addresses per report in the report selection To set up addresses in the report selection you first need to open the search function and search for &amp;ldquo;report selection&amp;rdquo;. You will now see a list of all possible report selections and their departments. Open the report selection for the desired department.
+Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&amp;rdquo; field. You can either fill the field manually or select an address from the setup.</description>
+      </item>
+      
+      <item>
+        <title>Setting up addresses per customer/vendor</title>
+        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
+        <description>Setup Setting up addresses per customer It is also possible to set addresses per customer/vendor, this is controlled by the document layouts. This option has the highest priority. To make changes you need to open the page of customer/vendor that you want to set up. Now expand the options, click on navigate and then customer, finally select document layouts.
+The most important fields here are “Usage”, “Report ID” and our newly added field “EMail Sender”.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

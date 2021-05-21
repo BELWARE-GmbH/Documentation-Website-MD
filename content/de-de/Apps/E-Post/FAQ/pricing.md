@@ -10,4 +10,6 @@ weight: 4
 
 #### Wie ist das Preismodell?
 
-Bitte kontaktieren Sie uns unter info@belware.de falls Sie mehr Informationen zu den Preisen benötigen.
+Die App selbst kostet 9,90€/Monat und kann über unser [Formular](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUNFRLRzBKUEQ0MTVIOEsxWlJPSFdTMVNNQy4u) bestellt werden. Die Lizenz erlaubt es Ihnen unbegrenzt viele Briefe mit unbegrenzt vielen Nutzern zu verschicken.
+
+Während des Versands, fallen die üblichen Portokosten der Deutschen Post an, diese rechnet die Deutsche Post direkt mit Ihnen ab.

@@ -10,6 +10,6 @@ weight: 6
 
 Here you can find some informative videos about our E-POST App, each video covers a special topic
 
-#### Sending E-POST Letters
+#### Connector 365 E-POST - Quick Overview
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/5vYqGeF8vBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1RVKaTl5BbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

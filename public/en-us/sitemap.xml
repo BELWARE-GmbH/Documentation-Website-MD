@@ -93,6 +93,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/e-post/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -228,6 +243,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/introduction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -318,17 +348,32 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-report/</loc>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-report/"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-report/"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/priority-system/"
                 />
   </url>
   
@@ -344,6 +389,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-report/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-report/"
                 />
   </url>
   
@@ -404,6 +464,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/under-construction/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/"
                 />
   </url>
   
@@ -543,17 +618,32 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-customer/</loc>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-customer/"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-customer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-customer/"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/extending-the-setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/extending-the-setup/"
                 />
   </url>
   
@@ -599,6 +689,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/"
                 />
   </url>
   
@@ -753,6 +858,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -843,17 +963,17 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/e-post/new-and-planned/vx.x.x.x/</loc>
+    <loc>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/vx.x.x.x/"
+                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/vx.x.x.x/"
+                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
@@ -869,6 +989,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/defaults-document/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/"
                 />
   </url>
   
@@ -933,21 +1083,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-document/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-document/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/mail-document/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1004,6 +1139,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/e-post/first-steps/registration/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/report/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/report/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/report/"
                 />
   </url>
   
@@ -1083,6 +1233,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/working-with-msp/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/working-with-msp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/working-with-msp/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1143,6 +1308,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/e-post/faq/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1154,6 +1334,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/e-post/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/faq/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/faq/"
                 />
   </url>
   
@@ -1278,6 +1473,21 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/"
+                />
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1379,6 +1589,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/e-post/help-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/help-support/"
                 />
   </url>
   
@@ -1529,6 +1754,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://docs.belware.de/en-us/apps/e-post/videos/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/en-us/apps/mail-sender-plus/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/mail-sender-plus/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/mail-sender-plus/videos/"
                 />
   </url>
   

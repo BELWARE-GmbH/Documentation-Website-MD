@@ -10,4 +10,6 @@ weight: 4
 
 #### how does the pricing work?
 
-Please contact us under **info@belware.de** if you want more information about prices.
+The app itself costs 9,90€/month and can be ordered via our [form](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUNFRLRzBKUEQ0MTVIOEsxWlJPSFdTMVNNQy4u). The license allows you to send an unlimited number of letters with an unlimited number of users.
+
+During the sending, the usual postage costs of the Deutsche Post are incurred, the Deutsche Post bills these directly with you.

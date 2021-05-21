@@ -6,7 +6,7 @@ draft: false
 collapsible: true
 weight: 1
 ---
-### Connector 365 XRechnung Online Hilfe
+### Connector 365 E-POST Online Hilfe
 
 Here you will find all help and learning resources, for our Microsoft AppSource E-POST API App.
 

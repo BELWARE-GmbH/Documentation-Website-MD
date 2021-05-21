@@ -15,39 +15,49 @@
     
       
       <item>
-        <title>Mail Bericht</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-report/</link>
+        <title>Unterschiede im Dialog</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-report/</guid>
-        <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen.
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</guid>
+        <description>Arbeiten mit Mail Attachment Plus Unterschiede im Dialog Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versand von Mails. Der Prozess zum setzen von Standards ändern sich nicht, lediglich das handhaben der Anhänge im Dialog.
+Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Version X.</description>
+      </item>
+      
+      <item>
+        <title>Bericht Standardanhänge</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-report/</guid>
+        <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus. Am Ende der Seite finden Sie eine entsprechende Anleitung.</description>
+Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
       </item>
       
       <item>
-        <title>Mail Debitor</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-customer/</link>
+        <title>Debitor Standardanhänge</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-customer/</guid>
-        <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen.
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-customer/</guid>
+        <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 Zwei PDFs werden angehängt und jeweils die eingerichteten Standards pro Beleg/Bericht
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus. Am Ende der Seite finden Sie eine entsprechende Anleitung.</description>
+Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
       </item>
       
       <item>
-        <title>Mail Beleg</title>
-        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-document/</link>
+        <title>Beleg Standardanhänge</title>
+        <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/mail-document/</guid>
-        <description>Arbeiten mit Mail Attachment Plus Wenn Sie alle Ihre gewünschten Anhänge über das &amp;ldquo;Anhänge&amp;rdquo; Menü hinzugefügt haben, können Sie mit dem Versand starten.
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-document/</guid>
+        <description>Arbeiten mit Mail Attachment Plus Wenn Sie alle Ihre gewünschten Anhänge über das &amp;ldquo;Anhänge&amp;rdquo; Menü hinzugefügt haben, können Sie mit dem Versand starten. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für das Beispiel haben wir die Anhänge für einen Beleg wie folgt eingerichtet:
 Es wurde ein Bild und eine PDF also Standard festgelegt.
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus. Am Ende der Seite finden Sie eine entsprechende Anleitung.</description>
+Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
       </item>
       
     

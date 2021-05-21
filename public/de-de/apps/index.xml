@@ -20,7 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/</guid>
-        <description>Connector 365 XRechnung Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource E-POST API App.
+        <description>Connector 365 E-POST Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 E-POST App im Microsoft AppSource.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
       </item>
@@ -32,6 +32,17 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
         
         <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/</guid>
         <description>Connector 365 Mail Attachments Plus Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Attachments Plus App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Mail Sender Plus</title>
+        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/</guid>
+        <description>Connector 365 Mail Sender Plus Online help Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Sender Plus App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
       </item>

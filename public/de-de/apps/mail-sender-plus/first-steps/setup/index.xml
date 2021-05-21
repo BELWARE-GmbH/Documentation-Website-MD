@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Prioritätensystem</title>
+        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/</guid>
+        <description>Einrichtung Das Prioritätensystem Wie in der Einleitung schon erwähnt, werden die Adressen durch ein Prioritätensystem gesteuert. Die Prioritäten erfolgen von der niedrigsten zu der höchsten Stufe:
+ Standard Eine Adresse pro Benutzer Eine Adresse pro Bericht Eine Adresse pro Debitor  Diese Dokumentation erklärt detailliert, wie Sie jede Ebene einrichten können.</description>
+      </item>
+      
+      <item>
+        <title>Erweitern der Einrichtung</title>
+        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/extending-the-setup/</guid>
+        <description>Einrichtung Erweitern der Einrichtung &amp;amp; Einstellungen der userbezogenen Mails Zuerst muss die Einrichtung mit zusätzlichen Adressen gefüllt werden, die das System nutzen kann. Über die Suchfunktion gelangen Sie in das Setup, suchen Sie einfach nach &amp;ldquo;Mail Sender Plus&amp;rdquo;. Hier tragen Sie die zusätzlichen Adressen, die Sie nutzen möchten, ein.
+Die folgenden Felder sind einzurichten:
+E-Mail Sender
+Sie können nach einem Benutzer suchen und ihn direkt auswählen. Ebenfalls ist es möglich benutzerunabhängige Absenderadressen, wie z.</description>
+      </item>
+      
+      <item>
+        <title>Einstellungen pro Bericht</title>
+        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/report/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/report/</guid>
+        <description>Einrichtung Einstellungen pro Bericht in der Berichtsauswahl Um die Absenderadressen in der Berichtsauswahl einzurichten, öffnen Sie zunächst die Suchfunktion und suchen Sie nach der „Berichtsauswahl“. Sie erhalten eine Liste aller möglichen Berichtsauswahlen und bekommen die dazugehörigen Abteilungen angezeigt. Öffnen Sie die Berichtsauswahl für die gewünschte Abteilung.
+Danach können Sie die gewünschte Adresse in das „E-Mail Sender“ Feld eintragen. Sie haben die Möglichkeit das Feld manuell zu befüllen oder aus dem Setup auszuwählen.</description>
+      </item>
+      
+      <item>
+        <title>Absender-Adresse Debitor/Kreditor</title>
+        <link>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</guid>
+        <description>Einrichtung Absender-Adressen pro Debitor/Kreditor anhand von Dokumentenlayouts Es ist auch möglich Adressen pro Debitor/Kreditor festzulegen, dies wird über die Dokumentenlayouts gesteuert. Diese Einstellung hat dann die höchste Priorität. Um die Einrichtung vorzunehmen, müssen Sie zunächst die Seite des jeweiligen Debitors/Kreditors öffnen, bei dem Sie eine Adresse einrichten möchten. In den Einstellungen am Debitor finden Sie die Dokumentenlayouts.
+Die Wichtigsten Felder hier sind „Verwendung“, „Berichts-ID“ und unser neu hinzugefügtes Feld „E-Mail Sender“.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
