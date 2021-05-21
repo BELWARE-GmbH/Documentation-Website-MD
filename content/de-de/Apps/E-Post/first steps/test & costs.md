@@ -32,7 +32,7 @@ Die anfallenden Portkosten werden direkt über die Deutsche Post mit Ihnen abger
 
 Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter **support@belware.de** in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum. 
  
-Connector 365 E-POST API steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+Connector 365 E-POST App steht Ihnen für die folgende BC Lizensierung zur Verfügung:
 
 - SaaS Essential
 - SaaS Premium

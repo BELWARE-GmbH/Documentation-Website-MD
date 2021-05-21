@@ -10,4 +10,4 @@ weight: 2
 
 #### Wie registriere ich mich bei der Deutschen Post?
 
-Die Registrierung für die E-Post API finden Sie [hier](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp). Eine Anleitung für die Registrierung finden Sie [hier](de-de/apps/e-post/first-steps/registration/). Gerne unterstützen wir Sie auch persönlich bei der Registrierung, wenden Sie sich dazu einfach an support@belware.de.
+Die Registrierung für die E-POSTBUSINESS API finden Sie [hier](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp). Eine Anleitung für die Registrierung finden Sie [hier](de-de/apps/e-post/first-steps/registration/). Gerne unterstützen wir Sie auch persönlich bei der Registrierung, wenden Sie sich dazu einfach an support@belware.de.

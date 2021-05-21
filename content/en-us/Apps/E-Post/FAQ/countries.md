@@ -8,6 +8,6 @@ weight: 1
 ---
 ### FAQ
 
-#### In what countries is the extension available?
+#### In what countries is the App available?
 
-Since the Deutsche Post is a German business, the E-Post Connector is also currently only available in Germany.
+Since the Deutsche Post is a German business, the Connector 365 E-POST App is also currently only available in Germany.

@@ -22,7 +22,7 @@
         <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
         <description>Arbeiten mit der E-POST API Versand Mit unserer API können Sie Rechnungen, Gutschriften, Mahnungen, Angebote und Aufträge versenden. In unserem Beispiel für die Anwendung werden wir uns aber auf Rechnungen konzentrieren.
 Wählen Sie zunächst die Rechnung aus welche Sie versenden möchten.
-Die Funktion zum versenden von E-POST Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste. Klappen Sie diese auf und wählen &amp;ldquo;Als E-Post Brief versenden&amp;rdquo;, um den Dialog zum versenden von E-POST Briefen zu öffnen.</description>
+Die Funktion zum versenden von E-POST Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste. Klappen Sie diese auf und wählen &amp;ldquo;Als E-POST Brief versenden&amp;rdquo;, um den Dialog zum versenden von E-POST Briefen zu öffnen.</description>
       </item>
       
       <item>

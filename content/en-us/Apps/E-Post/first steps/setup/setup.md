@@ -9,7 +9,7 @@ weight: 2
 ### Erste Schritte
 
 ### Einrichtung
-By searching **"Connector 365 Setup "** you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+By searching **"Connector 365 Setup"** you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
 
 ![](images/apps/epostsetup.PNG)
 
@@ -18,7 +18,7 @@ By searching **"Connector 365 Setup "** you can find the setup for the E-POST AP
 {{< /notice >}}
 #
 #### Set a Passwort
-To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password). After that you have to click on **"Set password"** in the setup. A new dialog will now open and at the same time the admin that was specified during the E-Post registration will receive an SMS with a PIN.
+To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password). After that you have to click on **"Set password"** in the setup. A new dialog will now open and at the same time the admin that was specified during the E-POST registration will receive an SMS with a PIN.
 
 Enter the PIN in the corresponding field and confirm the dialog with OK. The password is now set and a secret is automatically generated.
 

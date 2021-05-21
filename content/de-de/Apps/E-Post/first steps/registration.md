@@ -27,7 +27,7 @@ Wichtig zu beachten ist auch, dass die Personendaten sich nicht auf den Geschäf
 {{< /notice >}}
 #
 
-Nachdem Sie alle wichtigen Daten ausgefüllt haben, können Sie den Regisrierungsknopf am Ende der Seite betätigen.
+Nachdem Sie alle wichtigen Daten ausgefüllt haben, können Sie den Registrierungsknopf am Ende der Seite betätigen.
 
 Es folgt ein wichtiger Schritt, auf der nächsten Seite, wird eine Mobilfunknummer abgefragt. Hier ist es wichtig, dass unbedingt eine Nummer gewählt wird auf die im weiteren Verlauf der Einrichtung Zugriff besteht, da diese Nummer den PIN für die generierung des Geheimnissen im späteren Verlauf erhält.
 

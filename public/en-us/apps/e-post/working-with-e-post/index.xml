@@ -22,7 +22,7 @@
         <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
         <description>Working with E-POST Sending With our API you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
 First select the invoice you want to send.
-The function for sending E-POST letters can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as E-Post letter&amp;rdquo; to open the dialog for sending E-POST letters.
+The function for sending E-POST letters can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as E-POST letter&amp;rdquo; to open the dialog for sending E-POST letters.
 The dialog In the dialog you have the possibility to adjust certain options for sending the letter, e.</description>
       </item>
       

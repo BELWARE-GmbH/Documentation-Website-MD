@@ -10,13 +10,13 @@ weight: 1
 
 ### Sending
 
-With our API you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
+With our App you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
 
 ![](images/apps/epostrechnung.PNG)
 
 First select the invoice you want to send.
 
-The function for sending E-POST letters can be found under **"Print/Send"** in the menu bar. Open it and select **"Send as E-Post letter"** to open the dialog for sending E-POST letters.
+The function for sending E-POST letters can be found under **"Print/Send"** in the menu bar. Open it and select **"Send as E-POST letter"** to open the dialog for sending E-POST letters.
 
 ![](images/apps/epostprintsend.PNG)
 

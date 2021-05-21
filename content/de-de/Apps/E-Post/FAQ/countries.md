@@ -8,6 +8,6 @@ weight: 1
 ---
 ### FAQ
 
-#### In welchen Ländern in die Erweiterung Verfügbar?
+#### In welchen Ländern in die App Verfügbar?
 
-Da die Deutsche Post ein deutsches Unternehmen ist, ist unsere Erweiterung nur in Deutschland verfügbar.
+Da die Deutsche Post ein deutsches Unternehmen ist, ist unsere App nur in Deutschland verfügbar.

@@ -10,13 +10,13 @@ weight: 1
 
 ### Versand
 
-Mit unserer API können Sie Rechnungen, Gutschriften, Mahnungen, Angebote und Aufträge versenden. In unserem Beispiel für die Anwendung werden wir uns aber auf Rechnungen konzentrieren.
+Mit unserer App können Sie Rechnungen, Gutschriften, Mahnungen, Angebote und Aufträge versenden. In unserem Beispiel für die Anwendung werden wir uns aber auf Rechnungen konzentrieren.
 
 ![](images/apps/epostrechnung.PNG)
 
 Wählen Sie zunächst die Rechnung aus welche Sie versenden möchten.
 
-Die Funktion zum versenden von E-POST Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als E-Post Brief versenden"**, um den Dialog zum versenden von E-POST Briefen zu öffnen.
+Die Funktion zum versenden von E-POST Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als E-POST Brief versenden"**, um den Dialog zum versenden von E-POST Briefen zu öffnen.
 
 ![](images/apps/epostprintsend.PNG)
 

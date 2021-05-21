@@ -9,7 +9,7 @@ weight: 2
 ### Erste Schritte
 
 ### Einrichtung
-Über die Suche unter **"Connector 365 Setup"** können Sie die Einrichtung für die E-POST API finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+Über die Suche unter **"Connector 365 Setup"** können Sie die Einrichtung für die Connector 365 E-POST App finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 
 ![](images/apps/epostsetup.PNG)
 
@@ -18,7 +18,7 @@ weight: 2
 {{< /notice >}}
 #
 #### Passwort setzen
-Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist. Anschließend müssen Sie auf **"Passwort setzen"** in der Einrichtung klicken. Es öffnet sich nun ein neuer Dialog und gleichzeitig erhält der Admin der bei der E-Post Registrierung angegeben wurde eine SMS mit einem PIN.
+Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist. Anschließend müssen Sie auf **"Passwort setzen"** in der Einrichtung klicken. Es öffnet sich nun ein neuer Dialog und gleichzeitig erhält der Admin der bei der E-POST Registrierung angegeben wurde eine SMS mit einem PIN.
 
 Geben Sie den PIN in das entsprechende Feld ein und bestätigen Sie den Dialog mit OK. Das Passwort ist nun gesetzt und es wird automatisch ein Geheimnis generiert.
 
@@ -30,7 +30,7 @@ Geben Sie den PIN in das entsprechende Feld ein und bestätigen Sie den Dialog m
 | Datei in Jobliste speichern  | Legt fest ob versendete Dateien in der Jobliste archiviert werden                                  |
 | Testmodus                    | Wenn diese Option aktiviert ist, werden die Daten der Briefe nicht an das Druckzentrum übermittelt |
 | Testmail                     | Ist der Testmodus aktiviert, erhält diese E-Mail-Adresse eine Benachrichtigung über den Versand.   |
-| E-Post Sperrbereich anzeigen | Zeigt den von der Deutschen Post geforderten Sperrbereich auf Testbriefen an                       |
+| E-POST Sperrbereich anzeigen | Zeigt den von der Deutschen Post geforderten Sperrbereich auf Testbriefen an                       |
 
 
 
