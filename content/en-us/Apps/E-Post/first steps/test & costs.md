@@ -27,8 +27,8 @@ The following options are available to you as a registered E-POST customer:
 
 For both options you need your EKP number. If you do not have it at hand, please contact us.
 
-The trial period is **30 days**.
-The postage costs incurred will be billed directly to you via Deutsche Post.
+To test the app, you are allowed to send 5 letters through the app without purchasing it.
+The postage costs incurred during testing will be billed directly to you via Deutsche Post.
 
 If the trial period is too short for you, please contact us at **support@belware.de**. We will be happy to arrange an individual test period with you. 
  
@@ -39,7 +39,11 @@ Connector 365 E-POST API is available for the following BC licensing:
 
 If you would like to purchase a full version of our App, please contact us via **info@belware.de**
 
-### Costs
-A license for the Connector 365 E-POST app costs 9,90€ and includes unlimited sending of letters for an unlimited number of users.
+If you want to purchase a full version of our app, please use our [order form](https://forms.office.com/r/JNtGHfUi6n)
 
-The postage costs incurred through use are billed directly to you via Deutsche Post.
+Your cost:
+
+| Connector 365 E-POST App | 9,90€ / Month |
+|--------------------------|---------------|
+
+The postage costs incurred through use will be billed to you directly via Deutsche Post.
