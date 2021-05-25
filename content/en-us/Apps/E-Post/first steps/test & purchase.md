@@ -1,5 +1,5 @@
 ---
-title: "Test & Costs"
+title: "Test & Purchase"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,11 +8,11 @@ weight: 2
 ---
 ### First Steps
 
-### Test
+### Test & Purchase
 
 The App is available on [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview).
 
-![](images/apps/epoststore.PNG)
+![](images/apps/epoststorenew.PNG)
 
 After the download you have the following test options:
 
