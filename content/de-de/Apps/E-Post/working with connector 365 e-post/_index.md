@@ -1,14 +1,14 @@
 ---
-title: "Neu und geplant"
+title: "Arbeiten mit der Connector 365 E-POST"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
-weight: 2
+weight: 3
 ---
-### Neue und geplante Features der Connector 365 E-POST App
+### Arbeiten mit der Connector 365 E-POST
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 E-POST App*.
+Hier finden Sie alle wichtigen Informationen und Hinweise zur korrekten Anwendung der Connector 365 E-POST App*.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

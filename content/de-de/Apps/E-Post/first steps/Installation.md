@@ -18,7 +18,7 @@ Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktio
 
 ![](images/apps/storeepost.PNG)
 
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließen **Installieren**.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die Connector 365 E-POST App zu wählen. Unsere Connector 365 E-POST App* ist in Deutsch und Englisch verfügbar. Klicken Sie anschließend **Installieren**.
 
 ![](images/XRechnung/xrechnungsprache.PNG)
 
@@ -30,9 +30,13 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 Wenn alles geklappt hat, können Sie nun den **Connector 365 E-POST** unter **Installierte Erweiterungen** finden.
 
-![](images/apps/epostinstalliert.png)
+![](images/apps/epostinstalliertde.PNG)
 
 Sie können nun mit der [Einrichtung](/de-de/apps/e-post/first-steps/setup/) starten.
+
+
+
+***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
 
 
 

@@ -1,17 +1,17 @@
 ---
-title: "Einrichtung"
+title: "E-POSTBUSINESS API"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 2
+weight: 1
 ---
 ### Erste Schritte
 
-### Einrichtung
-Über die Suche unter **"Connector 365 Setup"** können Sie die Einrichtung für die Connector 365 E-POST App finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+### E-POSTBUSINESS API
+Über die Suche unter **"Connector 365 Setup"** können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 
-![](images/apps/epostsetup.PNG)
+![](images/apps/eposteinrichtungde.PNG)
 
 {{< notice info "Hinweis" >}}
  _Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung_
@@ -32,6 +32,9 @@ Geben Sie den PIN in das entsprechende Feld ein und bestätigen Sie den Dialog m
 | Testmail                     | Ist der Testmodus aktiviert, erhält diese E-Mail-Adresse eine Benachrichtigung über den Versand.   |
 | E-POST Sperrbereich anzeigen | Zeigt den von der Deutschen Post geforderten Sperrbereich auf Testbriefen an                       |
 
+
+
+***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
 
 
 

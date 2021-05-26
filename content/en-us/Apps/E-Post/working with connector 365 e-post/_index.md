@@ -1,5 +1,5 @@
 ---
-title: "Working with the E-POST App"
+title: "Working with the Connector 365 E-POST"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false

@@ -10,6 +10,12 @@ weight: 6
 
 Hier finden Sie einige informative Videos zur unserer Connector 365 E-POST App, jedes Video behandelt ein spezielles Thema
 
-#### Schnelle Übersicht der App
-
+#### kurze Übersicht der App - Englisch
+<p style="text-align: center;">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1RVKaTl5BbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+#### kurze Übersicht der App - Deutsch
+<p style="text-align: center;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/P0lfFN8yFkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>

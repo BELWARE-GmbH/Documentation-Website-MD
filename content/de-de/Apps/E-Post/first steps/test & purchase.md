@@ -10,7 +10,7 @@ weight: 2
 
 ### Test & Kauf
 
-Die Connector 365 E-POST App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview) zur Verfügung.
+Die Connector 365 E-POST App* steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview) zur Verfügung.
 
 ![](images/apps/epoststorenew.PNG)
 
@@ -45,3 +45,7 @@ Ihre Kosten:
 |--------------------------|---------------|
 
 Die durch die Nutzung entstehenden Portokosten werden direkt über die Deutsche Post mit Ihnen abgerechnet.
+
+
+
+***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
