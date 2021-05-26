@@ -9,15 +9,17 @@ weight: 3
 ### First steps
 
 ### Registration
-To fully use the App, prior registration with Deutsche Post is required. The registration page can be found [here](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp) (only available in German) but also directly in the Connector 365 setup.
+To fully use the Connector 365 E-POST App*, prior registration with Deutsche Post is required. The registration page can be found [here](https://shop.deutschepost.de/shop/registration/registrationCollectData.jsp) (only available in German) but also directly in the Connector 365 E-POST App.
+
+![](images/apps/epostsetupen.PNG)
 
 {{< notice info "Note" >}}
- _We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de._
+ _We will be happy to assist you in registering the E-POSTBUSINESS API with the Deutsche Post. To do so, simply contact support@belware.de._
 {{< /notice >}}
 #
 In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.
 
-It is also important to note that the personal data does not refer to the business owner, but to the admin who will take care of the E-POST.
+It is also important to note that the personal data does not refer to the business owner, but to the admin who will take care of the E-POSTBUSINESS API.
 
 ![](images/apps/epostformular.PNG)
 
@@ -43,6 +45,10 @@ When these steps are done you can confirm the button **"Order with costs"** to c
 #
 
 After completing the registration, you will receive an e-mail at the address you provided previously, which confirms the registration. Within the next 3 working days you will receive your order data (and your EKP) from Deutsche Post, which concludes the registration and allows you to proceed with the [setup](en-us/apps/e-post/setup/countrynames). 
+
+
+
+***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**
 
 
 

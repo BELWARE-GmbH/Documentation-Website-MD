@@ -14,7 +14,7 @@ Der Bedarf an postalischen Belegempfang ist immer noch allgegenwärtig. Was hei�
 
 **Per Mausklick ab in den Briefkasten**
 
-Dank der Connector 365 E-POST App* sind die Zeiten des manuellen Versands jedoch vorbei. Von überall aus können Sie nun mit nur einem Klick Ihre Belege postalisch verschicken. Nach installieren der App haben Sie die Möglichkeit, den gewünschten Beleg auszuwählen und diese mit den folgenden bekannten Versandoptionen zu versenden:
+Dank der Connector 365 E-POST App* sind die Zeiten des manuellen Versands jedoch vorbei. Von überall aus können Sie nun mit nur einem Klick Ihre Belege postalisch verschicken. Nach installieren der Connector 365 E-POST App haben Sie die Möglichkeit, den gewünschten Beleg auszuwählen und diese mit den folgenden bekannten Versandoptionen zu versenden:
 
 Belegarten
 - Geb. Verkaufsrechnungen

@@ -43,7 +43,7 @@ Abschließend müssen Sie noch eine Zahlungsart festlegen (welche später auch n
 Wenn diese Schritte erfolgt sind können Sie die Schaltfläche **"Kostenpflichtig bestellen"** bestätigen um die Registrierung abzuschließen.
 
 {{< notice info "Hinweis" >}}
- _Die Registrierung der E-POSTBUSINESS API ist kostenlos. Es werden lediglich, wie üblich, Portokosten fällig. [Aktuelle E-POSTBUSINESS API Portokosten](/files/postpreisliste010621.pdf). Die Portokosten rechnet die Deutsche Post direkt mit Ihnen ab._
+ _The registration of the E-POSTBUSINESS API is free of charge. Only postage costs are due, as usual. [Current E-POSTBUSINESS API postage costs](/files/postpreisliste010621.pdf) (only available in German). Deutsche Post will settle the postage costs directly with you._
 {{< /notice >}}
 #
 

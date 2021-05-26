@@ -26,7 +26,7 @@ Im Dialog haben Sie die Möglichkeit bestimmte Optionen für den Versand des Bri
 
 ![](images/apps/epostdialogde.PNG)
 
-Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Click auf **"OK"** ausführen. Ihre Rechnung wird nun an die Deutsche Post übermittelt und von dort aus direkt dem Empfänger in den Briefkasten.
+Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Click auf **"OK"** ausführen. Ihr Beleg wird nun an die Deutsche Post übermittelt und von dort aus direkt dem Empfänger in den Briefkasten.
 
 {{< notice info "Hinweis" >}}
  _Die Connector 365 E-POST App zieht sich die Adresse des Empfängers automatisch aus dessen Daten_

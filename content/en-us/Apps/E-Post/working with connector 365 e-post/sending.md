@@ -10,23 +10,23 @@ weight: 1
 
 ### Sending
 
-With our App you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
+With our Connector 365 E-POST App* you can send pos. sales invoices, pos. credit notes, issued reminders, quotes and sales orders. However, in our application example we will focus on invoices. All other document types can be sent in the same way.
 
 ![](images/apps/epostrechnung.PNG)
 
 First select the invoice you want to send.
 
-The function for sending E-POST letters can be found under **"Print/Send"** in the menu bar. Open it and select **"Send as E-POST letter"** to open the dialog for sending E-POST letters.
+The function for sending letters by post can be found under **"Print/Send"** in the menu bar. Open it and select **"Send as letter"** to open the dialog for sending letters.
 
-![](images/apps/epostprintsend.PNG)
+![](images/apps/epostprintsenden.PNG)
 
 ### The dialog
 
 In the dialog you have the possibility to adjust certain options for sending the letter, e.g. whether you want to send the letter in black and white or in color.
 
-![](images/apps/epostdialog.PNG)
+![](images/apps/epostdialogen.PNG)
 
-After you have made all desired changes, you can execute the dispatch with a click on **"OK"**. Your invoice will now be sent to Deutsche Post and from there to the recipient.
+After you have made all desired changes, you can execute the dispatch with a click on **"OK"**. Your invoice will now be sent to Deutsche Post and from there to the recipient's mailbox.
 
 {{< notice info "Note" >}}
  _The App automatically extracts the recipient's address from their data_
@@ -35,10 +35,10 @@ After you have made all desired changes, you can execute the dispatch with a cli
 
 #### Aktionen
 
-| Feld              | Beschreibung                                                                                                                   |
+| Field             | Description                                                                                                                    |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Color             | Here you choose whether the letter is printed in color or b/w                                                                  |
-| With Coverletter  | Sending letters with a cover sheet ensures that the letter does not exceed the areas required by Deutsche Post.                |
+| With Coverletter  | Sending letters with a cover sheet ensures that the letter does not exceed the areas required for printing by Deutsche Post.   |
 | Duplex            | Allows letters to be sent as a duplex                                                                                          |
 | Registered Letter | Here you can set up the different ways of registered letters                                                                   |
 | Contact Name      | The name of the recipient                                                                                                      |
@@ -47,3 +47,7 @@ After you have made all desired changes, you can execute the dispatch with a cli
 | Post Code         | The postal code of the recipient                                                                                               |
 | City              | The city of the recipient                                                                                                      |
 | Country           | The country of the recipient                                                                                                   |
+
+
+
+***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**

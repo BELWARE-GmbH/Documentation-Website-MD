@@ -10,14 +10,14 @@ weight: 2
 
 ### Test & Purchase
 
-The App is available on [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview).
+The Connector 365 E-POST App* is available on [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview).
 
 ![](images/apps/epoststorenew.PNG)
 
 After the download you have the following test options:
 
 **No registered E-POST customer**
-You will receive a message when testing the app stating that there would be a letter dispatch at this point.
+You will receive a message when testing the app stating that there would be a letter dispatch at this point. If you want to register, you can find a guide [here](/en-us/apps/e-post/first-steps/registration/)
 
 **Registered E-POST customer**
 The following options are available to you as a registered E-POST customer:
@@ -27,7 +27,7 @@ The following options are available to you as a registered E-POST customer:
 
 For both options you need your EKP number. If you do not have it at hand, please contact us.
 
-To test the app, you are allowed to send 5 letters through the app without purchasing it.
+To test the app, you are allowed to send 5 letters through the Connector 365 E-POST App without purchasing it.
 The postage costs incurred during testing will be billed directly to you via Deutsche Post.
 
 If the trial period is too short for you, please contact us at **support@belware.de**. We will be happy to arrange an individual test period with you. 
@@ -47,3 +47,7 @@ Your cost:
 |--------------------------|---------------|
 
 The postage costs incurred through use will be billed to you directly via Deutsche Post.
+
+
+
+***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**

@@ -6,8 +6,8 @@ draft: false
 collapsible: true
 weight: 1
 ---
-### Finden Sie die richtige App für Microsoft Dynamics 365 Business Central im Microsoft AppSource
+### Find the right app for Microsoft Dynamics 365 Business Central in the Microsoft AppSource.
 
-Im Microsoft AppSource finden Sie eine große Auswahl an Lösungen mit der Sie Ihre bestehenden Geschäftsanwendungen in Dynamics 365 Business Central mit neuen Funktionen über exklusive Apps erweitern können.
+In the Microsoft AppSource you will find a wide range of solutions with which you can extend your existing business applications in Dynamics 365 Business Central with new functions via exclusive apps.
 
-Mit der neuen Produktlinie “Connector 365” erhalten SIe passgenau kleine Apps aus der Connector NAV Produktreihe. Unsere Apps erweitern Ihre Geschäftsanwendungen in den Bereichen Belegausgabe, Kommunikation und Schnittstellen zu Dritt-Produkten, die im Standard nicht verfügbar sind. Mit der Produktlinie Connector 365 - immer genau die richtige App für Sie. Testen Sie einfach jede App vor dem Erwerb kostenlos, bevor Sie Ihre neue Lösung implementieren.
+With the new product line "Connector 365" you will receive small apps from the Connector NAV product line. Our apps extend your business applications in the areas of document output, communication and interfaces to third-party products that are not available in the standard. With the Connector 365 product line - always exactly the right app for you. Simply try any app for free before you purchase and implement your new solution.

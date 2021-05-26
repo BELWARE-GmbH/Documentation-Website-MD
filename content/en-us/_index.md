@@ -21,7 +21,7 @@ footer:
 sections:
   - bgcolor: "#f7f8f9"
     type: card
-    description: "In our portal you will find the documentation and help resources for our apps. They are divided into the two categories Apps on AppSource, our Apps directly from the Microsoft AppSource and Apps onPrem, our AppSource Apps available in the onpremise world."
+    description:
     color: "#000000"
     header: 
       title: Our Solutions
@@ -33,6 +33,7 @@ sections:
         subtitlePosition: center
         image: images/appsbanner.png
         color: "#000000"
+        description: In the Connector 365 Apps section you will find the documentation for our solutions from BC 15 onPrem, as well as SaaS. 
         button: 
           name: To our Apps
           link: apps
@@ -44,6 +45,7 @@ sections:
         subtitlePosition: center
         image: images/addonsbanner.png
         color: "#000000"
+        description: In the section Connector NAV / BC Add-ons you will find the documentation for our solutions up to BC 14 onPrem in C/AL. 
         button: 
           name: To our Addons
           link: under-construction

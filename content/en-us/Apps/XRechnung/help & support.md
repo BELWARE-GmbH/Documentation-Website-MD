@@ -35,8 +35,8 @@ Fax: +49 2362 788 90 56
 We use both TeamViewer or Microsoft Teams for Support, if you are not using TeamViewer yet you can download it [here](https://get.teamviewer.com/belware).
 
 **Office Hours:**
-Mon - Thu: 09:00 - 12:30 & 13:00 - 17:00 UTC+2
-Fri: 09:00 - 12:30 & 13:00 - 16:00 UTC+2
+Mon - Thu: 08:00 - 17:00 UTC+2
+Fri: 08:00 - 16:00 UTC+2
 
 ### Statement of Direction und Support-Lifecycle
 
