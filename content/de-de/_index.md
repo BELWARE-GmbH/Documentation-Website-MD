@@ -31,11 +31,11 @@ sections:
     cards:
       - subtitle:
         subtitlePosition: center
-        image: images/appsbanner.png
+        image: images/connector365banner.png
         color: "#000000"
-        description: In dem Bereich Connector 365 Apps finden Sie die Dokumentationen zu unseren Lösungen ab BC 15 onPrem, sowie SaaS. 
+        description: In dem Bereich Connector 365 finden Sie die Dokumentationen zu unseren Lösungen ab BC 15 onPrem, sowie SaaS. 
         button: 
-          name: Zu unseren Apps
+          name: Zum Connector 365
           link: apps
           size: large
           target: _blank
@@ -43,11 +43,11 @@ sections:
           bgcolor: '#184977'
       - subtitle: 
         subtitlePosition: center
-        image: images/addonsbanner.png
+        image: images/connectorbanner.png
         color: "#000000"
         description: In dem Bereich Connector NAV / BC Add-ons finden Sie die Dokumentationen zu unseren Lösungen bis BC 14 onPrem in C/AL. 
         button: 
-          name: Zu den Addons
+          name: Zum Connector NAV/BC
           link: under-construction
           size: large
           target: _blank

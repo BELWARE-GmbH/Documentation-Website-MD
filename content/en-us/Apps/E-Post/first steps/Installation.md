@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 4
 ---
-### Erste Schritte
+### First steps
 
 ### Installation
 
@@ -16,7 +16,7 @@ Using the search function, open the **Marketplace for Extensions** and open it.
 
 The Microsoft AppSource opens. There you can use the search function again to find the **Connector 365 E-POST**. Click on **Free Trial** to start the installation. Before the installation starts, you have to provide some contact information.
 
-![](images/apps/storeepost.PNG)
+![](images/apps/storeepost.png)
 
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German. Then click **Install** .
 

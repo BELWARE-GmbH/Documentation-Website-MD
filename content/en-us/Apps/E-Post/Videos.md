@@ -15,11 +15,6 @@ Here you can find some informative videos about our Connector 365 E-POST App, ea
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1RVKaTl5BbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-#### Connector 365 E-POST - Quick Overview - German
-<p style="text-align: center;">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/P0lfFN8yFkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
 
 
 ***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**

@@ -12,7 +12,7 @@ weight: 2
 
 The Connector 365 E-POST App* is available on [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview).
 
-![](images/apps/epoststorenew.PNG)
+![](images/apps/epoststorenewen.PNG)
 
 After the download you have the following test options:
 

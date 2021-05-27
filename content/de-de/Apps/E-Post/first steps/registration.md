@@ -43,16 +43,15 @@ Abschließend müssen Sie noch eine Zahlungsart festlegen (welche später auch n
 Wenn diese Schritte erfolgt sind können Sie die Schaltfläche **"Kostenpflichtig bestellen"** bestätigen um die Registrierung abzuschließen.
 
 {{< notice info "Hinweis" >}}
- _The registration of the E-POSTBUSINESS API is free of charge. Only postage costs are due, as usual. [Current E-POSTBUSINESS API postage costs](/files/postpreisliste010621.pdf) (only available in German). Deutsche Post will settle the postage costs directly with you._
+ _Die Registrierung der E-POSTBUSINESS API ist kostenlos. Es werden lediglich, wie üblich, Portokosten fällig. [Aktuelle E-POSTBUSINESS API Portokosten](/files/postpreisliste010621.pdf). Die Portokosten rechnet die Deutsche Post mit Ihnen direkt ab._
 {{< /notice >}}
 #
 
-Nach Abschluss der Registrierung erhalten Sie eine E-Mail an die von Ihnen zuvor angegebene Adresse, welche Ihnen die Registrierung bestätigt. Innerhalb der nächsten 3 Werktage werden Sie abschließend noch Ihre Auftragsdaten (und Ihre EKP) von der Deutschen Post erhalten, womit die Registrierung dann entgültig abgeschlossen ist und mit der [Einrichtung](de-de/apps/e-post/setup/countrynames) fortgefahren werden kann. 
+Nach Abschluss der Registrierung erhalten Sie eine E-Mail an die von Ihnen zuvor angegebene Adresse, welche Ihnen die Registrierung bestätigt. Innerhalb der nächsten 3 Werktage werden Sie abschließend noch Ihre Auftragsdaten (und Ihre EKP) von der Deutschen Post erhalten, womit die Registrierung dann entgültig abgeschlossen ist und mit der [Einrichtung](/de-de/apps/e-post/first-steps/setup/) fortgefahren werden kann. 
 
 
 
 ***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
-
 
 
 
