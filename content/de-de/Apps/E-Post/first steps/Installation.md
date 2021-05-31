@@ -22,7 +22,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
 
 ![](images/XRechnung/xrechnungsprache.PNG)
 
-Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt wird. Diese findet Vollautomatisch im Hintergrund statt
+Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt wird. Diese findet vollautomatisch im Hintergrund statt
 
 ![](images/XRechnung/xrechnunginstallation.PNG)
 
