@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbeiten mit CTI for STARFACE on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/</link>
+    <description>Recent content in Arbeiten mit CTI for STARFACE on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Click to dial</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
+        <description>Arbeiten mit CTI for STARFACE Click to dial Mit unserer App haben Sie die Möglichkeit direkt aus Ihren Kontakten Anrufe zu starten. Öffnen Sie den entsprechenden Kontakt mit dem Sie telefonieren möchten und
+klappen Sie den Bereich &amp;ldquo;Kommunikation&amp;rdquo; auf. Neben der Telefonnr. befinden sich nun eine Schaltfläche mit 3 Punkten. Mit einem Klick auf die Schaltfläche wird ein Telefonat ausgelöst.
+Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Browsers ausschalten oder Ihren STARFACE-Client zum öffnen von Telefonnr.</description>
+      </item>
+      
+      <item>
+        <title>Eingehende Anrufe/CTI-Client</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</guid>
+        <description>Arbeiten mit CTI for STARFACE Eingehende Anrufe und der CTI-Client Die Connector 365 CTI for STARFACE App öffnet Ihnen bei eigehenden Telefonaten automatisch die Kontaktkarte der anrufenden Person. Damit dieser Prozess reibungslos funktioniert, muss auf zwei Sachen geachtet werden.
+  Die Telefonnr. der anrufenden Person ist in einem Kontakt hinterlegt. Sollte dies nicht der Fall sein wird Ihnen nur die unbekannte Nummer angezeigt.
+  Der &amp;ldquo;CTI-Client&amp;rdquo; muss geöffnet sein, der Client ist der Kern der Connector 365 CTI for STARFACE App und wird zwingend benötigt.</description>
+      </item>
+      
+      <item>
+        <title>Telefonnotiz</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
+        <description>Arbeiten mit CTI for STARFACE Erstellen von Telefonnotizen Nach Ihrem Telefonat haben Sie die Möglichkeit eigene Notizen zum Inhalt des Gesprächs zu verfassen. Dies können Sie direkt aus der &amp;ldquo;Kontaktkarte&amp;rdquo;, welche nach dem Telefonat noch offen sein sollte, vornehmen.
+Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträgen&amp;rdquo; aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich &amp;ldquo;CTI-Notizen&amp;rdquo;, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen.</description>
+      </item>
+      
+      <item>
+        <title>Anrufliste</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
+        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an zwei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
+CTI-Einträge In Ihren Kontakten können Sie die &amp;ldquo;CTI-Einträge&amp;rdquo; finden, diese befinden sich am Ende der Kontaktkarte. Dort finden Sie die Details zu allen Telefonaten die mit diesem Kontakt gefürht wurden, wie z.B. ob es ein- oder ausgehende war, Wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

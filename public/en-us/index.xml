@@ -25,22 +25,13 @@ Repeat this process until your license capacity is used up.</description>
       </item>
       
       <item>
-        <title>Countries?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/countries/</link>
+        <title>E-POSTBUSINESS API</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/countries/</guid>
-        <description>FAQ In what countries is the App available? Since the Deutsche Post is a German business, the Connector 365 E-POST App is also currently only available in Germany.</description>
-      </item>
-      
-      <item>
-        <title>Country names</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
-        <description>Erste Schritte Ländercodes Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
-You can find the setup for this in the search under &amp;ldquo;Countries/Regions&amp;rdquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
       </item>
       
       <item>
@@ -89,7 +80,7 @@ More Information about the Ident ID can be found on the specific page</descripti
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</guid>
-        <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my cloud ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Invoice processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the invoice creator is not on-site. Depending on the volume of invoices to be sent, this process can become even more time-consuming - time that could be used more productively.</description>
+        <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Document processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the document creator is not on-site. Depending on the volume of documents to be sent, this process can become even more time-consuming - time that could be used more productively.</description>
       </item>
       
       <item>
@@ -167,10 +158,9 @@ In this example we have attached two PDFs and a time-limited image.</description
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
-        <description>Working with E-POST Sending With our App you can send invoices, credit notes, reminders, quotes and orders. However, in our application example we will focus on invoices.
+        <description>Working with E-POST Sending With our Connector 365 E-POST App* you can send pos. sales invoices, pos. credit notes, issued reminders, quotes and sales orders. However, in our application example we will focus on invoices. All other document types can be sent in the same way.
 First select the invoice you want to send.
-The function for sending E-POST letters can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as E-POST letter&amp;rdquo; to open the dialog for sending E-POST letters.
-The dialog In the dialog you have the possibility to adjust certain options for sending the letter, e.</description>
+The function for sending letters by post can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as letter&amp;rdquo; to open the dialog for sending letters.</description>
       </item>
       
       <item>
@@ -228,12 +218,16 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>New and planned Version 1.0.0.5  Sending e-post letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types (delivery bills, orders, quotations) Small improvements  </description>
+        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
+ Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
+  Sending status (joblist) in the factbox per document in the overview
+  Two boxes for the joblist in the dashboard
+  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
       </item>
       
       <item>
@@ -260,8 +254,18 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
-        <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the job list. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
+        <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred.</description>
+      </item>
+      
+      <item>
+        <title>Country names</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
+        <description>First Steps Country names Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
+You can find the setup for this in the search under &amp;ldquo;Countries/Regions&amp;rdquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
       </item>
       
       <item>
@@ -361,15 +365,6 @@ There are many places that cause an XRechnung to not conform to the schema. For 
       </item>
       
       <item>
-        <title>Registration?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/registration/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/registration/</guid>
-        <description>FAQ How do I register with the Deutsche Post? The registration for the E-POSTBUSINESS API can be found here here (Please note that the site is only available in German). We are happy to support you during the registration process. Just contact us via support@belware.de</description>
-      </item>
-      
-      <item>
         <title>Report default attachments</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -380,28 +375,17 @@ Start by opening the report selection of the report you want, in this example we
       </item>
       
       <item>
-        <title>Setup</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</link>
+        <title>Test &amp; Purchase</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
-While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
-      </item>
-      
-      <item>
-        <title>Test &amp; Costs</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/</guid>
-        <description>First Steps Test The App is available on Microsoft AppSource.
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/</guid>
+        <description>First Steps Test &amp;amp; Purchase The Connector 365 E-POST App* is available on Microsoft AppSource.
 After the download you have the following test options:
 No registered E-POST customer
-You will receive a message when testing the app stating that there would be a letter dispatch at this point.
+You will receive a message when testing the app stating that there would be a letter dispatch at this point. If you want to register, you can find a guide here
 Registered E-POST customer
-The following options are available to you as a registered E-POST customer:
- Test mode sending - you will receive the letter by mail to a previously specified address.</description>
+The following options are available to you as a registered E-POST customer:</description>
       </item>
       
       <item>
@@ -484,12 +468,12 @@ Connector 365 is available for the following BC licensing:</description>
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>New and plannedd Version 1.0.1.0  Dispatch of other document types (credit notes, reminders, quotations, orders) Sending duplex letters Global joblist in the factbox E-POST joblist in dashboard  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  </description>
+        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
       </item>
       
       <item>
@@ -559,15 +543,6 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
-        <title>International?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/international/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/international/</guid>
-        <description>FAQ Does the app support international shipping? Yes, the extension allows its users to send invoices in any country of their choice.</description>
-      </item>
-      
-      <item>
         <title>Pricing?</title>
         <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/faq/pricing/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -603,8 +578,8 @@ If you want to purchase additional licenses for the app, you can use our form.</
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/registration/</guid>
-        <description>First steps Registration To fully use the App, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 setup.
-We will be happy to assist you in registering with Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information. Fill in the form, but first make sure that you are registering as a business customer.</description>
+        <description>First steps Registration To fully use the Connector 365 E-POST App*, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 E-POST App.
+We will be happy to assist you in registering the E-POSTBUSINESS API with the Deutsche Post. To do so, simply contact support@belware.de.  In the registration form you will be asked for various contact information.</description>
       </item>
       
       <item>
@@ -728,18 +703,9 @@ Is it possible to add any account? Yes, however each account added needs to have
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/installation/</guid>
-        <description>Erste Schritte Installation Using the search function, open the Marketplace for Extensions and open it.
+        <description>First steps Installation Using the search function, open the Marketplace for Extensions and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
-After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
-      </item>
-      
-      <item>
-        <title>Pricing?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/pricing/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/pricing/</guid>
-        <description>FAQ how does the pricing work? Please contact us under info@belware.de if you want more information about prices.</description>
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
       </item>
       
       <item>
@@ -854,15 +820,6 @@ Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
-        <title>Starting?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/getting-started/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/getting-started/</guid>
-        <description>FAQ How do I start? After installing the extension and registering with the Deutsche Post, you simply need to fill in the necessary fields on the E-POST setup page. You can find this Menu via the search function. For a more detailed guide please refer to our extended documentation.</description>
-      </item>
-      
-      <item>
         <title>Tax Category</title>
         <link>http://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -883,23 +840,13 @@ Here you should now fill the field “Tax category” with the respective design
       </item>
       
       <item>
-        <title>Other reports?</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/faq/reports/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/faq/reports/</guid>
-        <description>FAQ Is it possible to send other reports via E-POST Yes, from version 1.0.1.0 it is possible to send additional types of reports, which include the following in addition to invoices:
- Credit memo Reminder Quotes Orders  </description>
-      </item>
-      
-      <item>
         <title>Videos</title>
         <link>http://docs.belware.de/en-us/apps/e-post/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/videos/</guid>
-        <description>Videos Here you can find some informative videos about our E-POST App, each video covers a special topic
-Sending E-POST Letters </description>
+        <description>Videos Here you can find some informative videos about our Connector 365 E-POST App, each video covers a special topic
+Connector 365 E-POST - Quick Overview - English *The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
       </item>
       
       <item>

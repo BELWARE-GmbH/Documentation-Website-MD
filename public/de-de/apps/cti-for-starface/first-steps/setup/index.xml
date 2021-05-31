@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Webdienste</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</guid>
+        <description>Einrichtung Einrichtung des Webdienstes Nachdem die Extension erfolgreich in Ihrer Lösung veröffentlicht wurde, muss diese zunächst eingerichtet werden. Über die Suche gelangen Sie zur Seite &amp;ldquo;Webdienste&amp;rdquo;. Hier müssen Sie einen neuen Eintrag erstellen.
+Dazu benötigen Sie die folgenden Daten:
+Objektart: Seite
+Objekt-ID: 70109820
+Objektname: CTI-Client
+Servicename: CTI
+Nachdem Sie die Einrichtung hier vorgenommen haben, können Sie mit der weiteren Einrichtung fortfahren.</description>
+      </item>
+      
+      <item>
+        <title>STARFACE Modul</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <description>Einrichtung Einrichten des STARFACE Moduls Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf hier downloaden können.
+Nachdem Sie das Modul über das Adminportal hinzugefügt haben, muss dieses noch konfiguriert werden. Über das Stift-Symbol gelangen Sie in die Konfiguration.
+Unter dem Reiter Einrichtung müssen Sie nun die Nutzer anhand der Starface Login-ID einrichten.</description>
+      </item>
+      
+      <item>
+        <title>Nutzer &amp; Gruppen</title>
+        <link>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
+        <description>Einrichtung Gruppen Gruppen bieten Ihnen die Möglichkeit Ihre Nutzer zu sortieren egal ob es eine Unterteilung pro Abteilung oder pro Team ist, es lässt sich mit Gruppen abbilden. Nutzer die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI Client. Die Benutzung von Gruppen ist optional.
+Öffnen Sie über die Suchfunktion die &amp;ldquo;CTI Gruppen&amp;rdquo;, hier findet sich eine Tabelle mit zwei Spalten.
+Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf &amp;ldquo;Neu&amp;rdquo; um die Bearbeitung zu aktivieren.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
