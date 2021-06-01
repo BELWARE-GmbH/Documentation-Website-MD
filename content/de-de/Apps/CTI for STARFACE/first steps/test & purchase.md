@@ -10,7 +10,7 @@ weight: 2
 
 ### Test & Kauf
 
-Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.connector-365-cti-for-starface%7Cpappid.c2122935-411c-4417-9535-57769feb7e43?tab=overview) zur Verfügung.
+Die Connector 365 CTI for STARFACE App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.connector-365-cti-for-starface%7Cpappid.c2122935-411c-4417-9535-57769feb7e43?tab=overview) zur Verfügung.
 
 ![](images/apps/ctiappsourcede.PNG)
 
@@ -18,11 +18,11 @@ Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die 
 
 Sie haben jederzeit die Möglichkeit Ihre kostenlose Version um weitere Lizenzen zu erweitern. Jede Lizenz kostet 4,90€/Monat und wird wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser [Formular](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOFhKRzI1WUI2WUNUWDg3Ukk0SFBMT1JXMy4u) kostenpflichtig weitere Lizenzen erwerben.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser [Formular](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUN09ISENTR0ZHUkE5R0k4MVBDUVdSWEZJSS4u) kostenpflichtig weitere Lizenzen erwerben.
 
 ![](images/apps/ctiformsde.PNG)
  
-Connector 365 Mail Sender Plus steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+die Connector 365 CTI for STARFACE App steht Ihnen für die folgende BC Lizensierung zur Verfügung:
 
 - SaaS Essential
 - SaaS Premium
