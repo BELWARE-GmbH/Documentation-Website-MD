@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/privacy-policy/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -60,6 +70,31 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/e-post/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -138,17 +173,17 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/</loc>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/"
                 />
   </url>
   
@@ -318,36 +353,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/faq/countries/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/faq/countries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/faq/countries/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/apps/mail_attachment_plus/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -374,6 +379,26 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail-sender-plus/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/"
                 />
   </url>
   
@@ -443,17 +468,22 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</loc>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/"
+                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/"
+                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/"
                 />
   </url>
   
@@ -530,6 +560,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/sending/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -653,17 +688,22 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/setup/</loc>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/setup/"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/"
                 />
   </url>
   
@@ -679,6 +719,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/extending-the-setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/"
                 />
   </url>
   
@@ -709,21 +764,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/"
                 />
   </url>
   
@@ -818,17 +858,27 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/faq/registration/</loc>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/faq/registration/"
+                href="http://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/faq/registration/"
+                href="http://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/"
                 />
   </url>
   
@@ -893,18 +943,8 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/test-costs/</loc>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/test-costs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/test-costs/"
-                />
   </url>
   
   <url>
@@ -953,33 +993,23 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</loc>
+    <loc>http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/"
+                href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/"
+                href="http://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/"
                 />
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</loc>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/working-with-e-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/working-with-e-post/"
-                />
   </url>
   
   <url>
@@ -1088,6 +1118,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1148,21 +1183,6 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/faq/international/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/faq/international/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/faq/international/"
-                />
-  </url>
-  
-  <url>
     <loc>http://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1190,6 +1210,11 @@
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1283,6 +1308,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1294,6 +1324,26 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://docs.belware.de/en-us/apps/e-post/working-with-e-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://docs.belware.de/de-de/apps/e-post/working-with-e-post/"
                 />
   </url>
   
@@ -1358,6 +1408,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1414,21 +1469,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/faq/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/faq/"
                 />
   </url>
   
@@ -1493,6 +1533,11 @@
   </url>
   
   <url>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1504,21 +1549,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/apps/e-post/first-steps/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/faq/pricing/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/faq/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/faq/pricing/"
                 />
   </url>
   
@@ -1564,36 +1594,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="http://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/getting-started/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/faq/getting-started/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/faq/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/faq/getting-started/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/first-steps/setup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/first-steps/setup/"
                 />
   </url>
   
@@ -1733,18 +1733,8 @@
   </url>
   
   <url>
-    <loc>http://docs.belware.de/de-de/apps/e-post/faq/reports/</loc>
+    <loc>http://docs.belware.de/de-de/apps/cti-for-starface/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://docs.belware.de/en-us/apps/e-post/faq/reports/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://docs.belware.de/de-de/apps/e-post/faq/reports/"
-                />
   </url>
   
   <url>

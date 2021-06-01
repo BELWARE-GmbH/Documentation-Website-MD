@@ -15,23 +15,23 @@
     
       
       <item>
+        <title>E-POSTBUSINESS API</title>
+        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
+      </item>
+      
+      <item>
         <title>Country names</title>
         <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
-        <description>Erste Schritte Ländercodes Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
+        <description>First Steps Country names Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
 You can find the setup for this in the search under &amp;ldquo;Countries/Regions&amp;rdquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
-      </item>
-      
-      <item>
-        <title>Setup</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>http://docs.belware.de/en-us/apps/e-post/first-steps/setup/setup/</guid>
-        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
-While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification  Set a Passwort To set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password).</description>
       </item>
       
     

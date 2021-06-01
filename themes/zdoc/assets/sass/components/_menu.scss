@@ -166,7 +166,7 @@
     li {
       margin: 0.75rem 0 0.75rem 1.25rem;
 
-      @include truncate(170px);
+      @include truncate(320px);
 
       &.active {
         font-weight: bold;
