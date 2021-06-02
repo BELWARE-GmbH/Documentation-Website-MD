@@ -9,7 +9,14 @@ weight: 2
 ### Einrichtung
 
 ### Einrichten des STARFACE Moduls
-Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie [hier](files/CTI_Module.zip) downloaden können.
+Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf dieser Seite downloaden können.
+
+<p style="text-align: center;">
+Hier Downloaden
+</p>
+
+[<img src="/images/apps/ctidownload.jpg">](files/CTI_Module.zip)
+
 
 Nachdem Sie das Modul über das Adminportal hinzugefügt haben, muss dieses noch konfiguriert werden. Über das Stift-Symbol gelangen Sie in die Konfiguration.
 

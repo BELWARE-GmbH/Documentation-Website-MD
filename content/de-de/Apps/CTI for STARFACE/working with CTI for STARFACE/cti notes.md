@@ -13,11 +13,15 @@ Nach Ihrem Telefonat haben Sie die Möglichkeit eigene Notizen zum Inhalt des Ge
 
 ![](images/apps/ctinotede.PNG)
 
-Wählen Sie zunächst den entsprechenden Eintrag in den **"CTI-Einträgen"** aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich **"CTI-Notizen"**, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen.
+Wählen Sie zunächst den entsprechenden Eintrag in den **"CTI-Einträgen"** aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich **"CTI-Notizen"**, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen, diese kann maximal 1024 Zeichen lang sein.
 
 ![](images/apps/ctinotedialogde.PNG)
 
-Nachdem Sie Ihre Notiz verfasst haben wird diese in den Notizen angezeigt, über den Knopf zum erstellen von Notizen können Sie sich auch schon verfasste Notizen ansehen.
+Nachdem Sie Ihre Notiz verfasst haben wird diese in den Notizen angezeigt. Um die verfasste Notiz erneut einzusehen können Sie entweder über die gleiche Schaltfläche zum erstellen von Notizen, sich erstellte Notizen erneut anzeigen lassen oder alternativ auf die 3 Punkte neben der Notiz klicken, dort finden Sie ebenfalls die Option zur Ansicht.
 
 ![](images/apps/ctinotefillde.PNG)
+
+Ein längeres hovern über die Vorschau der Nachricht in der Factbox zeigt Ihnen die geschriebene Notiz auch an.
+
+![](images/apps/ctipreviewde.PNG)
 
