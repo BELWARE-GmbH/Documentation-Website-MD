@@ -14,6 +14,8 @@ You will receive the objects for the Connector 365 Base & Mail Attachment Plus A
 #### Publishing of the Connector 365 Base & Mail Attachment Plus App
 the publishing of the Connector Base & Mail Attachment Plus App is done via the **Business Central Administration Shell**. First transfer the files we sent to you to the server where your Business Central instance is running.
 
+![](images/apps/adminshell.PNG)
+
 Now start the **Business Central Administration Shell** to start the publishing process. Using the Administration Shell, first navigate to the location for the file using the **cd** command.
 
 **Example:**
@@ -44,7 +46,10 @@ Both apps should now be published in your system.
 {{< /notice >}}
 #
 
-#### Installing of the Connector 365 Base & Mail Attachment Plus App
+#### Installing the Connector 365 Base & Mail Attachment Plus App
+In the extension management of your environment, you will now see the apps as published, but they are not yet installed.
+
+![](images/apps/appinstallen.PNG)
 
 ##### Installing via the client
 Open your Business Central environment, open the search function and look for **Extension Management**.
@@ -52,9 +57,9 @@ Open your Business Central environment, open the search function and look for **
 There you should find the two apps with the status not installed. By clicking on the 3 dots of the respective app, you can now install it in your environment via the item **Install**.
 
 ##### Installing via the administration shell
-In case you want to install via the Administration Shell, you have to use the **Install-NAVApp** command. When doing so, you should specify the **Tenant ID**. In the following examples, we install the apps in two tenants.
+In case you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you have to use the **Install-NAVApp** command. When doing so, you should specify the **Tenant ID**. In the following examples, we install the apps in two tenants.
 
-{{< notice info "Hinweis" >}}
+{{< notice info "Note" >}}
  _The order of installation also plays a role, please always install the Connector 365 Base App first._
 {{< /notice >}}
 #
