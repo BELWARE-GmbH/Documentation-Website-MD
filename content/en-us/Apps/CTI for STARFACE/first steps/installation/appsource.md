@@ -1,14 +1,14 @@
 ---
-title: "Installation"
+title: "AppSource"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 3
+weight: 1
 ---
-### First steps
-
 ### Installation
+
+### AppSource
 
 Using the search function, open the **Extension Marketplace** and open it.
 
@@ -29,7 +29,5 @@ If everything worked, you can now find the **Connector 365 E-POST** under **Inst
 ![](images/apps/ctiinstalleden.PNG)
 
 You can now start with the [setup](/en-us/apps/cti-for-starface/first-steps/setup/).
-
-
 
 
