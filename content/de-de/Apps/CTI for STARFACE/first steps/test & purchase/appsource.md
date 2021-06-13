@@ -1,14 +1,14 @@
 ---
-title: "Test & Kauf"
+title: "AppSource"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
 weight: 2
 ---
-### Erste Schritte
-
 ### Test & Kauf
+
+### AppSource
 
 Die Connector 365 CTI for STARFACE App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.connector-365-cti-for-starface%7Cpappid.c2122935-411c-4417-9535-57769feb7e43?tab=overview) zur Verfügung.
 
