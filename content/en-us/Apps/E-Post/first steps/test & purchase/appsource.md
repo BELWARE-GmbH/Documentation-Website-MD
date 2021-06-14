@@ -1,14 +1,14 @@
 ---
-title: "Test & Purchase"
+title: "AppSource"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
 weight: 2
 ---
-### First Steps
+### Test & purchase
 
-### Test & Purchase
+### AppSource
 
 The Connector 365 E-POST App* is available on [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview).
 
@@ -39,7 +39,13 @@ Connector 365 E-POST API is available for the following BC licensing:
 
 If you would like to purchase a full version of our App, please contact us via **info@belware.de**
 
-If you want to purchase a full version of our app, please use our [order form](https://forms.office.com/r/JNtGHfUi6n)
+If you want to purchase a full version of our app, please use our order form
+
+<p style="text-align: center;">
+To the form
+</p>
+
+[<img src="/images/apps/Forms_epost.png">](https://forms.office.com/r/JNtGHfUi6n)
 
 Your cost:
 
@@ -51,3 +57,5 @@ The postage costs incurred through use will be billed to you directly via Deutsc
 
 
 ***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**
+
+

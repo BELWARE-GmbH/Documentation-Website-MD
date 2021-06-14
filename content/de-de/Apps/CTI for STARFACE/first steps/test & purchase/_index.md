@@ -1,14 +1,14 @@
 ---
-title: "test & purchase"
+title: "Test & Kauf"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
-weight: 4
+weight: 2
 ---
 ### Testen und kaufen der Connector 365 CTI for STARFACE App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 CTI for STARFACE App.
+Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 CTI for STARFACE App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

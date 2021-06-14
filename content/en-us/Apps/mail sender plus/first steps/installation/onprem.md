@@ -1,5 +1,5 @@
 ---
-title: "onPrem"
+title: "OnPrem"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,7 +8,7 @@ weight: 2
 ---
 ### Installation
 
-### onPrem
+### OnPrem
 You will receive the objects for the Connector 365 Base & Mail Sender Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
 
 #### Publishing of the Connector 365 Base & Mail Sender Plus App

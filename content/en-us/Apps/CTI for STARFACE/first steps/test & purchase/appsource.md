@@ -18,9 +18,15 @@ After the Connector 365 CTI for STARFACE app is installed, you have the option t
 
 You have the possibility to extend your free version with additional licenses at any time. Each license costs 4.90€/month and is billed either monthly, quarterly or annually.
 
-In the event that additional users are to use the app's functions, you can purchase additional licenses for a fee via our [form](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOUxYOE8wNlFIVzc5WldRQkNVM1lPUzBRQi4u).
+In the event that additional users are to use the app's functions, you can purchase additional licenses for a fee via our form.
 
-![](images/apps/ctiformsen.PNG)
+<p style="text-align: center;">
+To the form
+</p>
+
+[<img src="/images/apps/Forms_CTI.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOUxYOE8wNlFIVzc5WldRQkNVM1lPUzBRQi4u)
+
+![](images/apps/ctiformsen_removed.PNG)
  
 Connector 365 CTI for STARFACE is available for the following BC licensing:
 

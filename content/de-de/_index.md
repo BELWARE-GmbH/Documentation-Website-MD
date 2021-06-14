@@ -33,7 +33,7 @@ sections:
         subtitlePosition: center
         image: images/connector365banner.png
         color: "#000000"
-        description: In dem Bereich Connector 365 finden Sie die Dokumentationen zu unseren Lösungen ab BC 15 onPrem, sowie SaaS. 
+        description: In dem Bereich Connector 365 finden Sie die Dokumentationen zu unseren Lösungen ab BC 15 OnPrem, sowie SaaS. 
         button: 
           name: Zum Connector 365
           link: apps
@@ -45,7 +45,7 @@ sections:
         subtitlePosition: center
         image: images/connectorbanner.png
         color: "#000000"
-        description: In dem Bereich Connector NAV / BC Add-ons finden Sie die Dokumentationen zu unseren Lösungen bis BC 14 onPrem in C/AL. 
+        description: In dem Bereich Connector NAV / BC Add-ons finden Sie die Dokumentationen zu unseren Lösungen bis BC 14 OnPrem in C/AL. 
         button: 
           name: Zum Connector NAV/BC
           link: under-construction

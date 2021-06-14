@@ -32,7 +32,8 @@ Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Br
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
         <description>Erste Schritte E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
-Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
+Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung
+  Passwort setzen Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
       </item>
       
       <item>
@@ -188,7 +189,7 @@ Bitte kehren Sie zu einem späteren Zeitpunkt zurück, wenn wir weitere informat
         <link>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</guid>
+        <guid>http://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</guid>OnPrem
         <description>Arbeiten mit Mail Attachment Plus Unterschiede im Dialog Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versand von Mails. Der Prozess zum setzen von Standards ändern sich nicht, lediglich das handhaben der Anhänge im Dialog.
 Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Version X.</description>
       </item>
@@ -727,7 +728,8 @@ Falls Sie weitere Lizenzen für die App erwerben wollen So können SIe dafür un
         
         <guid>http://docs.belware.de/de-de/apps/e-post/first-steps/registration/</guid>
         <description>Erste Schritte Registrierung Um die Connector 365 E-POST App* zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie hier aber auch direkt in der Connector 365 E-POST App.
-Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der Deutschen Post. Wenden Sie sich dafür einfach an support@belware.de  Im Formular für die Registrierung werden verschiedene Kontaktinformationen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher sicher, dass Sie sich als Geschäftskunde registrieren.</description>
+Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der Deutschen Post. Wenden Sie sich dafür einfach an support@belware.de
+  Im Formular für die Registrierung werden verschiedene Kontaktinformationen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher sicher, dass Sie sich als Geschäftskunde registrieren.</description>
       </item>
       
       <item>
@@ -1009,7 +1011,8 @@ Einrichtung der App </description>
         
         <guid>http://docs.belware.de/de-de/apps/e-post/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Connector 365 E-POST App*, jedes Video behandelt ein spezielles Thema
-kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
+kurze Übersicht der App - Deutsch 
+*Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</description>
       </item>
       
       <item>

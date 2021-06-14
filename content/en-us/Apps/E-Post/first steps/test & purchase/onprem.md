@@ -11,21 +11,23 @@ weight: 2
 ### OnPrem
 
 #### Test
-You have the possibility to test our Connector 365 CTI for STARFACE App without obligation or to purchase it directly. For this we need some information from you.
+You have the possibility to test our Connector 365 E-POST App* without obligation or to purchase it directly. For this we need some information from you.
 
 <p style="text-align: center;">
 To the form
 </p>
 
-[<img src="/images/apps/Forms_CTI.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
+[<img src="/images/apps/Forms_epost.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.
 
 If you wish to purchase immediately, we will provide you with the necessary objects.
 
-After that you can start with the [Installation](/en-us/apps/cti-for-starface/first-steps/installation/) of the Connector 365 CTI for STARFACE App
+After that you can start with the [installation](/en-us/apps/e-post/first-steps/installation/) of the Connector 365 E-POST App
 
 Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.
+
+***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**
 
 
 

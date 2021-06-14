@@ -1,5 +1,5 @@
 ---
-title: "onPrem"
+title: "OnPrem"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,7 +8,7 @@ weight: 2
 ---
 ### Installation
 
-### onPrem
+### OnPrem
 Sie erhalten von uns die Objekte für die Connector 365 Base & CTI for STARFACE App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 
 #### Veröffentlichen der Connector 365 Base & CTI for STARFACE App
