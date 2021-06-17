@@ -32,18 +32,18 @@ disableKinds = ["taxonomyTerm"]
     ordered = false
     startLevel = 2
 
-[outputs]
-  home = ["HTML", "RSS", "SearchIndex"]
-  section = ["HTML", "RSS", "SearchIndex"]
-  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
-  taxonomy = ["HTML", "RSS", "SearchIndex"]
-
 [outputFormats]
   [outputFormats.SearchIndex]
     mediaType = "application/json"
     baseName = "index"
     isPlainText = true
     notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex"]
+  section = ["HTML", "RSS", "SearchIndex"]
+  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
+  taxonomy = ["HTML", "RSS", "SearchIndex"]
 
 [taxonomies]
   tag = "tags"
