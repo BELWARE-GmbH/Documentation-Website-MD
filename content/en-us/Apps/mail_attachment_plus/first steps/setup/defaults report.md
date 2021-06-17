@@ -18,7 +18,7 @@ Start by opening the report selection of the report you want, in this example we
 
 As you can see in the screenshot above, there is also a new Attachments field in this window. The process of adding new default attachments works like adding attachments to your regular mail. Start by clicking on the 0 to open the attachment dialog and add your files via "New" and "Add attachment".
 
-**Festlegen eines Anhangs auf einen bestimmten Zeitraum**
+**Setting a up attachments for a certain date**
 
 ![](images/apps/attachmentdates.png)
 

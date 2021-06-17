@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Datenschutzerklärung
 
-Wir freuen uns über Ihren Besuch auf unserer Webseite www.belware.de und Ihr Interesse an unserem Unternehmen und unseren Angeboten. Für externe Links zu fremden Inhalten übernehmen wir trotz sorgfältiger inhaltlicher Kontrolle keine Haftung, da wir die Übermittlung dieser Information nicht veranlasst, den Adressaten der übermittelten Information und die übermittelten Informationen selbst nicht ausgewählt oder verändert haben.
+Wir freuen uns über Ihren Besuch auf unserer Webseite www.docs.belware.de und Ihr Interesse an unserem Unternehmen und unseren Angeboten. Für externe Links zu fremden Inhalten übernehmen wir trotz sorgfältiger inhaltlicher Kontrolle keine Haftung, da wir die Übermittlung dieser Information nicht veranlasst, den Adressaten der übermittelten Information und die übermittelten Informationen selbst nicht ausgewählt oder verändert haben.
 
 Der Schutz Ihrer personenbezogenen Daten bei der Erhebung, Verarbeitung und Nutzung anlässlich Ihres Besuchs auf unseren Internetseiten ist uns ein wichtiges Anliegen und erfolgt im Rahmen der gesetzlichen Vorschriften, über die Sie sich z.B. unter www.bfd.bund.de informieren können.
 

@@ -12,7 +12,7 @@ weight: 4
 
 Using the Factbox, you have the option of adding standard attachments to each document, which are automatically attached when the document is sent. To do this, select the desired document in the overview and choose **"Attachments"** in the factbox on the right.
 
-![](images/apps/attachmentoverattach.PNG)
+![](images/apps/attachmentoverattachen.PNG)
 
 Now click on the 0 at "Documents", a window opens in which you can add attachments via **"Select file"** in the table.
 

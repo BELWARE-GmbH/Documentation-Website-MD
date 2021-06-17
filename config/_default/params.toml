@@ -9,7 +9,7 @@ useFaviconGenerator = true
 
 enableTocSwitch = false
 enableLandingBackground = false
-enableSearch = false
+enableSearch = true
 enableSearchHighlight = true
 enableLangChange = true
 enableDarkMode = false

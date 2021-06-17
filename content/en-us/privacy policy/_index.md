@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Privacy Policy
 
-We are pleased about your visit on our website www.belware.de and your interest in our company and our offers. Despite careful content control, we assume no liability for external links to external content, since we have not initiated the transmission of this information, the addressee of the transmitted information and the transmitted information itself have not selected or changed.
+We are pleased about your visit on our website www.docs.belware.de and your interest in our company and our offers. Despite careful content control, we assume no liability for external links to external content, since we have not initiated the transmission of this information, the addressee of the transmitted information and the transmitted information itself have not selected or changed.
 
 The protection of your personal data during the collection, processing and use on the occasion of your visit to our website is an important concern to us and is carried out within the framework of the statutory provisions, about which you can obtain information, e.g. at www.bfd.bund.de.
 

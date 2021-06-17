@@ -39,6 +39,3 @@ Ein nutzen der Mail Attachment Plus App verhindert nicht die Anhangsfunktionalit
 Wenn Sie alle Änderungen an Ihren Anhängen vorgenommen haben, können Sie Ihre Mail wie gewohnt mit einem Klick auf **"E-Mail senden"** absenden.
 
 ![](images/apps/attachmentreportmail.PNG)
-
-#### Mail mit Standardanhängen pro Bericht - Ohne Mail Experience
-
