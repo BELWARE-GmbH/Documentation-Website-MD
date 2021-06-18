@@ -20,6 +20,11 @@ You have the possibility to extend your free version with additional licenses at
 
 In the event that additional users are to use the app's functions, you can purchase additional licenses for a fee via our form.
 
+Your costs:
+
+| Connector 365 CTI for STARFACE App | 4,90€ / Nutzer / Monat |
+|------------------------------------|------------------------|
+
 <p style="text-align: center;">
 To the form
 </p>

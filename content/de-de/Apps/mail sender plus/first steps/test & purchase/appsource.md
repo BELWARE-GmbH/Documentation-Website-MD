@@ -18,6 +18,11 @@ Nach dem Download kann ein Nutzer die App komplett frei benutzen.
 
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 
+Ihre Kosten:
+
+| Connector 365 Mail Sender Plus App | 0,90€ / Sender / Monat   |
+|------------------------------------|--------------------------|
+
 <p style="text-align: center;">
 Zum Formular
 </p>

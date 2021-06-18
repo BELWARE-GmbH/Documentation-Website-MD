@@ -13,6 +13,11 @@ weight: 2
 #### Test
 You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
 
+Your costs:
+
+| Connector 365 XRechnung App | 1690€ |
+|-----------------------------|-------|
+
 <p style="text-align: center;">
 To the form
 </p>

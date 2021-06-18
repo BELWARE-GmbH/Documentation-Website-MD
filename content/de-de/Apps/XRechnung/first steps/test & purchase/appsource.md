@@ -18,6 +18,11 @@ Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
 
 Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser Formular zu bestellen.
 
+Ihre Kosten:
+
+| Connector 365 XRechnung App | 1690€         |
+|-----------------------------|---------------|
+
 <p style="text-align: center;">
 Zum Formular
 </p>

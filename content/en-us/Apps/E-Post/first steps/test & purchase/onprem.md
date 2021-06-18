@@ -23,6 +23,11 @@ If you wish a test phase, you will receive the desired objects for one user and 
 
 If you wish to purchase immediately, we will provide you with the necessary objects.
 
+Your costs:
+
+| Connector 365 E-POST App | 790€ |
+|--------------------------|------|
+
 After that you can start with the [installation](/en-us/apps/e-post/first-steps/installation/) of the Connector 365 E-POST App
 
 Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.

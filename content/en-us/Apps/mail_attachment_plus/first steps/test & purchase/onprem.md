@@ -23,6 +23,11 @@ If you wish a test phase, you will receive the desired objects for one user and 
 
 If you wish to purchase immediately, we will provide you with the necessary objects.
 
+Your costs:
+
+| Connector 365 Mail Attachment Plus App | 590€ |
+|----------------------------------------|------|
+
 After that you can start with the [installation](/en-us/apps/mail_attachment_plus/first-steps/installation/) of the Connector 365 Mail Attachment Plus App
 
 Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.

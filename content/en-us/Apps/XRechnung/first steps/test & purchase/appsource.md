@@ -18,6 +18,11 @@ After downloading, the app is available to you free of charge for 5 processes.
 
 Once these are reached, you have the option to order the app directly.
 
+Your costs:
+
+| Connector 365 XRechnung App | 19,99€ / Month |
+|-----------------------------|----------------|
+
 <p style="text-align: center;">
 To the form
 </p>

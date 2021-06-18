@@ -20,6 +20,11 @@ Sie haben jederzeit die Möglichkeit Ihre kostenlose Version um weitere Lizenzen
 
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 
+Ihre Kosten:
+
+| Connector 365 CTI for STARFACE App | 4,90€ / User / Monat |
+|------------------------------------|----------------------|
+
 <p style="text-align: center;">
 Zum Formular
 </p>
