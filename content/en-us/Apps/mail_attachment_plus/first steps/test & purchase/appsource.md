@@ -10,9 +10,9 @@ weight: 2
 
 ### AppSource
 
-The app is available in the [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.connector_365_mail_sender_plus|PAppID.84a5708d-038e-4f8d-9e92-06c2bbdaa857?tab=Overview).
+The app is available in the [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.mailattachmentsplus|PAPPID.bedbabd4-3c73-482d-b8f5-1813e5a2493c).
 
-![](images/apps/senderappsource.PNG)
+![](images/apps/attachmentappsource.PNG)
 
 After downloading, a user can use the App completely free.
 
@@ -27,7 +27,7 @@ Your costs:
 To the form
 </p>
 
-[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOFhKRzI1WUI2WUNUWDg3Ukk0SFBMT1JXMy4u)
+[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUNlZYRkRDRVRDM0hFVlBRNlNVT0pKWktWSy4u)
 
 ![](images/apps/senderforms_removed.PNG)
  

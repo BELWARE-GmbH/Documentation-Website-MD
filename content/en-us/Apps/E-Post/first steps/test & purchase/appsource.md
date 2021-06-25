@@ -45,7 +45,7 @@ If you want to purchase a full version of our app, please use our order form
 To the form
 </p>
 
-[<img src="/images/apps/Forms_epost.png">](https://forms.office.com/r/JNtGHfUi6n)
+[<img src="/images/apps/Forms_epost.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUNFRLRzBKUEQ0MTVIOEsxWlJPSFdTMVNNQy4u)
 
 Your cost:
 
