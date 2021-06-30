@@ -20,8 +20,11 @@ Once these are reached, you have the option to order the app directly.
 
 Your costs:
 
-| Connector 365 XRechnung App | 19,99€ / Month |
-|-----------------------------|----------------|
+| Subscription incl. maintenance* |
+|---------------------------------|
+|19,90€                           |
+
+*billed either monthly, quarterly or annually
 
 <p style="text-align: center;">
 To the form

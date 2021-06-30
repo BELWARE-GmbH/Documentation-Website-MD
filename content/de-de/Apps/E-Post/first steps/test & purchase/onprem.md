@@ -23,8 +23,9 @@ Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Obje
 
 Ihre Kosten:
 
-| Connector 365 E-POST App | 790€ |
-|--------------------------|------|
+| Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
+|-------------------------------|---------------------------------------|
+|790,-€                         |35,-€                                  |
 
 Danach können Sie mit der [Installation](/de-de/apps/e-post/first-steps/installation/) der Connector 365 E-POST App starten
 

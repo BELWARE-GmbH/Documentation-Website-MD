@@ -15,8 +15,9 @@ You have the possibility to test our Connector 365 Mail Attachment Plus App with
 
 Your costs:
 
-| Connector 365 XRechnung App | 1690€ |
-|-----------------------------|-------|
+| Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
+|-----------------------------------------|----------------------------------------|
+|1690,-€                                  | 55,-€                                  |
 
 <p style="text-align: center;">
 To the form

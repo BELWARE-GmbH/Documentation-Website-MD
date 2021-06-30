@@ -20,8 +20,11 @@ Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können
 
 Ihre Kosten:
 
-| Connector 365 Mail Attachment Plus App | 590€          |
-|----------------------------------------|---------------|
+| Monatliche Subscription inkl. Wartung* |
+|----------------------------------------|
+| 0,90€                                  |
+
+*Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 
 <p style="text-align: center;">
 Zum Formular

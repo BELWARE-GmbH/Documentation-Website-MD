@@ -23,8 +23,9 @@ Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Obje
 
 Ihre Kosten:
 
-| Connector 365 Mail Sender Plus App | 590€          |
-|------------------------------------|---------------|
+| Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
+|-------------------------------|---------------------------------------|
+|1690,-€                        |55,-€                                  |
 
 Danach können Sie mit der [Installation](/de-de/apps/mail-sender-plus/first-steps/installation/) der Connector 365 Mail Sender Plus App starten
 

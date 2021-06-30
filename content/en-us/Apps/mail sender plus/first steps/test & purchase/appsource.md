@@ -20,8 +20,11 @@ In case that more Users want to use the function, you can simply order more lice
 
 Your costs:
 
-| Connector 365 Mail Sender Plus App | 0,90€ / Sender / Month |
-|------------------------------------|------------------------|
+| Subscription incl. maintenance* |
+|---------------------------------|
+|0,90€/Sender                     |
+
+*billed either monthly, quarterly or annually
 
 <p style="text-align: center;">
 To the form

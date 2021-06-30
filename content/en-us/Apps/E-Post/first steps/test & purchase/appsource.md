@@ -49,8 +49,11 @@ To the form
 
 Your cost:
 
-| Connector 365 E-POST App | 9,90€ / Month |
-|--------------------------|---------------|
+| Subscription incl. maintenance* |
+|---------------------------------|
+|9,90€                            |
+
+*billed either monthly, quarterly or annually
 
 The postage costs incurred through use will be billed to you directly via Deutsche Post.
 

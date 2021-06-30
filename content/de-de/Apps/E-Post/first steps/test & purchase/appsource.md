@@ -47,8 +47,11 @@ Zum Formular
 
 Ihre Kosten:
 
-| Connector 365 E-POST App | 9,90€ / Monat |
-|--------------------------|---------------|
+| Monatliche Subscription inkl. Wartung* |
+|----------------------------------------|
+| 9,90€                                  |
+
+*wahlweise monatlich, quartalsweise oder jährlich abgerechnet
 
 Die durch die Nutzung entstehenden Portokosten werden direkt über die Deutsche Post mit Ihnen abgerechnet.
 

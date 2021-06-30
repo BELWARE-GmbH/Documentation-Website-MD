@@ -22,8 +22,11 @@ In the event that additional users are to use the app's functions, you can purch
 
 Your costs:
 
-| Connector 365 CTI for STARFACE App | 4,90€ / Nutzer / Monat |
-|------------------------------------|------------------------|
+| Subscription incl. maintenance* |
+|---------------------------------|
+|4,90€/User                       |
+
+*billed either monthly, quarterly or annually
 
 <p style="text-align: center;">
 To the form

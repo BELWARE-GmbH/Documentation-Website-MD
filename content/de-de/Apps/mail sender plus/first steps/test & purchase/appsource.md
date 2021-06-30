@@ -20,8 +20,11 @@ Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können
 
 Ihre Kosten:
 
-| Connector 365 Mail Sender Plus App | 0,90€ / Sender / Monat   |
-|------------------------------------|--------------------------|
+| Monatliche Subscription inkl. Wartung* |
+|----------------------------------------|
+| 0,90€/Absender                         |
+
+*Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 
 <p style="text-align: center;">
 Zum Formular

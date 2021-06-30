@@ -20,8 +20,11 @@ Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser For
 
 Ihre Kosten:
 
-| Connector 365 XRechnung App | 1690€         |
-|-----------------------------|---------------|
+| Monatliche Subscription inkl. Wartung* |
+|----------------------------------------|
+| 19,90€                                 |
+
+*Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 
 <p style="text-align: center;">
 Zum Formular
