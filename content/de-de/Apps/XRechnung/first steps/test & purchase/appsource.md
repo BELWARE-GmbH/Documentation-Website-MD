@@ -20,11 +20,17 @@ Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser For
 
 Ihre Kosten:
 
-| Monatliche Subscription inkl. Wartung* |
-|----------------------------------------|
-| 19,90€                                 |
+| Monatliche Subscription inkl. Wartung pro Mandant bei jährlicher Zahlung und Laufzeit* |
+|----------------------------------------------------------------------------------------|
+| 19,90€                                                                                 |
 
-*Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
+| Monatliche Subscription inkl. Wartung pro Mandant bei monatlicher Zahlung und Laufzeit*|
+|----------------------------------------------------------------------------------------|
+| 25,90€                                                                                 |
+
+*Jeder weitere Mandant oder Instanz wird mit einem Preisvorteil von 50% berechnet
+9,95€ / Monat / Mandant bei jährlicher Zahlung und Laufzeit.
+12,95€ / Monat / Mandant bei monatlicher Zahlung und Laufzeit.
 
 <p style="text-align: center;">
 Zum Formular

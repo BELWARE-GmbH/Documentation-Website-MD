@@ -48,7 +48,7 @@ sections:
         description: In dem Bereich Connector NAV / BC Add-ons finden Sie die Dokumentationen zu unseren Lösungen bis BC 14 OnPrem in C/AL. 
         button: 
           name: Zum Connector NAV/BC
-          link: under-construction
+          link: connectornav
           size: large
           target: _blank
           color: 'white'
