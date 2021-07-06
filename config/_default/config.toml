@@ -1,4 +1,4 @@
-baseURL = "http://docs.belware.de/"
+baseURL = "https://belware-gmbh.github.io/Documentation-Website-Test/"
 title = "Connector 365 Online Hilfe"
 theme = "zdoc"
 
