@@ -23,8 +23,9 @@ Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Obje
 
 Ihre Kosten:
 
-| Connector 365 XRechnung App | 19,99€ / Monat        |
-|-----------------------------|-----------------------|
+| Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
+|-------------------------------|---------------------------------------|
+|1.690,-€                       |55,-€                                  |
 
 Danach können Sie mit der [Installation](/de-de/apps/xrechnung/first-steps/installation/) der Connector 365 XRechnung App starten
 

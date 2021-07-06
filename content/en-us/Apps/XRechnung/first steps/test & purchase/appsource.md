@@ -20,11 +20,18 @@ Once these are reached, you have the option to order the app directly.
 
 Your costs:
 
-| Subscription incl. maintenance* |
-|---------------------------------|
-|19,90€                           |
+| Monthly subscription incl. maintenance per company with annual payment and term*       |
+|----------------------------------------------------------------------------------------|
+| 19,90€                                                                                 |
 
-*billed either monthly, quarterly or annually
+| Monthly subscription incl. maintenance per company with monthly payment and term*      |
+|----------------------------------------------------------------------------------------|
+| 25,90€                                                                                 |
+
+*Each additional customer or instance is charged with a 50% price advantage
+9,95€ / month / company with annual payment and term.
+12,95€ / month / company with monthly payment and term.
+
 
 <p style="text-align: center;">
 To the form

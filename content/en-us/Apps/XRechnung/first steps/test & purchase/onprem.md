@@ -10,14 +10,7 @@ weight: 2
 
 ### OnPrem
 
-#### Test
 You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
-
-Your costs:
-
-| Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
-|-----------------------------------------|----------------------------------------|
-|1690,-€                                  | 55,-€                                  |
 
 <p style="text-align: center;">
 To the form
@@ -28,6 +21,12 @@ To the form
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.
 
 If you wish to purchase immediately, we will provide you with the necessary objects.
+
+Your costs:
+
+| Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
+|-----------------------------------------|----------------------------------------|
+|1690,-€                                  | 55,-€                                  |
 
 After that you can start with the [installation](/en-us/apps/mail_attachment_plus/first-steps/installation/) of the Connector 365 Mail Attachment Plus App
 
