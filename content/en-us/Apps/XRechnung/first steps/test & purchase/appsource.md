@@ -28,7 +28,7 @@ Your costs:
 |----------------------------------------------------------------------------------------|
 | 25,90€                                                                                 |
 
-*Each additional customer or instance is charged with a 50% price advantage
+*The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
 9,95€ / month / company with annual payment and term.
 12,95€ / month / company with monthly payment and term.
 

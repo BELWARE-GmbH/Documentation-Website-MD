@@ -47,13 +47,19 @@ To the form
 
 [<img src="/images/apps/Forms_epost.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUNFRLRzBKUEQ0MTVIOEsxWlJPSFdTMVNNQy4u)
 
-Your cost:
+Your costs:
 
-| Subscription incl. maintenance* |
-|---------------------------------|
-|9,90€                            |
+| Monthly subscription incl. maintenance per company with annual payment and term*       |
+|----------------------------------------------------------------------------------------|
+| 9,90€                                                                                 |
 
-*billed either monthly, quarterly or annually
+| Monthly subscription incl. maintenance per company with monthly payment and term*      |
+|----------------------------------------------------------------------------------------|
+| 12,90€                                                                                 |
+
+*The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
+4,95€ / month / company with annual payment and term.
+6,50€ / month / company with monthly payment and term.
 
 The postage costs incurred through use will be billed to you directly via Deutsche Post.
 

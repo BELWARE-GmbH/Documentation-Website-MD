@@ -28,7 +28,7 @@ Ihre Kosten:
 |----------------------------------------------------------------------------------------|
 | 25,90€                                                                                 |
 
-*Jeder weitere Mandant oder Instanz wird mit einem Preisvorteil von 50% berechnet
+*Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
 9,95€ / Monat / Mandant bei jährlicher Zahlung und Laufzeit.
 12,95€ / Monat / Mandant bei monatlicher Zahlung und Laufzeit.
 

@@ -170,285 +170,52 @@ Zahlreiche weitere Felder werden angezeigt bzw. sind im Hintergrund vorhanden. E
 
 ##### Register Dateien
 
-{{<img src="/images/connectornav/base/rueckmeldung_karte_.png" caption="Connector NAV Rückmeldung Karte, Register Dateien">}}
-![](media/3335489985fb1c10ba68b870724c4dc9.PNG)  
+{{<img src="/images/connectornav/base/rueckmeldung_karte_dateien.png" caption="Connector NAV Rückmeldung Karte, Register Dateien">}}
 
-### Register Rückmeldung
+##### Register Rückmeldung
 
-![](media/90be90a38b81153fb9d5638332ca1f53.PNG)   
-Connector NAV Rückmeldung Karte, Register Rückmeldung
+{{<img src="/images/connectornav/base/rueckmeldung_karte_rueckmeldung.png" caption="Connector NAV Rückmeldung Karte, Register Rückmeldung">}}
 
-Die Rückmeldung Karte bietet einen detaillierten Überblick über jede Rückmeldung
-eines Vorgangs. Für E-Mail- und Fax-Schnittstellen mit einer Rückmeldung
-(OfficeMaster, Twinfax, Faxmaker) wird im Register Rückmeldung diese Datei
-gelesen und angezeigt.
+Die Rückmeldung Karte bietet einen detaillierten Überblick über jede Rückmeldung eines Vorgangs. Für E-Mail- und Fax-Schnittstellen mit einer Rückmeldung (OfficeMaster, Twinfax, Faxmaker) wird im Register Rückmeldung diese Datei gelesen und angezeigt.
 
-### Aktionen in der Rückmeldung Karte
+##### Aktionen in der Rückmeldung Karte
 
-Filelists anzeigen  ![](media/2037f8a2352f0652fc1b45cd17e9c9a6.PNG)  
-Connector NAV Rückmeldung Karte, Aktionen
+###### Filelists anzeigen
 
-Über die Filelistfunktionen können Sie sich für jede Rückmeldung die Jobdatei
-(FILELIST), Bodytextdatei (FILELIST 2) oder die Anhänge 1-4 (FILELIST 3-6)
-anzeigen lassen.
+{{<img src="/images/connectornav/base/rueckmeldung_karte_aktionen_filelist.png" caption="Connector NAV Rückmeldung Karte, Aktionen">}}
 
-Dokument
+Über die Filelistfunktionen können Sie sich für jede Rückmeldung die Jobdatei (FILELIST), Bodytextdatei (FILELIST 2) oder die Anhänge 1-4 (FILELIST 3-6) anzeigen lassen.
 
-![](media/d850e61c28a17887cbc3973d182660bb.PNG)  
-Connector NAV Rückmeldung Karte, Aktionen
+##### Dokument
 
-Über die Dokumentfunktionen können Sie die oben genannten Dateien Importieren,
-Exportieren oder Löschen.
+{{<img src="/images/connectornav/base/rueckmeldung_karte_aktionen_dokument.png" caption="Connector NAV Rückmeldung Karte, Aktionen">}}
 
-## Die Connector NAV Rückmeldung Sofortübersicht
+Über die Dokumentfunktionen können Sie die oben genannten Dateien Importieren, Exportieren oder Löschen.
 
-![](media/3cc1bd57dd9a708dae9e11b2c0c4e6e3.JPG)Connector NAV Rückmeldung
-Sofortübersicht
+#### Die Connector NAV Rückmeldung Sofortübersicht
 
-Dieser manuelle Aufruf ermöglicht es die bisherigen Rückmeldungen zu bestätigen.
+{{<img src="/images/connectornav/base/rueckmeldung_sofortuebersicht.png" caption="Connector NAV Rückmeldung Sofortübersicht">}}
 
-Das Feld **Gelesen** kann durch Setzen eines Hakens (= klick) auf „Ja“ gesetzt
-werden, es werden nur Datensätze mit dem Wert Gelesen = Nein angezeigt.
+Dieser manuelle Aufruf ermöglicht es die bisherigen Rückmeldungen zu bestätigen. Das Feld **Gelesen** kann durch Setzen eines Hakens (= klick) auf „Ja“ gesetzt werden, es werden nur Datensätze mit dem Wert Gelesen = Nein angezeigt.
 
-Dieses Formular kann auch an geeigneten Stellen automatisch aufgerufen werden,
-um  
-eine Bestätigung zu erzwingen, dieser Workflow dient dazu, den korrekten  
-Versand zwingend zu überprüfen.
+Dieses Formular kann auch an geeigneten Stellen automatisch aufgerufen werden, um eine Bestätigung zu erzwingen, dieser Workflow dient dazu, den korrekten Versand zwingend zu überprüfen.
 
-## Die Connector NAV Statistik
+#### Die Connector NAV Statistik
 
-![](media/29b9570fb3ff4428abfe1266c8ff1ab8.PNG)
+{{<img src="/images/connectornav/base/statistik.png" caption="Connector NAV Statistik">}}
 
-Connector NAV Statistik
-
-Feldbeschreibung
-
+|Feldbeschreibung | |
+|---|---|
 | CTI Einträge, ein- ausgehend    | Visuelle Ansicht der CTI-Vorgänge.    |
-|---------------------------------|---------------------------------------|
 | E-Mail Einträge, ein- ausgehend | Visuelle Ansicht der E-Mail-Vorgänge. |
 | Fax Einträge, ein- ausgehend    | Visuelle Ansicht der Fax-Vorgänge.    |
 | PDF Einträge, ein- ausgehend    | Visuelle Ansicht der PDF-Vorgänge.    |
 | SMS Einträge, ein- ausgehend    | Visuelle Ansicht der SMS-Vorgänge.    |
 | Alle Einträge, ein- ausgehend   | Visuelle Ansicht der aller Vorgänge.  |
 
-Filter
-
+|Filter | |
+|---|---|
 | Datumsfilter     | Bei Eingabe werden nur die Einträge des bestimmten Tages angezeigt.                                                                         |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Zeitfilter       | Bei Eingabe werden nur die Einträge der bestimmten Uhrzeit angezeigt. Möglich auch eine Zeitspanne, z.B. zwischen 20.00 Uhr und 22.00 Uhr.  |
 | Benutzerfilter   | Bei Eingabe werden nur die Einträge des jeweiligen Benutzers angezeigt.                                                                     |
 | Belegartenfilter | Bei Auswahl werden nur die Einträge der jeweiligen Belegart angezeigt.                                                                      |
-
-# Die PDF Erzeugung
-
-Mit der Connector NAV Basis haben Sie die Möglichkeit, einfache PDF Dokumente
-direkt in Dynamics NAV zu erstellen und zu verwalten.
-
-Die Erzeugung von PDF Dateien aus Dynamics NAV ist aus jeder beliebigen Page
-möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
-
-![](media/961dc8cba5985389ca23bc4a3ad5731d.PNG)  
-Ausschnitt Beispielangebot Connector NAV Integration
-
-Aktionen
-
-| PDF        | Mit dieser Aktion erstellen Sie das PDF.                                                                |
-|------------|---------------------------------------------------------------------------------------------------------|
-| Status     | Mit dieser Aktion gelangen Sie in die Jobliste und zu dem entsprechenden Eintrag.                       |
-| Historie   | Zusätzlich zur Aktion *Status* werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden. |
-| PdfPreview | Mit dieser Aktion können Sie sich den Beleg temporär im PDF-Format ansehen.                             |
-
-## Der Dialog im Modus PDF
-
-![](media/bca6b5c739c78042818709351e30367a.PNG)  
-Dialog Modus PDF Register Allgemein
-
-Feldbeschreibung
-
-| Lfd.Nr.      | Eindeutige Jobnummer, wird vom Connector NAV vergeben.                              |
-|--------------|-------------------------------------------------------------------------------------|
-| BenutzerID   | Aktueller Login.                                                                    |
-| Berichtsname | Der jeweils dem Bericht zugeordnete Berichtsname.  (aus der Schnittstellenübergabe) |
-| Belegnummer  | Belegnummer des Dokumentes.  (aus der Schnittstellenübergabe)                       |
-| Name         | Name des Kontakts.  (aus der Schnittstellenübergabe)                                |
-| Dateityp     | Dateityp. (aus der Schnittstellenübergabe)                                          |
-| Jobmodus     | Jobmodus des Jobs. (aus der Schnittstellenübergabe)                                 |
-
-Feldbeschreibung
-
-| Versand über         | Im Modus PDF nicht genutzt.                                                                                                               |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Protokolldruck       | Gemäß Einrichtung bzw. Benutzer Einrichtung voreingestellt, markieren des Jobs für den Protokolldruck.                                    |
-| Mit Signatur         | Gemäß Einrichtung bzw. Benutzer Bericht voreingestellt, markiert den Vorgang, um ihn später zu signieren.  **(Modul SIGN erforderlich!)** |
-| Serververarbeitung   | Zeigt an, ob es sich um einen Serverjob handelt. (aus der Schnittstellenübergabe)                                                         |
-| Freigabe             | Zeigt an, ob der Job freigegeben ist. (Bei nicht-Serverjobs immer auf JA)                                                                 |
-| Datums-/Zeitvorgabe  | Handelt es sich um einen Serverjob, kann der Vorgang mit einer Datums- und Zeitvorgabe ausgeführt werden.                                 |
-
-# Das Modul DocImport
-
-## Nutzen
-
-Mit dem Modul DocImport können Sie externe Dokumente in Microsoft Dynamics NAV
-zentral verwalten. Sie minimieren Ihren Papieraufwand, indem Sie wichtige
-Dokumente jeder Art in der Jobliste ablegen. Sie finden Ihre Dokumente nicht nur
-schneller, Sie sparen damit auch Zeit und verringern die Wahrscheinlichkeit,
-dass etwas abhandenkommt.
-
-## Verschiebung der Dokumente
-
-Navigieren Sie zu dem Pfad, den Sie in der Dokumentation **Connector NAV
-Konfiguration und Einrichtung** unter dem Menüpunkt **Connector NAV Einrichtung,
-Register E-Mail** im Feld **Dokumenteneingangsverzeichnis** eingetragen haben.
-Im Beispiel heißt dieser hier com_docImport. In diesem Ordner können Sie
-beliebige Dokumente ablegen.
-
-![](media/1c29ec4343335f92965b5418ad480570.PNG)Ordnerstuktur com\_docimport
-
-## Die Connector NAV Eingehende Dokumente 
-
-![](media/c6731ef2360c006d67726e84fc90591e.PNG)  
-Connector NAV Eingehende Dokumente
-
-In der Übersicht werden alle Jobeinträge angezeigt, die entweder keinem Beleg
-zugeordnet wurden oder nicht manuell auf „zugeordnet“ gesetzt wurden. Es ist die
-zentrale Stelle zum Importieren der Dokumente. Anschließend können die Einträge
-direkt zugeordnet, oder an Arbeitsgruppen verteilt werden. Danach verschwindet
-der Eintrag in dieser Übersicht. In der *Connector NAV Arbeitsgruppe Dokumente*
-öffnet sich die Liste mit allen Einträgen, die der Arbeitsgruppe des Benutzers
-entsprechen (siehe Dokumentation Connector NAV Konfiguration und Einrichtung).
-
-##  Die Connector NAV Arbeitsgruppen Dokumente 
-
-![](media/65b9d03ac8d3907d0051dc54b98ceea2.PNG)  
-Connector NAV Arbeitsgruppen Dokumente
-
-Die nachfolgenden Aktionen können in beiden Übersichten ausgeführt werden.
-
-### Aktionen
-
-![](media/7e0716546309da598827b8c5f07e8c66.PNG)  
-Connector NAV Eingehende Dokumente / Arbeitsgruppen Dokumente, Aktionen
-
-Aktionen
-
-| Jobdatei anzeigen     | Mit dieser Aktion wird das Dokument angezeigt.                                  |
-|-----------------------|---------------------------------------------------------------------------------|
-| Dokumente importieren | Mit dieser Aktion importieren Sie die Dokumente aus dem Ordner in die Jobliste. |
-
-Dokumente zuordnen
-
-Mit dieser Aktion lassen sich die Jobeinträge zu einem Beleg zuordnen. Aus den
-Folgenden Abteilungen kann gewählt werden.
-
-![](media/f79c10986a699833f6e83ba7b1d33198.PNG)  
-Connector NAV Eingehende Dokumente, Aktion Dokumente zuordnen
-
-Folgende Belege stehen zur Verfügung:
-
-| Verkauf | - Verkaufsangebot - Verkaufsauftrag - Rahmenauftrag - Geb. Verkaufsrechnung - Geb. Verkaufslieferung - Geb. Verkaufsgutschrift |
-|---------|--------------------------------------------------------------------------------------------------------------------------------|
-
-Folgende Belege stehen zur Verfügung:
-
-| Einkauf   | - Einkaufsanfrage - Einkaufsbestellung - Rahmenbestellung - Geb. Einkaufsrechnung - Geb. Einkaufslieferung - Geb. Einkaufsgutschrift |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Fibu      | - Reg. Mahnung - Reg. Lieferanmahnung                                                                                                |
-| Sonstiges | - Kontakt - Aufgabe                                                                                                                  |
-
-Eintrag bearbeiten
-
-Mit dieser Aktion lassen sich die Jobeinträge um Informationen ergänzen.
-
-![](media/036880e391afc430696fa74f7dd40bca.PNG)  
-Connector NAV Eingehende Dokumente, Aktion Eintrag bearbeiten
-
-# Nützliche Funktionen
-
-CheckFeedback(FromDateL : Date;ToDateL : Date;WithConfirmL : Boolean)
-
-Für einen bestimmten Zeitraum wird geprüft, welche Jobs eine negative
-Statusrückmeldung haben. Diese können dann angezeigt.
-
-FromDateL: Startdatum   
-ToDateL: Enddatum  
-WithConfirmL: Negative Jobs anzeigen Ja/Nein
-
-SetDialog(NewDialog : Boolean)
-
-Mit dieser Funktion kann die Sichtbarkeit des Dialoges übersteuert werden.
-
-NewDialog: Dialog anzeigen Ja/Nein
-
-SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250])
-
-Mit dieser Funktion kann der Betreff eines bestimmten Jobs geändert werden.
-
-„Jobno.“: Lfd. Nummer des Jobeintrages.  
-NewSubject: Neuer Betreff.
-
-In der Codeunit **CON FaxMailDialogHook** können Sie durch anlegen eines **Event
-Subscribers** für die Funktion **OnReplacePlaceholder** aus der **Codeunit CON
-Base**, beliebig weitere Platzhalter anlegen. Hierfür zur Verfügung stehen die
-Platzhalter %101 - %199.
-
-Um die Platzhalter mit dem gewünschten Text zu ersetzen, müssen Sie die Funktion
-**ReplaceText** aus der Codeunit **CON Base** aufrufen. Der erste Parameter
-enthält den Quelltext, der dem Event übergeben wird, der zweite den zu
-ersetzenden Platzhalter und der dritte den Text, der den Platzhalter ersetzen
-soll.
-
-Im unten zu sehenden Beispiel wird der Platzhalter %36 durch den Namen, der
-diesem Beleg zugewiesenen Verkaufsperson ersetzt, sofern es sich bei dem beleg
-um eine Auftragsbestätigung
-handelt.![](media/5370b97c24b2d180a51afb11e9b3a5be.png)
-
-SetBodytextArray(ArrayText: ARRAY [100] OF Text[1024])
-
-Mit dieser Funktion kann ein Array der Dimension 100 vorbelegt werden. Der
-Aufruf erfolgt in der DoJob Routine vor dem Funktionsaufruf
-FaxMailWorkflowOneML. Die einzelnen Dimensionen werden an der Stelle mit dem
-Platzhalter %23 nacheinander ausgegeben.
-
-# Copyright
-
-© 2003-2017 BELWARE GmbH. Alle Rechte vorbehalten.
-
-Diese Dokumentation sowie die darin beschriebene Software
-
-unterliegt lizenzrechtlichen Bestimmungen und darf nur in
-
-Übereinstimmung mit dieser Lizenzvereinbarung benutzt
-
-oder kopiert werden.
-
-Die Angaben und Daten in dieser Dokumentation dienen
-
-ausschließlich Informationszwecken und gelten unter Vorbehalt.
-
-Die BELWARE GmbH übernimmt dafür keinerlei Haftung
-
-oder Gewährleistung. Die BELWARE GmbH übernimmt
-
-keine Verantwortung für Folgeschäden aus Fehlern oder
-
-Ungenauigkeiten, die in dieser Dokumentation auftreten können.
-
-Außerhalb der Lizenzeinräumung darf ohne ausdrückliche,
-
-schriftliche Genehmigung der BELWARE GmbH kein Teil
-
-dieser Publikation auf irgendeine Weise reproduziert, in einem
-
-Medium gespeichert oder übertragen werden, weder elektronisch,
-
-mechanisch, auf Band oder mit einer anderen Methode.
-
-Alle gennannten Produkt- und Firmennamen sowie eingetragene
-
-Warenzeichen sind das Eigentum der entsprechenden Hersteller
-
-und als solche geschützt.
-
-Für weitere Rückfragen und Verbesserungsvorschläge stehen wir gerne parat.
-
-BELWARE GmbH
