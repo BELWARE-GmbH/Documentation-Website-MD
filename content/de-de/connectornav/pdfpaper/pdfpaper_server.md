@@ -103,8 +103,7 @@ iPaper Lizenzen sind immer an einen Rechner gebunden, da es aber vor kommt das R
 
 Anschließend sieht man eine Übersicht der eingerichteten Ordner. Bevor ein Ordner eingerichtet wird, muss man den Vorlageordner (Briefpapier-Ablage) definieren. Zum Ausführen bitte die rechts unten im Bild gezeigte Aktion (Allgemeine Einstellungen) ausführen.
 
-![](/images/connectornav/pdfpaper/net_server_config2.png)<>
-iPaper.NET-Server, Konfiguration
+![](/images/connectornav/pdfpaper/net_server_config2.png)<center>iPaper.NET-Server, Konfiguration</center>
 
 ###### Register Gemeinsamer Ordner
 

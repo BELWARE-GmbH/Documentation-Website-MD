@@ -11,7 +11,7 @@ weight: 2
 
 ##### Aktionen
 
-{{<img src="/images/connectornav/epost/dialog_aktionen.png" caption="Dialog Modus E-Mail, Aktionen">}}
+![](/images/connectornav/epost/dialog_aktionen.png)<center>_Dialog Modus E-Mail, Aktionen_</center>
 
 |Aktionen | |
 |---|---|
@@ -21,7 +21,7 @@ weight: 2
 
 ##### Register Allgemein
 
-{{<img src="/images/connectornav/epost/reg_allgemein.png" caption="Dialog Modus E-POST, Register Allgemein">}}
+![](/images/connectornav/epost/reg_allgemein.png)<center>_Dialog Modus E-POST, Register Allgemein_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -39,7 +39,7 @@ weight: 2
 
 ##### Register E-POST
 
-{{<img src="/images/connectornav/epost/reg_epost.png" caption="Dialog Modus Mail, Register E-POST">}}
+![](/images/connectornav/epost/reg_epost.png)<center>_Dialog Modus Mail, Register E-POST_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -49,7 +49,7 @@ weight: 2
 
 ##### Register Kontaktdaten
 
-{{<img src="/images/connectornav/epost/reg_kontaktdaten.png" caption="Dialog Modus Mail, Register Kontaktdaten">}}
+![](/images/connectornav/epost/reg_kontaktdaten.png)<center>_Dialog Modus Mail, Register Kontaktdaten_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -57,7 +57,7 @@ weight: 2
 
 ##### Register Anhänge
 
-{{<img src="/images/connectornav/epost/reg_anhaenge.png" caption="Dialog Modus Mail, Register Anhänge">}}
+![](/images/connectornav/epost/reg_anhaenge.png)<center>_Dialog Modus Mail, Register Anhänge_</center>
 
 |Feldbeschreibung | |
 |---|---|

@@ -34,7 +34,7 @@ Auszuführende Schritte:
 3\. Das Dokument speichern und schließen.  
 4\. Die Meldung mit Ja bestätigen.
 
-**Hinweis**: *Sie können auch Word benutzen um Ihre Bodytexte zu erstellen und zu bearbeiten. Dies bietet Ihnen mehr Designmöglichkeiten als der Editor. Mehr Informationen hierzu erhalten Sie in der HTML Dokumente mit Word Dokumentation.*
+{{<notice info>}}Sie können auch Word benutzen um Ihre Bodytexte zu erstellen und zu bearbeiten. Dies bietet Ihnen mehr Designmöglichkeiten als der Editor. Mehr Informationen hierzu erhalten Sie in der HTML Dokumente mit Word Dokumentation.{{</notice>}}
 
 ![](/images/connectornav/mail/dialog_bodytext2.png)<center>Dialog Aktion Bodytext bearbeiten (Word)</center>
 

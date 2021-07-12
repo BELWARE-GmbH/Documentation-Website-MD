@@ -16,5 +16,5 @@ Nachdem der Dialog mit OK bestätigt wurde, hinterlegt der Connector NAV im Pfad
 Mit der Einrichtung der Funktion *Rückmeldung aus Jobliste Übersicht* werden diese Ordner beim Öffnen der Karte nach entsprechenden Dateien durchsucht. Diese Dateien werden anschließend in „.erl“ umbenannt und es gibt in der Jobliste einen entsprechenden Status zum Vorgang.
 
 **Diese Grafik durch angepasste ersetzen**
-{{<img src="/images/connectornav/fax/jobdateien.PNG">}}
-{{<img src="/images/connectornav/fax/jobliste.png" caption="Connector NAV Jobliste">}}
+![](/images/connectornav/fax/jobdateien.PNG)
+![](/images/connectornav/fax/jobliste.png)<center>_Connector NAV Jobliste_</center>

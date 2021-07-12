@@ -15,7 +15,7 @@ weight: 1
 
 ##### Wichtige Felder
 
-{{<img src="/images/connectornav/base/jobliste_uebersicht.png" caption="Connector NAV Jobliste Übersicht">}}
+![](/images/connectornav/base/jobliste_uebersicht.png)<center>_Connector NAV Jobliste Übersicht_</center>
 
 Die Connector NAV Jobliste Übersicht zeigt tabellarisch die jeweils erteilten Jobaufträge mit allen benötigten Informationen an. Die obere Abbildung zeigt einen kleinen Ausschnitt aus der Jobliste Übersicht.
 
@@ -34,7 +34,7 @@ Die Connector NAV Jobliste Übersicht zeigt tabellarisch die jeweils erteilten J
 
 ##### Wichtige Felder zur Identifizierung des Status
 
-{{<img src="/images/connectornav/base/jobliste_uebersicht2.png" caption="Connector NAV Jobliste Übersicht Fortsetzung">}}
+![](/images/connectornav/base/jobliste_uebersicht2.png)<center>_Connector NAV Jobliste Übersicht Fortsetzung_</center>
 
 Ob ein Vorgang erfolgreich war, erkennt man i. d. R. an einem ‚+‘-Zeichen im Statuswert. Die nachfolgende Auflistung zeigt auf, was für Status es zu einem Vorgang noch geben kann.
 
@@ -103,7 +103,7 @@ Die folgende Übersicht zeigt tabellarisch, was für Status-Kombinationen es gib
 
 ##### Aktionen
 
-{{<img src="/images/connectornav/base/aktionen.png" caption="Connector NAV Jobliste Übersicht, Aktionen">}}
+![](/images/connectornav/base/aktionen.png)<center>_Connector NAV Jobliste Übersicht, Aktionen_</center>
 
 |Aktionenbeschreibung | |
 |---|---|
@@ -124,14 +124,14 @@ Die folgende Übersicht zeigt tabellarisch, was für Status-Kombinationen es gib
 
 Mit dem Connector NAV besteht nun die Möglichkeit, zusätzlich zu den vier Anhängen, externe Dokumente an eine E-Mail anzuheften. Näheres dazu in der separaten Dokumentation für das Modul E-Mail.
 
-{{<img src="/images/connectornav/base/dateien_uebersicht.png" caption="Connector NAV Dateien Übersicht">}}
+![](/images/connectornav/base/dateien_uebersicht.png)<center>_Connector NAV Dateien Übersicht_</center>
 
 Auf Anfrage können die Connector NAV Dateien auch automatisiert hinzugefügt werden.
 Beispielszenario: Ein Kunde hat für bestimmte Artikel zusätzliche PDF-Dokumente. Beim Versenden eines Angebots sucht der Connector NAV für die Angebotszeilen das entsprechende Dokument über eine externe Funktion und fügt diese der E-Mail als Anhang hinzu.
 
 #### Die Connector NAV Rückmeldung Übersicht
 
-{{<img src="/images/connectornav/base/rueckmeldung_uebersicht.png" caption="Connector NAV Rückmeldung Übersicht">}}
+![](/images/connectornav/base/rueckmeldung_uebersicht.png)<center>_Connector NAV Rückmeldung Übersicht_</center>
 
 Die Connector NAV Rückmeldung Übersicht zeigt tabellarisch die jeweils zu den erteilten Jobaufträgen erhaltenen Rückmeldungen mit den Statusinformationen an.
 
@@ -166,15 +166,15 @@ Zahlreiche weitere Felder werden angezeigt bzw. sind im Hintergrund vorhanden. E
 
 ##### Register Allgemein
 
-{{<img src="/images/connectornav/base/rueckmeldung_karte_allgemein.png" caption="Connector NAV Rückmeldung Karte, Register Allgemein">}}
+![](/images/connectornav/base/rueckmeldung_karte_allgemein.png)<center>_Connector NAV Rückmeldung Karte, Register Allgemein_</center>
 
 ##### Register Dateien
 
-{{<img src="/images/connectornav/base/rueckmeldung_karte_dateien.png" caption="Connector NAV Rückmeldung Karte, Register Dateien">}}
+![](/images/connectornav/base/rueckmeldung_karte_dateien.png)<center>_Connector NAV Rückmeldung Karte, Register Dateien_</center>
 
 ##### Register Rückmeldung
 
-{{<img src="/images/connectornav/base/rueckmeldung_karte_rueckmeldung.png" caption="Connector NAV Rückmeldung Karte, Register Rückmeldung">}}
+![](/images/connectornav/base/rueckmeldung_karte_rueckmeldung.png)<center>_Connector NAV Rückmeldung Karte, Register Rückmeldung_</center>
 
 Die Rückmeldung Karte bietet einen detaillierten Überblick über jede Rückmeldung eines Vorgangs. Für E-Mail- und Fax-Schnittstellen mit einer Rückmeldung (OfficeMaster, Twinfax, Faxmaker) wird im Register Rückmeldung diese Datei gelesen und angezeigt.
 
@@ -182,19 +182,19 @@ Die Rückmeldung Karte bietet einen detaillierten Überblick über jede Rückmel
 
 ###### Filelists anzeigen
 
-{{<img src="/images/connectornav/base/rueckmeldung_karte_aktionen_filelist.png" caption="Connector NAV Rückmeldung Karte, Aktionen">}}
+![](/images/connectornav/base/rueckmeldung_karte_aktionen_filelist.png)<center>_Connector NAV Rückmeldung Karte, Aktionen_</center>
 
 Über die Filelistfunktionen können Sie sich für jede Rückmeldung die Jobdatei (FILELIST), Bodytextdatei (FILELIST 2) oder die Anhänge 1-4 (FILELIST 3-6) anzeigen lassen.
 
 ##### Dokument
 
-{{<img src="/images/connectornav/base/rueckmeldung_karte_aktionen_dokument.png" caption="Connector NAV Rückmeldung Karte, Aktionen">}}
+![](/images/connectornav/base/rueckmeldung_karte_aktionen_dokument.png)<center>_Connector NAV Rückmeldung Karte, Aktionen_</center>
 
 Über die Dokumentfunktionen können Sie die oben genannten Dateien Importieren, Exportieren oder Löschen.
 
 #### Die Connector NAV Rückmeldung Sofortübersicht
 
-{{<img src="/images/connectornav/base/rueckmeldung_sofortuebersicht.png" caption="Connector NAV Rückmeldung Sofortübersicht">}}
+![](/images/connectornav/base/rueckmeldung_sofortuebersicht.png)<center>_Connector NAV Rückmeldung Sofortübersicht_</center>
 
 Dieser manuelle Aufruf ermöglicht es die bisherigen Rückmeldungen zu bestätigen. Das Feld **Gelesen** kann durch Setzen eines Hakens (= klick) auf „Ja“ gesetzt werden, es werden nur Datensätze mit dem Wert Gelesen = Nein angezeigt.
 
@@ -202,7 +202,7 @@ Dieses Formular kann auch an geeigneten Stellen automatisch aufgerufen werden, u
 
 #### Die Connector NAV Statistik
 
-{{<img src="/images/connectornav/base/statistik.png" caption="Connector NAV Statistik">}}
+![](/images/connectornav/base/statistik.png)<center>_Connector NAV Statistik_</center>
 
 |Feldbeschreibung | |
 |---|---|

@@ -12,7 +12,7 @@ weight: 2
 Für die Nutzung des Connector NAV wird hier für jeden Benutzer ein Eintrag erstellt.
 
 ##### Register Allgemein
-{{<img src="/images/connectornav/benutzer_einr_reg_allgemein.png" caption="Connector NAV Benutzer Einrichtung, Register Allgemein">}}
+![](/images/connectornav/benutzer_einr_reg_allgemein.png)<center>_Connector NAV Benutzer Einrichtung, Register Allgemein_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -35,7 +35,7 @@ Für die Nutzung des Connector NAV wird hier für jeden Benutzer ein Eintrag ers
 |CTI | Hier wird angegeben, ob der Benutzer CTI nutzt. (Nur im Zusammenhang mit dem Modul CTI)|
 
 ##### Register IncaMail
-{{<img src="/images/connectornav/benutzer_einr_reg_incamail.png" caption="Connector NAV Benutzer Einrichtung, Register IncaMail">}}
+![](/images/connectornav/benutzer_einr_reg_incamail.png)<center>_Connector NAV Benutzer Einrichtung, Register IncaMail_</center>
 
 Nur sichtbar für das Modul IncaMail.
 
@@ -44,7 +44,7 @@ Nur sichtbar für das Modul IncaMail.
 |IncaMail Passwort | Hier wird das Passwort des IncaMail Kontos eingetragen. Dabei wird dieses nicht als Klartext abgespeichert, sondern verschlüsselt.|
 
 ##### Register pdfPaper
-{{<img src="/images/connectornav/benutzer_einr_reg_incamail.png" caption="Connector NAV Benutzer Einrichtung, Register pdfPaper">}}
+![](/images/connectornav/benutzer_einr_reg_incamail.png)<center>_Connector NAV Benutzer Einrichtung, Register pdfPaper_</center>
 
 Nur sichtbar für das Modul pdfPaper.
 
@@ -53,7 +53,7 @@ Nur sichtbar für das Modul pdfPaper.
 |Zeige PDF Passwort | Nur der Benutzer, der in dieser Check-Box einen Haken hat, kann sich die vergebenen Passwörter in der Jobliste anzeigen lassen|
 
 ##### Register E-POST
-{{<img src="/images/connectornav/benutzer_einr_reg_epost.png" caption="Connector NAV Benutzer Einrichtung, Register E-POST">}}
+![](/images/connectornav/benutzer_einr_reg_epost.png)<center>_Connector NAV Benutzer Einrichtung, Register E-POST_</center>
 
 Nur sichtbar für das Modul E-POST.
 
@@ -63,7 +63,7 @@ Nur sichtbar für das Modul E-POST.
 |E-POST Passwort | Passwort des E-POST Kontos.|
 
 ##### Register Platzhalter
-{{<img src="/images/connectornav/benutzer_einr_reg_platzhalter.png" caption="Connector NAV Benutzer Einrichtung, Register Platzhalter">}}
+![](/images/connectornav/benutzer_einr_reg_platzhalter.png)<center>_Connector NAV Benutzer Einrichtung, Register Platzhalter_</center>
 
 Die folgenden Platzhalter können für den E-Mail Bodytext genutzt werden.
 
@@ -90,10 +90,10 @@ Die folgenden Platzhalter können für den E-Mail Bodytext genutzt werden.
 
 **Ein Beispiel für die Anwendung von Platzhaltern**
 
-Platzhalter %1 ist die Anrede, diese kann mittels eines Funktionsaufrufes individuell 
-gestaltet werden. \[SetSalutation\(Salutation: Text\[250\]\]
-Weitere Platzhalter %17, %18, %19, %21 können mittels des Funktionsaufrufs individuell 
-gestaltet werden. \[SetNewLines: Text\[250\]\]
+Platzhalter %1 ist die Anrede, diese kann mittels eines Funktionsaufrufes individuell gestaltet werden.
+\[SetSalutation\(Salutation: Text\[250\]\]
+Weitere Platzhalter %17, %18, %19, %21 können mittels des Funktionsaufrufs individuell gestaltet werden.
+\[SetNewLines: Text\[250\]\]
 
 %1,
 
@@ -118,11 +118,11 @@ In der Codeunit **CON FaxMailDialogHook** können Sie durch anlegen eines **Even
 Um die Platzhalter mit dem gewünschten Text zu ersetzen, müssen Sie die Funktion **ReplaceText** aus der Codeunit **CON Base** aufrufen. Der erste Parameter enthält den Quelltext, der dem Event übergeben wird, der zweite den zu ersetzenden Platzhalter und der dritte den Text, der den Platzhalter ersetzen soll.
 
 Im unten zu sehenden Beispiel wird der Platzhalter %36 durch den Namen, der diesem Beleg zugewiesenen Verkaufsperson ersetzt, sofern es sich bei dem beleg um eine Auftragsbestätigung handelt.
-{{<img src="/images/connectornav/benutzer_einr_platzhalter_bsp.png">}}
+![](/images/connectornav/benutzer_einr_platzhalter_bsp.png)
 
 **Druckerauswahl pro User**
 Sie haben in der Benutzer Einrichtung die Möglichkeit jedem im System angelegten User einen individuellen Drucker zuzuweisen. Dies erlaubt Ihnen, beispielsweise einen Drucker pro Abteilung den jeweiligen Benutzern zuzuordnen.
-{{<img src="Cbenutzer_einr_druckerwahl.png" caption="Übersicht der Benutzer Einrichtung, Druckerfeld ist markiert.">}}
+![](/images/connectornav/benutzer_einr_druckerwahl.png)<center>_Übersicht der Benutzer Einrichtung, Druckerfeld ist markiert._</center>
 
 Um einen individuellen Drucker festzulegen, muss lediglich ein Drucker in dem Feld „Drucker“ bei dem jeweiligen User hinterlegt werden.
 Da es im Connector NAV mehrere Möglichkeiten gibt einen Drucker festzulegen, haben die Drucker folgende Priorität:

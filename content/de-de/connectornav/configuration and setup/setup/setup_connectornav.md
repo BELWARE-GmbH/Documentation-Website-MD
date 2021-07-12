@@ -10,15 +10,12 @@ weight: 1
 #### Die Connector NAV Einrichtung
 
 ##### Aktionen
-{{<img src="/images/connectornav/einrichtung_aktionen.png" caption="Connector NAV Einrichtung, Aktionen">}}
+![](/images/connectornav/einrichtung_aktionen.png)<center>_Connector NAV Einrichtung, Aktionen_</center>
 
-Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen.  
-Die Funktion DocImport erzeugt für alle Dokumente, die im 
-Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit
-können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
+Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen. Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
 
 ##### Register Allgemein
-{{<img src="/images/connectornav/einrichtung_register_allgemein.png" caption="Connector NAV Einrichtung, Register Allgemein">}}
+![](/images/connectornav/einrichtung_register_allgemein.png)<center>_Connector NAV Einrichtung, Register Allgemein_</center>
 
 In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.
 
@@ -45,7 +42,7 @@ Mit dem Betriebssystem Windows XP hat man die Möglichkeit, einem Bericht einen 
 Sollten Sie mit solchen Berichten arbeiten, müssen Sie entweder die Voreinstellung löschen oder Sie kopieren den Bericht, entfernen die Voreinstellung und weisen diesen neuen Bericht der **Benutzerbericht Einrichtung** zu.
 
 ##### Register E-Mail
-{{<img src="/images/connectornav/einrichtung_register_email.png" caption="Connector NAV Einrichtung, Register E-Mail">}}
+![](/images/connectornav/einrichtung_register_email.png)<center>_Connector NAV Einrichtung, Register E-Mail_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -55,7 +52,7 @@ Sollten Sie mit solchen Berichten arbeiten, müssen Sie entweder die Voreinstell
 |Dokumentenarchivierungsverzeichnis | Hier wird der Pfad des Ordners angegeben, in dem die Dokumente/E-Mails archiviert werden sollen.|
 
 ##### Register Steuerung
-{{<img src="/images/connectornav/einrichtung_register_steuerung.png" caption="Connector NAV Einrichtung, Register Steuerung">}}
+![](/images/connectornav/einrichtung_register_steuerung.png)<center>Connector NAV Einrichtung, Register Steuerung</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -84,7 +81,7 @@ Sollten Sie mit solchen Berichten arbeiten, müssen Sie entweder die Voreinstell
 |Eindeutiger Anhangsdateiname | Hier wird festgelegt, ob erzeugte Dateien immer einen eindeutigen Dateinamen haben. Dies verhindert Duplikate und das Dateien überschrieben werden.|
 
 ##### Register Signatur
-{{<img src="/images/connectornav/einrichtung_register_signatur.png" caption="Connector NAV Einrichtung, Register Signatur">}}
+![](/images/connectornav/einrichtung_register_signatur.png)<center>_Connector NAV Einrichtung, Register Signatur_</center>
 
 {{<notice warning "Hinweis">}}Nur im Zusammenhang mit dem Modul Sign nutzbar.{{</notice>}}
 
@@ -94,7 +91,7 @@ Sollten Sie mit solchen Berichten arbeiten, müssen Sie entweder die Voreinstell
 |Signaturcode eMail | Diese Kennung wird dem Job mitgegeben, somit kann bei Betrieb des Moduls SIGNATUR (SIGN) direkt aus Navision eine E-Mail mit qualifizierter Signatur verschickt werden.|
 
 ##### Register Aktivitäten
-{{<img src="/images/connectornav/einrichtung_register_aktivitaeten.png" caption="Connector NAV Einrichtung, Register Aktivitäten">}}
+![](/images/connectornav/einrichtung_register_aktivitaeten.png)<center>_Connector NAV Einrichtung, Register Aktivitäten_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -108,7 +105,7 @@ Sollten Sie mit solchen Berichten arbeiten, müssen Sie entweder die Voreinstell
 |Ausdruck Aktivitätenvorlage | Bitte tragen Sie hier den Vorlagecode für den Vorgang Ausdruck ein.|
 
 ##### Register Version
-{{<img src="/images/connectornav/einrichtung_register_version.png" caption="Connector NAV Einrichtung, Register Version">}}
+![](/images/connectornav/einrichtung_register_version.png)<center>_Connector NAV Einrichtung, Register Version_</center>
 
 |Feldbeschreibung | |
 |---|---|

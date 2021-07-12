@@ -11,7 +11,7 @@ weight: 3
 Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellungen pro Benutzer, Bericht und Sprache einstellen. Eine Einstellung in der Benutzerbericht Einrichtung hat **höhere Priorität** als die derDie Connector NAV Benutzer Einrichtung (z.B. E-Mail Absender).
 
 ##### Aktionen
-{{<img src="/images/connectornav/benreport_einr_aktionen.png" caption="Connector NAV Benutzerbericht Einrichtung, Aktionen">}}
+![](/images/connectornav/benreport_einr_aktionen.png)<center>_Connector NAV Benutzerbericht Einrichtung, Aktionen_</center>
 
 |Aktionenbeschreibung| |
 |---|---|
@@ -21,12 +21,12 @@ Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellun
 
 Nachdem die Aktion durchgeführt wurde, öffnet sich das Dokument. Es erfolgt eine Meldung (ob der Temp-Ordner gelöscht werden soll).
 
-{{<img src="/images/connectornav/benreport_einr_aktionen2.png" caption="Connector NAV Benutzerbericht Einrichtung, Aktion Anzeigen">}}
+![](/images/connectornav/benreport_einr_aktionen2.png)<center>_Connector NAV Benutzerbericht Einrichtung, Aktion Anzeigen_</center>
 
 Dieser löscht alle runtergeladenen Dokumente, die sich im lokalen Temp-Verzeichnis unter %appdata% befinden. Bevor mit Ja bestätigt wird, muss das Dokument wieder geschlossen werden, andernfalls kommt es zu einer Fehlermeldung. Möchte man diese Abfrage nicht, kann das Fenster in der Connector NAV Einrichtung über die Funktion „Temp-Ordner bereinigen“ ausgeschaltet werden.
 
 #### Register Allgemein
-{{<img src="/images/connectornav/benreport_einr_reg_allgemein.png" caption="Connector NAV Benutzerbericht Einrichtung, Register Allgemein">}}
+![](/images/connectornav/benreport_einr_reg_allgemein.png)<center>_Connector NAV Benutzerbericht Einrichtung, Register Allgemein_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -43,7 +43,7 @@ Dieser löscht alle runtergeladenen Dokumente, die sich im lokalen Temp-Verzeich
 |Dateiname | Hier kann ein individueller Dateiname für den Originalbeleg eingetragen werden. Dieser Eintrag überschreibt die Einstellung „Dateiname ist Belegnummer“ aus der Connector NAV Einrichtung. Zusätzlich zum „Freitext“ stehen Platzhalter zur Verfügung:<br />%1 Belegnummer<br />%2 Belegart<br />%3 Datum YYYYMMDD<br />%4 Zeit HHMMSS<br />%5 laufende Nummer der Jobliste<br />%6 Jobmodus<br />%7 Versand über<br />%8 Referenz<br />Bei der Namensgebung muss unbedingt beachtet werden, dass der Name eindeutig ist.<br />Andernfalls werden Originalbelege beim erneuten Versand überschrieben.<br />Nicht empfohlen: %2_%1.<br />Empfohlen: %2_%1_%5.|
 
 #### Register Steuerung
-{{<img src="/images/connectornav/benreport_einr_reg_steuerung.png" caption="Connector NAV Benutzerbericht Einrichtung, Register Steuerung">}}
+![](/images/connectornav/benreport_einr_reg_steuerung.png)<center>_Connector NAV Benutzerbericht Einrichtung, Register Steuerung_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -61,12 +61,12 @@ Dieser löscht alle runtergeladenen Dokumente, die sich im lokalen Temp-Verzeich
 |Dialog an/aus | Hier kann gesteuert werden, für welchen Vorgang der Dialog sichtbar bzw. nicht sichtbar sein soll. Die Checkbox **Dialog** ist dabei allgemein für alle Vorgänge auszuwählen. Wird diese Checkbox ausgewählt, erfolgen keine individuellen Prüfungen mehr.|
 
 #### Register Anhänge Zeilen
-{{<img src="/images/connectornav/benreport_einr_reg_anh_zeilen.png" caption="Connector NAV Benutzer Einrichtung, Register Anhänge Zeilen">}}
+![](/images/connectornav/benreport_einr_reg_anh_zeilen.png)<center>_Connector NAV Benutzer Einrichtung, Register Anhänge Zeilen_</center>
 
 Die vier Standardanhangsdateien wurden ergänzt um N-Anhänge, die pro Jobmodus vordefiniert werden können. Diese können über die oben genannte Aktion hinzugefügt werden. Im Reiter lässt sich das Dokument anzeigen und löschen. Außerdem können Sie bestimmen ob Anhänge mit dem Beleg zu einem Dokument vereint werden sollen und der entsprechende Anhang entweder oben oder unten angefügt wird.
 
 #### Register pdfPaper
-{{<img src="/images/connectornav/benreport_einr_reg_pdfpaper.png" caption="Connector NAV Benutzer Einrichtung, Register pdfPaper">}}
+![](/images/connectornav/benreport_einr_reg_pdfpaper.png)<center>_Connector NAV Benutzer Einrichtung, Register pdfPaper_</center>
 
 Nur sichtbar für das Modul pdfPaper. Näheres zur Einrichtung des Moduls pdfPaper finden Sie in der mitgelieferten Dokumentation.
 
@@ -77,7 +77,7 @@ Nur sichtbar für das Modul pdfPaper. Näheres zur Einrichtung des Moduls pdfPap
 |Drucker für den Vorgang Ausdruck Client/Server | Hier kann ein abweichender Drucker für den Vorgang Ausdruck zur globalen Einrichtung hinterlegt werden. Dieser Drucker wird für den Jobmodus „Ausdruck“ verwendet.|
 
 #### Register IncaMail
-{{<img src="/images/connectornav/benreport_einr_reg_incamail.png" caption="Connector NAV Benutzer Einrichtung, Register IncaMail">}}
+![](/images/connectornav/benreport_einr_reg_incamail.png)<center>_Connector NAV Benutzer Einrichtung, Register IncaMail_</center>
 
 Nur sichtbar für das Modul IncaMail.
 
@@ -86,7 +86,7 @@ Nur sichtbar für das Modul IncaMail.
 |Senden als IncaMail | Hier kann eingestellt werden, ob der Beleg als IncaMail versendet werden soll.|
 
 #### Register E-POST
-{{<img src="/images/connectornav/benreport_einr_reg_epost.png" caption="Connector NAV Benutzer Einrichtung, Register E-POST">}}
+![](/images/connectornav/benreport_einr_reg_epost.png)<center>_Connector NAV Benutzer Einrichtung, Register E-POST_</center>
 
 Nur sichtbar für das Modul E-POST.
 

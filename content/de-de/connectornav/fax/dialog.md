@@ -45,7 +45,7 @@ weight: 3
 ##### Register Anhänge
 
 ![](/images/connectornav/fax/dialog_reg_anhaenge.png)
-{{<img src="/images/connectornav/fax/dialog_reg_anhaenge2.png" caption="Dialog Modus Fax, Register Anhänge">}}
+![](/images/connectornav/fax/dialog_reg_anhaenge2.png)<center>_Dialog Modus Fax, Register Anhänge_</center>
 
 |Feldbeschreibung | |
 |---|---|

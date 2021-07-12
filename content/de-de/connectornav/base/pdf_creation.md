@@ -12,7 +12,7 @@ weight: 2
 Mit der Connector NAV Basis haben Sie die Möglichkeit, einfache PDF Dokumente direkt in Dynamics NAV zu erstellen und zu verwalten.
 Die Erzeugung von PDF Dateien aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
 
-{{<img src="/images/connectornav/base/pdf_erzeugung.png" caption="Ausschnitt Beispielangebot Connector NAV Integration">}}
+![](/images/connectornav/base/pdf_erzeugung.png)<center>_Ausschnitt Beispielangebot Connector NAV Integration_</center>
 
 |Aktionen | |
 |---|---|
@@ -23,7 +23,7 @@ Die Erzeugung von PDF Dateien aus Dynamics NAV ist aus jeder beliebigen Page mö
 
 #### Der Dialog im Modus PDF
 
-{{<img src="/images/connectornav/base/dialog_modus_pdf.png" caption="Dialog Modus PDF Register Allgemein">}}
+![](/images/connectornav/base/dialog_modus_pdf.png)<center>Dialog Modus PDF Register Allgemein</center>
 
 |Feldbeschreibung | |
 |---|---|

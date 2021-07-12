@@ -11,7 +11,7 @@ weight: 1
 
 Das Senden von E-Post Briefen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel eine Geb. Verkaufsrechnung verwendet.
 
-{{<img src="/images/connectornav/epost/beispiel.png" caption="Ausschnitt Beispielrechnung Connector NAV Integration">}}
+![](/images/connectornav/epost/beispiel.png)<center>_Ausschnitt Beispielrechnung Connector NAV Integration_</center>
 
 |Aktionen| |
 |---|---|

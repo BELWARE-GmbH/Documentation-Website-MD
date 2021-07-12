@@ -11,12 +11,12 @@ weight: 6
 
 Die Einrichtung der Aufgabenwarteschlange befindet sich im Menü unter Verwaltung-> IT Verwaltung-> Anwendung Einrichtung-> Aufgabenwarteschlange.
 
-{{<img src="/images/connectornav/einrichtung_queue.png" caption="Microsoft Dynamics NAV, Aufgabenwarteschlange">}}
+![](/images/connectornav/einrichtung_queue.png)<center>_Microsoft Dynamics NAV, Aufgabenwarteschlange_</center>
 
 Um Connector NAV Serverjobs auszuführen, wird ein Aufgabenwarteschlangenposten mit der entsprechenden Codeunit 5402516 angelegt. Damit dieser Posten läuft, muss eine Aufgabenwarteschlange mit entsprechendem Dienst angelegt werden. Dazu gibt es verschiedene Möglichkeiten. Im nachfolgenden Beispiel wird eine Aufgabenwarteschlange mit dem Administrator-Benutzer ohne weitere Einrichtung am Server angelegt.
 
 ##### Die Aufgabenwarteschlange
-{{<img src="/images/connectornav/einrichtung_queue2.png" caption="Microsoft Dynamics NAV, Aufgabenwarteschlange">}}
+![](/images/connectornav/einrichtung_queue2.png)<center>_Microsoft Dynamics NAV, Aufgabenwarteschlange_</center>
 
 In der Übersicht kann über die Aktion -> Neu, eine neue Aufgabenwarteschlange angelegt werden. Es öffnet sich die oben gezeigte Karte. Folgende Einstellungen können beispielhaft angelegt werden:
 
@@ -45,7 +45,7 @@ Anschließend wird ein Hintergrundbenutzer für Microsoft Dynamics NAV erzeugt, 
 In der Übersicht kann über die Aktion -> Neu, ein neuer Aufgabenwarteschlangenposten angelegt werden. Es öffnet sich die oben gezeigte Karte. Folgende Einstellungen können beispielhaft angelegt werden:
 
 ###### Register Allgemein
-{{<img src="/images/connectornav/einrichtung_queue_reg_allgemein.png" caption="Microsoft Dynamics NAV, Aufgabenwarteschlangenposten">}}
+![](/images/connectornav/einrichtung_queue_reg_allgemein.png)<center>_Microsoft Dynamics NAV, Aufgabenwarteschlangenposten_</center>
 
 |Feldbeschreibung | |
 |---|---|
@@ -60,7 +60,7 @@ In der Übersicht kann über die Aktion -> Neu, ein neuer Aufgabenwarteschlangen
 |Status | Zeigt den Status des Aufgabenwarteschlangenpostens an.|
 
 ###### Register Wiederholung
-{{<img src="/images/connectornav/einrichtung_queue_reg_wiederholung.png" caption="Microsoft Dynamics NAV, Aufgabenwarteschlangenposten">}}
+![](/images/connectornav/einrichtung_queue_reg_wiederholung.png)<center>_Microsoft Dynamics NAV, Aufgabenwarteschlangenposten_</center>
 
 Hier kann eingestellt werden, wann der Aufgabenwarteschlangenposten ausgeführt werden soll. Eine Kombination aus Wochentagen, Start und Endzeit sind möglich. Des Weiteren muss angegeben werden, in welcher Periode (Anzahl in Minuten) sich der Posten wiederholen soll. Bei einem zeitnahen Versand der E-Mails oder Faxe empfiehlt sich ein kurzer Ablaufzeitraum wie im oben gezeigten Beispiel.
 

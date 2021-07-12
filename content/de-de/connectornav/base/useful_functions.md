@@ -36,7 +36,7 @@ Um die Platzhalter mit dem gewünschten Text zu ersetzen, müssen Sie die Funkti
 
 Im unten zu sehenden Beispiel wird der Platzhalter %36 durch den Namen, der diesem Beleg zugewiesenen Verkaufsperson ersetzt, sofern es sich bei dem Beleg um eine Auftragsbestätigung handelt.
 
-{{<img src="/images/connectornav/base/setjoblistsubject.png">}}
+![](/images/connectornav/base/setjoblistsubject.png)
 
 #### SetBodytextArray(ArrayText: ARRAY [100] OF Text[1024])
 

@@ -17,23 +17,23 @@ Mit dem Modul DocImport können Sie externe Dokumente in Microsoft Dynamics NAV 
 
 Navigieren Sie zu dem Pfad, den Sie in der Dokumentation **Connector NAV Konfiguration und Einrichtung** unter dem Menüpunkt **Connector NAV Einrichtung, Register E-Mail** im Feld **Dokumenteneingangsverzeichnis** eingetragen haben. Im Beispiel heißt dieser hier com_docImport. In diesem Ordner können Sie beliebige Dokumente ablegen.
 
-{{<img src="/images/connectornav/base/docimport_ordnerstruktur.png" caption="Ordnerstuktur com_docimport">}}
+![](/images/connectornav/base/docimport_ordnerstruktur.png)<center>_Ordnerstuktur com_docimport_</center>
 
 #### Die Connector NAV Eingehende Dokumente 
 
-{{<img src="/images/connectornav/base/docimport_eing_dok.png" caption="Connector NAV Eingehende Dokumente">}}
+![](/images/connectornav/base/docimport_eing_dok.png)<center>_Connector NAV Eingehende Dokumente_</center>
 
 In der Übersicht werden alle Jobeinträge angezeigt, die entweder keinem Beleg zugeordnet wurden oder nicht manuell auf „zugeordnet“ gesetzt wurden. Es ist die zentrale Stelle zum Importieren der Dokumente. Anschließend können die Einträge direkt zugeordnet, oder an Arbeitsgruppen verteilt werden. Danach verschwindet der Eintrag in dieser Übersicht. In der *Connector NAV Arbeitsgruppe Dokumente* öffnet sich die Liste mit allen Einträgen, die der Arbeitsgruppe des Benutzers entsprechen (siehe Dokumentation Connector NAV Konfiguration und Einrichtung).
 
 ####  Die Connector NAV Arbeitsgruppen Dokumente 
 
-{{<img src="/images/connectornav/base/docimport_arbeitsgruppen.png" caption="Connector NAV Arbeitsgruppen Dokumente">}}
+![](/images/connectornav/base/docimport_arbeitsgruppen.png)<center>_Connector NAV Arbeitsgruppen Dokumente_</center>
 
 Die nachfolgenden Aktionen können in beiden Übersichten ausgeführt werden.
 
 ##### Aktionen
 
-{{<img src="/images/connectornav/base/eing_dok_aktionen.png" caption="Connector NAV Eingehende Dokumente / Arbeitsgruppen Dokumente, Aktionen">}}
+![](/images/connectornav/base/eing_dok_aktionen.png)<center>_Connector NAV Eingehende Dokumente / Arbeitsgruppen Dokumente, Aktionen_</center>
 
 |Aktionen | |
 |---|---|
@@ -44,7 +44,7 @@ Die nachfolgenden Aktionen können in beiden Übersichten ausgeführt werden.
 
 Mit dieser Aktion lassen sich die Jobeinträge zu einem Beleg zuordnen. Aus den Folgenden Abteilungen kann gewählt werden.
 
-{{<img src="/images/connectornav/base/dokumente_zuordnen.png" caption="Connector NAV Eingehende Dokumente, Aktion Dokumente zuordnen">}}
+![](/images/connectornav/base/dokumente_zuordnen.png)<center>_Connector NAV Eingehende Dokumente, Aktion Dokumente zuordnen_</center>
 
 |Folgende Belege stehen zur Verfügung: | |
 |---|---|
@@ -57,4 +57,4 @@ Mit dieser Aktion lassen sich die Jobeinträge zu einem Beleg zuordnen. Aus den 
 
 Mit dieser Aktion lassen sich die Jobeinträge um Informationen ergänzen.
 
-{{<img src="/images/connectornav/base/eintrag_bearbeiten.png" caption="Connector NAV Eingehende Dokumente, Aktion Eintrag bearbeiten">}}
+![](/images/connectornav/base/eintrag_bearbeiten.png)<center>_Connector NAV Eingehende Dokumente, Aktion Eintrag bearbeiten_</center>

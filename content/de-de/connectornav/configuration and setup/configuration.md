@@ -13,16 +13,13 @@ weight: 2
 
 ##### Konfigurationseinstellung
 
-{{<img src="/images/connectornav/konfiguration_connectornav.png" caption="Connector NAV Konfiguration, Aktionen">}}
+![](/images/connectornav/konfiguration_connectornav.png)<center>_Connector NAV Konfiguration, Aktionen_</center>
 
-Bevor Sie mit der Einrichtung des Connector NAV beginnen, werden Ihre individuellen 
-Konfigurationsdaten geladen. Dafür betätigen Sie zu Beginn die Aktion  
-**Konfigurationseinstellung**.  
-Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
+Bevor Sie mit der Einrichtung des Connector NAV beginnen, werden Ihre individuellen Konfigurationsdaten geladen. Dafür betätigen Sie zu Beginn die Aktion  **Konfigurationseinstellung**. Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
 
 ##### Register Codeunit
 
-{{<img src="/images/connectornav/register_codeunit.png" caption="Connector NAV Konfiguration, Register Codeunit">}}
+![](/images/connectornav/register_codeunit.png)<center>_Connector NAV Konfiguration, Register Codeunit_</center>
 
 |Feldbeschreibung|  |
 |---|---|
@@ -30,7 +27,7 @@ Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
 
 ##### Register Page
 
-{{<img src="/images/connectornav/register_page.png" caption="Connector NAV Konfiguration, Register Page">}}
+![](/images/connectornav/register_page.png)<center>_Connector NAV Konfiguration, Register Page_</center>
 
 |Feldbeschreibung|  |
 |---|---|
@@ -39,7 +36,7 @@ Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
 
 ##### Register Schnittstelle
 
-{{<img src="/images/connectornav/register_schnittstelle.png" caption="Connector NAV Konfiguration, Register Schnittstelle">}}
+![](/images/connectornav/register_schnittstelle.png)<center>_Connector NAV Konfiguration, Register Schnittstelle_</center>
 
 |Feldbeschreibung|  |
 |---|---|
@@ -51,7 +48,7 @@ Die Konfiguration gibt Aufschluss über Ihre erworbenen Module.
 
 ##### Register Konfiguration
 
-{{<img src="/images/connectornav/register_konfiguration.png" caption="Connector NAV Konfiguration, Register Konfiguration">}}
+![](/images/connectornav/register_konfiguration.png)<center>_Connector NAV Konfiguration, Register Konfiguration_</center>
 
 |Feldbeschreibung|  |
 |---|---|
