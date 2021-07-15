@@ -68,13 +68,13 @@ Für die Installation der Connector 365 Base App nutzen Sie den folgenden Befehl
 
 **Beispiel:**
 
-```Install-NAVApp -ServceInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
 Es folgt noch die Connector 365 Mail Sender Plus App:
 
 **Beispiel:**
 
-```Install-NAVApp -ServceInstance IhreBusinessCentralInstanz -Name "Connector 365 Mail Sender Plus" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Mail Sender Plus" -Tenant Tenant1, Tenant2```
 
 Sie können nun mit der [Einrichtung](/de-de/apps/mail_sender_plus/first-steps/setup/) starten.
 

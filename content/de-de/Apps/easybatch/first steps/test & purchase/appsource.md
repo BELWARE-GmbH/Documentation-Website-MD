@@ -10,9 +10,9 @@ weight: 2
 
 ### AppSource
 
-Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.connector_365_mail_sender_plus|PAppID.84a5708d-038e-4f8d-9e92-06c2bbdaa857?tab=Overview) zur Verfügung.
+Die App steht Ihnen im [Microsoft AppSource](LINK NOCH NICHT VORHANDEN) zur Verfügung.
 
-![](images/apps/senderappsource.PNG)
+![](images/apps/senderappsource.PNG - RICHTIGES BILD SETZEN SOBALD MÖGLICH)
 
 Nach dem Download kann ein Nutzer die App komplett frei benutzen.
 
@@ -22,7 +22,7 @@ Ihre Kosten:
 
 | Monatliche Subscription inkl. Wartung* |
 |----------------------------------------|
-| 0,90€/Absender                         |
+| x,xx€                                  |
 
 *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 
@@ -30,11 +30,11 @@ Ihre Kosten:
 Zum Formular
 </p>
 
-[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUNzk5M1Y4WlVHOUE1NzlLTUZNSVQxUFFJWC4u)
+[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOVIzN0JGRTRTUjRGRzZQMFZJOUVGVEtaVS4u)
 
 ![](images/apps/senderforms_removed.PNG)
  
-Connector 365 Mail Sender Plus steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+Connector 365 Easy Batch steht Ihnen für die folgende BC Lizensierung zur Verfügung:
 
 - SaaS Essential
 - SaaS Premium

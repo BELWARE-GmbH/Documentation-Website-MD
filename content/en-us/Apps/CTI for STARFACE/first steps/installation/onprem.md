@@ -70,13 +70,13 @@ To install the Connector 365 Base app, use the following command::
 
 **Example:**
 
-```Install-NAVApp -ServceInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
 The Connector 365 CTI for STARFACE app follows:
 
 **Example:**
 
-```Install-NAVApp -ServceInstance IhreBusinessCentralInstanz -Name "Connector 365 CTI for STARFACE" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 CTI for STARFACE" -Tenant Tenant1, Tenant2```
 
 You can now start with the [setup](/en-us/apps/cti-for-starface/first-steps/setup/) starten.
 

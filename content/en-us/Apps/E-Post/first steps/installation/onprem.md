@@ -70,13 +70,13 @@ To install the Connector 365 Base app, use the following command:
 
 **Example:**
 
-```Install-NAVApp -ServceInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
 The Connector 365 E-POST app follows:
 
 **Example:**
 
-```Install-NAVApp -ServceInstance IhreBusinessCentralInstanz -Name "Connector 365 E-POST" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 E-POST" -Tenant Tenant1, Tenant2```
 
 You can now start with the [setup](/en-us/apps/e-post/first-steps/setup/) starten.
 
