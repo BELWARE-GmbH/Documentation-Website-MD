@@ -10,7 +10,7 @@ weight: 4
 
 ### Absender je Kreditor/Debitor
 
-Es ist auch möglich Adressen pro Debitor/Kreditor festzulegen, dies wird über die Dokumentenlayouts gesteuert. Diese Einstellung hat dann die höchste Priorität. Um die Einrichtung vorzunehmen, müssen Sie zunächst die Seite des jeweiligen Debitors/Kreditors öffnen, bei dem Sie eine Adresse einrichten möchten. In den Einstellungen am Debitor finden Sie die Dokumentenlayouts.
+Es ist auch möglich Adressen pro Debitor/Kreditor festzulegen, dies wird über die Dokumentlayouts gesteuert. Diese Einstellung hat dann die höchste Priorität. Um die Einrichtung vorzunehmen, müssen Sie zunächst die Seite des jeweiligen Debitors/Kreditors öffnen, bei dem Sie eine Adresse einrichten möchten. In den Einstellungen am Debitor finden Sie die Dokumentlayouts.
 
 ![](images/apps/senderdocument.PNG)
 

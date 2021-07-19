@@ -9,31 +9,24 @@ weight: 2
 ### Test & Purchase
 
 ### OnPrem
-
-#### Test
-You have the possibility to test our Connector 365 Mail Sender Plus App without obligation or to purchase it directly. For this we need some information from you.
+You have the possibility to test our Connector 365 Easy Batch App without obligation or to purchase it directly. For this we need some information from you..
 
 <p style="text-align: center;">
 To the form
 </p>
 
-[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
+[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.
+If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.
 
-If you wish to purchase immediately, we will provide you with the necessary objects.
+If you wish an immediate purchase, you will receive the necessary objects from us.
 
-Your costs:
+Your cost:
 
-| Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
-|-----------------------------------------|----------------------------------------|
-|590,-€                                   | 25,-€                                  |
+| Purchase license + 18% maintenance/year  | Monthly subscription incl. maintenance |
+|------------------------------------------|----------------------------------------|
+|XXXX,-€                                   |XX,-€                                   |
 
-After that you can start with the [installation](/en-us/apps/mail-sender-plus/first-steps/installation/) of the Connector 365 Mail Sender Plus App
+After that you can start with the [installation](/en-us/apps/easybatch/first-steps/installation/) of the Connector 365 Easy Batch App
 
-Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.
-
-
-
-
-
+If any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as pricing, process or similar.

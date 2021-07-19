@@ -9,10 +9,10 @@ weight: 2
 ### Installation
 
 ### OnPrem
-You will receive the objects for the Connector 365 Base & Mail Sender Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
+You will receive the objects for the Connector 365 Base & Easy Batch App from us by mail. In order to be able to use the App, they must first be published and then installed.
 
-#### Publishing of the Connector 365 Base & Mail Sender Plus App
-the publishing of the Connector Base & Mail Sender Plus App is done via the **Business Central Administration Shell**. First transfer the files we sent to you to the server where your Business Central instance is running.
+#### Publishing of the Connector 365 Base & Easy Batch App
+the publishing of the Connector Base & Easy Batch App is done via the **Business Central Administration Shell**. First transfer the files we sent to you to the server where your Business Central instance is running.
 
 ![](images/apps/adminshell.PNG)
 
@@ -31,13 +31,13 @@ Now that you are in the appropriate folder, you can use the following command to
 
 **Example:**
 
-```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
+```Publish-NAVApp -ServerInstance YourBusinessCentralInstance -Path ".\BasisApp.app"```
 
-Afterwards you should also perform the process for the actual Connector 365 Mail Sender Plus app
+Afterwards you should also perform the process for the actual Connector 365 Easy Batch app
 
 **Example:**
 
-```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\MailSenderPlus.app"```
+```Publish-NAVApp -ServerInstance YourBusinessCentralInstance -Path ".\EasyBatch.app"```
 
 Both apps should now be published in your system.
 
@@ -46,7 +46,7 @@ Both apps should now be published in your system.
 {{< /notice >}}
 #
 
-#### Installing the Connector 365 Base & Mail Sender Plus App
+#### Installing the Connector 365 Base & Easy Batch App
 In the extension management of your environment, you will now see the apps as published, but they are not yet installed.
 
 ##### Installing via the client
@@ -64,19 +64,18 @@ In case you want to install via the Administration Shell (this has the advantage
 {{< /notice >}}
 #
 
-To install the Connector 365 Base app, use the following command:
+To install the Connector 365 Base app, use the following command::
 
 **Example:**
 
-```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance YourBusinessCentralInstance -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
-The Connector 365 Mail Sender Plus app follows:
+The Connector 365 Easy Batch app follows:
 
 **Example:**
 
-```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Mail Sender Plus" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance YourBusinessCentralInstance -Name "Connector 365 Easy Batch" -Tenant Tenant1, Tenant2```
 
-You can now start with the [setup](/en-us/apps/mail-sender-plus/first-steps/setup/) starten.
-
+You can now start with the [setup](/en-us/apps/easybatch/first-steps/setup/) starten.
 
 

@@ -10,4 +10,10 @@ weight: 1
 
 ### Introduction
 
-The Connector 365 Mail Sender Plus App allows you to control and use multiple mail sender addresses via an extended mail setup. By default, it is only possible to use a single SMTP sender address per company. The Mail Sender Plus App offers a priority-controlled setup for various scenarios within the sender addresses. It is possible to simply change the address in the dialog or set an address as default per report or customer/vendor. With that it is for example possible to set a global address for the sending of invoices. With our App you can make your mails more personal.
+When sending documents from your Microsoft Dynamics 365 Business Central environment, you often want to send multiple documents at the same time, but with the Dynamics 365 Business Central standard, this is not easily possible. This makes a process that should only take a few minutes take much longer.
+
+With the Connector 365 Easy Batch it is possible to intelligently send multiple documents at the same time, set up the desired sending method in the document layouts and simply select your receipts you want to send - One click and all receipts will be sent.
+
+#### Compatible with other Connector 365 solutions
+
+Connector 365 Easy Batch also supports Connector 365 XRechnung & E-POST App in batch sending.

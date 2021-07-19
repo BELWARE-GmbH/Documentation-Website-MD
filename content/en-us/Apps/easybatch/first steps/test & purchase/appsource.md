@@ -6,36 +6,35 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Test & purchase
+### Test & Purchase
 
 ### AppSource
 
-The app is available in the [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.connector_365_mail_sender_plus|PAppID.84a5708d-038e-4f8d-9e92-06c2bbdaa857?tab=Overview).
+The app is available in the Microsoft AppSource.
 
-![](images/apps/senderappsource.PNG)
+![](images/apps/senderappsource_wrong.PNG)
 
-After downloading, a user can use the App completely free.
+After downloading, the app can be tested free of charge for 30 days.
 
-In case that more Users want to use the function, you can simply order more licenses via our form.
+In case you want more users to use the app's features, you can purchase additional licenses for a fee using our form.
 
-Your costs:
+| Monthly subscription incl. maintenance* |
+|-----------------------------------------|
+| x,xx€                                   |
 
-| Subscription incl. maintenance* |
-|---------------------------------|
-|0,90€/Sender                     |
-
-*billed either monthly, quarterly or annually
+*Electively billed monthly, quarterly or annually.
 
 <p style="text-align: center;">
 To the form
 </p>
 
-[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOFhKRzI1WUI2WUNUWDg3Ukk0SFBMT1JXMy4u)
+[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOVIzN0JGRTRTUjRGRzZQMFZJOUVGVEtaVS4u)
 
 ![](images/apps/senderforms_removed.PNG)
  
-Connector 365 Mail Sender Plus is available for the following BC licensing:
+Connector 365 Easy Batch is available for the following BC licensing:
 
 - SaaS Essential
 - SaaS Premium
+
 

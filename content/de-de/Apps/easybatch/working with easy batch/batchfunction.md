@@ -16,16 +16,16 @@ Nachdem alle Debitoren nach Ihren Wünschen eingerichtet wurde, können Sie mit 
 
 Wählen Sie nun die Belege aus welche Sie versenden möchten
 
-![](images/apps/easydocumentselect.PNG)
+![](images/apps/easydocumentselectde.PNG)
 
 In der Auswahl sind Sie komplett frei - Sie haben, falls gewünscht, auch die Möglichkeit einzelne Belege als Stapel zu versenden.
 
 Sobald Sie die Beleg für den Versand ausgewählt haben, können Sie den Stapel starten. Die Funktion dafür finden Sie unter **Drucken/Senden** -> **Per Stapel senden**.
 
-![](images/apps/easybatchfunction.PNG)
+![](images/apps/easybatchfunctionde.PNG)
 
 Es öffnet sich kein weiterer Dialog, die Verarbeitung anhand der eingestellten Jobmodi wird sofort durchgeführt.
 
 Nach Abschluss der Verarbeitung erhalten Sie eine kurze Benachrichtigung.
 
-Der gesamte Vorgang und die verarbeiteten Jobs werden anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easybatch/archive/) archiviert.
+Der gesamte Vorgang und die verarbeiteten Jobs werden anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easybatch/working-with-easy-batch/archive/) archiviert.

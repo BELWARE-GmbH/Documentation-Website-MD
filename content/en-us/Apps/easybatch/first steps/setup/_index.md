@@ -6,3 +6,10 @@ draft: false
 collapsible: true
 weight: 4
 ---
+### Setup of the Connector 365 Easy Batch App
+
+Here you will find all help and learning resources, to assist you in setting up the Connector 365 Easy Batch App.
+
+Simply use either the bottom or left navigation menu.
+
+In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/easybatch/help-support/).

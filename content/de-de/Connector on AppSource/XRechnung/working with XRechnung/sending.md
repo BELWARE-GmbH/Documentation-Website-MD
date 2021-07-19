@@ -26,7 +26,7 @@ Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtb
 Wenn Sie noch weitere Anhänge haben, welche Sie mitversenden möchten, dann können Sie diese über das Feld **„Datei anhängen“** Ihrer Mail hinzufügen.
 
 {{< notice info "Hinweis" >}}
- _Für den Fall, dass Sie in den Dokumentenlayouts eine einbetten der Anhänge angewählt haben, so werden diese ebenfalls in die XML eingebettet und lassen sich anschließend nur noch maschinell auslesen. Dabei sollte man darauf achten, welche Dateitypen der Empfänger akzeptiert._
+ _Für den Fall, dass Sie in den Dokumentlayouts eine einbetten der Anhänge angewählt haben, so werden diese ebenfalls in die XML eingebettet und lassen sich anschließend nur noch maschinell auslesen. Dabei sollte man darauf achten, welche Dateitypen der Empfänger akzeptiert._
 {{< /notice >}}
 #
 Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über **„E-Mail senden“** auslösen. Im Hintergrund wird nun noch eine Prüfung auf das Schema der XRechnung vorgenommen.

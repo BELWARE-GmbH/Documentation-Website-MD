@@ -10,8 +10,16 @@ weight: 3
 
 ### Archivierung
 
-Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie erreichen in dem Sie **Connector 365 Aktivitäten** in die Suchfunktion eingeben.
+Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie an zwei Stellen finden:
 
-![](images/apps/easyarchive.PNG)
+**Direkt am Beleg**
+Diese finden Sie direkt in der Factbox rechts neben Ihren Belegen.
 
-Hier werden sämtliche Jobs aufgeführt die über den Stapelmodus ausgelöst wurden. Hier könen verschiedene Parameter zur Verarbeitung eingesehen werden, wie z.B. wann der Job durchgeführt wurde, welcher Nutzer ihn ausgelöst hat und welchen Status die Verarbeitung hat.
+![](images/apps/easyfactboxde.PNG)
+
+**In den globalen Aktivitäten**
+Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach **Connector 365 Aktivitäten**.
+
+![](images/apps/easyarchivede.PNG)
+
+In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden. Hier könen verschiedene Parameter zur Verarbeitung eingesehen werden, wie z.B. wann der Job durchgeführt wurde, welcher Nutzer ihn ausgelöst hat und welchen Status die Verarbeitung hat.

@@ -10,11 +10,11 @@ weight: 2
 
 ### AppSource
 
-Die App steht Ihnen im [Microsoft AppSource](LINK NOCH NICHT VORHANDEN) zur Verfügung.
+Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 
-![](images/apps/senderappsource.PNG - RICHTIGES BILD SETZEN SOBALD MÖGLICH)
+![](images/apps/senderappsource_wrong.PNG)
 
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 

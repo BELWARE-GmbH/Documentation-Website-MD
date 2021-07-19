@@ -10,4 +10,4 @@ weight: 4
 
 #### Wie kann ich anfangen?
 
-Sobald die App installiert ist, gehen Sie zu dem Debitor, der die XRechnung erhalten soll, kreuzen Sie das Kästchen in Dokumentenlayouts an und fügen Sie die Leitweg ID hinzu. Dann können Sie mit dem Senden beginnen. Einen ausführlicheren Leitfaden finden Sie unter [Arbeiten mit XRechnung](de-de/connector-on-appsource/xrechnung/working-with-xrechnung/sending/) bzw.[Einrichtung](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/)
+Sobald die App installiert ist, gehen Sie zu dem Debitor, der die XRechnung erhalten soll, kreuzen Sie das Kästchen in Dokumentlayouts an und fügen Sie die Leitweg ID hinzu. Dann können Sie mit dem Senden beginnen. Einen ausführlicheren Leitfaden finden Sie unter [Arbeiten mit XRechnung](de-de/connector-on-appsource/xrechnung/working-with-xrechnung/sending/) bzw.[Einrichtung](de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-ident-id/)
