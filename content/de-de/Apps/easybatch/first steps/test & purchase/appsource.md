@@ -12,7 +12,7 @@ weight: 2
 
 Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 
-![](images/apps/senderappsource_wrong.PNG)
+![](images/apps/easystore.PNG)
 
 Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 
