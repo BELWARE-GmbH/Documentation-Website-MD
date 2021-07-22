@@ -26,6 +26,6 @@ Unter dem Reiter Einrichtung müssen Sie nun die Nutzer anhand der Starface Logi
 
 ![](images/apps/ctimodulesetupde.png)
 
-Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter **"Benutzer"** in der jeweiligen **"Benutzerkarte"**. Die Webdienst-URL finden Sie in Business Central unter **"Webdienste", OData V4-URL** (Siehe [Webdienste](de-de/apps/cti-for-starface/first-steps/setup/web-services/)).
+Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter **"Benutzer"** in der jeweiligen **"Benutzerkarte"**. Die Webdienst-URL finden Sie in Business Central unter **"Webdienste", OData V4-URL**.
 
 ![](images/apps/ctiusersetupde.PNG)

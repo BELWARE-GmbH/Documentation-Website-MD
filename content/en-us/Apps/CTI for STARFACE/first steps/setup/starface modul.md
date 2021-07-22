@@ -25,6 +25,6 @@ Under the Setup tab, you must now set up the users using the Starface Login ID.
 
 ![](images/apps/ctimodulesetupen.png)
 
-The name of the Microsoft Dynamics 365 Business Central users as well as the respective web key can be found, in Microsoft Dynamics 365 Business Central under **"Users"** in the respective **"User card"**. The web service URL can be found in Business Central under **"Web Services", OData V4 URL** (See [Web Services](en-us/apps/cti-for-starface/first-steps/setup/web-services/)).
+The name of the Microsoft Dynamics 365 Business Central users as well as the respective web key can be found, in Microsoft Dynamics 365 Business Central under **"Users"** in the respective **"User card"**. The web service URL can be found in Business Central under **"Web Services", OData V4 URL**.
 
 ![](images/apps/ctiusersetupen.PNG)

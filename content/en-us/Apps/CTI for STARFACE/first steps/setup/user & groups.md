@@ -26,4 +26,12 @@ Repeat this process until all desired groups are created.
 The next step is to create your users. Open the search function again and search for **"User setup"**, create the desired user in the table if it does not already exist. Then check **"CTI active"** in the lower part of the dialog to enable the use of CTI for this user.
 Now enter the extension number of the user in the field for the extension number. Finally you can optionally assign a group to the user, this can be done in the field **"CTI group"**.
 
+In the **"CTI page"** field, you can define the page that opens automatically for incoming calls. This field is freely definable in case there are custom pages. By default we support the following:
+
+- Contacts (5050)
+- Customers (22)
+- Vendors (27)
+
+For customers and vendors, note that they must be linked to a contact.
+
 Repeat this process for all users of the Connector 365 CTI for STARFACE App.

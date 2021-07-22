@@ -24,3 +24,8 @@ Your phone calls can also be tracked globally in the **"Joblist"**. To get to th
 Here you can also track the details of individual callers, such as whether it was incoming or outgoing, who made the call, when the call was answered and how long it lasted, regardless of the contact.
 
 ![](images/apps/ctijoblisten.PNG)
+
+#### The Dashboard
+In the dashboard you can also find a section of the job list, there in the tile **"CTI Status"** the calls of the last 30 days are listed.
+
+![](images/apps/ctidashboarden.PNG)

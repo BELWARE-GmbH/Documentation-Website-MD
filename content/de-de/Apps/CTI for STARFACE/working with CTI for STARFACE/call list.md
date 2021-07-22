@@ -10,7 +10,7 @@ weight: 4
 
 ### Die Anrufliste
 
-Ein- und ausgehende Anrufe werden an zwei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
+Ein- und ausgehende Anrufe werden an drei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
 
 #### CTI-Einträge
 
@@ -24,3 +24,8 @@ Ihre Telefonate lassen sich in der **"Jobliste"** auch global verfolgen. Um zur 
 Auch hier lässt sich kontaktunabhängig die Details von einzelnen Telefonanten verfolgen wie z.B. ob es ein- oder ausgehende war, Wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat.
 
 ![](images/apps/ctijoblistde.PNG)
+
+#### Das Dashboard
+Im Dashboard könnnen Sie ebenfalls einen Ausschnitt aus der Jobliste finden, dort werden in der Kachel **"CTI Status"** die Anrufe der letzten 30 Tage aufgeführt.
+
+![](images/apps/ctidashboardde.PNG)

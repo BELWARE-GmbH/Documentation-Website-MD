@@ -24,6 +24,15 @@ Wiederholen Sie diesen Prozess bis alle gewünschten Gruppen angelegt sind.
 ![](images/apps/ctiusersetupzweide.PNG)
 
 Als nächsten Schritt sollten Sie Ihre Nutzer anlegen. öffnen Sie erneut die Suchfunktion und suchen Sie nach **"Benutzer Einrichtung"**, legen Sie in der Tabelle den gewünschten Nutzer an, falls dieser noch nicht vorhanden ist. Setzen Sie anschließend im unteren Teil des Dialogs bei **"CTI aktiv"** den Haken um die Nutzung der CTI für diesen Nutzer freizugeben.
+
 Geben Sie nun noch im Feld für die Durchwahl, die entsprechende Durchwahl des Nutzers an. Zum schluss können Sie dem Nutzer noch optional eine Gruppe zuweisen, dies können Sie im Feld **"CTI Gruppe"** vornehmen.
+
+Im Feld **"CTI-Seite"** können Sie die Seite festlegen, welche sich bei eingehenden Anrufen automatisch öffnet. Dieses Feld ist frei definierbar für den Fall, dass eigene Seiten vorhanden sind. Standardmäßig unterstützen wir die folgenden:
+
+- Kontakte (5050)
+- Debitoren (22)
+- Kreditoren (27)
+
+Bei Debitoren und Kreditoren ist zu beachten, dass diese mit einem Kontakt verknüpft sein müssen.
 
 Wiederholen Sie diesen Prozess für alle Nutzer der Connector 365 CTI for STARFACE App.
