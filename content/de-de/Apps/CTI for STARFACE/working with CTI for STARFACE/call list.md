@@ -25,7 +25,7 @@ Auch hier lässt sich kontaktunabhängig die Details von einzelnen Telefonanten 
 
 ![](images/apps/ctijoblistde.PNG)
 
-#### Das Dashboard
-Im Dashboard könnnen Sie ebenfalls einen Ausschnitt aus der Jobliste finden, dort werden in der Kachel **"CTI Status"** die Anrufe der letzten 30 Tage aufgeführt.
+#### Das Rollencenter
+Im Rollencenter könnnen Sie ebenfalls einen Ausschnitt aus der Jobliste finden, dort werden in der Kachel **"CTI Status"** die Anrufe der letzten 30 Tage aufgeführt.
 
 ![](images/apps/ctidashboardde.PNG)

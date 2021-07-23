@@ -20,9 +20,17 @@ Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können
 
 Ihre Kosten:
 
-| Monatliche Subscription inkl. Wartung* |
-|----------------------------------------|
-| x,xx€                                  |
+| Monatliche Subscription inkl. Wartung pro Mandant bei jährlicher Zahlung und Laufzeit* |
+|----------------------------------------------------------------------------------------|
+| 5,90€                                                                                  |
+
+| Monatliche Subscription inkl. Wartung pro Mandant bei monatlicher Zahlung und Laufzeit*|
+|----------------------------------------------------------------------------------------|
+| 7,70€                                                                                 |
+
+*Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
+5,90€ / Monat / Mandant bei jährlicher Zahlung und Laufzeit.
+7,70€ / Monat / Mandant bei monatlicher Zahlung und Laufzeit.
 
 *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 

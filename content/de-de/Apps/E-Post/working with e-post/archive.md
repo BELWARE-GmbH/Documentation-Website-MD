@@ -20,6 +20,6 @@ Die Jobliste bietet Ihnen eine detaillierte Übersicht zu allen Briefen die vers
 
 ![](images/apps/epostjoblistfullde.PNG)
 
-Im Dashboard auf der Startseite finden Sie den Versandstatus über alle postalischen versendenten und noch nicht versendeten Belege: 
+Im Rollencenter auf der Startseite finden Sie den Versandstatus über alle postalischen versendenten und noch nicht versendeten Belege: 
 
-![](images/apps/epostdashboardde.PNG)
+![](images/apps/epostRollencenterde.PNG)

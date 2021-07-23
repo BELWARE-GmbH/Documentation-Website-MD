@@ -25,7 +25,7 @@ Ihre Kosten:
 
 | Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
 |-------------------------------|---------------------------------------|
-|XXXX,-€                        |XX,-€                                  |
+|790,-€                         |35,-€                                  |
 
 Danach können Sie mit der [Installation](/de-de/apps/easybatch/first-steps/installation/) der Connector 365 Easy Batch App starten
 

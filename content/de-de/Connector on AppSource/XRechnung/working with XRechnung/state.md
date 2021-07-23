@@ -9,7 +9,7 @@ weight: 3
 ### Arbeiten mit XRechnung
 
 ### Status
-Im Dashboard stehen zwei Versandprotokolle der XRechnungen zur Verfügung.
+Im Rollencenter stehen zwei Versandprotokolle der XRechnungen zur Verfügung.
 
 **"Gesendetet XRechnungen"** & **"Fehlerhafte XRechnungen"**
 

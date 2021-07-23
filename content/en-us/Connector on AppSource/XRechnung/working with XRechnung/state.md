@@ -9,7 +9,7 @@ weight: 3
 ### Working with XRechnung
 
 ### State
-Two XRechnung dispatch logs are available in the dashboard.
+Two XRechnung dispatch logs are available in the Role center.
 
 **Sent XRechnung"** & **"Incorrect XRechnung"**.
 

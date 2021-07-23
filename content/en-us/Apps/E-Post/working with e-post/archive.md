@@ -16,6 +16,6 @@ After sending the invoice, you can check the status in the joblist. This can be 
 
 The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred. If the option **"Save file in job list"** is active in the setup, you can also view the sent document. To do this, simply click on the name of the file under **"File name"**.
 
-![](images/apps/epostdashboarden.PNG)
+![](images/apps/epostRole centeren.PNG)
 
-In the dashboard on the start page you can find the status of all sent and not yet sent documents
+In the Role center on the start page you can find the status of all sent and not yet sent documents

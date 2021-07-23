@@ -27,7 +27,7 @@ Als nächsten Schritt sollten Sie Ihre Nutzer anlegen. öffnen Sie erneut die Su
 
 Geben Sie nun noch im Feld für die Durchwahl, die entsprechende Durchwahl des Nutzers an. Zum schluss können Sie dem Nutzer noch optional eine Gruppe zuweisen, dies können Sie im Feld **"CTI Gruppe"** vornehmen.
 
-Im Feld **"CTI-Seite"** können Sie die Seite festlegen, welche sich bei eingehenden Anrufen automatisch öffnet. Dieses Feld ist frei definierbar für den Fall, dass eigene Seiten vorhanden sind. Standardmäßig unterstützen wir die folgenden:
+Im Feld **"CTI-Seite"** können Sie die beliebige Seiten ausgewählt werden, welche sich bei eingehenden Anrufen automatisch öffnet. Diese Seiten basieren auf den folgenden Tabellen:
 
 - Kontakte (5050)
 - Debitoren (22)

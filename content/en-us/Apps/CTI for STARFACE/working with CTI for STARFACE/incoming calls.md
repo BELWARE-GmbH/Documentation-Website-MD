@@ -13,9 +13,9 @@ The Connector 365 CTI for STARFACE app automatically opens the contact card of t
 
 1. The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed.
 
-2. The **"CTI Client "** must be open, the client is the core of the Connector 365 CTI for STARFACE App and is mandatory. You can open the client in the dashboard via a dedicated button, alternatively you can find it using the search function under **"CTI Client "**. You can also open the client in another window so that it does not hinder you in your further work.
+2. The **"CTI Client "** must be open, the client is the core of the Connector 365 CTI for STARFACE App and is mandatory. You can open the client in the Role center via a dedicated button, alternatively you can find it using the search function under **"CTI Client "**. You can also open the client in another window so that it does not hinder you in your further work.
 
-![](images/apps/cticlientdashboarden.PNG)
+![](images/apps/cticlientRole centeren.PNG)
 
 If there is an incoming call, this is displayed in the client, all users in the same group can see who is being called and what the current status of the call is. At the same time, an entry is written in the job list and the contact card for the corresponding contact is opened, if it exists.
 

@@ -21,11 +21,11 @@ If you wish a test phase, you will receive the desired objects for a user and a 
 
 If you wish an immediate purchase, you will receive the necessary objects from us.
 
-Your cost:
+Your costs:
 
-| Purchase license + 18% maintenance/year  | Monthly subscription incl. maintenance |
-|------------------------------------------|----------------------------------------|
-|XXXX,-€                                   |XX,-€                                   |
+| Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
+|-----------------------------------------|----------------------------------------|
+|790,-€                                   |35,-€                                   |
 
 After that you can start with the [installation](/en-us/apps/easybatch/first-steps/installation/) of the Connector 365 Easy Batch App
 

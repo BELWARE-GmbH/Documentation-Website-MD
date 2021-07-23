@@ -25,7 +25,7 @@ Here you can also track the details of individual callers, such as whether it wa
 
 ![](images/apps/ctijoblisten.PNG)
 
-#### The Dashboard
-In the dashboard you can also find a section of the job list, there in the tile **"CTI Status"** the calls of the last 30 days are listed.
+#### The Role center
+In the Role center you can also find a section of the job list, there in the tile **"CTI Status"** the calls of the last 30 days are listed.
 
-![](images/apps/ctidashboarden.PNG)
+![](images/apps/ctiRole centeren.PNG)
