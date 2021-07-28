@@ -20,17 +20,17 @@ Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser For
 
 Ihre Kosten:
 
-| Monatliche Subscription inkl. Wartung pro Mandant bei jährlicher Zahlung und Laufzeit* |
+| Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* |
 |----------------------------------------------------------------------------------------|
 | 19,90€                                                                                 |
 
-| Monatliche Subscription inkl. Wartung pro Mandant bei monatlicher Zahlung und Laufzeit*|
+| Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit*|
 |----------------------------------------------------------------------------------------|
 | 25,90€                                                                                 |
 
 *Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
-9,95€ / Monat / Mandant bei jährlicher Zahlung und Laufzeit.
-12,95€ / Monat / Mandant bei monatlicher Zahlung und Laufzeit.
+9,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
+12,95€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
 
 <p style="text-align: center;">
 Zum Formular

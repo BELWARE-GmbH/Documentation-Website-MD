@@ -49,17 +49,17 @@ To the form
 
 Your costs:
 
-| Monthly subscription incl. maintenance per company with annual payment and term*       |
+| Monthly subscription incl. maintenance per environment with annual payment and term*       |
 |----------------------------------------------------------------------------------------|
 | 9,90€                                                                                 |
 
-| Monthly subscription incl. maintenance per company with monthly payment and term*      |
+| Monthly subscription incl. maintenance per environment with monthly payment and term*      |
 |----------------------------------------------------------------------------------------|
 | 12,90€                                                                                 |
 
 *The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
-4,95€ / month / company with annual payment and term.
-6,50€ / month / company with monthly payment and term.
+4,95€ / month / environment with annual payment and term.
+6,50€ / month / environment with monthly payment and term.
 
 The postage costs incurred through use will be billed to you directly via Deutsche Post.
 

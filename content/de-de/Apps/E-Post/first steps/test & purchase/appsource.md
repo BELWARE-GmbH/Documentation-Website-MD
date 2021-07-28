@@ -47,17 +47,17 @@ Zum Formular
 
 Ihre Kosten:
 
-| Monatliche Subscription inkl. Wartung pro Mandant bei jährlicher Zahlung und Laufzeit* |
+| Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* |
 |----------------------------------------------------------------------------------------|
 | 9,90€                                                                                  |
 
-| Monatliche Subscription inkl. Wartung pro Mandant bei monatlicher Zahlung und Laufzeit*|
+| Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit*|
 |----------------------------------------------------------------------------------------|
 | 12,90€                                                                                 |
 
 *Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
-4,95€ / Monat / Mandant bei jährlicher Zahlung und Laufzeit.
-6,95€ / Monat / Mandant bei monatlicher Zahlung und Laufzeit.
+4,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
+6,95€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
 
 Die durch die Nutzung entstehenden Portokosten werden direkt über die Deutsche Post mit Ihnen abgerechnet.
 
