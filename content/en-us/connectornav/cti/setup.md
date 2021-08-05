@@ -49,8 +49,8 @@ In NAV you will now find the item CTI in the role center in the upper bar. On th
 
 In the setup of the Connector NAV you also have to enter the path in the tab "CTI". This path must be identical with the path stored in the client. Afterwards a path for the archive must be specified.
 
-![](/images/connectornav/cti/one_user.png)<center>Overview setup Connector NAV with folded out CTI tab</center>.
+![](/images/connectornav/cti/einr_benutzer.png)<center>Overview setup Connector NAV with folded out CTI tab</center>
 
 In the user setup it is possible to manage per user who can see who is on the phone, for example you can create groups for the different departments in your company and assign them to the different users. The CTI function is activated by checking the box "Use CTI". If the check mark is set, the CTI client opens automatically when NAV is started. Here you can also define which card is opened during a call. This is either the default contact card or the one of the Connector NAV
 
-![](/images/connectornav/cti/one_user2.png)
+![](/images/connectornav/cti/einr_benutzer2.png)

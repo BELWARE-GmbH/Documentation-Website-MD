@@ -90,7 +90,7 @@ Within the communication matrix, N destination addresses, the Cc field and the B
 
 In the user report setup, you also have the option to specify a BCC email address per report that will also receive the report as an email.
 
-![](/images/connectornav/mail/ben_report.png)<center>Connector NAV Administration, User Report Setup</center>.
+![](/images/connectornav/mail/ben_bericht.png)<center>Connector NAV Administration, User Report Setup</center>.
 
 ##### Attachments tab
 

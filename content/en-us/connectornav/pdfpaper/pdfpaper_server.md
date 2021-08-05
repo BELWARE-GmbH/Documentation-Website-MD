@@ -49,7 +49,7 @@ This folder is used to create temporary PDF documents for the *pdfPaper Preview*
 **PDF Level**
 Here you can specify the level of PDF/A encryption, the choices are PDF/A-1b, PDF/A-3b and no encryption.
 
-**Print Server
+**Print Server**
 With this switch you determine whether a print server is in use.
 
 **Print server input order**
@@ -107,7 +107,7 @@ Then you will see an overview of the folders that have been set up. Before setti
 
 ###### Shared folder tab
 
-![](/images/connectornav/pdfpaper/net_server_config_gem_folder.png)<center>iPaper.NET Server Configuration, Shared Folder tab</center>.
+![](/images/connectornav/pdfpaper/net_server_config_gem_ordner.png)<center>iPaper.NET Server Configuration, Shared Folder tab</center>
 
 Select the stationery folder you created for the Connector NAV pdfPaper setup. When shuffling documents, the iPaper.NET server will access this folder. All stationery templates must be stored here.
 

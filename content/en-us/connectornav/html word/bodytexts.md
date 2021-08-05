@@ -96,7 +96,7 @@ In the "Body text file" field, you can now store the body texts you have created
 
 If you make changes to a body text that has already been deposited, these can also be made quite easily without intervening in the user reports. As long as the file name is kept, the body text will simply be taken over by the system.
 
-![](/images/connectornav/word_html/bodytext/replace_file.png)<center>Replace files in destination folder</center>.
+![](/images/connectornav/word_html/bodytext/datei_ersetzen.png)<center>Replace files in destination folder</center>.
 
 
 In the example above, changes were made to "Template_Invoice_JP". Now the new files with the same file name are moved from the archive folder to the central t611 folder and the old files are replaced. In the user report, the new body text will be applied because it has the same name as the old one.

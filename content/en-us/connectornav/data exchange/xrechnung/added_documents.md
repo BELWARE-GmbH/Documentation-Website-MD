@@ -9,7 +9,7 @@ weight: 6
 
 ##### Accompanying documents
 
-The XInvoice standard allows attachments to accompany invoices.  
+The XRechnung standard allows attachments to accompany invoices.  
 This standard allows attachments of the following MIME (Multipurpose Internet Mail Extensions) types:
 
 - Application/pdf (.pdf)
@@ -34,7 +34,7 @@ This standard allows attachments of the following MIME (Multipurpose Internet Ma
 
 {{<notice info>}}The PDF/A module can also be purchased from BELWARE.{{</notice>}}
 ####
-The **Connector NAV**s XInvoice module allows you to easily include supported document types in the resulting XInvoice. You can either attach these attachments to an invoice, or add them in the Send/Create dialog. Depending on the chosen method, setups in the **User Reports** are necessary.
+The **Connector NAV**s XRechnung module allows you to easily include supported document types in the resulting XRechnung. You can either attach these attachments to an invoice, or add them in the Send/Create dialog. Depending on the chosen method, setups in the **User Reports** are necessary.
 
 ###### Method 1 - Deposit attachments in invoices.
 
@@ -50,7 +50,7 @@ In the **Controls** tab, check **Document links as attachments**.
 
 ![](/images/connectornav/data_exchange/begl_dok3.png)
 
-This checkmark must be set in order for the Connector to consider attached documents during XInvoice generation.
+This checkmark must be set in order for the Connector to consider attached documents during XRechnung generation.
 
 Now navigate to the **Sales Invoice Selection** page from the **Connector 365 Templates**, select an invoice for which you want to store an attachment, and click **Edit**. The invoice will open. Now click **Links**. This button can be found in the top menu under the **Start** tab.
 
@@ -77,9 +77,9 @@ To do this, check as usual that you have made the settings in the communication 
 ![](/images/connectornav/data_exchange/begl_dok8.png)<center>Communication matrix entries for the example customer **Gilde Jupiter Insurance**</center>.
 
 For the **PDF** job mode and the report in question (here 1306 for Geb. Sales Invoices), enter the following:   
-Place a check mark in the XInvoice field and enter a routing ID. In addition, select the **PEPPOL Usage** (For this example Sales Invoice) and enter **PEPPOL BIS3** for PEPPOL Version. You can select the latter two entries from the associated drop-down menu. If intended, you can select under **XInvoice PDF as attachment** whether the invoice PDF file should also be embedded.
+Place a check mark in the XRechnung field and enter a routing ID. In addition, select the **PEPPOL Usage** (For this example Sales Invoice) and enter **PEPPOL BIS3** for PEPPOL Version. You can select the latter two entries from the associated drop-down menu. If intended, you can select under **XRechnung PDF as attachment** whether the invoice PDF file should also be embedded.
 
-Next, navigate back to the **Sales Invoice Selection** page from the **Connector 365 Templates** and select an invoice that you want to convert to an XInvoice.
+Next, navigate back to the **Sales Invoice Selection** page from the **Connector 365 Templates** and select an invoice that you want to convert to an XRechnung.
 
 Then select the invoice you are working on and press the **PDF** button.
 
@@ -89,7 +89,7 @@ If you have enabled **Display dialog** option for sales invoices, the dialog box
 
 ![](/images/connectornav/data_exchange/begl_dok10.png)
 
-Under the **Attachments** tab you should now see your uploaded file. Optionally, you can add more attachments (method 2). Now press **OK,** to convert the invoice including attachments into an XInvoice.
+Under the **Attachments** tab you should now see your uploaded file. Optionally, you can add more attachments (method 2). Now press **OK,** to convert the invoice including attachments into an XRechnung.
 
 ###### Method 2 - Add attachments via dialog.
 
@@ -110,9 +110,9 @@ To do this, check as usual that you have made the settings in the communication 
 ![](/images/connectornav/data_exchange/begl_dok14.png)<center>Communication entries for the example customer **Gilde Jupiter Insurance**</center>.
 
 For the **PDF** job mode and the report in question (here 1306 for Geb. Sales Invoices), enter the following:   
-Place a check mark in the XInvoice field and enter a routing ID. In addition, select the **PEPPOL Usage** (For this example Sales Invoice) and enter **PEPPOL BIS3** for PEPPOL Version. You can select the latter two entries from the associated drop-down menu.
+Place a check mark in the XRechnung field and enter a routing ID. In addition, select the **PEPPOL Usage** (For this example Sales Invoice) and enter **PEPPOL BIS3** for PEPPOL Version. You can select the latter two entries from the associated drop-down menu.
 
-Next, navigate back to the **Sales Invoice Selection** page from the **Connector 365 Templates** and select an invoice that you want to convert to an XInvoice.
+Next, navigate back to the **Sales Invoice Selection** page from the **Connector 365 Templates** and select an invoice that you want to convert to an XRechnung.
 
 Click on the **PDF** button.
 
@@ -132,7 +132,7 @@ Select a file you want to attach and press **Open**.
 
 ###### Result 
 
-The selected file is now displayed as an attachment in the dialog box. Now click **OK** to generate an XInvoice. The generated XML file should now contain an entry for attachments.
+The selected file is now displayed as an attachment in the dialog box. Now click **OK** to generate an XRechnung. The generated XML file should now contain an entry for attachments.
 
 ![](/images/connectornav/data_exchange/begl_dok19.png)
 

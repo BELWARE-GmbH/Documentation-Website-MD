@@ -9,7 +9,7 @@ weight: 2
 
 #### Adjusting the spreadsheets
 
-After importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the "Import to Excel" button
+After importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the "Import to Excel" button.
 
 ![](/images/connectornav/rapidstart/anpassen.png)
 

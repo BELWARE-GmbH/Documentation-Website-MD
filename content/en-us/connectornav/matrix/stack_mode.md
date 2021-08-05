@@ -9,7 +9,7 @@ weight: 7
 
 #### The Batch - Using the matrix to control the shipping method
 
-IN some of our templates you will notice the button "Batch", with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
+In some of our templates you will notice the button "Batch", with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
 
 In oder for an entry in the communication matrix to be used for the stacking run the "Stacking mode" check mark must be set in front of the respective entrys. If the check mark is set, this setup also applies to a stack run, no seperate entry needs to be created.
 

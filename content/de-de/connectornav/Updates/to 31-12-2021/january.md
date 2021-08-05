@@ -9,7 +9,8 @@ weight: 1
 ### Neues in den Dokumentationen:
 
 Unsere Dokumentationen wurden entsprechend der neuen Features angepasst. In Welcher Dokumentation einzelne Punkte finden ist aufgeführt.
-Zu den Dokumentationen
+
+[Zu den Dokumentationen](/de-de/connectornav/)
 
 ### Erweiterungen von Standardfeatures:
 

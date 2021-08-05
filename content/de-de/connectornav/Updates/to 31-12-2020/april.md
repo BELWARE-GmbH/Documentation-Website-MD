@@ -21,4 +21,4 @@ Mehr Informationen zu verfügbaren Events finden Sie zukünftig in einer separat
 **E-Post Summary**
 Mit der kostenpflichtigeren E-Post Summary können Sie nun Briefsendungen von gleichen Empfängern zusammenfassen und so die Menge an versendeten Einzelbriefen reduzieren.
 
-Mehr Informationen zu diesem Feature finden Sie in der E-Post Dokumentation
+Mehr Informationen zu diesem Feature finden Sie in der E-Post [Dokumentation](/de-de/connectornav/epost/)

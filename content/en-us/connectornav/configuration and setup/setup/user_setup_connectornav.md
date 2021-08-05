@@ -55,7 +55,7 @@ Only visible for the pdfPaper module.
 ##### Register E-POST
 ![](/images/connectornav/benutzer_einr_reg_epost.png)<center>_Connector NAV user setup, register E-POST_</center>
 
-Onyl visible for the E-POST module.
+Only visible for the E-POST module.
 
 |Field describtion | |
 |---|---|

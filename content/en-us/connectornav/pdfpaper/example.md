@@ -25,7 +25,7 @@ There are 2 variants of the preview:
 
 The creation of PDF files from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 
-![](/images/connectornav/pdfpaper/nav_integration.png)<center>Example offer Connector NAV Integration</center>.
+![](/images/connectornav/pdfpaper/nav_integration.png)<center>Example offer Connector NAV Integration</center>
 
 |Actions |
 |---|---|
@@ -38,7 +38,7 @@ The creation of PDF files from Dynamics NAV is possible from any page, in the fo
 
 ##### Actions
 
-![](/images/connectornav/pdfpaper/pdf_actions.png)<center>Connector NAV Dialog Mode PDF, Actions</center>
+![](/images/connectornav/pdfpaper/pdf_aktionen.png)<center>Connector NAV Dialog Mode PDF, Actions</center>
 
 |Actions |
 |---|---|

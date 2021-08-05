@@ -11,8 +11,8 @@ weight: 2
 
 Sending faxes from Dynamics NAV is possible from any page. In the following an offer is used as an example.
 
-![](/images/connectornav/fax/example.png)
-![](/images/connectornav/fax/example2.png)<center>_Example Quote Connector NAV Integration_</center>
+![](/images/connectornav/fax/beispiel.png)
+![](/images/connectornav/fax/beispiel2.png)<center>_Example Quote Connector NAV Integration_</center>
 
 |Actions |
 |---|---|

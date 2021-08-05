@@ -91,15 +91,15 @@ The following overview shows in tabular form what status combinations there are 
 | E-POST Color selection        | Indicates the color of the letter. B&W = Black & White Color = Color                             |
 | E-POST send electronically    | Determines whether an E-POST letter should first be sent electronically before regular dispatch. |
 
-**XBill**
+**XRechnung**
 
 ![](/images/connectornav/base/xrechnung.png)
 
 |field describtion | |
 |---|---|
-| XBill                    | A check mark here indicates that the job contains an XBill. |
-| Route-ID                 | The Route-ID of the recipient of the XBill.                 |
-| XBill PDF as attachment  | Indicates how the bill PDF is attached to the case.         |
+| XRechnung                    | A check mark here indicates that the job contains an 
+| Route-ID                 | The Route-ID of the recipient of the XRechnung.                 |
+| XRechnung PDF as attachment  | Indicates how the bill PDF is attached to the case.         |
 
 ##### Actions
 

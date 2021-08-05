@@ -10,12 +10,12 @@ weight: 8
 ##### Analyze validation results in case of error  
 
 
-During the validation of the XInvoice file, it can of course also happen that an XInvoice is classified as non-compliant. This happens when important information is missing from the invoice. For example, validation will fail even if the customer's city is not specified.  
+During the validation of the XRechnung file, it can of course also happen that an XRechnung is classified as non-compliant. This happens when important information is missing from the invoice. For example, validation will fail even if the customer's city is not specified.  
 To simulate a case where validation fails, we modify the above procedure to "forget" to specify a routing ID. To do this, we again open the **Communication Matrix** for our example calculation **103003**, and remove the value for the **route ID.** column in our entry.
 
 ![](/images/connectornav/data_exchange/xr_valid1.png)
 
-Now we press **OK** and click the **PDF** button again to create an XInvoice file.
+Now we press **OK** and click the **PDF** button again to create an XRechnung file.
 
 ![](/images/connectornav/data_exchange/xr_valid2.png)
 
@@ -23,7 +23,7 @@ Now we find the status value **-** for the job **4046**.
 
 ![](/images/connectornav/data_exchange/xr_valid3.png)
 
-This means that the generated XInvoice could not be validated successfully. Press **View Files** to view the generated files.
+This means that the generated XRechnung could not be validated successfully. Press **View Files** to view the generated files.
 
 ![](/images/connectornav/data_exchange/xr_valid4.png)
 

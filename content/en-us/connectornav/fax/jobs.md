@@ -16,5 +16,5 @@ After the dialog has been confirmed with OK, the Connector NAV stores a text fil
 With the setup of the function *feedback from job list overview*, these folders are searched for corresponding files when the card is opened. These files are then renamed to ".erl" and there is a corresponding status to the operation in the job list.
 
 **Replace this image with customized one**
-![](/images/connectornav/fax/jobfiles.PNG)
-![](/images/connectornav/fax/joblist.png)<center>_Connector NAV Joblist_</center>
+![](/images/connectornav/fax/jobdateien.PNG)
+![](/images/connectornav/fax/jobliste.png)<center>_Connector NAV Joblist_</center>

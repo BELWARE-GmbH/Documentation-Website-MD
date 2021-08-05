@@ -19,7 +19,7 @@ Confirm the creation of the PDF with "OK".
 
 Also in PDF mode you have the possibility to check the status and view the PEPPOL XML.
 
-![](/images/connectornav/data_exchange/peppol4.png)<center>"View Files"</center> dialog.
+![](/images/connectornav/data_exchange/peppol4.png)<center>"View Files" dialog.</center>
 
 
 After the process is complete, the PEPPOL XML is now in the path you set up and is ready for you to process.

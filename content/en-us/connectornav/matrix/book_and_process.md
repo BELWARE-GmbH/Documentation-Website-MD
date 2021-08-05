@@ -1,5 +1,5 @@
 ---
-title: "^Book and process"
+title: "Book and process"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -13,7 +13,7 @@ Similar to the standard functions post & send and post & print, the post & proce
 
 How exactly the respective document should be processed, you can set up in our communication matrix.
 
-![](/images/connectornav/matrix/book1.png)<center>The function book & process in a template</center>.
+![](/images/connectornav/matrix/buchen1.png)<center>The function book & process in a template</center>.
 
 By default, we support post & process in the following documents, via our templates.
 
@@ -33,7 +33,7 @@ Before the Post & Process function can be used correctly, an entry must first be
 
 This entry in the matrix must be made in the respective subsequent report, e.g. for sales invoices in the posted sales invoices.
 
-![](/images/connectornav/matrix/book2.png)<center>Example entries in the matrix for book & process</center>.
+![](/images/connectornav/matrix/buchen2.png)<center>Example entries in the matrix for book & process</center>.
 
 It is now necessary to set per customer & report how documents should be processed. In the screenshot you can find an example setup of the matrix that is now accessed when the Post & Process function is used.
 

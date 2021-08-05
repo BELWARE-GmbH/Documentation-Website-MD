@@ -26,7 +26,7 @@ Now on the page open a new line enter the following parameters exactly:
 
 **Public key token: d678d7304c35f0b**
 
-**Category: Add-In for DotNet Controls**
+**Category: Add-In für DotNet Steuerelemente**
 
 ![](/images/connectornav/dragdrop/einr3.png)<center>Overview control add-ins</center>.
 

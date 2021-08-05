@@ -10,9 +10,9 @@ weight: 9
 ##### Further information on troubleshooting
 
 In this documentation, a possible case of an incorrect validation was shown as an example. In addition to the problem shown there with the routing ID, there are several other sources of errors. Therefore, it is enormously advantageous to use a validation service, as otherwise errors may only be noticed in one of the invoice portals or by the invoice recipient. Using the validation report and with the help of the [**PEPPOL BIS Billing 3.0 Code Lists**](https://docs.peppol.eu/poacc/billing/3.0/codelist/), most errors can be quickly eliminated.  
-We are also happy to assist you with the process of cleaning up your XInvoices.
+We are also happy to assist you with the process of cleaning up your XRechnung.
 
-In the following we list further points, which should be checked before using the XInvoice module, as these are common sources of errors.
+In the following we list further points, which should be checked before using the XRechnung module, as these are common sources of errors.
 
 ###### Check VAT scheme  
 
@@ -26,11 +26,11 @@ These can be customized under "**Countries/Regions**" in Dynamics NAV. The quick
 
 It is worth checking once to see if your units are entered correctly.
 
-The fastest way to reach the page with your units is to enter '**Units'** in the search bar. To ensure PEPPOL/XInvoice compliance, each unit entered should have the associated **international standard code** stored. The unit codes can be obtained from the following lists:
+The fastest way to reach the page with your units is to enter '**Units**' in the search bar. To ensure PEPPOL/XRechnung compliance, each unit entered should have the associated **international standard code** stored. The unit codes can be obtained from the following lists:
 
 - [UN/ECE Recommendation 20](https://docs.peppol.eu/poacc/billing/3.0/codelist/UNECERec20/)
 
-- UN/ECE Recommendation 21](https://docs.peppol.eu/poacc/billing/3.0/codelist/UNECERec21/)
+- [UN/ECE Recommendation 21](https://docs.peppol.eu/poacc/billing/3.0/codelist/UNECERec21/)
 
 ![](/images/connectornav/data_exchange/xr_valid8.png)<center>Example: For the unit **liter** *the international standard code* **LTR** applies.</center>
 
@@ -43,10 +43,10 @@ Also recommended is to take a look at the **VAT posting matrix setup.** You can 
 
 ###### Negative invoice lines
 
-The XInvoice standard specifies that the net amount of an item must not be negative.  
+The XRechnung standard specifies that the net amount of an item must not be negative.  
 ![](/images/connectornav/data_exchange/xr_valid10.png)
 
-So problems can occur if items that are to be charged for refunds, for example, have been stored with a negative price. If an XInvoice contains an invoice line with a negative item amount, it will be considered **not** XInvoice compliant. To submit a negative invoice line, you should set the **quantity** to a negative amount instead, since it is allowed to be negative:
+So problems can occur if items that are to be charged for refunds, for example, have been stored with a negative price. If an XRechnung contains an invoice line with a negative item amount, it will be considered **not** XRechnung compliant. To submit a negative invoice line, you should set the **quantity** to a negative amount instead, since it is allowed to be negative:
 
 ![](/images/connectornav/data_exchange/xr_valid11.png)<center>Excerpt from the [Coordination Office for IT Standards (KoSIT).](https://www.xoev.de/wir_ueber_uns-8159)</center>
 

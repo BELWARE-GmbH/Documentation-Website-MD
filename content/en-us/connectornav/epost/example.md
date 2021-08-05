@@ -11,7 +11,7 @@ weight: 1
 
 Sending E-Post letters from Dynamics NAV is possible from any page, the following is an example of a Geb. sales invoice.
 
-![](/images/connectornav/epost/example.png)<center>_Example Invoice Connector NAV Integration_</center>
+![](/images/connectornav/epost/beispiel.png)<center>_Example Invoice Connector NAV Integration_</center>
 
 |Actions| |
 |---|---|

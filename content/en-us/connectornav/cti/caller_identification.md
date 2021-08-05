@@ -15,6 +15,6 @@ If there is now an incoming call while you have Dynamics NAV or the client open,
 
 {{<notice info>}}In order for the CTI client to open the contact card, the master data of the various contacts must be maintained.{{</notice>}}
 
-![](/images/connectornav/cti/recognition.png)<center>Demonstration recognition, At extension 20 the phone is ringing</center>.
+![](/images/connectornav/cti/erkennung.png)<center>Demonstration recognition, At extension 20 the phone is ringing</center>
 
 In addition to this function you can also see in the CTI client which other users are currently on the phone and also with whom they are on the phone.

@@ -14,7 +14,7 @@ In ausgewählten Templates finden Sie nun die Funktion buchen & verarbeiten, sie
 **Funktion Stapellauf**
 Über den Stapellauf lassen sich Belege über einen Knopfdruck abarbeiten, die jeweilige Versandart lässt sich vorher pro Debitor in der Kommunikationsmatrix definieren.
 
-Mehr Informationen zu beiden Punkten finden Sie in der Doku für die Kommunikationsmatrix
+Mehr Informationen zu beiden Punkten finden Sie in der Doku für die [Kommunikationsmatrix](/de-de/connectornav/matrix/)
 
 ### Neue Features:
 

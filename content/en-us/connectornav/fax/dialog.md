@@ -11,7 +11,7 @@ weight: 3
 
 ##### Actions
 
-![](/images/connectornav/fax/dialog_actions.png)
+![](/images/connectornav/fax/dialog_aktionen.png)
 {{<img src="/images/connectornav/fax/dialog_actions2.png" caption="Dialog Mode Email, Actions">}}
 
 |Actions |
@@ -22,7 +22,7 @@ weight: 3
 
 ##### General tab
 
-![](/images/connectornav/fax/dialog_reg_general.png)
+![](/images/connectornav/fax/dialog_reg_allgemein.png)
 {{<img src="/images/connectornav/fax/dialog_reg_general2.png" caption="Dialog Mode Fax, General tab">}}
 
 |field description |

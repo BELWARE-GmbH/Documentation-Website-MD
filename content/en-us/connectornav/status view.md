@@ -1,5 +1,5 @@
 ---
-title: "Einrichtungsempfehlung Statusübersicht"
+title: "Setup recommendation Status overview"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -7,24 +7,25 @@ collapsible: false
 weight: 1
 ---
 
-#### Einrichtungsempfehlung der Statusübersicht
+#### Status overview setup recommendation
 
-Die Jobliste kann unsortiert einschüchternd wirken, deshalb zeigen wir Ihnen in diesem Dokument ein Beispiel wie Sie Ihre Jobliste einrichten können.
+The job list can be intimidating if unsorted, so in this document we will show you an example of how to set up your job list.
 
-![](/images/connectornav/statusuebersicht.png)<center>Übersicht „Spalten auswählen…“</center>
+![](/images/connectornav/statusuebersicht.png)<center>Overview "Select columns..."</center>
 
 
 | | |||
 |---|---|---|---|
-| Lfd. Nr.                             | Die laufende Nr. des Jobs.                                          | Name               | Name des Empfängers.                                               |
-| Jobrichtung                          | Ist der Job eingehend oder ausgehend.                               | Email Absender     | Wer die E-Mail abgeschickt hat.                                    |
-| Jobmodus                             | Wie der Job verarbeitet wurde.                                      | EmailCC            | Ggf. der CC Empfänger.                                             |
-| Versand über                         | Wie wurde der Job versendet.                                        | Dateien            | Anzahl der verschickten Dateien.                                   |
-| Benutzer ID                          | Die ID des Benutzers der den Job ausgeführt hat.                    | Serververarbeitung | Rückmeldung ob der Job über die Serververarbeitung läuft.          |
-| Annahmezeit                          | Uhrzeit des durchgeführten Jobs                                     | Verarbeitet        | Rückmeldung ob der Job erfolgreich verarbeitet wurde.              |
-| Annahmedatum                         | Datum des durchgeführten Jobs.                                      | Freigabe           | Rückmeldung ob die Freigabe für diesen Job erteilt wurde.          |
-| Aktivitätenprotokollposten Nr.       | Falls vorhanden, wird hier die Nummer des Aktivitätenpp. angezeigt. | Dialog OK          | Rückmeldung über den erfolgreichen Abschluss eines Dialogs.        |
-| Betreff                              | Abhängig vom Jobmodus. Z.B. Betreff einer E-Mail.                   | Jobannahme         | Abhängig von Jobmodus. z.B. die erfolgreiche Erstellung einer PDF. |
-| Zieladresse                          | E-Mail Adresse des Empfängers.                                      |                    |                                                                    |
+| Lot. no.      | The sequence no. of the job.              | Name | Name of the recipient.                                               |
+| Job direction | Is the job incoming or outgoing.          | Email sender | Who sent the email.                                    |
+| Job Mode      | How the job was processed.                | EmailCC | If applicable, the CC recipient.                                             |
+| Sending via   | How the job was sent.                     | Files | Number of files sent.                                   |
+| User ID       | The ID of the user who executed the job.  | Server Processing | Feedback if the job is running via server processing.          |
+| Acceptance Time       | Time of the executed job          | Processed | Feedback if the job was processed successfully.              |
+| Acceptance date       | Date of the executed job.         | Release | Feedback whether the clearance for this job has been granted.          |
+| Activity log item no. | If available, the number of the activity log item is displayed here.| Dialog OK | Feedback about the successful completion of a dialog.        |
+| Subject               | Depending on the job mode. E.g. subject of an e-mail.               | Job Acceptance | Depending on job mode. E.g. successful creation of a PDF. |
+| Destination Address   | E-mail address of the recipient.                                    | | |
 
-{{<notice info>}}Dies ist nur ein Vorschlag. Sie können die Einrichtung natürlich jederzeit an Ihre Bedürfnisse anpassen.{{</notice>}}
+
+{{<notice info>}}This is only a suggestion. Of course, you can always adjust the setup to your needs. {{</notice>}}

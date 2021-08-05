@@ -11,7 +11,7 @@ weight: 2
 
 ##### Actions
 
-![](/images/connectornav/epost/dialog_actions.png)<center>_Dialog Mode Email, Actions_</center>
+![](/images/connectornav/epost/dialog_aktionen.png)<center>_Dialog Mode Email, Actions_</center>
 
 |Actions
 |---|---|
@@ -49,7 +49,7 @@ weight: 2
 
 ##### Contact details tab
 
-![](/images/connectornav/epost/reg_contact_data.png)<center>_Mail Mode dialog, Contact Data tab_</center>.
+![](/images/connectornav/epost/reg_kontaktdaten.png)<center>_Mail Mode dialog, Contact Data tab_</center>.
 
 |field description |
 |---|---|

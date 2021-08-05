@@ -15,7 +15,7 @@ With the DocImport module you can centrally manage external documents in Microso
 
 #### Moving the documents
 
-Navigate to the path you entered in the **Connector NAV Configuration and Setup** documentation under the **Connector NAV Setup, E-Mail tab** menu item in the **Document Inbox Directory** field. In the example, this is called com_docImport. You can store any documents in this folder
+Navigate to the path you entered in the **Connector NAV Configuration and Setup** documentation under the **Connector NAV Setup, E-Mail tab** menu item in the **Document Inbox Directory** field. In the example, this is called com_docImport. You can store any documents in this folder.
 
 ![](/images/connectornav/base/docimport_ordnerstruktur.png)<center>_folder structure com_docimport_</center>
 

@@ -14,11 +14,11 @@ Die in den Templates eingebauten Pages Kreditor Auswahl & Kontaktauswahl, haben 
 **Neues Feld Verwendung PEPPOL in Kommunikationsmatrix**
 Im neuen Feld lässt sich festlegen, bei welcher Art von Beleg PEPPOL genutzt wird. Nicht/Rechnung/Gutschrift
 
-Mehr Informationen finden Sie in der entsprechenden Dokumentation
+Mehr Informationen finden Sie in der entsprechenden [Dokumentation](/de-de/connectornav/data-exchange/)
 
 **Standard für Berichtsoptionen in Benutzerberichten**
 Zusätzlich zum einfachen öffnen der Berichtsoptionen im Prozess, gibt es nun noch die Möglichkeit einen Standard der Berichtsoptionen festzulegen der für den jeweiligen Berichts gilt
-Weitere Informationen zu den neuen Optionen finden Sie in der Dokumentation.
+Weitere Informationen zu den neuen Optionen finden Sie in der [Dokumentation](/de-de/connectornav/configuration-and-setup/).
 
 **Druck bei leeren Jobmodus in Kommunikationsmatrix**
 Wird der Jobmodus in der Kommunikationsmatrix freigelassen, wird nun standardmäßig gedruckt.

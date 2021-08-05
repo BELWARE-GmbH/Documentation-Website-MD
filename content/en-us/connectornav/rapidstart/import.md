@@ -24,4 +24,4 @@ Now you are ready to import your package, click on the button "Import package" a
 
 ![](/images/connectornav/rapidstart/uebernahme.png)
 
-Now check the communication matrix to ensure everything has been transferred
+Now check the communication matrix to ensure everything has been transferred.

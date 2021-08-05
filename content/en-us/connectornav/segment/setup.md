@@ -13,15 +13,15 @@ Now that the list of contacts that will receive the segment has been prepared, i
 
 ![](/images/connectornav/segment/setup1.png)
 
-**ReportID:** Is fixed – this one can not be changed
+**ReportID:** Is fixed – this one can not be changed.
 
 **Language:** Should you have multilingual customers and want to send your mails in different languages accordingly. Is to define the user report setup per language code.
 
-**Subject:** Here is the subject line of the mail to be set
+**Subject:** Here is the subject line of the mail to be set.
 
 **E-mail sender:** Here the own sender identification can be overwritten via SMTP.
 
-**Body text file:** Here is the mail / body text or also called disclaimer to define
+**Body text file:** Here is the mail / body text or also called disclaimer to define.
 
 (For the creation in Word see seperate documentation.)
 
