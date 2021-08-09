@@ -21,7 +21,11 @@ After you have added the module via the admin portal, it still has to be configu
 
 ![](images/apps/cticonfigstarfaceen.png)
 
-Under the Setup tab, you must now set up the users using the Starface Login ID.
+Under the Setup tab, you must now first authenticate the module via a user. To do this, you must specify the **username**, the **web access key** and the **web service URL**.
+
+After these parameters are added, you can add more users to the module. After the module has been authenticated once, the **STARFACE Login ID** and **username** from Business Central will suffice here.
+
+Repeat this process until all users have been added to the module.
 
 ![](images/apps/ctimodulesetupen.png)
 
