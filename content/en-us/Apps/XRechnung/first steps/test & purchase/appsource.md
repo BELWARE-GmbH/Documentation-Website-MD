@@ -32,6 +32,22 @@ Your costs:
 9,95€ / month / environment with annual payment and term.
 12,95€ / month / environment with monthly payment and term.
 
+Your cost for a Premium** license:
+
+| Monthly subscription incl. maintenance per environment with annual payment and term² |
+|-------------------------------------------------------------------------------------------------|
+| 25,90€                                                                                          |
+
+| Monthly Premium subscription incl. maintenance per environment with monthly payment and term²|
+|-------------------------------------------------------------------------------------------------|
+| 33,70€                                                                                          |
+
+**A Premium license is required if you want to create service reports in the XRechnung format.
+
+²The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
+12,95€ / month / environment with annual payment and term.
+16,85€ / month / environment with monthly payment and term.
+
 
 <p style="text-align: center;">
 To the form

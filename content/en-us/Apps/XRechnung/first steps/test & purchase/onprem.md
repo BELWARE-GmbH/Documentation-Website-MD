@@ -26,7 +26,7 @@ Your costs:
 
 | Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
 |-----------------------------------------|----------------------------------------|
-|1690,-€                                  | 55,-€                                  |
+|1.990,-€                                  | 65,-€                                  |
 
 After that you can start with the [installation](/en-us/apps/mail_attachment_plus/first-steps/installation/) of the Connector 365 Mail Attachment Plus App
 

@@ -17,5 +17,4 @@ Die **Connector 365 XRechung**-App ist aktuell in der Lage, folgende Belegarten 
  - Servicegutschriften [^*]
 
  [^*]: **Hinweis:** Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. 
- Weitere Informationen finden Sie [hier]().
-
+ Diese können Sie [hier](https://forms.office.com/r/6sXf5yVgai) bestellen. Die Funktion ist OnPrem inklusive.

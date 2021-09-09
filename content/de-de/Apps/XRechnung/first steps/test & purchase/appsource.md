@@ -21,16 +21,32 @@ Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser For
 Ihre Kosten:
 
 | Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* |
-|----------------------------------------------------------------------------------------|
-| 19,90€                                                                                 |
+|-----------------------------------------------------------------------------------------|
+| 19,90€                                                                                  |
 
 | Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit*|
-|----------------------------------------------------------------------------------------|
-| 25,90€                                                                                 |
+|-----------------------------------------------------------------------------------------|
+| 25,90€                                                                                  |
 
 *Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
 9,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
 12,95€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
+
+Ihre Kosten für eine Premium** Lizenz:
+
+| Monatliche Premium Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit² |
+|-------------------------------------------------------------------------------------------------|
+| 25,90€                                                                                          |
+
+| Monatliche Premium Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit²|
+|-------------------------------------------------------------------------------------------------|
+| 33,70€                                                                                          |
+
+**Eine Premium Lizenz ist nötig, wenn Sie Servicebelege im XRechnungs-Format erstellen möchten.
+
+²Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
+12,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
+16,85€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
 
 <p style="text-align: center;">
 Zum Formular

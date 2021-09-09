@@ -30,3 +30,17 @@ The following table provides an overview of the validity periods of the individu
 | 1.2.0             | 18.12.2018      | 01.07.2019 - 31.12.2019     |
 | 1.1               | 30.11.2017      | 01.12.2017 - 30.06.2019     |
 | 1.0               | 10.05.2017      | 01.06.2017 - 30.11.2017     |
+
+
+
+### Processable document types for XRechnung in Business Central
+
+Currently, the **Connector 365 XRechung**-App is able to process the following document formats as XRechnung:
+ - Sales invoices
+ - Sales credit memos
+ - Service invoices [^*]
+ - Service credit memos [^*]
+
+ [^*]: **Note:** To create XRechnung files for service reports, a premium license is required. 
+ You can order it [here](https://forms.office.com/r/6sXf5yVgai). The function is included OnPrem.
+

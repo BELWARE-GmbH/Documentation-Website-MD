@@ -20,14 +20,28 @@ Der Standard XRechnung wird von der KoSIT im Auftrag des IT-Planungsrats betrieb
 
 ### Gültigkeitszeitraum
 
-Die nachfolgende Tabelle gibt eine Übersicht über die Gültigkeitzeiträume der einzelnen Versionen des Standards. Es ist immer nur die aktuell gültige Version zu nutzen.
+Die nachfolgende Tabelle gibt eine Übersicht über die Gültigkeitzeiträume der einzelnen Versionen des Standards. Es ist stets die aktuell gültige Version zu nutzen.
 
 | XRechnung-Version | Fassung vom     | Gültigkeitszeitraum         |
 |-------------------|-----------------|-----------------------------|
-| **2.0.1**         | **16.12.2020**  | **Ab 01.07.2021**           |
+| 2.1.1             | 27.07.2021      | 01.02.2022                  |
+| 2.1.0<br>(zurückgezogen) | 22.07.2021   | zurückgezogen           |
+|**2.0.1**          | **16.12.2020**  | **01.07.2021 - 31.01.2022** |
 | 2.0.0             | 30.06.2020      | 01.01.2021 - 30.06.2021     |
 | 1.2.2             | 19.12.2019      | 01.07.2020 - 31.12.2020     |
 | 1.2.1             | 28.06.2019      | 01.01.2019 - 30.06.2020     |
 | 1.2.0             | 18.12.2018      | 01.07.2019 - 31.12.2019     |
 | 1.1               | 30.11.2017      | 01.12.2017 - 30.06.2019     |
 | 1.0               | 10.05.2017      | 01.06.2017 - 30.11.2017     |
+
+
+### Belegarten für XRechnung in Business Central
+
+Die **Connector 365 XRechung**-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
+ - Verkaufsrechnungen
+ - Verkaufsgutschriften
+ - Servicerechnungen [^*]
+ - Servicegutschriften [^*]
+
+ [^*]: **Hinweis:** Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. 
+ Diese können Sie [hier](https://forms.office.com/r/6sXf5yVgai) bestellen. Die Funktion ist OnPrem inklusive.
