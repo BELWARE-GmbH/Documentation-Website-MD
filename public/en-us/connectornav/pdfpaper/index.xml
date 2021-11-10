@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pdfPaper module on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/connectornav/pdfpaper/</link>
+    <description>Recent content in pdfPaper module on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/connectornav/pdfpaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>The pdfPaper Server module</title>
+        <link>https://docs.belware.de/en-us/connectornav/pdfpaper/pdfpaper_server/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/pdfpaper_server/</guid>
+        <description>The pdfPaper Server module The installation of the iPaper.NET server iPaper.NET server info Connector NAV is tested with the latest iPaper FM version. We recommend regularly following the blog at http://www.pdfblog.at/category/ipaper/.
+The configuration In order for the Connector NAV and iPaper FM to communicate properly with each other, certain settings must match in the Connector NAV pdfPaper setup as well as in the iPaper FM configuration.
+The Connector NAV pdfPaper setup Actions Connector 365 BC pdfPaper setup, actions</description>
+      </item>
+      
+      <item>
+        <title>Example process PDF</title>
+        <link>https://docs.belware.de/en-us/connectornav/pdfpaper/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/example/</guid>
+        <description>Example process PDF In addition to PDF creation with the base, you can use the pdfPaper to mix your document with your stationery.
+Preview function At any time before creating a PDF file, you have the option to preview your report - a view of your finished PDF. Using this function does not create a job list entry.
+There are 2 variants of the preview:
+Pdf Preview - This preview function works even if you have not licensed the iPaper.</description>
+      </item>
+      
+      <item>
+        <title>Example progress printout</title>
+        <link>https://docs.belware.de/en-us/connectornav/pdfpaper/example_print/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/example_print/</guid>
+        <description>Example progress printout With the action printout you can mix your documents with your stationary and print them on a printer of your chioce. Various functions are avaiable to you for this.
+Dialog process printout Actions Connector NAV Dialog printout mode, actions
+   Actions      Display stationery for the Printout operation This action can be used to display the stationery from the interface transfer.    Register pdfPaper Connector NAV Dialog printout mode, register pdfPaper</description>
+      </item>
+      
+      <item>
+        <title>Example progress password assignment</title>
+        <link>https://docs.belware.de/en-us/connectornav/pdfpaper/example_password/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/example_password/</guid>
+        <description>Example progress password assignment By assigning passwords, you can protect sentitive content when it is sent. Because an unprotected PDF file is comparable to a postcard - anyone who has access can read it. You have various options for assigning passwords.
+Function „Show password“ Of course, it is important that passwords remain protected - however, it can happen that passwords are forgotten or misplaced. For this case there is a function &amp;ldquo;Show password&amp;rdquo; - this function, which can be assigned on a user basis, allows to view the password of PDF files.</description>
+      </item>
+      
+      <item>
+        <title>Creation of PDF/A documents</title>
+        <link>https://docs.belware.de/en-us/connectornav/pdfpaper/archive_pdf/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/archive_pdf/</guid>
+        <description>Creation of PDF/A documents in PDF/A-1b and PDF/A-3b (only in connection with pdfPaper - as FM licensing)
+Setup of the PDF level In the &amp;ldquo;pdfPaper setup&amp;rdquo; the intended PDF level is stored, which one would like to apply per client by default. This setup directly accesses all reports/documents in a client that are processed with Connector NAV / 365 BC.
+Window „pdfPaper setup“
+You can choose between &amp;ldquo;Empty&amp;rdquo;, &amp;ldquo;PDF/A- 1b&amp;rdquo; and &amp;ldquo;PDF/A- 3b&amp;rdquo; in the &amp;ldquo;PDF Level&amp;rdquo; field and thus define your default setting per client.</description>
+      </item>
+      
+      <item>
+        <title>One printer per user / report</title>
+        <link>https://docs.belware.de/en-us/connectornav/pdfpaper/user_printer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/user_printer/</guid>
+        <description>Specify one printer per user / report By using the module you also have the possibility to specify one printer per user. You can find the option for this in the user setup.
+User setup with unfolded pdfPaper tab.
+There you will find 2 fields, Printer for the process Printout or Printout Server, which field you have to use depends on which version of iPaper you have licensed. Client and Terminal Server use Printout, Folder Monitoring uses Printout Server.</description>
+      </item>
+      
+      <item>
+        <title>Rotation of attachments</title>
+        <link>https://docs.belware.de/en-us/connectornav/pdfpaper/rotate_attachments/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/rotate_attachments/</guid>
+        <description>Automatical rotation of attachments. It is possible to automatically rotate PDF files that have been saved in landscape format to portrait format during the processing of a job. This is useful when you want to send files in a consistent format. To enable the option, you need to access the pdfPaper setup. There you will find the fields &amp;ldquo;Automatically rotate when&amp;hellip;&amp;rdquo;. Now check the respective job mode in which the file should be rotated.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Rapidstart on Connector 365 Online Hilfe",
+    "description": "Recent content in Rapidstart on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/connectornav/rapidstart/index.json",
+    "items" : [
+    {
+        "title" : "Einspielen des Pakets",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/rapidstart/install/",
+        "url" : "https://docs.belware.de/de-de/connectornav/rapidstart/install/",
+        "content_html" : "\u003ch4 id=\"einspielen-des-belware-rapidstart-pakets\"\u003eEinspielen des BELWARE RapidStart Pakets\u003c/h4\u003e\n\u003cp\u003eBevor Sie den Rapidstart nutzen können, müssen Sie zunächst das von uns zur Verfügung gestellte Paket in Ihr System einspielen. Dies erfolgt mit Hilfe der RapidStart Services, diese finden Sie entweder direkt über die Suchfunktion oder Verwaltung -\u0026gt; Anwendung Einrichtung. Öffnen Sie dort die Seite für Konfigurationspakete.\u003c/p\u003e\n\u003cp\u003eIn der Übersicht für die RapidStart Services haben Sie nun die Möglichkeit das Paket über „Paket importieren“ in Ihr System zu übernehmen.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/einspielen.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIn dem Dialog der sich anschließend öffnet müssen Sie nun das von uns zur Verfügung gestellte Paket auswählen.\u003c/p\u003e\n\u003cp\u003eIn unserem Paket finden Sie eine Beispieleinrichtung für die Kommunikationsmatrix und der zusätzlichen Zieladressen in dieser, sowie eine vollständige Einrichtung der Zieladressenmatrix.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Anpassen der Tabellen",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/rapidstart/adjust/",
+        "url" : "https://docs.belware.de/de-de/connectornav/rapidstart/adjust/",
+        "content_html" : "\u003ch4 id=\"anpassen-der-tabellen\"\u003eAnpassen der Tabellen\u003c/h4\u003e\n\u003cp\u003eNach importieren des Pakets muss nun die Kommunikationsmatrix noch ausgefüllt werden, dazu muss diese zunächst exportiert werden. Dies erfolgt über die Schaltfläche „in Excel importieren“\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/anpassen.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIn Excel haben Sie nun eine Tabelle mit mehreren Blättern, hier relevant sind CON Feldauswahl Zieladresse, CON Kommunikationsmatrix \u0026amp; Matrix Target.\u003c/p\u003e\n\u003cp\u003eIn allen Tabellen finden Sie von uns angelegte Beispiele, die Ihnen die Einrichtung erleichtern soll. Wichtig ist, dass Sie diese vor einem importieren wieder löschen. Da nur Kontakte übernommen werden können, die es schon in Ihrem System gibt.\u003c/p\u003e\n\u003cp\u003eCON Feldauswahl Zieladresse beinhaltet die Zieladressenmatrix, dort können Sie festlegen aus welchen Feldern die Zieladressen gezogen werden.\u003c/p\u003e\n\u003cp\u003eIn CON Kommunikationsmatrix finden Sie die eigentliche Kommunikationsmatrix hier können Sie Ihre Kontakte hinterlegen und die Zieladressen per Jobmodus steuern. Die Felder Zieladresse 2 \u0026amp; 3 müssen nicht ausgefüllt werden, da diese ausführlicher und unbegrenzt in der Matrix Target Tabelle ausfüllen können.\u003c/p\u003e\n\u003cp\u003eMatrix Target bietet Ihnen die Möglichkeit weitere Zieladressen zu einem Kontakt per Jobmodus hinzufügen.\u003c/p\u003e\n\u003cp\u003eGenauere Infos zur Funktion der Matrix finden Sie in der Dokumentation für die Kommunikationsmatrix.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Import und Übernahme",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/rapidstart/import/",
+        "url" : "https://docs.belware.de/de-de/connectornav/rapidstart/import/",
+        "content_html" : "\u003ch4 id=\"import-der-fertigen-tabelle--übernahme-der-daten\"\u003eImport der fertigen Tabelle \u0026amp; Übernahme der Daten\u003c/h4\u003e\n\u003cp\u003eNachdem Sie alle nötigen Anpassungen an der Tabelle vorgenommen haben, können Sie diese nun speichern und in wieder in Business Central importieren.\u003c/p\u003e\n\u003cp\u003eÖffnen Sie also zunächst wieder das Programm und die RapidStart Services und dessen Übersicht.\u003c/p\u003e\n\u003cp\u003eDort angekommen wählen Sie die Option „Aus Excel importieren“, wählen Sie die gespeicherte Excel-Datei aus und bestätigen Sie den Dialog.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/import.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eAnschließend öffnet sich ein weiter Dialog, klicken Sie hier auf import, dadurch wird der Prozess zum Importieren ausgelöst. Bestätigen Sie nun noch die beiden Dialoge, die sich öffnen mit Ja.\u003c/p\u003e\n\u003cp\u003eNun sind Sie bereit ihr Paket zu übernehmen, klicken Sie dazu auf den Knopf „Paket übernehmen“ und bestätigen den Dialog mit Ja. Nach kurzer Zeit sollte der Prozess abgeschlossen sein und Ihnen einen Abschlussbericht anzeigen.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/uebernahme.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003ePrüfen Sie nun noch in der Kommunikationsmatrix, ob auch wirklich alles übernommen wurde.\u003c/p\u003e\n"
+    }
+    ]
+}

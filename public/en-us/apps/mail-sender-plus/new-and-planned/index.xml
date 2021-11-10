@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New and planned on Connector 365 Online Help</title>
-    <link>http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/</link>
+    <link>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/</link>
     <description>Recent content in New and planned on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>V1.0.0.2 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
+        <link>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
+        <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
         <description>Neu und geplant Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
       </item>
       

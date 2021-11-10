@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Arbeiten mit Easy Batch on Connector 365 Online Hilfe",
+    "description": "Recent content in Arbeiten mit Easy Batch on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/index.json",
+    "items" : [
+    {
+        "title" : "Versandszenarios",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/",
+        "content_html" : "\u003ch3 id=\"arbeiten-mit-easy-batch\"\u003eArbeiten mit Easy Batch\u003c/h3\u003e\n\u003ch3 id=\"versandszenarios\"\u003eVersandszenarios\u003c/h3\u003e\n\u003cp\u003eGrundsätzlich haben Sie die Möglichkeit mehrere Jobmodi gleichzeitig zu nutzen in Verwendung mit der Stapelfunktion. Sie müssen dies nur dem entsprechend in den Dokumentlayouts einrichten.\u003c/p\u003e\n\u003cp\u003eWird der Stapelversand ausgelöst während für einen Beleg mehrere Jobmodi eingerichtet sind, werden diese nacheinander ausgelöst.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eBeispiel 1\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eEin Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail, dies sieht in den Dokumentlayouts wie folgt aus:\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/easyscenario1.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eSo würden beim auslösen des Stapelversands die entsprechenden Debitoren eine E-Mail erhalten und gleichzeitig auch einen Brief.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eBeispiel 2\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eEin weiteres mögliches Szenario wäre der Versand per E-Mail und ein Druck zur Archivierung. Dies würde wie folgt aussehen:\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/easyscenario2.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eGrundsätzlich gibt es keine Limitierungen im Bereich der Kombinierbarkeit der unterschiedlichen Jobmodi. Es kommt nur auf die jeweilige Arbeitsweise an, inwiefern die verschiedenen Kombinationen Sinn ergeben.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Stapelfunktion",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/batchfunction/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/batchfunction/",
+        "content_html" : "\u003ch3 id=\"arbeiten-mit-easy-batch\"\u003eArbeiten mit Easy Batch\u003c/h3\u003e\n\u003ch3 id=\"stapelfunktion\"\u003eStapelfunktion\u003c/h3\u003e\n\u003cp\u003eNachdem alle Debitoren nach Ihren Wünschen eingerichtet wurde, können Sie mit dem Versand starten.\u003c/p\u003e\n\u003cp\u003eÖffnen Sie dazu einen der gewünschten Berichte, z.B. Ihre geb. Verkaufsrechnungen.\u003c/p\u003e\n\u003cp\u003eWählen Sie nun die Belege aus welche Sie versenden möchten\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/easydocumentselectde.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIn der Auswahl sind Sie komplett frei - Sie haben, falls gewünscht, auch die Möglichkeit einzelne Belege als Stapel zu versenden.\u003c/p\u003e\n\u003cp\u003eSobald Sie die Beleg für den Versand ausgewählt haben, können Sie den Stapel starten. Die Funktion dafür finden Sie unter \u003cstrong\u003eDrucken/Senden\u003c/strong\u003e -\u0026gt; \u003cstrong\u003ePer Stapel senden\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/easybatchfunctionde.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eEs öffnet sich kein weiterer Dialog, die Verarbeitung anhand der eingestellten Jobmodi wird sofort durchgeführt.\u003c/p\u003e\n\u003cp\u003eNach Abschluss der Verarbeitung erhalten Sie eine kurze Benachrichtigung.\u003c/p\u003e\n\u003cp\u003eDer gesamte Vorgang und die verarbeiteten Jobs werden anschließend in den \u003ca href=\"/de-de/apps/easybatch/working-with-easy-batch/archive/\"\u003eConnector 365 Aktivitäten\u003c/a\u003e archiviert.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Archivierung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/archive/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/archive/",
+        "content_html" : "\u003ch3 id=\"arbeiten-mit-easy-batch\"\u003eArbeiten mit Easy Batch\u003c/h3\u003e\n\u003ch3 id=\"archivierung\"\u003eArchivierung\u003c/h3\u003e\n\u003cp\u003eNachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie an zwei Stellen finden:\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDirekt am Beleg\u003c/strong\u003e\u003cbr /\u003e\nDiese finden Sie direkt in der Factbox rechts neben Ihren Belegen.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/easyfactboxde.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn den globalen Aktivitäten\u003c/strong\u003e\u003cbr /\u003e\nDiese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach \u003cstrong\u003eConnector 365 Aktivitäten\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/easyarchivede.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIn den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden. Hier könen verschiedene Parameter zur Verarbeitung eingesehen werden, wie z.B. wann der Job durchgeführt wurde, welcher Nutzer ihn ausgelöst hat und welchen Status die Verarbeitung hat.\u003c/p\u003e\n"
+    }
+    ]
+}

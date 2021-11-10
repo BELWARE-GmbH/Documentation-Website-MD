@@ -8,6 +8,9 @@
     
 
 
+  
+  <script defer src="/js/fuse.min.c4bee9a8d44273d6154fe86006923d4131eb2e8069d8897687137c6f37f553e3.js"></script>
+
 
 
 <script src="/js/enquire.min.aa37bdcb743826eecdae5c5d177fc7d6552340f1b4378ffaa9c82b2c6111400b.js"></script>
@@ -25,9 +28,9 @@
     
     var languagedir = JSON.parse("\"ltr\"");
     
-    var baseurl = JSON.parse("\"http://docs.belware.de/\"");
+    var baseurl = JSON.parse("\"https://docs.belware.de/\"");
     
-    var permalink = JSON.parse("\"http://docs.belware.de/en-us/privacy-policy/\"");
+    var permalink = JSON.parse("\"https://docs.belware.de/en-us/privacy-policy/\"");
 
     
     var toggleSidebarElem = document.getElementById("toggle-sidebar");
@@ -568,7 +571,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var enableSearch = JSON.parse("false");
+    var enableSearch = JSON.parse("true");
 
     var fuse = null;
 
@@ -1069,7 +1072,8 @@
 <link rel="stylesheet" href="/css/main.min.css">
 
 
-    <link rel="alternate" type="application/rss&#43;xml" title="RSS" href="http://docs.belware.de/en-us/privacy-policy/index.xml">
+    <link rel="alternate" type="application/rss&#43;xml" title="RSS" href="https://docs.belware.de/en-us/privacy-policy/index.xml">
+<link rel="alternate" type="application/json" title="JSON" href="https://docs.belware.de/en-us/privacy-policy/index.json">
 <meta name="description" content="" />
 <meta name="keywords" content="">
 <meta name="created" content="2020-02-28T10:08:56&#43;0900">
@@ -1078,13 +1082,13 @@
 
 <meta property="og:site_name" content="Connector 365 Online Help">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="http://docs.belware.de/en-us/privacy-policy/">
+<meta property="og:url" content="https://docs.belware.de/en-us/privacy-policy/">
 <meta property="og:type" content="website">
 
-<meta name="generator" content="Hugo 0.81.0" />
+<meta name="generator" content="Hugo 0.82.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
-<link rel="canonical" href="http://docs.belware.de/en-us/privacy-policy/">
+<link rel="canonical" href="https://docs.belware.de/en-us/privacy-policy/">
 <link rel="manifest" href="/manifest.json">
 
   <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
@@ -1108,21 +1112,43 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "url" : "http://docs.belware.de/en-us/privacy-policy/",
+    "url" : "https://docs.belware.de/en-us/privacy-policy/",
     "name": "Privacy Policy",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "http://docs.belware.de/"
+      "@id": "https://docs.belware.de/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Connector 365 Online Help",
-      "url": "http://docs.belware.de/"
+      "url": "https://docs.belware.de/"
     }
   }
 </script>
 
     
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L6D63KJZ9Q"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-L6D63KJZ9Q', { 'anonymize_ip': false });
+}
+</script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-L6D63KJZ9Q', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -1289,9 +1315,38 @@
         <div class="grow"></div>
         <div id="siteSearch">
           
+
+<div class="search" data-bgimg="false">
+  <span class="icon">
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+  </span>
+  <input id="search" aria-label="Site Search" class="input" type="text" autocomplete="off" placeholder="Search">
+  <div id="search-results" class="dropdown">
+    <div id="search-menu" class="dropdown-menu">
+    </div>
+  </div>
+</div>
+
+
         </div>
         <div id="mobileSearch" class="hide">
           
+<div id="mobileSearchBtn" class="mobile-search__btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+</div>
+
+<div id="search-mobile-container" class="mobile-search hide">
+  <div class="mobile-search__top">
+    <input id="search-mobile" type="text" aria-label="Mobile Search" placeholder="Search..." class="mobile-search__top--input"/>
+    <div id="search-mobile-close" class="mobile-search__top--icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.59-13L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41z"/></svg>
+    </div>
+  </div>
+  <div id="search-mobile-results" class="mobile-search__body">
+    
+  </div>
+</div>
+
         </div>
         <div class="navbar__icons">
   
@@ -1309,7 +1364,7 @@
         
           
             
-              <a href="http://docs.belware.de/de-de/privacy-policy/" data-lang="de-de" class="lang__dropdown--item">Deutsch</a>
+              <a href="https://docs.belware.de/de-de/privacy-policy/" data-lang="de-de" class="lang__dropdown--item">Deutsch</a>
             
           
         
@@ -1325,7 +1380,7 @@
         
           
             
-              <a href="http://docs.belware.de/en-us/privacy-policy/" data-lang="en-us" class="lang__dropdown--item active">English</a>
+              <a href="https://docs.belware.de/en-us/privacy-policy/" data-lang="en-us" class="lang__dropdown--item active">English</a>
             
           
         
@@ -1434,7 +1489,7 @@
   
   <li >
     
-      <a href="http://docs.belware.de/en-us/" class="capitalize">Connector 365 Online Hilfe</a>
+      <a href="https://docs.belware.de/en-us/" class="capitalize">Connector 365 Online Hilfe</a>
     
   </li>
   
@@ -1509,7 +1564,7 @@
 
   <article class="single__contents" data-dir="ltr">
     <h3 id="privacy-policy">Privacy Policy</h3>
-<p>We are pleased about your visit on our website <a href="http://www.belware.de">www.belware.de</a> and your interest in our company and our offers. Despite careful content control, we assume no liability for external links to external content, since we have not initiated the transmission of this information, the addressee of the transmitted information and the transmitted information itself have not selected or changed.</p>
+<p>We are pleased about your visit on our website <a href="http://www.docs.belware.de">www.docs.belware.de</a> and your interest in our company and our offers. Despite careful content control, we assume no liability for external links to external content, since we have not initiated the transmission of this information, the addressee of the transmitted information and the transmitted information itself have not selected or changed.</p>
 <p>The protection of your personal data during the collection, processing and use on the occasion of your visit to our website is an important concern to us and is carried out within the framework of the statutory provisions, about which you can obtain information, e.g. at <a href="http://www.bfd.bund.de">www.bfd.bund.de</a>.</p>
 <p>In the following we will explain to you which information we collect during your visit to our website and how it is used:</p>
 <h4 id="1-the-collection-and-storage-of-personal-data-and-the-nature-and-purpose-of-their-use">1. The collection and storage of personal data and the nature and purpose of their use</h4>

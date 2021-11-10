@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication matrix on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/connectornav/matrix/</link>
+    <description>Recent content in Communication matrix on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/connectornav/matrix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Creating contacts</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/contacts/</guid>
+        <description>Creating contacts in Dynamics NAV / 365 BC Prerequisite for an electronic and/or automated dispatch is the basic maintenance and creation of contact and communication data. By default, a customer or vendor is created from a contact in the 2nd step. These are always linked and reference each other.
+I.e. each customer/vendor has a corresponding contact and for this contact there are corresponding employee contacts.
+Display of a contact overview, company and employee.</description>
+      </item>
+      
+      <item>
+        <title>Definitions</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/definitions/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/definitions/</guid>
+        <description>Basic definitions In the course of the documentation, certain terms will be used. We would like to clarify these and their meaning beforehand.
+   Field no. Field name English Field name German     1 Sell-to Customer No. Sell to Debit No.   2 Sell-to Customer Name Sell to Name   3 Sell to Contact No. Sell to Contact No.        Field No.</description>
+      </item>
+      
+      <item>
+        <title>SpreadsheetIDs</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/table_id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/table_id/</guid>
+        <description>&amp;ldquo;Where do I find spreadsheetIDs?&amp;rdquo; In order to start with the matrix, we must first find out which spreadsheed the report is. This is done by clicking on the blue field with the arrows in the upper left corner of Dynamics NAV / 365 Business Central in an open quote or overview, then on &amp;ldquo;Help&amp;rdquo; and &amp;ldquo;About this page&amp;rdquo;.
+Here you can find &amp;ldquo;About this page&amp;rdquo;.
+Now an additional window opens with various informaton about the corresponding page.</description>
+      </item>
+      
+      <item>
+        <title>Recipient e-mail addresses</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/adresses/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/adresses/</guid>
+        <description>So where do the recipients&#39; e-mail addresses come from? (Using without target and communication matrix) The Connector NAV / 365 BC works analogously to the standard dispatch. We will use various examples to explain how the mail dispatch process works. For the following 3 examples we limit ourselves to the report Quotations. The service recipient is the same as the invoice recipient. The process is the same for each report.</description>
+      </item>
+      
+      <item>
+        <title>Different shipping</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/detour/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/detour/</guid>
+        <description>Deviating dispatch - using the destination address matrix The previous examples all worked without the matrix because direct related contacts were always accessed.
+Now, however, there is a deviating company logic. The service recipient is not the same as the invoice recipient, but a different company. Also the customers/suppliers play a role in the destination address. Despite person contact, there is a desire to send documents but basically to deviating/global addresses.</description>
+      </item>
+      
+      <item>
+        <title>The Batch</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/stack_mode/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/stack_mode/</guid>
+        <description>The Batch - Using the matrix to control the shipping method In some of our templates you will notice the button &amp;ldquo;Batch&amp;rdquo;, with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
+In oder for an entry in the communication matrix to be used for the stacking run the &amp;ldquo;Stacking mode&amp;rdquo; check mark must be set in front of the respective entrys.</description>
+      </item>
+      
+      <item>
+        <title>Book and process</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/book_and_process/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/book_and_process/</guid>
+        <description>Book and process functions Similar to the standard functions post &amp;amp; send and post &amp;amp; print, the post &amp;amp; process function allows you to process a document after posting. In contrast to the standard, the function allows you to process the document through all Connector NAV interfaces. In addition, you have the possibility to send a document multiple times via different channels, e.g. letter &amp;amp; e-mail.
+How exactly the respective document should be processed, you can set up in our communication matrix.</description>
+      </item>
+      
+      <item>
+        <title>Communication matrix options</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/options/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/options/</guid>
+        <description>Options &amp;amp; advanced options of the communication matrix The following functions can be found in the communication matrix. From point 11 onwards, these can only be used in conjunction with the pdfPaper module.
+   Field Name Function     1 Stack mode specifies whether the entry also applies to batch mode processing   2 SpreadsheetID specifies to which spreadsheet the entry refers (deb./credit/contact)   3 Spreadsheet name automatically filled with the spreasheet name   4 No.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kommunikationsmatrix on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/matrix/</link>
+    <description>Recent content in Kommunikationsmatrix on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/matrix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Anlegen von Kontakten</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/contacts/</guid>
+        <description>Anlegen von Kontakten in Dynamics NAV / 365 BC Voraussetzung für einen elektronischen und/oder automatisierten Versand ist die grundsätzliche Pflege und Anlage von Kontakt- und Kommunikationsdaten. Standardmäßig erfolgt im 2. Schritt aus einem Kontakt ein Debitor oder Kreditor. Diese sind immer miteinander verknüpft und referenzieren aufeinander.
+D.h. jeder Debitor/Kreditor hat einen dazugehörigen Kontakt und zu diesem Kontakt gibt es dazugehörige Mitarbeiterkontakte.
+Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Meller ist als Unternehmen angelegt.</description>
+      </item>
+      
+      <item>
+        <title>Begriffsklärungen</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/definitions/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/definitions/</guid>
+        <description>Grundlegende Begriffserklärungen Im Laufe der Dokumentation werden bestimmte Begriffe verwendet. Diese und deren Bedeutung wollen wir zuvor noch abklären.
+   Feld Nr. Feldname Englisch Feldname Deutsch     1 Sell-to Customer No. Verk. an Deb.-Nr.   2 Sell-to Customer Name Verk. an Name   3 Sell to Contact No. Verk. an Kontaktnr.        Feld Nr. Feldname Englisch Feldname Deutsch     1 Bill-to Customer No.</description>
+      </item>
+      
+      <item>
+        <title>Tabellen-IDs</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/table_id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/table_id/</guid>
+        <description>„Wo finde ich Tabellen-IDs?&amp;quot; Damit mit der Matrix gestartet werden kann, müssen wir zunächst herausfinden, um welche Tabelle es sich bei dem Bericht handelt. Dies erfolgt, indem Sie in einem geöffneten Angebot bzw. Einer Übersicht auf das blaue Feld mit Pfeil oben links in Dynamics NAV / 365 Business Central klicken, dort dann auf „Hilfe“ und „Info zu dieser Seite“.
+Hier finden Sie „Info zu dieser Seite“.
+Es öffnet sich nun ein zusätzliches Fenster mit verschiedenen Informationen zu der entsprechenden Seite.</description>
+      </item>
+      
+      <item>
+        <title>Empfänger-Mailadressen</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/adresses/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/adresses/</guid>
+        <description>Wo kommen nun die Empfänger-Mailadressen her? (Nutzung ohne Ziel- und Kommunikationsmatrix) Der Connector NAV / 365 BC arbeitet analog zum Standardversand. Anhand verschiedener Beispiele erklären wir, wie der Ablauf eines Mailversands funktioniert. Für die folgenden 3 Beispiele beschränken wir uns auf den Report Angebote. Leistungsempfänger ist gleich Rechnungsempfänger. Der Ablauf ist bei jedem Bericht gleich anzuwenden.
+Beispiel 1 – Angebot an Debitor ohne Personen-Kontakt Sie haben Ihr Angebot angelegt und wollen es nun versenden.</description>
+      </item>
+      
+      <item>
+        <title>Abweichender Versand</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/detour/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/detour/</guid>
+        <description>Abweichender Versand – Einsatz der Zieladressen-Matrix Die bisherigen Beispiele haben alle ohne die Matrix funktioniert, da immer auf direkte zusammenhängende Kontakte zugegriffen wurde.
+Nun besteht aber eine abweichende Unternehmenslogik. Der Leistungsempfänger ist nicht gleich der Rechnungsempfänger, sondern ein abweichendes Unternehmen. Auch spielen die Kunden-/Lieferanten bei der Zieladresse eine Rolle. Trotz Personen-Kontakt besteht der Wunsch, Belege aber grundsätzlich an abweichende/globale Adressen zu senden. Solche Anforderungen sind im Standard von Dynamics NAV / 365 BC nicht vorgesehen.</description>
+      </item>
+      
+      <item>
+        <title>Der Stapelmodus</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/stack_mode/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/stack_mode/</guid>
+        <description>Der Stapelmodus - Nutzen der Matrix zum Steuern der Versandart In einigen unserer Templates werden Sie den Knopf „Stapellauf“ bemerken, mit dieser Funktion lassen sich ausgewählte Belege nach einem zuvor festgelegten Schema verarbeiten. Dieses Schema lässt sich über die Kommunikationsmatrix einrichten.
+Damit ein Eintrag in der Kommunikationsmatrix für den Stapellauf verwendet werden kann, muss der Haken „Stapelmodus“ vor den jeweiligen Einträgen gesetzt werden. Ist der Haken gesetzt gilt diese Einrichtung ebenfalls für einen Stapellauf, es muss kein separater Eintrag angelegt werden.</description>
+      </item>
+      
+      <item>
+        <title>Buchen und Verarbeiten</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/book_and_process/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/book_and_process/</guid>
+        <description>Funktion buchen &amp;amp; verarbeiten Ähnlich wie die Standardfunktionen buchen &amp;amp; senden bzw. buchen &amp;amp; drucken, erlaubt die Funktion buchen &amp;amp; verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief &amp;amp; E-Mail zu versenden.
+Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Kommunikationsmatrix einrichten.</description>
+      </item>
+      
+      <item>
+        <title>Optionen der Kommunikationsmatrix</title>
+        <link>https://docs.belware.de/de-de/connectornav/matrix/options/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/matrix/options/</guid>
+        <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Die folgenden Funktionen finden Sie in der Kommunikationsmatrix. Ab Punkt 11 sind diese nur in Verbindung mit dem pdfPaper-Modul verwendbar.
+   Feld Name Funktion     1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt   2 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb./Kred./Kontakt)   3 Tabellenname wird automatisch mit dem Namen der Tabelle gefüllt   4 Nr.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

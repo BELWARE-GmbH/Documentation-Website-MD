@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modul pdfPaper on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/pdfpaper/</link>
+    <description>Recent content in Modul pdfPaper on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/pdfpaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Das Modul pdfPaper Server</title>
+        <link>https://docs.belware.de/de-de/connectornav/pdfpaper/pdfpaper_server/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/pdfpaper/pdfpaper_server/</guid>
+        <description>Das Modul pdfPaper Server Die Installation des iPaper.NET-Server iPaper.NET-Server InfoDer Connector NAV ist getestet mit der aktuellen iPaper FM Version. Wir empfehlen, regelmäßig den Blog unter http://www.pdfblog.at/category/ipaper/ zu verfolgen.
+Die Konfiguration Damit der Connector NAV und iPaper FM richtig miteinander kommunizieren können, müssen in der Connector NAV pdfPaper Einrichtung sowie in der iPaper FM Konfiguration bestimmte Einstellungen übereinstimmen.
+Die Connector NAV pdfPaper Einrichtung Aktionen Connector 365 BC pdfPaper Einrichtung, Aktionen</description>
+      </item>
+      
+      <item>
+        <title>Beispielvorgang PDF</title>
+        <link>https://docs.belware.de/de-de/connectornav/pdfpaper/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/pdfpaper/example/</guid>
+        <description>Beispielvorgang PDF Zusätzlich zur PDF-Erzeugung mit der Basis können Sie mit dem pdfPaper Ihr Dokument mit Ihrem Briefpapier mischen.
+Preview-Funktion Vor dem erzeugen einer PDF-Datei haben Sie jederzeit die Möglichkeit für Ihren Bericht eine Vorschau zu erzeugen - eine Ansicht Ihrer fertigen PDF. Ein nutzen dieser Funktion erzeugt keinen Joblisteeintrag.
+Es gibt 2 Varianten der Vorschau:
+Pdf Vorschau - Diese Vorschaufunktion funktioniert auch wenn Sie den iPaper nicht lizensiert haben. Eine Mischung mit einem Briefpapier findet bei dieser Funktion nicht statt, es wird nur eine einfache PDF Ihres Berichts erzeugt.</description>
+      </item>
+      
+      <item>
+        <title>Beispielvorgang Ausdruck</title>
+        <link>https://docs.belware.de/de-de/connectornav/pdfpaper/example_print/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/pdfpaper/example_print/</guid>
+        <description>Beispielvorgang Ausdruck Mit der Aktion Ausdruck können Sie Ihre Dokumente mit Ihrem Briefpapier mischen und auf einem Drucker Ihrer Wahl ausdrucken. Dabei stehen Ihnen verschiedene Funktionen zur Verfügung.
+Dialog Vorgang Ausdruck Aktionen Connector NAV Dialog Modus Ausdruck, Aktionen
+   Aktionen      Briefpapier für den Vorgang Ausdruck anzeigen Über diese Aktion kann das Briefpapier aus der Schnittstellenübergabe angezeigt werden.    Register pdfPaper Connector NAV Dialog Modus Ausdruck, Register pdfPaper</description>
+      </item>
+      
+      <item>
+        <title>Beispielvorgang Passwortvergabe</title>
+        <link>https://docs.belware.de/de-de/connectornav/pdfpaper/example_password/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/pdfpaper/example_password/</guid>
+        <description>Beispielvorgang Passwortvergabe Durch die Vergabe von Passwörtern können Sie sensible Inhalte bei dem Versand schützen. Denn eine ungeschützte PDF-Datei ist vergleichbar mit einer Postkarte – Jeder der Zugriff hat, kann diese lesen. Zur Passwortvergabe stehen Ihnen verschiedene Möglichkeiten zur Verfügung.
+Funktion „Zeige Passwort“ Natürlich ist es wichtig, dass Passwörter geschützt bleiben - jedoch kann es passieren, dass Passwörter vergessen oder verlegt werden. Für diesen Fall gibt es die Funktion „Zeige Passwort“ - diese Funktion, die auf User-Basis vergeben werden kann, erlaubt es die Passwörter von PDF-Dateien einzusehen.</description>
+      </item>
+      
+      <item>
+        <title>Erstellung von PDF/A-Dokumenten</title>
+        <link>https://docs.belware.de/de-de/connectornav/pdfpaper/archive_pdf/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/pdfpaper/archive_pdf/</guid>
+        <description>Erstellung von PDF/A-Dokumenten in PDF/A-1b und PDF/A-3b (nur in Verbindung mit pdfPaper – als FM-Lizensierung)
+Einrichtung der PDF-Ebene In der „pdfPaper Einrichtung“ wird die gewünschte PDF-Ebene hinterlegt, die man standardmäßig pro Mandanten anwenden möchte. Diese Einrichtung greift direkt auf alle Berichte/Belege in einem Mandanten, die mit dem Connector NAV / 365 BC verarbeitet werden.
+Fenster „pdfPaper Einrichtung“
+Sie können in dem Feld „PDF Ebene“ zwischen „Leer“, „PDF/A- 1b“ und „PDF/A- 3b“ wählen und somit ihre Default Einstellung je Mandant festlegen.</description>
+      </item>
+      
+      <item>
+        <title>Drehen von Anhängen</title>
+        <link>https://docs.belware.de/de-de/connectornav/pdfpaper/rotate_attachments/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/pdfpaper/rotate_attachments/</guid>
+        <description>Automatisches Drehen von Anhängen. Es ist möglich PDF-Dateien, welche im Querformat gespeichert wurden, automatisch während der Verarbeitung eines Jobs in das Hochformat zu drehen. Dies ist dann nützlich, wenn man Dateien in einem einheitlichen Format übersenden möchte. Um die Option zu aktivieren, müssen Sie auf die pdfPaper Einrichtung zugreifen. Dort finden Sie die Felder „Automatisches drehen bei…“. Setzen Sie nun einen Haken bei dem jeweiligen Jobmodus in dem die Datei gedreht werden soll.</description>
+      </item>
+      
+      <item>
+        <title>Ein Drucker pro Nutzer / Bericht</title>
+        <link>https://docs.belware.de/de-de/connectornav/pdfpaper/user_printer/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/pdfpaper/user_printer/</guid>
+        <description>Festlegen eines Druckers pro Nutzer / Bericht Durch Nutzung des Moduls haben Sie auch die Möglichkeit einen Drucker pro Benutzer festzulegen. Die Option Dazu finden Sie in der Benutzer Einrichtung.
+Benutzer Einrichtung mit ausgeklapptem pdfPaper Reiter.
+Dort finden Sie 2 Felder, Drucker für den Vorgang Ausdruck bzw. Ausdruck Server, welches Feld Sie benutzen müssen ist davon abhängig welche Version des iPapers Sie lizensiert haben. Client und Terminalserver nutzen Ausdruck, Folder Monitoring nutzt Ausdruck Server.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

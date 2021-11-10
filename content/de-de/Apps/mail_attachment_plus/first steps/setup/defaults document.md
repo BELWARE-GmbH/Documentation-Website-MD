@@ -20,4 +20,8 @@ Klicken Sie nun bei "Belege" auf die 0, es öffnet sich ein Fenster in dem Sie v
 
 Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle gewünschten Dateien angehängt sind. Ab jetzt werden die ausgewählten Dateien immer mit versendet wenn Sie den ausgewählten Beleg versenden.
 
+Um diese Funktionalität voll zu aktivieren, muss in den Dokumentenlayouts des jeweiligen Debtior zunächst noch der Haken bei **"Dokumentenanhänge verwenden"** gesetzt werden.
+
+![](images/apps/documents_de.png)
+
 Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Beleg Standardanhänge](de-de/apps/mail_attachment_plus/working-with-map/defaults-document/)

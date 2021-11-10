@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arbeiten mit der E-POST on Connector 365 Online Hilfe</title>
-    <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/</link>
+    <link>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/</link>
     <description>Recent content in Arbeiten mit der E-POST on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="http://docs.belware.de/de-de/apps/e-post/working-with-e-post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://docs.belware.de/de-de/apps/e-post/working-with-e-post/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Versand</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</link>
+        <link>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
+        <guid>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
         <description>Arbeiten mit der Connector 365 E-POST App Versand Mit unserer Connector 365 E-POST App* können Sie Geb. Verkaufsrechnungen, Geb. Verkaufsgutschriften, Reg. Mahnungen, Angebote und Verkaufsaufträge versenden. In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
 Die Funktion zum versenden von postalischen Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste.</description>
@@ -27,10 +27,10 @@ Die Funktion zum versenden von postalischen Briefen finden Sie unter &amp;ldquo;
       
       <item>
         <title>Archiv</title>
-        <link>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</link>
+        <link>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</guid>
+        <guid>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</guid>
         <description>Arbeiten mit der Connector 365 E-POST App Archiv Nachdem Versand der Belege können Sie den Versand-Status in der Jobliste prüfen. Der Versandstatus steht Ihnen an den Verschiedenen Stellen in Dynamics 365 Business Central zur Verfügung:
 In der Factbox in der Übersicht der Belege, die für den postalischen Versand angeboten werden.
 Die Jobliste bietet Ihnen eine detaillierte Übersicht zu allen Briefen die versendet wurden. Hier wird angezeigt welche Optionen genutzt wurden und zeigt Fehlermeldungen die eventuell aufgetreten sind.</description>

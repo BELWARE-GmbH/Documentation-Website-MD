@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modul Fax on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/fax/</link>
+    <description>Recent content in Modul Fax on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/fax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Zusatzhinweise Faxmaker</title>
+        <link>https://docs.belware.de/de-de/connectornav/fax/faxmaker/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/fax/faxmaker/</guid>
+        <description>Zusatzhinweise Faxmaker Folgende Einstellungen müssen im Konfigurationsmenü eingerichtet werden. Dabei beziehen sich die Ordnernamen auf die Ordner in der Dokumentation Einrichtung und Konfiguration.
+Faxmaker Konfiguration
+Gehen Sie auf den Menüpunkt Text-API.
+Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Sie unter com_job in der Connector NAV Einrichtung eingetragen haben.</description>
+      </item>
+      
+      <item>
+        <title>Anwendungsbeispiel</title>
+        <link>https://docs.belware.de/de-de/connectornav/fax/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/fax/example/</guid>
+        <description>Anwendungsbeispiel Das Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich. Im Folgenden wird als Beispiel ein Angebot verwendet.
+Ausschnitt Beispielangebot Connector NAV Integration
+   Aktionen      Faxen Mit dieser Aktion versenden Sie das Fax.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.   Historie Zusätzlich zur Aktion Status werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden.</description>
+      </item>
+      
+      <item>
+        <title>Der Dialog</title>
+        <link>https://docs.belware.de/de-de/connectornav/fax/dialog/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/fax/dialog/</guid>
+        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
+   Aktionen      Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.   Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.    Register Allgemein Dialog Modus Fax, Register Allgemein</description>
+      </item>
+      
+      <item>
+        <title>Jobdateien und Rückmeldungen</title>
+        <link>https://docs.belware.de/de-de/connectornav/fax/jobs/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/fax/jobs/</guid>
+        <description>Jobdateien und Rückmeldungen Dieses Kapitel ist nur relevant für die Lizenzierung einer Schnittstelle mit externer Kommunikationssoftware (OfficeMaster, Twinfax, Tobit, Faxmaker, C3000).
+Nachdem der Dialog mit OK bestätigt wurde, hinterlegt der Connector NAV im Pfad com_job und der Jobkennung aus Connector NAV Einrichtung eine Textdatei. Diese wird von der Kommunikationssoftware abgegriffen und verarbeitet. Anschließend liefert die Software eine Rückmeldungsdatei zurück. Diese befindet sich je nach Einrichtung unter com_ack oder com_err.
+Mit der Einrichtung der Funktion Rückmeldung aus Jobliste Übersicht werden diese Ordner beim Öffnen der Karte nach entsprechenden Dateien durchsucht.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

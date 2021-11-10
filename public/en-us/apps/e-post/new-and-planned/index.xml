@@ -2,37 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New and Planned on Connector 365 Online Help</title>
-    <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/</link>
+    <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/</link>
     <description>Recent content in New and Planned on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="http://docs.belware.de/en-us/apps/e-post/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://docs.belware.de/en-us/apps/e-post/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.3/</guid>
+        <description>New and planned Version 1.0.1.3  Bug fixes in the setup  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.2 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.2/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.2/</guid>
+        <description>New and planned Version 1.0.1.2  Bug fixes Integration to Easy Batch  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <description>New and plannedd Version 1.0.1.1  Corrections in the translation  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
         <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
  Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
   Sending status (joblist) in the factbox per document in the overview
-  Two boxes for the joblist in the dashboard
-  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
+  Two boxes for the joblist in the Role center
+  The Connector 365 XRechnung app now relies on our base app</description>
       </item>
       
       <item>
         <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
         <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
       </item>
       

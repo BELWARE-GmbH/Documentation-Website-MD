@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Updates on Connector 365 Online Hilfe",
+    "description": "Recent content in Updates on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/connectornav/updates/index.json",
+    "items" : [
+    {
+        "title" : "Bis 31.12.2021",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2021/",
+        "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2021/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Bis 31.12.2020",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2020/",
+        "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2020/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Bis 31.12.2019",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/",
+        "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/",
+        "content_html" : "\u003ch3 id=\"neue-updatepunkte-zwischen-01012019---31122019\"\u003eNeue Updatepunkte zwischen 01.01.2019 - 31.12.2019\u003c/h3\u003e\n\u003cp\u003eFolgende Funktionen \u0026amp; Hotfixes sind in diesem Jahr für Sie erweitert und korrigiert worden.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cConnector_NAV_Update_Vertriebliche_bersicht_Mai_2019.pdf\"\u003eNeuerungen Version 160CU Mai 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cBetriebliche_bersicht_Juli_2019.pdf\"\u003eNeuerungen Version 160CU Juli 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cBetriebliche_bersicht_August_2019.pdf\"\u003eNeuerungen Version 160CU August 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cBetriebliche_bersicht_September_2019.pdf\"\u003eNeuerungen Version 160CU September 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/files%5cnewandplanned%5c2019%5cConnector_NAV_Update_Vertriebliche_bersicht_Dezember_2019.pdf\"\u003eNeuerungen Version 160CU Dezember 2019\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eDies sind lediglich Informationen zu Erweiterungen \u0026amp; Optimierungen aus dem Jahr 2019. Unsere aktuellen Erweiterungen finden Sie auf der Seite des aktuellen Jahres.\u003c/p\u003e\n\u003cp\u003eFalls Sie Verbesserungsvorschläge haben, nutzen Sie doch unser Feedback Formular.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Bis 31.12.2018",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2018/",
+        "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2018/",
+        "content_html" : "\u003ch3 id=\"ältere-updates-bis-31122018\"\u003eÄltere Updates bis 31.12.2018\u003c/h3\u003e\n\u003cp\u003eFolgende Connector NAV Versionen sind nicht mehr im Support befindlich und abgekündigt:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eVersion \u0026lt; 00.125CU zum 31.12.2019\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.125 zum 31.12.2018\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.30 zum 31.12.2017\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.05 zum 31.12.2016\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;5.90 zum 31.12.2014\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;5.55 zum 31.12.2013\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIm folgenden Abschnitt finden Sie eine Übersicht der jeweiligen Neuerungen in einer Version:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cNeuerungenVersionVxxx160.pdf\"\u003eNeuerungen Version x.xx.160\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cNeuerungenVersionV701125.pdf\"\u003eNeuerungen Version 7.01.125 CU\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cNeuerungenVersionV60096.pdf\"\u003eNeuerungen Version 6.00.96\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cNeuerungenVersionV60055.pdf\"\u003eNeuerungen Version 6.00.55\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cNeuerungenVersionV60030.pdf\"\u003eNeuerungen Version 6.00.30\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cNeuerungenVersionV60005.pdf\"\u003eNeuerungen Version 6.00.05\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cNeuerungenVersionV590.pdf\"\u003eNeuerungen Version 5.90\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eFalls Sie Verbesserungsvorschläge haben, nutzen Sie doch unser Feedback Formular.\u003c/p\u003e\n"
+    }
+    ]
+}

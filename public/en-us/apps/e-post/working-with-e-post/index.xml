@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Working with the E-POST on Connector 365 Online Help</title>
-    <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/</link>
+    <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/</link>
     <description>Recent content in Working with the E-POST on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="http://docs.belware.de/en-us/apps/e-post/working-with-e-post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://docs.belware.de/en-us/apps/e-post/working-with-e-post/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Sending</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</link>
+        <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
+        <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
         <description>Working with E-POST Sending With our Connector 365 E-POST App* you can send pos. sales invoices, pos. credit notes, issued reminders, quotes and sales orders. However, in our application example we will focus on invoices. All other document types can be sent in the same way.
 First select the invoice you want to send.
 The function for sending letters by post can be found under &amp;ldquo;Print/Send&amp;rdquo; in the menu bar. Open it and select &amp;ldquo;Send as letter&amp;rdquo; to open the dialog for sending letters.</description>
@@ -27,10 +27,10 @@ The function for sending letters by post can be found under &amp;ldquo;Print/Sen
       
       <item>
         <title>Archive</title>
-        <link>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</link>
+        <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
+        <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
         <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred.</description>
       </item>

@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Einrichtung & Benutzung von PEPPOL & XRechnung on Connector 365 Online Hilfe",
+    "description": "Recent content in Einrichtung & Benutzung von PEPPOL & XRechnung on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/connectornav/data-exchange/index.json",
+    "items" : [
+    {
+        "title" : "PEPPOL via Connector 365BC",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/data-exchange/peppol/",
+        "url" : "https://docs.belware.de/de-de/connectornav/data-exchange/peppol/",
+        "content_html" : "\u003ch4 id=\"peppol-via-connector-365bc\"\u003ePEPPOL via Connector 365BC\u003c/h4\u003e\n\u003cp\u003eÜber PEPPOL (Pan-European Public Procurement OnLine) lassen sich aus Belegen XML-Dateien erstellen, welche der Empfänger in Dynamics NAV einlesen kann und dort automatisch verarbeitet werden.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "XRechnung via Connector 365BC",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/",
+        "url" : "https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/",
+        "content_html" : "\u003ch4 id=\"einführung-xrechnung\"\u003eEinführung XRechnung\u003c/h4\u003e\n\u003cp\u003eAb dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten \u003cstrong\u003eXRechnung\u003c/strong\u003e-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.\u003c/p\u003e\n\u003cp\u003eDas Modul \u003cstrong\u003eXRechnung\u003c/strong\u003e für Dynamics NAV / 365 Business Central ist in der Lage, solche elektronischen Rechnungen im \u003cstrong\u003eXRechnung\u003c/strong\u003e-Standard zu erzeugen.\u003c/p\u003e\n"
+    }
+    ]
+}

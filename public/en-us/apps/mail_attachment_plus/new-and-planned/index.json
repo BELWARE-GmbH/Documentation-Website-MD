@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "New and planned on Connector 365 Online Help",
+    "description": "Recent content in New and planned on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/index.json",
+    "items" : [
+    {
+        "title" : "V1.0.0.5 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/",
+        "url" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1005\"\u003eVersion 1.0.0.5\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eBug fixes\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-features-for-future-versions\"\u003ePlanned features for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.4 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/",
+        "url" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1004\"\u003eVersion 1.0.0.4\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUnlimited amount of standard attachments per document\u003c/li\u003e\n\u003cli\u003eAdaptation to the Mail Experience\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-features-for-future-versions\"\u003ePlanned features for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAttachment functionalities on further levels\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.3 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/",
+        "url" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1003\"\u003eVersion 1.0.0.3\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUnlimited number of attachments in dialog\u003c/li\u003e\n\u003cli\u003eSet unlimited amount of default attachments per report\u003c/li\u003e\n\u003cli\u003eUnlimited amount of standard attachments per customer/report\u003c/li\u003e\n\u003cli\u003eStandard attachments limited to a specific time period\u003c/li\u003e\n\u003cli\u003eCompatible with all common file types\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-features-for-future-versions\"\u003ePlanned features for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eUnlimited amount of standard attachments per document\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rapidstart on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/rapidstart/</link>
+    <description>Recent content in Rapidstart on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/rapidstart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einspielen des Pakets</title>
+        <link>https://docs.belware.de/de-de/connectornav/rapidstart/install/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/rapidstart/install/</guid>
+        <description>Einspielen des BELWARE RapidStart Pakets Bevor Sie den Rapidstart nutzen können, müssen Sie zunächst das von uns zur Verfügung gestellte Paket in Ihr System einspielen. Dies erfolgt mit Hilfe der RapidStart Services, diese finden Sie entweder direkt über die Suchfunktion oder Verwaltung -&amp;gt; Anwendung Einrichtung. Öffnen Sie dort die Seite für Konfigurationspakete.
+In der Übersicht für die RapidStart Services haben Sie nun die Möglichkeit das Paket über „Paket importieren“ in Ihr System zu übernehmen.</description>
+      </item>
+      
+      <item>
+        <title>Anpassen der Tabellen</title>
+        <link>https://docs.belware.de/de-de/connectornav/rapidstart/adjust/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/rapidstart/adjust/</guid>
+        <description>Anpassen der Tabellen Nach importieren des Pakets muss nun die Kommunikationsmatrix noch ausgefüllt werden, dazu muss diese zunächst exportiert werden. Dies erfolgt über die Schaltfläche „in Excel importieren“
+In Excel haben Sie nun eine Tabelle mit mehreren Blättern, hier relevant sind CON Feldauswahl Zieladresse, CON Kommunikationsmatrix &amp;amp; Matrix Target.
+In allen Tabellen finden Sie von uns angelegte Beispiele, die Ihnen die Einrichtung erleichtern soll. Wichtig ist, dass Sie diese vor einem importieren wieder löschen.</description>
+      </item>
+      
+      <item>
+        <title>Import und Übernahme</title>
+        <link>https://docs.belware.de/de-de/connectornav/rapidstart/import/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/rapidstart/import/</guid>
+        <description>Import der fertigen Tabelle &amp;amp; Übernahme der Daten Nachdem Sie alle nötigen Anpassungen an der Tabelle vorgenommen haben, können Sie diese nun speichern und in wieder in Business Central importieren.
+Öffnen Sie also zunächst wieder das Programm und die RapidStart Services und dessen Übersicht.
+Dort angekommen wählen Sie die Option „Aus Excel importieren“, wählen Sie die gespeicherte Excel-Datei aus und bestätigen Sie den Dialog.
+Anschließend öffnet sich ein weiter Dialog, klicken Sie hier auf import, dadurch wird der Prozess zum Importieren ausgelöst.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

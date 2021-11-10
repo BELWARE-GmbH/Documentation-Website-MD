@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbeiten mit Easy Batch on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/</link>
+    <description>Recent content in Arbeiten mit Easy Batch on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Versandszenarios</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</guid>
+        <description>Arbeiten mit Easy Batch Versandszenarios Grundsätzlich haben Sie die Möglichkeit mehrere Jobmodi gleichzeitig zu nutzen in Verwendung mit der Stapelfunktion. Sie müssen dies nur dem entsprechend in den Dokumentlayouts einrichten.
+Wird der Stapelversand ausgelöst während für einen Beleg mehrere Jobmodi eingerichtet sind, werden diese nacheinander ausgelöst.
+Beispiel 1
+Ein Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail, dies sieht in den Dokumentlayouts wie folgt aus:</description>
+      </item>
+      
+      <item>
+        <title>Stapelfunktion</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</guid>
+        <description>Arbeiten mit Easy Batch Stapelfunktion Nachdem alle Debitoren nach Ihren Wünschen eingerichtet wurde, können Sie mit dem Versand starten.
+Öffnen Sie dazu einen der gewünschten Berichte, z.B. Ihre geb. Verkaufsrechnungen.
+Wählen Sie nun die Belege aus welche Sie versenden möchten
+In der Auswahl sind Sie komplett frei - Sie haben, falls gewünscht, auch die Möglichkeit einzelne Belege als Stapel zu versenden.
+Sobald Sie die Beleg für den Versand ausgewählt haben, können Sie den Stapel starten.</description>
+      </item>
+      
+      <item>
+        <title>Archivierung</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/archive/</guid>
+        <description>Arbeiten mit Easy Batch Archivierung Nachdem eine Stapelverarbeitung durchgeführt wurde, werden die verarbeiteten Belege in den Connector 365 Aktivitäten aufgeführt. Diese Übersicht können Sie an zwei Stellen finden:
+Direkt am Beleg
+Diese finden Sie direkt in der Factbox rechts neben Ihren Belegen.
+In den globalen Aktivitäten
+Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach Connector 365 Aktivitäten.
+In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

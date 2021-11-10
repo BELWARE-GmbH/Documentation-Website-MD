@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modul Mail on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/mail/</link>
+    <description>Recent content in Modul Mail on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/mail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Zusatzhinweis OfficeMaster</title>
+        <link>https://docs.belware.de/de-de/connectornav/mail/officemaster/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/mail/officemaster/</guid>
+        <description>Zusatzhinweis OfficeMaster Verwenden Sie die Schnittstelle OfficeMaster für den E-Mail Versand, ist es zwingend notwendig alle genutzten Bodytexte im Ordner STATIONARY abzulegen.</description>
+      </item>
+      
+      <item>
+        <title>Anwendungsbeispiel</title>
+        <link>https://docs.belware.de/de-de/connectornav/mail/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/mail/example/</guid>
+        <description>Anwendungsbeispiel Das Senden von E-Mails aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
+Ausschnitt Beispielangebot Connector NAV Integration
+   Aktionen      Mailen Mit dieser Aktion versenden Sie die E-Mail.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.   Historie Zusätzlich zur Aktion Status werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden.</description>
+      </item>
+      
+      <item>
+        <title>Der Dialog</title>
+        <link>https://docs.belware.de/de-de/connectornav/mail/dialog/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/mail/dialog/</guid>
+        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
+   Aktionen      Bodytext bearbeiten Über diese Aktion kann der Bodytext aus der Schnittstellenübergabe bearbeitet werden.   Bodytext wechseln Über diese Aktion können Sie einen anderen Bodytext aussuchen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

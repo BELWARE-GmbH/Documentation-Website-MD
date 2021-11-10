@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Übersicht templates on Connector 365 Online Hilfe",
+    "description": "Recent content in Übersicht templates on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/connectornav/templates.md/index.json",
+    "items" : [
+    {
+        "title" : "Gebuchte Belege",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/templates.md/booked_receipts/",
+        "url" : "https://docs.belware.de/de-de/connectornav/templates.md/booked_receipts/",
+        "content_html" : "\u003ch3 id=\"gebuchte-belege\"\u003eGebuchte Belege\u003c/h3\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/templates/gebucht.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Ungebuchte Belege",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/templates.md/unbooked_receipts/",
+        "url" : "https://docs.belware.de/de-de/connectornav/templates.md/unbooked_receipts/",
+        "content_html" : "\u003ch3 id=\"ungebuchte-belege\"\u003eUngebuchte Belege\u003c/h3\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/templates/ungebucht.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+    }
+    ]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Segmentversand on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/segment/</link>
+    <description>Recent content in Segmentversand on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/segment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Segmentenübersicht</title>
+        <link>https://docs.belware.de/de-de/connectornav/segment/segment_view/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/segment/segment_view/</guid>
+        <description>Segmentübersicht öffnen Im Register „Verkauf &amp;amp; Marketing“ im Unterpunkt „Marketing“ finden Sie den Segmenten-Versand.
+Die Segmenten-Übersicht In der Segmenten-Übersicht haben Sie Zugriff auf all Ihre erstellten Vorlagen. Wählen Sie das gewünschte Segment aus und gehen in den „Bearbeiten- Modus.
+Anlegen eines neuen Segments Um ein neues Segment anzulegen, klicken Sie im Menüband auf „Neu“.
+Zunächst müssen Sie nun die leeren Felder mit Informationen füllen:
+         Beschreibung Kurzbeschreibung bzw.</description>
+      </item>
+      
+      <item>
+        <title>Kontakte hinzufügen</title>
+        <link>https://docs.belware.de/de-de/connectornav/segment/add_contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/segment/add_contacts/</guid>
+        <description>Kontakte hinzufügen Um das Segment versenden zu können, müssen zuerst in den „Zeilen“ die Empfänger eingetragen werden. Dies können Sie entweder manuell, direkt in der Tabelle machen oder über die Funktion „Kontakte hinzufügen…“ im Menüband automatisch setzen.
+Wenn Sie auf „Kontakte hinzufügen…“ klicken, öffnet sich ein neues Fenster in dem Sie, mit Hilfe von verschiedenen Suchkriterien, große Mengen an Kontakten gleichzeitig Ihrem Segment hinzufügen können.
+Ihr Segment sollte nun gefüllt sein:</description>
+      </item>
+      
+      <item>
+        <title>Segmenten-Versand einrichten</title>
+        <link>https://docs.belware.de/de-de/connectornav/segment/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/segment/setup/</guid>
+        <description>Connector NAV für den Segmenten-Versand einrichten Nachdem die Liste mit den Kontakten, die das Segment empfangen sollen vorbereitet wurde, geht es nun an die Einrichtung der Mail mit dem Connector NAV. Über „Benutzerbericht“ richten Sie nun folgende Parameter ein:
+Berichts-ID: Ist fix – diese ist nicht zu ändern
+Sprache: Sollten Sie mehrsprachige Kunden haben und Ihre Mails dementsprechend in verschiedenen Sprachen versenden wollen. Ist die Benutzerberichts-Einrichtung pro Sprachcode zu definieren.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

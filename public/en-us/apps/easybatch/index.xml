@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Easy Batch on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/easybatch/</link>
+    <description>Recent content in Easy Batch on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/easybatch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>First steps</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/</guid>
+        <description>First steps with the Connector 365 Easy Batch app. Here you will find all important information and notes about the trial version, installation and purchase of the Connector 365 Easy Batch App.
+Just use either the bottom or left navigation menu.
+In case a question could not be answered, we will be happy to help you personally. The necessary contact information can be found on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Neu und geplant</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/</guid>
+        <description>Neue und geplante Features der Connector 365 Easy Batch App Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 Easy Batch App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Working with Easy Batch</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/</guid>
+        <description>Working with the Connector 365 Easy Batch App Here you will find all help and learning resources for the correct usage of the Connector 365 Easy Batch App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Connector 365 CTI for Easy Batch App, each video covers a special topic
+Connector 365 Easy Batch - Quick Overview Connector 365 Easy Batch - Kurzübersicht </description>
+      </item>
+      
+    
+  </channel>
+</rss>

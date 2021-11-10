@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modul CTI on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/cti/</link>
+    <description>Recent content in Modul CTI on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/cti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Vorbereitung</title>
+        <link>https://docs.belware.de/de-de/connectornav/cti/preparation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/cti/preparation/</guid>
+        <description>Vorbereitung Vor der Inbetriebnahme des CTI Moduls sollte mit dem „Leistungsbeobachter“ Tool geprüft werden ob Ihre Telefonanlage TAPI-fähig ist. Denn dies ist die Grundvoraussetzung für den Betrieb des Moduls.
+Download des Leistungsbeobachters 32 bit
+Download des Leistungsbeobachters 64 bit
+Tool „Leistungsbeobachter“ mit laufendem Test
+Nachdem Sie den „Leistungsbeobachter“ heruntergeladen und geöffnet haben, müssen Sie in dem Tool Ihre Anlage auswählen. Dies erfolgt oben links über den Punkt „Leitung“. Anschließend können Sie über die Felder unten Links einen Testanruf starten.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://docs.belware.de/de-de/connectornav/cti/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/cti/setup/</guid>
+        <description>Einrichtung Voraussetzung ist, dass die Software ihrer TAPI-fähigen Telefonanlage installiert ist und bereits läuft.
+Zur Installation bekommen Sie einen Zip-Ordner von uns zur Verfügung gestellt, welcher alle nötigen Dateien des TapiMasters enthält. Diesen können Sie im Kundenportal unter Downloads/Sonstige Downloads abrufen. Je nachdem was für eine Telefonanlage Sie haben (Multi/Single Line) gibt es eine andere Vorgehensweise bei der Einrichtung.
+Single Line (Client) Öffnen Sie den Zip-Ordner, hier starten Sie nun die Anwendung FCTICLNT.</description>
+      </item>
+      
+      <item>
+        <title>Anruf über Kontakte</title>
+        <link>https://docs.belware.de/de-de/connectornav/cti/call_contacts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/cti/call_contacts/</guid>
+        <description>Anruf über Kontakte Sie können Kontakte ganz einfach per Klick anrufen. Um dies zu tun, rufen Sie zunächst die Kontaktseite auf und suchen Sie nach dem Kontakt, den Sie anrufen wollen.
+Ausschnitt Kontaktübersicht
+Sie haben nun die Möglichkeit direkt auf die Telefonnummer des Kontakts zu klicken und Ihre Telefonanlage wird sie automatisch verbinden. Es ist ebenfalls möglich, diese Funktion innerhalb einer Kontaktkarte aufzurufen.
+Ausschnitt Kontaktkarte, Abschnitt „Kontakt“
+Klicken Sie einfach innerhalb der Kontaktkarte unter „Kontakt“ auf das Telefon neben der Nummer, Sie werden erneut automatisch verbunden.</description>
+      </item>
+      
+      <item>
+        <title>Erkennung eingehender Telefonate</title>
+        <link>https://docs.belware.de/de-de/connectornav/cti/caller_identification/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/cti/caller_identification/</guid>
+        <description>Erkennung eingehender Telefonate Das Modul kann auch bei eingehenden Anrufen automatisch erkennen, wer Sie anruft. Dazu müssen Sie einfach den Knopf „CTI Client“ in Ihrem Rollencenter öffnen und im Hintergrund offenhalten.
+Kommt es nun zu einem eingehenden Anruf, während Sie Dynamics NAV bzw. den Client geöffnet haben, gleicht das Modul die Nummer des eingehenden Anrufs mit den Nummern in Ihrer Kontaktliste ab und öffnet die Karte des passenden Kontakts. So wissen Sie stets, wer Sie gerade anruft und können schnell auf Akten zugreifen, die den Kontakt betreffen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

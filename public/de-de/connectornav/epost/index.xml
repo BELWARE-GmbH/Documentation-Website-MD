@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modul E-Post on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/epost/</link>
+    <description>Recent content in Modul E-Post on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/epost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Anwendungsbeispiel</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/example/</guid>
+        <description>Anwendungsbeispiel Das Senden von E-Post Briefen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel eine Geb. Verkaufsrechnung verwendet.
+Ausschnitt Beispielrechnung Connector NAV Integration
+   Aktionen      E-POST Mit dieser Aktion versenden Sie die E-POST.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
+      </item>
+      
+      <item>
+        <title>Der Dialog</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/dialog/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/dialog/</guid>
+        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
+   Aktionen      Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.    Register Allgemein Dialog Modus E-POST, Register Allgemein</description>
+      </item>
+      
+      <item>
+        <title>E-POST Summary</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/summary/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/summary/</guid>
+        <description>E-Post Summary Für Unternehmen mit einem hohen Aufkommen an postalischen Sendungen, steht die Funktion &amp;ldquo;Summary&amp;rdquo; zur Verfügung. Hiermit lassen sich einzelne Belege zu einer größeren Sendung zusammenfassen. So lässt sich noch eine weitere Einsparung erzielen.
+Aufgabenwarteschlange einrichten Damit die Funktion wie gewünscht funktionieren kann, muss zunächst für die Summary Funktion eine eigene Aufgabenwarteschlange eingerichtet werden. Öffnen Sie also die Aufgabenwarteschlangenposten und erstellen Sie einen neuen Warteschlangenposten. Im Dialog, der sich öffnet, können Sie nun die Warteschlange konfigurieren.</description>
+      </item>
+      
+      <item>
+        <title>E-Post Statusabfrage</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/status/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/status/</guid>
+        <description>E-Post Statusabfrage Sobald Sie einen Versand per E-Post getätigt haben, so werden Sie feststellen, dass noch kein Status für den zugehörigen Eintrag in der Jobliste angezeigt wird.
+Um den Status für versendete E-Post-API-Briefe zu bekommen, so empfiehlt sich dafür ebenfalls eine Aufgabenwarteschlange einzurichten. Dazu ist ähnliches Vorgehen wie bei der E-Post Summary-Warteschlange notwendig. Öffnen Sie dazu die Seite Aufgabenwarteschlangenposten und legen Sie einen neuen Warteschlangenposten an.
+Als Art des auszuführenden Objektes ist CodeUnit anzugeben.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

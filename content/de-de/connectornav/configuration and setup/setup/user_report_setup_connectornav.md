@@ -8,7 +8,7 @@ weight: 3
 ---
 
 #### Die Connector NAV Benutzerbericht Einrichtung
-Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellungen pro Benutzer, Bericht und Sprache einstellen. Eine Einstellung in der Benutzerbericht Einrichtung hat **höhere Priorität** als die derDie Connector NAV Benutzer Einrichtung (z.B. E-Mail Absender).
+Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellungen pro Benutzer, Bericht und Sprache einstellen. Eine Einstellung in der Benutzerbericht Einrichtung hat **höhere Priorität** als die der Connector NAV Benutzer Einrichtung (z.B. E-Mail Absender).
 
 ##### Aktionen
 ![](/images/connectornav/benreport_einr_aktionen.png)<center>_Connector NAV Benutzerbericht Einrichtung, Aktionen_</center>

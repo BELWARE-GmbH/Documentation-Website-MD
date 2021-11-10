@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Setup on Connector 365 Online Help</title>
-    <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/</link>
+    <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/</link>
     <description>Recent content in Setup on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Allocating licenses</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</link>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/</guid>
         <description>Setup Assigning a license to a user In order for a user to use the Mail Attachments Plus App features, they must first be assigned a license. You can set this up in the user setup. Go to the search and look for &amp;ldquo;User Setup&amp;rdquo;, if the user does not already exist, add it to the setup. Then put another check mark in the &amp;ldquo;Attachment Plus&amp;rdquo; field.
 Repeat this process until your license capacity is used up.</description>
       </item>
       
       <item>
         <title>Report default attachments</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</link>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</guid>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-report/</guid>
         <description>Setup Adding default attachments per report Default attachments are a great way to save time when adding files to your emails. If you use the same attachment in every email, just add it as a default and it will be automatically attached to every email.
 Start by opening the report selection of the report you want, in this example we will use Sales and Invoices. If you are not sure where to find the report selector, you can always use the Dynamics 365 Business Central search feature.</description>
       </item>
       
       <item>
         <title>Customer default attachments</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</guid>
         <description>Setup Standard attachments per customer and report. Another way to add attachments is to add them as defaults for customers, for example, if there are conditions that only apply to a specific customer. Open the customer you want to add defaults to and expand the options in the menu via &amp;ldquo;More options&amp;rdquo;, click &amp;ldquo;Navigate&amp;rdquo; and select &amp;ldquo;Document layouts&amp;rdquo;.
 Select the report for which you want to add default attachments, we will use invoices again in this example.</description>
       </item>
       
       <item>
         <title>Document default attachments</title>
-        <link>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</guid>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/</guid>
         <description>Setup Adding standard attachments per document Using the Factbox, you have the option of adding standard attachments to each document, which are automatically attached when the document is sent. To do this, select the desired document in the overview and choose &amp;ldquo;Attachments&amp;rdquo; in the factbox on the right.
 Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which you can add attachments via &amp;ldquo;Select file&amp;rdquo; in the table.</description>
       </item>

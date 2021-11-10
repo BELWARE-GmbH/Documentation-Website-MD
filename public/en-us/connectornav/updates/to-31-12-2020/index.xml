@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>To 31.12.2020 on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/</link>
+    <description>Recent content in To 31.12.2020 on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>March</title>
+        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/march/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/march/</guid>
+        <description>Enhancements to standard features: Vendor selection and contact selection enhanced with communication matrix.
+The Vendor Selection &amp;amp; Contact Selection pages built into the templates, now both have their own button from which the communication matrix can be accessed.
+New field Use PEPPOL in communication matrix.
+The new field allows you to specify which type of document PEPPOL is used for. Non/invoice/credit memo
+More information can be found in the corresponding documentation.</description>
+      </item>
+      
+      <item>
+        <title>April</title>
+        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/april/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/april/</guid>
+        <description>Enhancements to standard features: Assist button for communication matrix entries in dialog.
+If a recipient&amp;rsquo;s address is overridden via communication matrix, the view pre-filtered via the Assist button is still pre-filtered to the original contact.
+New event for development
+Via the new event OnAfterSetReportIDPostedSalesInv it is now possible for developers to insert a different report ID.
+More information about available events can be found in a separate documentation in the future.</description>
+      </item>
+      
+      <item>
+        <title>May</title>
+        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/may/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/may/</guid>
+        <description>Enhancements to standard features: **Post &amp;amp; Process function
+In selected templates you will now find the function Post &amp;amp; Process, it allows matrix-controlled posting of documents and subsequent processing via a previously set up dispatch type.
+**Stacking function
+Using the batch run, documents can be processed at the push of a button, the respective dispatch type can be defined in advance per customer in the communication matrix.
+More information on both points can be found in the documentation for the communication matrix</description>
+      </item>
+      
+      <item>
+        <title>June</title>
+        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/june/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/june/</guid>
+        <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
+To the documentations
+Enhancements of standard features: Append attachments before/behind documents.
+With this feature, which is available in user reports &amp;amp; in the mail dialog, you can connect attachments directly to your document to be sent and send them as one file.
+For more information on exactly how to use this feature, please see the setup doc or the doc for the mail module.</description>
+      </item>
+      
+      <item>
+        <title>July</title>
+        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/july/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/july/</guid>
+        <description>Optimizations: Outlook N-recipient addresses
+When storing additional destination addresses, which were neither created as CC nor BCC, the address was previously taken as CC instead of the desired equivalent in the &amp;ldquo;To&amp;rdquo; field. This is now corrected.
+Consideration of matrix printers
+During batch processing, the additional printers from the communication matrix were not taken into account in the Print job mode. Now it is possible to use these printers as well.</description>
+      </item>
+      
+      <item>
+        <title>August</title>
+        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/august/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/august/</guid>
+        <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
+To the documentations
+Enhancements of standard features: Automatic filling of the destination address in the communication matrix.
+In the communication matrix, the destination address field is now automatically filled based on the settings in the destination addresses. In addition, there is now an Assist button that is pre-filtered to the respective contact.</description>
+      </item>
+      
+      <item>
+        <title>September</title>
+        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/september/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/september/</guid>
+        <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
+To the documentation
+New features: Module XRechnung
+We have released a new module that allows you to send XInvoices directly from Dynamics. You can find more information about the exact features of the module on our main page.
+To illustrate it, we have also prepared a video for you from our latest webcast along with a presentation.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

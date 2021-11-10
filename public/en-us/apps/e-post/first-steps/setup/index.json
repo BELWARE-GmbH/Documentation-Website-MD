@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Setup on Connector 365 Online Help",
+    "description": "Recent content in Setup on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/e-post/first-steps/setup/index.json",
+    "items" : [
+    {
+        "title" : "E-POSTBUSINESS API",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/",
+        "url" : "https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/",
+        "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einrichtung\"\u003eEinrichtung\u003c/h3\u003e\n\u003cp\u003eBy searching \u003cstrong\u003e\u0026ldquo;Connector 365 Setup\u0026rdquo;\u003c/strong\u003e you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/epostsetup.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cdiv class=\"notices info\" data-title=\"Note\"\u003e\r\n  \u003cem\u003eWhile the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification\u003c/em\u003e\r\n\u003c/div\u003e\n\u003ch1 id=\"heading\"\u003e\u003c/h1\u003e\n\u003ch4 id=\"set-a-passwort\"\u003eSet a Passwort\u003c/h4\u003e\n\u003cp\u003eTo set a password for the App, you should first make sure that the setup is completely filled in (except for the secret/password). After that you have to click on \u003cstrong\u003e\u0026ldquo;Set password\u0026rdquo;\u003c/strong\u003e in the setup. A new dialog will now open and at the same time the admin that was specified during the E-POST registration will receive an SMS with a PIN.\u003c/p\u003e\n\u003cp\u003eEnter the PIN in the corresponding field and confirm the dialog with OK. The password is now set and a secret is automatically generated.\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eFeld\u003c/th\u003e\n\u003cth\u003eBeschreibung\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eAPI EKP\u003c/td\u003e\n\u003ctd\u003eThis is your customer number that you have received from Deutsche Post\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAPI Secret\u003c/td\u003e\n\u003ctd\u003eThe secret is created automatically after you set your password\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAPI Password\u003c/td\u003e\n\u003ctd\u003eHere is your encrypted password\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eSave File in Joblist\u003c/td\u003e\n\u003ctd\u003eDetermines whether sent files are archived in the job list\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eTestmode\u003c/td\u003e\n\u003ctd\u003eIf this option is enabled, the data of the letters will not be sent to the printing center\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eTestmail\u003c/td\u003e\n\u003ctd\u003eIf the test mode is enabled, this email address will receive a notification about the shipment\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eShow restricted area\u003c/td\u003e\n\u003ctd\u003eDisplays the restricted areas required by Deutsche Post on test letters\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n"
+    },
+    {
+        "title" : "Country names",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/",
+        "url" : "https://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/",
+        "content_html" : "\u003ch3 id=\"first-steps\"\u003eFirst Steps\u003c/h3\u003e\n\u003ch3 id=\"country-names\"\u003eCountry names\u003c/h3\u003e\n\u003cp\u003eDeutsche Post uses country names according to \u003ca href=\"https://en.wikipedia.org/wiki/ISO_3166-1\" target=\"_blank\"\u003eISO 3166-1\u003c/a\u003e in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.\u003c/p\u003e\n\u003cp\u003eYou can find the setup for this in the search under \u003cstrong\u003e\u0026ldquo;Countries/Regions\u0026rdquo;\u003c/strong\u003e. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected. Please write the country names in \u003cstrong\u003ecapital letters\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eHere is an example of the correct setup for a shipment to the USA:\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/epostcountryregionen.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+    }
+    ]
+}

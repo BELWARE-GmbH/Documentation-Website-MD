@@ -1,0 +1,49 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Easy Batch on Connector 365 Online Hilfe",
+    "description": "Recent content in Easy Batch on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/easybatch/index.json",
+    "items" : [
+    {
+        "title" : "Erste Schritte",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/first-steps/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/first-steps/",
+        "content_html" : "\u003ch3 id=\"erste-schritte-mit-der-connector-365-easy-batch-app\"\u003eErste Schritte mit der Connector 365 Easy Batch App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 Easy Batch App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/easybatch/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Neu und geplant",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/new-and-planned/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"neue-und-geplante-features-der-connector-365-easy-batch-app\"\u003eNeue und geplante Features der Connector 365 Easy Batch App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 Easy Batch App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/easybatch/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Arbeiten mit Easy Batch",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Hilfe \u0026 Support",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/help-support/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/help-support/",
+        "content_html" : "\u003ch3 id=\"hilfe--support\"\u003eHilfe \u0026amp; Support\u003c/h3\u003e\n\u003cp\u003eWir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.\u003c/p\u003e\n\u003cp\u003eFür Allgemeines sind wir zu erreichen über:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eAlternativ\u003c/p\u003e\n\u003cp\u003eTel.: +49 2362 788 90 55\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003eSowohl für Partner als auch für Kunden bieten wir unsere Unterstützung zuverlässig und zeitnah an. Zur bestmöglichen Analyse und Lösung Ihres Problems, bevorzugen wir die Fehlermeldung über eine E-Mail mit entsprechender Fehlerbeschreibung und Screenshots.\u003c/p\u003e\n\u003cp\u003eUnseren Support erreichen Sie über:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"mailto:support@belware.de\"\u003esupport@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eAlternativ\u003c/p\u003e\n\u003cp\u003eTel.: +49 2362 788 90 55\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/Support/TeamviewerTeams.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eFür den Support nutzen wir TeamViewer oder Teams. Falls Sie TeamViewer noch nicht nutzen, können Sie ihn \u003ca href=\"https://get.teamviewer.com/belware\" target=\"_blank\"\u003ehier\u003c/a\u003e downloaden.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eBürozeiten:\u003c/strong\u003e\u003cbr /\u003e\nMo - Do: 08:00 - 17:00 Uhr\u003cbr /\u003e\nFr: 08:00 - 16:00 Uhr\u003c/p\u003e\n\u003ch3 id=\"portale\"\u003ePortale\u003c/h3\u003e\n\u003cp\u003eIn unseren Portalen für Kunden/Partner haben Sie Zugriff auf verschiedene Hilferessourcen wie z.B. unser FAQ (häufig gestellte Fragen) und unsere Dokumentationen, die Ihnen Hilfestellung bei Problemen geben.\u003c/p\u003e\n\u003ch3 id=\"statement-of-direction-und-support-lifecycle\"\u003eStatement of Direction und Support-Lifecycle\u003c/h3\u003e\n\u003cp\u003eDie BELWARE GmbH arbeitet kontinuierlich an der Weiterentwicklung des Connector NAV, um zu gewährleisten, dass das Produkt stets für dieselbe ERP-Lösung bzw. Version einsetzbar ist, für die auch Microsoft Dynamics NAV Support leistet. Dazu gehört, dass der Connector NAV stets mit der aktuellen Version von Microsoft Dynamics NAV kompatibel ist. Für Kunden mit einem Wartungsvertrag werden die neuen Versionen und Hotfixe kostenlos zur Verfügung gestellt und sind im Support inbegriffen. Ausgenommen sind hierbei z.B. Dienstleistungen wie das Mergen von Objekten oder individuelle Anpassungen. Durch regelmäßige Updates des Connector NAV kann es dazu kommen, dass der Support älterer Connector NAV eingestellt wird. Dies wird vorab bekannt gegeben. Sollten Sie davon betroffen sein, können Sie sich über \u003ca href=\"mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e gerne über weitere Schritte informieren.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easybatch/videos/",
+        "url" : "https://docs.belware.de/de-de/apps/easybatch/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zur unserer Easy Batch App, jedes Video behandelt ein spezielles Thema\u003c/p\u003e\n"
+    }
+    ]
+}

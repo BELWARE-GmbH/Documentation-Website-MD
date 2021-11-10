@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Mail Sender Plus on Connector 365 Online Hilfe",
+    "description": "Recent content in Mail Sender Plus on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/connectornav/msp/index.json",
+    "items" : [
+    {
+        "title" : "Prioritäten",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/msp/priorities/",
+        "url" : "https://docs.belware.de/de-de/connectornav/msp/priorities/",
+        "content_html" : "\u003ch4 id=\"prioritäten\"\u003ePrioritäten\u003c/h4\u003e\n\u003cp\u003eStandardmäßig gibt es im Connector NAV/365 BC zwei Stufen die wichtig sind:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eBenutzerberichte\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eBenutzer Einrichtung\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eBeispiel:\u003c/strong\u003e \u003cem\u003eEin ausgefülltes Absenderfeld in einem Benutzerbericht überschreibt die Einstellung pro Benutzer.\u003c/em\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Benutzer einrichten",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/msp/setup_user/",
+        "url" : "https://docs.belware.de/de-de/connectornav/msp/setup_user/",
+        "content_html" : "\u003ch4 id=\"einrichten-einer-smtp-adresse-pro-benutzer\"\u003eEinrichten einer SMTP Adresse pro Benutzer\u003c/h4\u003e\n\u003cp\u003eZunächst müssen wir auf die Benutzer Einrichtung des gewünschten Nutzers zugreifen, um sicherzustellen, dass dort überhaupt bzw. die korrekte E-Mail-Adresse angegeben ist.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ben.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eDie Benutzereinrichtung für den Benutzer Max Mustermann\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003ePrüfen Sie ob das markierte E-Mail Feld (korrekt) ausgefüllt ist. Nehmen Sie ggf. Änderungen vor und schließen Sie die Benutzer Einrichtung anschließend. Öffnen Sie nun die Mail Sender Plus Einrichtung, welche im Connector NAV Menü zu finden ist.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ben1.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eÜbersicht der E-Mail Sender Plus Funktion mit geöffneter Einrichtung\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eIn der Mail Sender Plus Einrichtung müssen Sie nun einen neuen Eintrag über den Knopf „Neu“ anlegen. Es öffnet sich ein neues Fenster in der Sie die Adresse des SMTP Kontos, welches Sie nutzen wollen, zusammen mit dem dazugehörigen Passwort angeben müssen. Damit ist die Einrichtung für diesen Benutzer abgeschlossen und Sie können das Fenster schließen.\u003c/p\u003e\n\u003cp\u003eWird nun ein E-Mail Versand vom eingerichteten Benutzer ausgelöst in einem Bericht, in dem keine abweichende Adresse per Benutzerbericht hinterlegt wurde, so wird die eben hinterlegte Adresse für den Versand genutzt.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ben2.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eDer Dialog für den Mailversand\u003c/center\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Report einrichten",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/msp/setup_report/",
+        "url" : "https://docs.belware.de/de-de/connectornav/msp/setup_report/",
+        "content_html" : "\u003ch4 id=\"einrichten-einer-smtp-adresse-pro-bericht\"\u003eEinrichten einer SMTP Adresse pro Bericht\u003c/h4\u003e\n\u003cp\u003eSie haben auch die Möglichkeit eine bestimmte Adresse pro Bericht festzulegen. Öffnen Sie zunächst wieder die Mail Sender Plus Einrichtung. Dort werden wir nun eine Adresse hinterlegen, die immer im Rechnungsversand genutzt werden soll.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ber.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eDie Mail Sender Plus Einrichtung, ein neuer Eintrag wurde angelegt\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eNun öffnen Sie die Einrichtung der Benutzerberichte und öffnen Sie den Einstellungen für den gewünschten Bericht, in unserem Fall Rechnungen. Tragen Sie dort im Feld „E-Mail Absender“ die so eben in der Einrichtung hinterlegte Adresse ein. Stellen Sie anschließend noch sicher, dass bei „Versand über“ SMTP ausgewählt ist.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ber1.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eÜbersicht der Benutzerbericht Einrichtung\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eWird nun der E-Mail Versand bei einer Rechnung ausgelöst, so wird immer die hier hinterlegte Adresse Rechnungen@belware.de für den Versand verwendet.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Der Dialog",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/msp/dialog/",
+        "url" : "https://docs.belware.de/de-de/connectornav/msp/dialog/",
+        "content_html" : "\u003ch4 id=\"der-dialog\"\u003eDer Dialog\u003c/h4\u003e\n\u003cp\u003eAuch im Dialog haben Sie die Möglichkeit die Absenderadresse nochmal anzupassen, vorausgesetzt ist aber auch hier, dass die zu verwendende Adresse zuvor in der Mail Sender Plus Einrichtung hinterlegt wurde.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/dialog.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eÜbersicht des Dialogs\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eÄndern Sie dazu einfach die Adresse im „Email Absender“ Feld auf die von Ihnen gewünschte Adresse. Anschließend können Sie wie gewohnt den Dialog bestätigen\u003c/p\u003e\n"
+    }
+    ]
+}

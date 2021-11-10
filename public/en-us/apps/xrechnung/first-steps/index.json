@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "First steps on Connector 365 Online Help",
+    "description": "Recent content in First steps on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Introduction",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/introduction/",
+        "url" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/introduction/",
+        "content_html" : "\u003ch3 id=\"first-steps\"\u003eFirst steps\u003c/h3\u003e\n\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003ch4 id=\"xrechnung---the-standard-for-electronic-invoicing-for-public-clients\"\u003eXRechnung - the standard for electronic invoicing for public clients\u003c/h4\u003e\n\u003cp\u003eAs of \u003cstrong\u003e27.11.2020\u003c/strong\u003e, suppliers of public clients must send invoices in the so-called \u003cstrong\u003e\u0026ldquo;XRechnung\u0026rdquo; format\u003c/strong\u003e. This format is an XML-based data model that is currently being established as the standard for electronic invoices.\u003c/p\u003e\n\u003cp\u003eAccording to the \u003ca href=\"https://www.it-planungsrat.de/SharedDocs/Sitzungen/DE/2017/Sitzung_23.html?pos=3\" target=\"_blank\"\u003eDecision of the IT Planning Council of 22.06.2017\u003c/a\u003e (Link only available in German), XRechnung is decisive for the implementation of the \u003ca href=\"https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX%3A32014L0055\" target=\"_blank\"\u003eDirective 2014/55/EU\u003c/a\u003e (Link only available in German) in Germany. XRechnung thus forms a reliable basis for the exchange of electronic invoices from and with German administrations.\u003c/p\u003e\n\u003cp\u003eThe XRechnung standard is operated by KoSIT on behalf of the IT Planning Council and consists of various components that support technical implementation. The standard was developed by experts from the federal, state and local governments as part of the eRechnung steering project.\u003c/p\u003e\n\u003ch3 id=\"validity-period\"\u003eValidity period\u003c/h3\u003e\n\u003cp\u003eThe following table provides an overview of the validity periods of the individual versions of the standard. Only the currently valid version is to be used.\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eXRechnung-Version\u003c/th\u003e\n\u003cth\u003eVersion from\u003c/th\u003e\n\u003cth\u003eValidity period\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e2.0.1\u003c/td\u003e\n\u003ctd\u003e16.12.2020\u003c/td\u003e\n\u003ctd\u003efrom 01.07.2021\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cstrong\u003e2.0.0\u003c/strong\u003e\u003c/td\u003e\n\u003ctd\u003e\u003cstrong\u003e30.06.2020\u003c/strong\u003e\u003c/td\u003e\n\u003ctd\u003e\u003cstrong\u003e01.01.2021 - 30.06.2021\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1.2.2\u003c/td\u003e\n\u003ctd\u003e19.12.2019\u003c/td\u003e\n\u003ctd\u003e01.07.2020 - 31.12.2020\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1.2.1\u003c/td\u003e\n\u003ctd\u003e28.06.2019\u003c/td\u003e\n\u003ctd\u003e01.01.2019 - 30.06.2020\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1.2.0\u003c/td\u003e\n\u003ctd\u003e18.12.2018\u003c/td\u003e\n\u003ctd\u003e01.07.2019 - 31.12.2019\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1.1\u003c/td\u003e\n\u003ctd\u003e30.11.2017\u003c/td\u003e\n\u003ctd\u003e01.12.2017 - 30.06.2019\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1.0\u003c/td\u003e\n\u003ctd\u003e10.05.2017\u003c/td\u003e\n\u003ctd\u003e01.06.2017 - 30.11.2017\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003ch3 id=\"processable-document-types-for-xrechnung-in-business-central\"\u003eProcessable document types for XRechnung in Business Central\u003c/h3\u003e\n\u003cp\u003eCurrently, the \u003cstrong\u003eConnector 365 XRechung\u003c/strong\u003e-App is able to process the following document formats as XRechnung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eSales invoices\u003c/li\u003e\n\u003cli\u003eSales credit memos\u003c/li\u003e\n\u003cli\u003eService invoices \u003csup id=\"fnref:1\"\u003e\u003ca href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\"\u003e1\u003c/a\u003e\u003c/sup\u003e\u003c/li\u003e\n\u003cli\u003eService credit memos \u003csup id=\"fnref:1\"\u003e\u003ca href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\"\u003e1\u003c/a\u003e\u003c/sup\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cdiv class=\"footnotes\" role=\"doc-endnotes\"\u003e\n\u003chr /\u003e\n\u003col\u003e\n\u003cli id=\"fn:1\" role=\"doc-endnote\"\u003e\n\u003cp\u003e\u003cstrong\u003eNote:\u003c/strong\u003e To create XRechnung files for service reports, a premium license is required. \u003cbr /\u003e\nYou can order it \u003ca href=\"https://forms.office.com/r/6sXf5yVgai\" target=\"_blank\"\u003ehere\u003c/a\u003e. The function is included OnPrem. \u003ca href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\"\u003e\u0026#x21a9;\u0026#xfe0e;\u003c/a\u003e\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003c/div\u003e\n"
+    },
+    {
+        "title" : "Test \u0026 Purchase",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/",
+        "url" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testing-and-purchasing-of-the-connector-365-xrechnung-app\"\u003eTesting and purchasing of the Connector 365 XRechnung App\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources about testing and purchasing the Connector 365 XRechnung App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/xrechnung/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/",
+        "url" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-of-the-connector-365-xrechnung-app\"\u003eInstallation of the Connector 365 XRechnung App\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources about installing the Connector 365 XRechnung App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/xrechnung/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Setup",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/",
+        "url" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/",
+        "content_html" : ""
+    }
+    ]
+}

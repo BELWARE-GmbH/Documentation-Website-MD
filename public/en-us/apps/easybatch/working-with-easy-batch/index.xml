@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with Easy Batch on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/</link>
+    <description>Recent content in Working with Easy Batch on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Sending Scenarios</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/</guid>
+        <description>Working with Easy Batch Sending Scenarios Basically you have the possibility to use several job modes at the same time in use with the batch function. You only have to set this up accordingly in the document layouts.
+If the batch dispatch is triggered while several job modes are set up for a document, they will be triggered one after the other.
+Example 1
+One scenario where this functionality may be desired would be in the transition phase from postal delivery to purely digital delivery via email, this looks like the following in the document layouts:</description>
+      </item>
+      
+      <item>
+        <title>Batch Function</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/batchfunction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/batchfunction/</guid>
+        <description>Working with Easy Batch Batch Function After all the customers have been set up according to your wishes, you can start sending.
+To do this, open one of the desired reports, e.g. your pos. sales invoices.
+Now select the documents that you want to send
+You are completely free in the selection - if desired, you also have the option to send individual documents as a batch.
+As soon as you have selected the vouchers for sending, you can start the batch.</description>
+      </item>
+      
+      <item>
+        <title>Archive</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/archive/</guid>
+        <description>Working with Easy Batch Archive After a batch processing has been performed, the processed documents are listed in the Connector 365 activities. You can find this overview in two places:
+Directly on the document.
+You can find it directly in the factbox to the right of your documents.
+In the global activities.
+The best way to access these is via search - open the search function and search for Connector 365 Activities.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

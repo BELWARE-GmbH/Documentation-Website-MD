@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PEPPOL via Connector 365BC on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/</link>
+    <description>Recent content in PEPPOL via Connector 365BC on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/data-exchange/peppol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einstellen von PEPPOL</title>
+        <link>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/settings/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/settings/</guid>
+        <description>Einstellen von PEPPOL in der Kommunikationsmatrix Gehen Sie zunächst in die Kommunikationsmatrix und füllen diese wie gewohnt für den korrekten Bericht und dem Kunden der einen Beleg im PEPPOL-Format erhalten soll.
+Wählen Sie anschließend in der Spalte „PEPPOL Verwendung“ den Bericht aus in dem PEPPOL verwendet werden soll, aktuell werden nur Verkaufsrechnungen und Verkaufsgutschriften von uns unterstützt. Wenn Sie für einen Kunden PEPPOL wieder abstellen möchten, wählen Sie hier einfach „Nein“ aus.</description>
+      </item>
+      
+      <item>
+        <title>Versenden via E-Mail</title>
+        <link>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/send_email/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/send_email/</guid>
+        <description>Versenden einer PEPPOL-XML via E-Mail Nachdem Sie die gewünschten Einstellungen vorgenommen haben, können Sie Ihre PEPPOL-Dateien versenden. In unserem Beispiel verwenden wir Geb. Verkaufsrechnungen. Dort wählen Sie zunächst eine Rechnung für einen Kunden aus für den PEPPOL aktiviert ist.
+Übersicht Dialog Mail
+Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die Möglichkeit zu überprüfen ob die PEPPOL-Datei erfolgreich erzeugt wurde. Klicken Sie hierzu auf die Fläche „Dateien Anzeigen“ im Menüband.</description>
+      </item>
+      
+      <item>
+        <title>Erstellen einer PEPPOL-XML</title>
+        <link>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/create_xml/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/create_xml/</guid>
+        <description>Erstellen einer reinen PEPPOL-XML über den Jobmodus PDF Zunächst müssen Sie in die pdfPaper Einrichtung um dort den Ablagepfad für die erstellen PEPPOL-XMLs ausfüllen. Diesen finden sie unter „Peppol Ablageordner“. Wichtig ist hier, dass es eine Berechtigung gibt Dateien in dem Pfad abzulegen. Deshalb empfehlen wir einen zusätzlichen Ordner in der T611-Struktur des Connector NAVs anzulegen, zum Beispiel „com_peppol“.
+Nachdem Sie den Pfad angelegt haben, gehen wir wieder wie schon im letzten Beispiel in die Geb.</description>
+      </item>
+      
+      <item>
+        <title>PEPPOL im Standard</title>
+        <link>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/standard/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/standard/</guid>
+        <description>Peppol im Standard Auch im Standard von Microsoft Dynamics NAV/365 BC lassen sich PEPPOL Belege erzeugen. Jedoch erst ab Version 2016 aufwärts. Die Versionsmöglichkeiten sehen wie folgt aus:
+         Ab Dynamics NAV 2016 PEPPOL 2.0   Ab Dynamics NAV 2016 PEPPOL 2.1   Ab Business Central 14 PEPPOL 3.0    Für mehr Informationen, wie Sie PEPPOL im Standard nutzen können, greifen Sie bitte auf offizielle Dokumentationen von Microsoft zurück wie z.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Connector 365 Apps on Connector 365 Online Help",
+    "description": "Recent content in Connector 365 Apps on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/index.json",
+    "items" : [
+    {
+        "title" : "CTI for STARFACE",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/cti-for-starface/",
+        "url" : "https://docs.belware.de/en-us/apps/cti-for-starface/",
+        "content_html" : "\u003ch3 id=\"connector-365-cti-for-starface-online-help\"\u003eConnector 365 CTI for STARFACE Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/cti-for-starface/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "E-POST",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/e-post/",
+        "url" : "https://docs.belware.de/en-us/apps/e-post/",
+        "content_html" : "\u003ch3 id=\"connector-365-e-post-online-help\"\u003eConnector 365 E-POST Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Connector 365 E-POST App*.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/e-post/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e*\u003cstrong\u003eThe Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post\u003c/strong\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Easy Batch",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/easybatch/",
+        "url" : "https://docs.belware.de/en-us/apps/easybatch/",
+        "content_html" : "\u003ch3 id=\"connector-365-easy-batch-online-help\"\u003eConnector 365 Easy Batch Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Easy Batch App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/easybatch/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Mail Attachments Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/",
+        "url" : "https://docs.belware.de/en-us/apps/mail_attachment_plus/",
+        "content_html" : "\u003ch3 id=\"connector-365-mail-attachments-plus-online-help\"\u003eConnector 365 Mail Attachments Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Attachment Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/mail_attachment_plus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Mail Sender Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail-sender-plus/",
+        "url" : "https://docs.belware.de/en-us/apps/mail-sender-plus/",
+        "content_html" : "\u003ch3 id=\"connector-365-mail-sender-plus-online-help\"\u003eConnector 365 Mail Sender Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/mail-sender-plus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "XRechnung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/xrechnung/",
+        "url" : "https://docs.belware.de/en-us/apps/xrechnung/",
+        "content_html" : "\u003ch3 id=\"connector-365-xrechnung-online-help\"\u003eConnector 365 XRechnung Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Microsoft AppSource XRechnung App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/connector-on-appsource/xrechnung/support/\"\u003eSupport Page\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

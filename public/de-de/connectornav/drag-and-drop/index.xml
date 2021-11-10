@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funktion Drag and Drop on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/drag-and-drop/</link>
+    <description>Recent content in Funktion Drag and Drop on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/drag-and-drop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://docs.belware.de/de-de/connectornav/drag-and-drop/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/drag-and-drop/setup/</guid>
+        <description>Einrichtung Um das Modul zu installieren muss zunächst die RTC-Instanz gestoppt werden, dieser Schritt ist auf sämtlichen RTC-Servern auszuführen. Platzieren Sie anschließend die .dll-Dateien „NetUiControll.dll“ und „OutlookHandlerLib.dll“ in den folgenden Ordner:
+Ordner zum ablegen
+Starten Sie nun die RTC-Instanz neu.
+Das Add-In wurde nun durch den RTC registriert. Rufen Sie nun die Steuerelement-Add-Ins-Seite auf.
+(Verwaltung/IT-Verwaltung/Allgemein/Steuerelement-Add-Ins)
+Steuerelement-Add-Ins durch Suchfunktion erreichen
+Auf der Seite öffnen Sie nun eine neue Zeile geben Sie die folgenden Parameter exakt ein:</description>
+      </item>
+      
+      <item>
+        <title>Anwenderbeispiel</title>
+        <link>https://docs.belware.de/de-de/connectornav/drag-and-drop/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/drag-and-drop/example/</guid>
+        <description>Anwenderbeispiel Mit Drag&amp;amp;Drop lassen sich beliebigen Belegen beliebig viele Dateien hinzufügen. So können Sie Dokumente welche Sie lokal auf Ihrem PC haben und zuvor nicht mit einem Beleg in NAV verknüpfen konnten, nun problemlos mit Drag&amp;amp;Drop einem Beleg anhängen und haben in NAV alles auf einem Blick.
+Übersicht Verkaufsangebote mit Drag &amp;amp; Drop Infobox
+Auf den Seiten auf welchen die Funktion Drag&amp;amp;Drop integriert ist sehen Sie nun die Infobox Drag and Drop.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

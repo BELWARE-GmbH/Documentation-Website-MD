@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>STARFACE Module</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <description>Setup Setting up the STARFACE module In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download on this page.
+Download here
+After you have added the module via the admin portal, it still has to be configured. You can access the configuration via the pencil icon.</description>
+      </item>
+      
+      <item>
+        <title>User &amp; Groups</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
+        <description>Setup Groups Groups offer you the possibility to sort your users no matter if it is a subdivision per department or per team, it can be mapped with groups. Users assigned to a group will only see other users from the same group in their CTI client. The use of groups is optional.
+Open with the search function the &amp;ldquo;CTI Groups&amp;rdquo;, here you find a table with two columns.
+If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate the editing.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -2,24 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Working with XRechnung on Connector 365 Online Help</title>
-    <link>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/</link>
+    <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/</link>
     <description>Recent content in Working with XRechnung on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
-        <title>Sending</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/sending/</link>
+        <title>Document types for XRechnung</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/sending/</guid>
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
+        <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
+ Sales invoices Sales credit memos Service invoices 1 Service credit memos 1   Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem. &amp;#x21a9;&amp;#xfe0e;
+   </description>
+      </item>
+      
+      <item>
+        <title>Sending</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/sending/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/sending/</guid>
         <description>Working with XRechnung Sending If the setup has been completed, then you can easily send invoices by email. Simply open your posted sales invoices and select the invoice you want to send.
 „Print/Send“ -&amp;gt; „Send as XRechnung“
 A new dialog opens where you can make adjustments before sending.
@@ -29,10 +40,10 @@ The content of the mail can be customized and the current attachments are visibl
       
       <item>
         <title>Negative XRechnung</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
         <description>Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
 There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
 There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the setup</description>
@@ -40,14 +51,27 @@ There are many places that cause an XRechnung to not conform to the schema. For 
       
       <item>
         <title>State</title>
-        <link>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/state/</link>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/state/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>http://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/state/</guid>
-        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the dashboard.
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/state/</guid>
+        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the Role center.
 Sent XRechnung&amp;quot; &amp;amp; &amp;ldquo;Incorrect XRechnung&amp;rdquo;.
 Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; - &amp;ldquo;What&amp;rdquo; - &amp;ldquo;When &amp;ldquo; all successfully sent XRechnung are archived. The original XML file as well as the validation report are included in the log.
-Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung. This can have different reasons - you can find out exactly which ones by opening the validation report.</description>
+Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung.</description>
+      </item>
+      
+      <item>
+        <title>Events</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</guid>
+        <description>Working with XRechnung Events We offer you the possibility to link into our programming logic with events, here we describe how this works.
+To subscribe an event for sales invoices or service invoices, the XML port BEL365 S. Inv. XRechnung 2.0 must be specified in an EventSubscriber.
+Beispiel:
+For sales credit notes or service credit notes, the following XML port must be entered: BEL365 S. Cr. M. XRechnung 2.0.
+Example:</description>
       </item>
       
     
