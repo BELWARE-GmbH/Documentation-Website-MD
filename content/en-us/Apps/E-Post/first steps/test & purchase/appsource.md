@@ -27,7 +27,7 @@ The following options are available to you as a registered E-POST customer:
 
 For both options you need your EKP number. If you do not have it at hand, please contact us.
 
-To test the app, you are allowed to send 5 letters through the Connector 365 E-POST App without purchasing it.
+Atfer installing the app it can be used freely for 30 days.
 The postage costs incurred during testing will be billed directly to you via Deutsche Post.
 
 If the trial period is too short for you, please contact us at **support@belware.de**. We will be happy to arrange an individual test period with you. 

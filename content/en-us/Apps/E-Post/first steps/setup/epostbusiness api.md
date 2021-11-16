@@ -32,5 +32,14 @@ Enter the PIN in the corresponding field and confirm the dialog with OK. The pas
 | Testmail                     | If the test mode is enabled, this email address will receive a notification about the shipment     |
 | Show restricted area         | Displays the restricted areas required by Deutsche Post on test letters                            |
 
+### Setting up defaults
+In addition to setting up the API, you can also set the defaults for sending letters here. The following options are available for this purpose:
 
+| Field             | Description                                                                                                                    |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Color             | Here you choose whether the letter is printed in color or b/w                                                                  |
+| With Coverletter  | Sending letters with a cover sheet ensures that the letter does not exceed the areas required for printing by Deutsche Post.   |
+| Duplex            | Allows letters to be sent as a duplex                                                                                          |
+| Registered Letter | Here you can set up the different ways of registered letters                                                                   |
 
+In addition to these settings for sending, you can use X to specify whether an additional dialog should be opened before sending in which the default settings for sending can be individually adjusted. If the check mark is not set, all letters are sent with the settings stored here.

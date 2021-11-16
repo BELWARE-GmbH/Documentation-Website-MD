@@ -27,7 +27,7 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
 
 Für beide Optionen benötigen Sie Ihre EKP-Nummer. Haben Sie diese nicht zur Hand sprechen Sie uns an.
 
-Zum testen der App ist es Ihnen erlaubt 5 Briefe über die Connector 365 E-POST App zu versenden ohne diese käuflich zu erwerben.
+Nach Installation der App steht Ihnen die App vollständig für 30 Tage zum testen zur Verfügung.
 Die anfallenden Portokosten während der Tests werden direkt über die Deutsche Post mit Ihnen abgerechnet.
 
 Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter **support@belware.de** in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum. 

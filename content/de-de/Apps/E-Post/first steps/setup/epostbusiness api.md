@@ -9,7 +9,7 @@ weight: 1
 ### Erste Schritte
 
 ### E-POSTBUSINESS API
-Über die Suche unter **"Connector 365 Setup"** können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+Über die Suche unter **"Connector 365 Eirichtung"** können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 
 ![](images/apps/eposteinrichtungde.PNG)
 
@@ -32,6 +32,17 @@ Geben Sie den PIN in das entsprechende Feld ein und bestätigen Sie den Dialog m
 | Testmail                     | Ist der Testmodus aktiviert, erhält diese E-Mail-Adresse eine Benachrichtigung über den Versand.   |
 | E-POST Sperrbereich anzeigen | Zeigt den von der Deutschen Post geforderten Sperrbereich auf Testbriefen an                       |
 
+### Standardeinstellungen einrichten
+Neben der Einrichtung der API, können hier auch die Standards für den Versand von Briefen eingestellt werden. Dafür stehen Ihnen folgende Optionen zur Verfügung:
+
+| Feld         | Beschreibung                                                                                                                                   |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Farbauswahl  | Hier wählen Sie aus, ob der Brief farbig oder s/w gedruckt wird                                                                                |
+| Deckblatt    | Briefe mit Deckblatt versenden stellt sicher, dass der Brief nicht die Bereiche überschreitet, welche die Deutsche Post für den Druck benötigt |
+| Duplex       | Ermöglicht, dass Briefe als Duplex versendet werden                                                                                            |
+| Einschreiben | Hier können Sie die verschiedenen Möglichkeiten für Einschreibens einrichten                                                                   |
+
+Neben diesen Einstellungen für den Versand, können Sie mit X noch einstellen, ob vor dem Versand ein zusätzlicher Dialog geöffnet wird in dem nochmals die gesetzten Standardeinstellungen für den Versand individuell angepasst werden können. Ist der Haken nicht gesetzt, werden alle Briefe mit den hier hinterlegten Einstellungen versendet.
 
 
 ***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
