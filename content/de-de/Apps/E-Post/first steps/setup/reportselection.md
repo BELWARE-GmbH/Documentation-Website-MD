@@ -11,8 +11,8 @@ weight: 2
 ### Berichtsauswahl
 Vor dem ersten Versand, muss in der Berichtsauswahl die Berichte für den E-POST Versand festgelegt werden. Aktuell gibt es diese Möglichkeit in **"Berichtsauswahl Verkauf"** und **"Berichtsauswahl Mahnung"**
 
-[SCREENSHOT]
+![](images/apps/epostreportselectionde.PNG)
 
-Nur Berichte bei denen der Haken in der Option "Für E-POST nutzen" gesetzt ist, werden berücksichtigt.
+Nur Berichte bei denen der Haken in der Option **"Für E-POST nutzen"** gesetzt ist, werden berücksichtigt.
 
 

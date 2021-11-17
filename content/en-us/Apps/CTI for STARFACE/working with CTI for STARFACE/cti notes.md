@@ -19,6 +19,8 @@ First select the corresponding entry in the **"CTI entries"**, now look in the r
 
 After you have written your note, it will be displayed in the notes. To view the note again, you can either click on the same button to create notes, to view created notes again or alternatively click on the 3 dots next to the note, there you will also find the option to view.
 
+If the note is displayed, it is also possible to edit the note here again.
+
 ![](images/apps/ctinotefillen.PNG)
 
 A longer hover over the preview of the message in the factbox will also show you the written note.

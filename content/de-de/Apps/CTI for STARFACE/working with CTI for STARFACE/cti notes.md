@@ -19,6 +19,8 @@ Wählen Sie zunächst den entsprechenden Eintrag in den **"CTI-Einträgen"** aus
 
 Nachdem Sie Ihre Notiz verfasst haben wird diese in den Notizen angezeigt. Um die verfasste Notiz erneut einzusehen können Sie entweder über die gleiche Schaltfläche zum erstellen von Notizen, sich erstellte Notizen erneut anzeigen lassen oder alternativ auf die 3 Punkte neben der Notiz klicken, dort finden Sie ebenfalls die Option zur Ansicht.
 
+Wird die Notiz angezeigt, so ist es hier auch nochmal möglich die Notiz zu bearbeiten.
+
 ![](images/apps/ctinotefillde.PNG)
 
 Ein längeres hovern über die Vorschau der Nachricht in der Factbox zeigt Ihnen die geschriebene Notiz auch an.
