@@ -146,7 +146,7 @@ Die Connector NAV Rückmeldung Übersicht zeigt tabellarisch die jeweils zu den 
 | STATUS                 | + erfolgreicher Vorgang / - Fehler bei Vorgang.                                                     |
 | ERROR                  | Statusmeldung als Text.                                                                             |
 | SUBADDR                | Bei eingehenden Faxen wir die Durchwahl angezeigt.                                                  |
-| Gelesen                | Nein: Rückmeldung wurde nicht als „Gelesen“ markiert. Ja: Rückmeldung wurde als „Gelesen“ markiert. |
+| Gelesen                | Aktuell hat dieses Feld keine Funktion und ist ein Überbleibsel einer alten Anforderung. |
 | Filelist               | Pfad und Dokumentenname. (Dokument)                                                                 |
 | Filelist 2             | Pfad und Dokumentenname. (Bodytext)                                                                 |
 | Filelist 3             | Pfad und Dokumentenname. (Anhang)                                                                   |

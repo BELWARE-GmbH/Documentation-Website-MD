@@ -146,7 +146,7 @@ The Connector NAV feedback overview displays the feedback received for each of t
 | STATUS                 | + successful operation / - error during operation.                         |
 | ERROR                  | Status message as text.                                                    |
 | SUBADDR                | The extension number is displayed for incoming faxes.                      |
-| Read                   | No: Feedback was not marked as "Read". Yes: Feedback was marked as "Read". |
+| Read                   | Currently this field has no function and is a remnant of an old requirement. |
 | Filelist               | Path and document name. (Document)                                         |
 | Filelist 2             | Path and document name. (Bodytext)                                         |
 | Filelist 3             | Path and document name. (Attachment)                                       |
