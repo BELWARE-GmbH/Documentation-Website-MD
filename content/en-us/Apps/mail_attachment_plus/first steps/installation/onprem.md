@@ -76,7 +76,7 @@ The Connector 365 Mail Attachment Plus app follows:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Mail Attachment Plus" -Tenant Tenant1, Tenant2```
 
-You can now start with the [setup](/en-us/apps/mail_attachment_plus/first-steps/setup/) starten.
+You can now start with the [setup](/en-us/apps/mail_attachment_plus/first-steps/setup/).
 
 
 

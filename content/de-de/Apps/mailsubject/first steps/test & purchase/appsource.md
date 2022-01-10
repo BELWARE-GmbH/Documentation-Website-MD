@@ -12,7 +12,7 @@ weight: 2
 
 Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 
-![](images/apps/easystore.PNG)
+![](images/apps/HIERNOCHFÜLLEN.PNG)
 
 Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 
@@ -22,15 +22,15 @@ Ihre Kosten:
 
 | Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* |
 |-----------------------------------------------------------------------------------------|
-| 5,90€                                                                                   |
+| 0,90€                                                                                   |
 
 | Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit*|
 |-----------------------------------------------------------------------------------------|
-| 7,70€                                                                                   |
+| 1,20€                                                                                   |
 
 *Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
-5,90€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
-7,70€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
+0,45€ / User / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
+0,60€ / User / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
 
 *Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 
@@ -38,7 +38,7 @@ Ihre Kosten:
 Zum Formular
 </p>
 
-[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOVIzN0JGRTRTUjRGRzZQMFZJOUVGVEtaVS4u)
+[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOVIzN0JGRTRTUjRGRzZQMFZJOUVGVEtaVS4u)
 
 ![](images/apps/senderforms_removed.PNG)
  

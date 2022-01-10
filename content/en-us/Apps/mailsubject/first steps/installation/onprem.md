@@ -24,24 +24,24 @@ Now start the **Business Central Administration Shell** to start the publishing 
 
 Now that you are in the appropriate folder, you can use the following command to first publish the base app
 
-{{< notice info "Note" >}}
+{{< notice info "Hinweis" >}}
  _The order of publishing is important, please always publish the Connector 365 Base App first._
 {{< /notice >}}
 #
 
 **Example:**
 
-```Publish-NAVApp -ServerInstance YourBusinessCentralInstance -Path ".\BasisApp.app"```
+```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
 
 Afterwards you should also perform the process for the actual Connector 365 Mail Subject Plus app
 
 **Example:**
 
-```Publish-NAVApp -ServerInstance YourBusinessCentralInstance -Path ".\mailsubject.app"```
+```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\MailSubjectPlus.app"```
 
 Both apps should now be published in your system.
 
-{{< notice info "Note" >}}
+{{< notice info "Hinweis" >}}
  _In versions up to BC 16 you still have to add the -SkipVerification parameter to the command, otherwise an error message will occur._
 {{< /notice >}}
 #
@@ -49,12 +49,12 @@ Both apps should now be published in your system.
 #### Installing the Connector 365 Base & Mail Subject Plus App
 In the extension management of your environment, you will now see the apps as published, but they are not yet installed.
 
+![](images/apps/appinstallen.PNG)
+
 ##### Installing via the client
 Open your Business Central environment, open the search function and look for **Extension Management**.
 
 There you should find the two apps with the status not installed. By clicking on the 3 dots of the respective app, you can now install it in your environment via the item **Install**.
-
-![](images/apps/appinstallen.PNG)
 
 ##### Installing via the administration shell
 In case you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you have to use the **Install-NAVApp** command. When doing so, you should specify the **Tenant ID**. In the following examples, we install the apps in two tenants.
@@ -64,18 +64,19 @@ In case you want to install via the Administration Shell (this has the advantage
 {{< /notice >}}
 #
 
-To install the Connector 365 Base app, use the following command::
+To install the Connector 365 Base app, use the following command:
 
 **Example:**
 
-```Install-NAVApp -ServerInstance YourBusinessCentralInstance -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
 The Connector 365 Mail Subject Plus app follows:
 
 **Example:**
 
-```Install-NAVApp -ServerInstance YourBusinessCentralInstance -Name "Connector 365 Mail Subject Plus" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Mail Subject Plus" -Tenant Tenant1, Tenant2```
 
-You can now start with the [setup](/en-us/apps/mailsubject/first-steps/setup/) starten.
+You can now start with the [setup](/en-us/apps/mail_subject_plus/first-steps/setup/).
+
 
 

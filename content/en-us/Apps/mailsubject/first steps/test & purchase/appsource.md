@@ -6,13 +6,13 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Test & Purchase
+### Test & purchase
 
 ### AppSource
 
 The app is available in the Microsoft AppSource.
 
-![](images/apps/easystore.PNG)
+![](images/apps/HEREFILL.PNG)
 
 After downloading, the app can be tested free of charge for 30 days.
 
@@ -20,25 +20,25 @@ In case you want more users to use the app's features, you can purchase addition
 
 Your costs:
 
-| Monthly subscription incl. maintenance per environment with annual payment and term*       |
-|----------------------------------------------------------------------------------------|
-| 5,90€                                                                                  |
+| Monthly subscription incl. maintenance per environment with annual payment and term*    |
+|-----------------------------------------------------------------------------------------|
+| 0,90€ |
 
-| Monthly subscription incl. maintenance per environment with monthly payment and term*      |
-|----------------------------------------------------------------------------------------|
-| 7,70€                                                                                  |
+| Monthly Subscription incl. maintenance per environment with monthly payment and term*   |
+|-----------------------------------------------------------------------------------------|
+| 1,20€ |
 
 *The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
-4,95€ / month / environment with annual payment and term.
-6,50€ / month / environment with monthly payment and term.
+0,45€ / user / month / environment with annual payment and term.
+0,60€ / user / month / environment with monthly payment and term.
 
-*Electively billed monthly, quarterly or annually.
+*either billed monthly, quarterly or annually.
 
 <p style="text-align: center;">
 To the form
 </p>
 
-[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOVIzN0JGRTRTUjRGRzZQMFZJOUVGVEtaVS4u)
+[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOVIzN0JGRTRTUjRGRzZQMFZJOUVGVEtaVS4u)
 
 ![](images/apps/senderforms_removed.PNG)
  

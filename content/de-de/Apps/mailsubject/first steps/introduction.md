@@ -10,4 +10,8 @@ weight: 1
 
 ### Einleitung
 
-Mit der Connector 365 Mail Subject Plus App können Sie den Betreff Ihrer Mails intelligent steuern. Definieren Sie pro Bericht oder Debitor eigene Betreffs. Dabei können Sie auf selbst definierte Platzhalter zurückgreifen.
+Wenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.
+
+Mit der Connector 365 Mail Subject Plus App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor. Dabei können Sie den neuen voreingestellten Betreff frei definieren. Es ist auch möglich, eigene Platzhalter für den jeweiligen Bericht zu definieren, so dass Sie einen dynamischen Text für Ihre Betreffzeile erstellen können. Geben Sie einfach den gewünschten Platzhalter ein und verknüpfen Sie ihn mit einem Feld aus dem Bericht.
+
+Die Einrichtung der Betreffzeile ist über das Dokumentenlayout für Kunden/Lieferanten oder über die Berichtsauswahl schnell und einfach zu erreichen.

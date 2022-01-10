@@ -30,7 +30,7 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Subject Plus** unter **Installierte Erweiterungen** finden.
 
-![](images/apps/easyinstalledextension.PNG)
+![](images/apps/subjectinstalledextensionde.PNG)
 
 Sie können nun mit der [Einrichtung](/de-de/apps/mailsubject/first-steps/setup/) starten.
 

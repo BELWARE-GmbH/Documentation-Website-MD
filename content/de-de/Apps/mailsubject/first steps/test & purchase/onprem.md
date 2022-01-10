@@ -15,7 +15,7 @@ Sie haben die Möglichkeit unsere Connector 365 Mail Subject Plus App unverbindl
 Zum Formular
 </p>
 
-[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
+[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
 Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.
 
@@ -25,7 +25,7 @@ Ihre Kosten:
 
 | Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
 |-------------------------------|---------------------------------------|
-|790,-€                         |35,-€                                  |
+|590,-€                         |25,-€                                  |
 
 Danach können Sie mit der [Installation](/de-de/apps/mailsubject/first-steps/installation/) der Connector 365 Mail Subject Plus App starten
 
