@@ -38,7 +38,7 @@ Ihre Kosten:
 Zum Formular
 </p>
 
-[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOVIzN0JGRTRTUjRGRzZQMFZJOUVGVEtaVS4u)
+[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/r/CLMXAzVwhi)
 
 ![](images/apps/senderforms_removed.PNG)
  

@@ -14,7 +14,9 @@ Eine weitere Möglichkeit, Anhänge hinzuzufügen, besteht darin, sie als Standa
 
 ![](images/apps/attachmentnavigation.png)
 
-Wählen Sie den Bericht aus, für den Sie Standardanhänge hinzufügen möchten, wir werden in diesem Beispiel wieder Rechnungen verwenden. Wie zuvor werden Sie das neue Feld "Anhänge" bemerken. Sie den Dialog für Anhänge öffnen, indem Sie auf die Null klicken.
+Wenn Sie in der Berichtsauswahl bereits Voreinstellungen vorgenommen haben, ist es möglich, diese beim Einrichten von Anhängen pro Kunde automatisch mit anzuhängen - klicken Sie einfach auf die Schaltfläche **"Aus Berichtsauswahl kopieren"**. 
+
+Wenn Sie Ihre eigenen Anhänge einrichten möchten, wählen Sie den Bericht aus, für den Sie Standardanhänge hinzufügen möchten; in diesem Beispiel verwenden wir wieder Rechnungen. Wie zuvor werden Sie das neue Feld Anhänge bemerken. Sie öffnen das Dialogfeld für Anhänge, indem Sie auf die Null klicken.
 
 ![](images/apps/attachmentdocumentlayouts.png)
 

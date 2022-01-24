@@ -14,7 +14,9 @@ Another way to add attachments is to add them as defaults for customers, for exa
 
 ![](images/apps/attachmentnavigation.png)
 
-Select the report for which you want to add default attachments, we will use invoices again in this example. As before, you will notice the new Attachments field. You open the attachments dialog by clicking on the zero.
+If you have a previously have set up defaults in the report selection, it is possible to automatically also attach these when setting up attachments per customer - simply click the **"Copy from Report Selection"** button. 
+
+If you want to set up your own attachments select the report for which you want to add default attachments, we will use invoices again in this example. As before, you will notice the new Attachments field. You open the attachments dialog by clicking on the zero.
 
 ![](images/apps/attachmentdocumentlayouts.png)
 

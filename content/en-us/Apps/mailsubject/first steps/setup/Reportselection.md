@@ -10,7 +10,7 @@ weight: 1
 
 ### Report selection
 
-Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, but in principle the function is supported by all reports.
+Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, however, reports from the areas of sales, purchasing & reminder are supported.
 
 ![](images/apps/subjectreportselections.PNG)
 

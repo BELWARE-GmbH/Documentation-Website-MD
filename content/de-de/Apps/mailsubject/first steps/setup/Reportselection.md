@@ -10,7 +10,7 @@ weight: 1
 
 ### Berichtsauswahl
 
-Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich wird die Funktion aber von allen Berichten unterstützt.
+Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf & Mahnung unterstützt.
 
 ![](images/apps/subjectreportselectionde.PNG)
 
