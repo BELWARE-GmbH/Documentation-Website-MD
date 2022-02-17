@@ -21,7 +21,7 @@ The Mail Subject Plus area is for adding your own dynamic subject lines per repo
 ##### Mail Sender Plus area
 Mail Sender Plus allows you to intelligently control your sender addresses per report. When used in older versions, Mail Sender Plus functions provide you with a separate mail dialog that is more user-friendly than the standard one.
 
-[Setup Sender](https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/setup/)
+[Setup Sender](https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/)
 
 
 ##### Mail Attachments Plus area

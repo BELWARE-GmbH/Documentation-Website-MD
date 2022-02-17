@@ -10,7 +10,7 @@ weight: 2
 
 ### AppSource
 
-The app is available in the [Microsoft AppSource]().
+The app is available in the Microsoft AppSource.
 
 ![](images/apps/senderappsource.PNG-ÄNDERN)
 

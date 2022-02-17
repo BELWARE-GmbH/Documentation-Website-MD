@@ -21,7 +21,7 @@ Der Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Bet
 ##### Bereich Mail Sender Plus
 Mail Sender Plus erlaubt Ihnen die intelligente Steuerung Ihrer Absender-Adressen je Bericht. Bei Verwendung in älteren Versionen bieten Ihne Mail Sender Plus Funktionen einen eigenen Mail Dialog der Nutzerfreundlicher als der Standard ist.
 
-[Einrichtung Sender](https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/setup/)
+[Einrichtung Sender](https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/)
 
 
 ##### Bereich Mail Attachments Plus
