@@ -35,6 +35,8 @@ Im Feld **"CTI-Seite"** können Sie die beliebige Seiten ausgewählt werden, wel
 
 Bei Debitoren und Kreditoren ist zu beachten, dass diese mit einem Kontakt verknüpft sein müssen.
 
-Im Feld **"Wann die CTI-Karte zu öffnen ist"** lässt sich einrichten, wann genau der Kontakt geöffnet wird. Entweder beim eingehenden Anruf oder erst wenn der Anruf von jemandem angenommen wird.
+Über due Felder **"CTI-Seite öffnen"** & **"Zeitpunkt des Öffnens der CTI-Seite"** lässt sich einrichten, wann genau der Kontakt geöffnet wird und auf welche Anrufsrichtung reagiert wird.
+
+Unter **"Nr. nicht gefunden Aktionen"** haben Sie die Möglichkeit festzulegen, wie Sich das System verhält wenn eine Unbekannte Nummer anruft. Weitere Informationen hierzu gibt es im Teil **Arbeiten mit CTI for STARFACE**.
 
 Wiederholen Sie diesen Prozess für alle Nutzer der Connector 365 CTI for STARFACE App.

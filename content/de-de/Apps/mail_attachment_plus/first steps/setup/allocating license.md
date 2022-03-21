@@ -14,3 +14,10 @@ Damit ein Nutzer die Funktionen der Mail Attachments Plus App nutzen kann, muss 
 ![](images/apps/attachmentusersetup.png)
 
 Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht ist. Sollten Sie weitere Nutzer benötigen, können Sie diese jederzeit über unser [Formular](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOUo2V1owNDFBTTdQNUpLRVlMTjhPWlpIMC4u) bestellen.
+
+### Berechtigungssätze
+Sie können Nutzern 3 verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
+
+- **C365, View** - Erlaubt dem Nutzer die App grundsätzlich zu nutzen
+- **C365, Edit** - Erlaubt dem Nutzer die Anhänge anzupassen, hochzuladen, löschen usw.
+- **C365, Setup** - Erlaubt dem Nutzer Änderungen in der Connector 365 Einrichtung vorzunehmen

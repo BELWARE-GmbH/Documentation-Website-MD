@@ -34,6 +34,8 @@ In the **"CTI page"** field, you can select any pages that will open automatical
 
 For customers and vendors, note that they must be linked to a contact.
 
-In the field **"When to open CTI card"** you can configure when exactly the contact is opened. Either at the incoming call or only when the call is accepted by someone.
+Via the fields **"Open CTI page"** & **"Time of opening CTI page"** you can define when exactly the contact will be opened and on which call direction the system will react.
+
+Under **"No. not found actions"** you have the possibility to define how the system behaves when an unknown number calls. For further information please refer to **Working with CTI for STARFACE**.
 
 Repeat this process for all users of the Connector 365 CTI for STARFACE App.
