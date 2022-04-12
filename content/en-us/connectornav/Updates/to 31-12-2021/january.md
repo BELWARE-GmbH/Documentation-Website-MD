@@ -35,10 +35,26 @@ The routing ID is now checked by the Connector NAV for its syntax, i.e. whether 
 **Remove attachments 1-4 & update attachments lines**.
 The old function "Attachments 1-4" has been removed from the dialog and user reports. Attachments lines have been adjusted to allow multiple selection of attachments and buttons have been moved from the menu bar to the tab. For more information, please refer to the Email Module & Configuration/Setup documentation.
 
+**Control of the contact card during calls**.
+It is now possible to determine when the contact card opens on calls. Either on call or only on answer.
+
+**New template
+There is now a template for sending segments.
+
+**Translations**
+Many tooltips now have a translation for the English language.
+
 ### Optimizations:
 
-- Bug in a code unit caused server processing with instant generation to always attempt to generate a PEPPOL invoice - This has now been fixed.
-- Dynamics NAV / BC default printing is now also logged in the job list.
+- Bug in a code unit caused server processing with instant generation to always try to generate a PEPPOL invoice - This has now been fixed.
+- The standard printing of Dynamics NAV / BC is now also logged in the job list.
+- Multiple files can now be selected at the same time when uploading attachments.
+- The E-Post button of the old API has been finally removed.
+- Completed phone calls are now archived before they are processed.
+- HTTP requests are now handled as recommended by Microsoft instead of via an external DLL.
+- Body texts are now opened using Windows text coding.
+- Pages are now opened only if they can be opened.
+- The route ID is now displayed in the job list.
 
 ### Other:
 

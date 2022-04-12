@@ -34,7 +34,7 @@ Sie können sämtliche Verwendungszwecke einrichten und im Stapelmodus nutzen. E
 Der Jobmodus gibt an wie der Stapel gehandhabt wird. Standardmäßig stehen Ihnen dort drei Optionen zur Verfügung - E-Mail, Druck und Leer.
 
 **E-Mail**
-Im Modus E-Mail, werden die Belege des bei Benutzung der Stapelfunktion per E-Mail versendet.
+Im Modus E-Mail, werden die Belege des Debitors bei Benutzung der Stapelfunktion per E-Mail versendet.
 
 **Druck**
 Im Modus Druck, werden die Belege des Debitors bei Benutzung der Stapelfunktion ausgedruckt. Es greift der Standard der Druckerauswahl.

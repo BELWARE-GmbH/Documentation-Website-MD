@@ -18,7 +18,7 @@ Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsb
 
 Einrichten von Belegsendeprofilen
 
-1. Öffnen Sie die Suche, geben Sie Belegsendeprofil ein und wählen Sie dann den entsprechenden Link.
+1. Öffnen Sie die Suche, geben Sie Dokumentsendeprofile ein und wählen Sie dann den entsprechenden Link.
 2. Auf der Seite Dokumentsendeprofile wählen Sie die Aktion Neu aus.
 3. Füllen Sie die Felder je nach Bedarf aus. Fahren Sie über ein Feld, um eine Kurzbeschreibung zu lesen.
 

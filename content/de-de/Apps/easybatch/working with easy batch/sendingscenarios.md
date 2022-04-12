@@ -17,7 +17,7 @@ Wird der Stapelversand ausgelöst während für einen Beleg mehrere Jobmodi eing
 
 Ein Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail, dies sieht in den Dokumentlayouts wie folgt aus:
 
-![](images/apps/easyscenario1.PNG)
+![](images/apps/easyscenario1en.PNG)
 
 So würden beim auslösen des Stapelversands die entsprechenden Debitoren eine E-Mail erhalten und gleichzeitig auch einen Brief.
 

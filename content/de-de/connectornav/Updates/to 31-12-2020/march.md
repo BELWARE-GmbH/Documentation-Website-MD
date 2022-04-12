@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 1
+weight: 3
 ---
 ### Erweiterungen von Standardfeatures:
 
@@ -22,6 +22,9 @@ Weitere Informationen zu den neuen Optionen finden Sie in der [Dokumentation](/d
 
 **Druck bei leeren Jobmodus in Kommunikationsmatrix**
 Wird der Jobmodus in der Kommunikationsmatrix freigelassen, wird nun standardmäßig gedruckt.
+
+**Abweichender Ablagepfad für PEPPOL XMLs**
+Für XMLs die für PEPPOL erzeugt wurden, kann nun ein eigener Ablageordner definiert werden.
 
 **Segmentversand mit Hintergrundverarbeitung**
 Der Segmentversand kann nun auch über die Hintergrundverarbeitung ablaufen.

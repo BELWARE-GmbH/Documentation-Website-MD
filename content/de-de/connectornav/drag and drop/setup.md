@@ -42,21 +42,27 @@ In der Spalte „properties“ wählen Sie die Option „PartType“ = Page und 
 
 Schreiben Sie auf der gleichen Page im trigger „OnAfterGetCurrRecord“ am Ende des trigger den folgenden Code:
 
-//\>\>DragDropEVN Start
+```
+
+//>>DragDropEVN Start
 
 CurrPage.DragAndDrop.PAGE.SetRecordPage(RECORDID);
 
 CurrPage.DragAndDrop.PAGE.RefreshPage();
 
-//\<\<DragDropEVN End
+//<<DragDropEVN End
+```
+
 
 Speichern und kompilieren Sie das Objekt.
 Öffnen Sie nun die source table der Card Page und erstellen sie eine globale Variable. Anschließend schreiben Sie folgenden Code am Ende des trigger.
 
-//\>\>DragDropEVN Start
+```
+//>>DragDropEVN Start
 
 FileDropStorage.DragDropDelete(Rec.RECORDID);
 
-//\<\<DragDropEVN End
+//<<DragDropEVN End
+```
 
 Nachdem Sie das Objekt gespeichert und kompiliert haben, sind Sie fertig.

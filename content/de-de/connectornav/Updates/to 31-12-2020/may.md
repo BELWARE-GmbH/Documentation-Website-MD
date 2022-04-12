@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 3
+weight: 5
 ---
 ### Erweiterungen von Standardfeatures:
 
@@ -15,6 +15,15 @@ In ausgewählten Templates finden Sie nun die Funktion buchen & verarbeiten, sie
 Über den Stapellauf lassen sich Belege über einen Knopfdruck abarbeiten, die jeweilige Versandart lässt sich vorher pro Debitor in der Kommunikationsmatrix definieren.
 
 Mehr Informationen zu beiden Punkten finden Sie in der Doku für die [Kommunikationsmatrix](/de-de/connectornav/matrix/)
+
+**Neue Events**
+Entwicklern stehen die neuen Events OnCreateFilename & DoJobProjectQuote zur Verfügung.
+
+### Optimierungen:
+- Automatisches erfasses von CTI-Einträgen
+- Neuer Dokumententyp Job
+- Ein Rechtschreibfehler in der Benutzerberichtseinrichtung wurde korrigiert
+
 
 ### Neue Features:
 

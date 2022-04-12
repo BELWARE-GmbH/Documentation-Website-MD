@@ -17,7 +17,7 @@ The Connector 365 CTI for STARFACE app automatically opens the contact card of t
 
 In case you accidentally close the client, you will be briefly warned before closing it.
 
-![](images/apps/cticlientRole centeren.PNG)
+![](images/apps/cticlientdashboarden.PNG)
 
 If there is an incoming call, this is displayed in the client, all users in the same group can see who is being called and what the current status of the call is. At the same time, an entry is written in the job list and the contact card for the corresponding contact is opened, if it exists.
 

@@ -25,7 +25,7 @@ Ihre Kosten:
 
 | Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
 |-------------------------------|---------------------------------------|
-|990,-€                         |45,-€                                  |
+|1900,-€                        |70,-€                                  |
 
 Danach können Sie mit der [Installation](/de-de/apps/cti-for-starface/first-steps/installation/) der Connector 365 CTI for STARFACE App starten
 

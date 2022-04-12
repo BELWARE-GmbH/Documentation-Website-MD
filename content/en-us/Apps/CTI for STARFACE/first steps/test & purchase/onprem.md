@@ -27,7 +27,7 @@ Your costs:
 
 | Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
 |-----------------------------------------|----------------------------------------|
-|990,-€                                   | 45,-€                                  |
+|1900,-€                                  | 70,-€                                  |
 
 After that you can start with the [Installation](/en-us/apps/cti-for-starface/first-steps/installation/) of the Connector 365 CTI for STARFACE App
 

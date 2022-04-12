@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 2
+weight: 4
 ---
 ### Erweiterungen von Standardfeatures:
 
@@ -15,6 +15,9 @@ Wird eine Adresse eines Empfängers per Kommunikationsmatrix übersteuert ist di
 Über das neue Event OnAfterSetReportIDPostedSalesInv ist es Entwicklern nun möglich eine abweichende Berichts ID einzufügen.
 
 Mehr Informationen zu verfügbaren Events finden Sie zukünftig in einer separaten Dokumentation.
+
+### Optimierungen
+- Die pdfPaper-Einrichtung wird nur angezeigt wenn das Modul lizensiert ist.
 
 ### Neue Features:
 

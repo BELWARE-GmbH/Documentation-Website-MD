@@ -35,10 +35,26 @@ Die Leitweg ID wird nun durch den Connector NAV auf ihren Syntax geprüft d.h. o
 **Entfernen Anhänge 1-4 & Updaten der Anhänge Zeilen**
 Die alte Funktion "Anhänge 1-4" wurde aus dem Dialog und Benutzerberichten entfernt. Die Anhänge Zeilen wurden angepasst und erlauben nun Mehrfachauswahl von Anhängen und die Knöpfe wurden von der Menüleiste in den Reiter verschoben. Mehr Informationen dazu finden Sie in der Dokumentation für das E-Mail-Modul & Konfiguration/Einrichtung
 
+**Steuerung der Kontaktkarte bei Anrufen**
+Es ist nun möglich zu bestimmen, wann die Kontaktkarte bei Anrufen aufgeht. Entweder bei Anruf oder erst beim annehmen.
+
+**Neue Template**
+Es gibt nun eine Template für den Segmentenversand.
+
+**Übersetzungen**
+Viele Tooltips haben nun eine Übersetzung für die englische Sprache.
+
 ### Optimierungen:
 
 - in Fehler in einer Codeunit führte dazu, dass bei der Serververarbeitung mit Soforterzeugung immer versucht wurde eine PEPPOL-Rechnung zu erzeugen - Dies wurde nun behoben.
 - Der Standarddruck von Dynamics NAV / BC wird nun ebenfalls in der Jobliste protokolliert.
+- Es können nun mehrere Dateien gleichzeitig bei dem Upload von Anhängen ausgewählt werden.
+- Der E-Post Knopf der alten API wurde endgültig entfernt.
+- Abgeschlossene Telefonate werden nun erst archiviert, bevor sie verarbeitet werden.
+- HTTP-Abfragen werden nun nach Empfehlung von Microsoft gehandhabt statt via einer externen DLL.
+- Bodytexte werden nun mit dem Windows Textencoding geöffnet.
+- Seiten werden jetzt nur noch geöffnet wenn diese geöffnet werden können.
+- Die Leitweg-ID wird nun in der Jobliste angezeigt.
 
 ### Sonstiges:
 
