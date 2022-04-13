@@ -8,4 +8,74 @@ weight: 7
 ---
 ### Unsere Lösunge unterstützt zur Zeit die folgenden Märkte:
 
-Ägypten, Algerien, Argentinien, Australien, Bangladesch, Belgien, Brasilien, Bulgarien, Chile, Dänemark, Deutschland, Estland, Färöer, Finnland, Frankreich, Griechenland, Grönland, Hongkong (SAR), Indien, Indonesien, Irland, Island, Italien, Japan, Kanada, Katar, Kenia, Kolumbien, Korea (Republik), Kroatien, Lettland, Libanon, Litauen, Luxemburg, Malaysia, Malta, Marokko, Mexiko, Myanmar, Neuseeland, Niederlande, Nigeria, Norwegen, Österreich, Peru, Philippinen, Polen, Portugal, Puerto Rico, Rumänien, Saudi-Arabien, Schweden, Schweiz, Serbien, Singapur, Slowakei, Slowenien, Spanien, Sri Lanka, Südafrika, Taiwan, Thailand, Tschechien, Tunesien, Türkei, Ukraine, Ungarn,Vereinigte Arabische Emirate, Vereinigte Staaten, Vereinigtes Königreich, Vietnam
+Algerien
+Argentinien
+Australien
+Österreich
+Bangladesch
+Belgien
+Brasilien
+Bulgarien
+Kanada
+Chile
+Kolumbien
+Kroatien
+Tschechische Republik
+Dänemark
+Ägypten
+Estland
+Färöer Inseln
+Finnland
+Frankreich
+Deutschland
+Griechenland
+Grönland
+Hongkong SAR
+Ungarn
+Island
+Indien
+Indonesien
+Irland
+Italien
+Japan
+Kenia
+Korea
+Lettland
+Libanon
+Litauen
+Luxemburg
+Malaysia
+Malta
+Mexiko
+Marokko
+Myanmar
+Niederlande
+Neuseeland
+Nigeria
+Norwegen
+Peru
+Philippinen
+Polen
+Portugal
+Puerto Rico
+Katar
+Rumänien
+Saudi-Arabien
+Serbien
+Singapur
+Slowakei
+Slowenien
+Süd-Afrika
+Spanien
+Sri Lanka
+Schweden
+Schweiz
+Taiwan
+Thailand
+Tunesien
+Türkei
+Ukraine
+Vereinigte Arabische Emirate
+Vereinigtes Königreich
+Vereinigte Staaten
+Vietnam

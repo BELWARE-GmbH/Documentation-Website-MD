@@ -7,4 +7,4 @@ collapsible: false
 weight: 12
 ---
 ### Optimierungen:
-Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.
+- Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.
