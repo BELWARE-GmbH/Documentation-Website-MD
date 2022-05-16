@@ -15,12 +15,10 @@ weight: 2
 Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter **„Navigieren“ - „Dokumentlayouts“** des jeweiligen Debitors.
 
 Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
-**„XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“**
+**„Leitweg-ID“ und „Beleg als Anhang hinzufügen“**
 
 ![](images/XRechnung/XRechnungScreenshot2.PNG)
 
-In das Feld **„XRechnung“** setzen Sie ein Häkchen, um die Funktion zu aktivieren, dass Rechnungen/Gutschriften für diesen Debitor als XRechnung versendet werden sollen.
- 
 In das Feld **„Leitweg-ID“** wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs
 
 Im Feld **„Beleg als Anhang hinzufügen“** haben Sie 3 Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.

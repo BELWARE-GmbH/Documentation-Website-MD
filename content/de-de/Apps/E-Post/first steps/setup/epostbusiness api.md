@@ -9,7 +9,7 @@ weight: 1
 ### Erste Schritte
 
 ### E-POSTBUSINESS API
-Über die Suche unter **"Connector 365 Eirichtung"** können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+Über die Suche unter **"Connector 365 Einrichtung"** können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 
 ![](images/apps/eposteinrichtungde.PNG)
 
@@ -28,9 +28,10 @@ Geben Sie den PIN in das entsprechende Feld ein und bestätigen Sie den Dialog m
 | API Geheimnis                | Das Geheimnis wird automatisch erstellt, nachdem Sie Ihr Passwort gesetzt haben                    |
 | API Passwort                 | Hier steht Ihr verschlüsseltes Passwort                                                            |
 | Datei in Jobliste speichern  | Legt fest ob versendete Dateien in der Jobliste archiviert werden                                  |
+| Dialog anzeigen              | Gibt an ob vor Versand noch ein weiterer Dialog zum abändern/überprüfen der Optionen geöffnet wird |
 | Testmodus                    | Wenn diese Option aktiviert ist, werden die Daten der Briefe nicht an das Druckzentrum übermittelt |
-| Testmail                     | Ist der Testmodus aktiviert, erhält diese E-Mail-Adresse eine Benachrichtigung über den Versand.   |
-| E-POST Sperrbereich anzeigen | Zeigt den von der Deutschen Post geforderten Sperrbereich auf Testbriefen an                       |
+| Testmail                     | Ist der Testmodus aktiviert, erhält diese E-Mail-Adresse eine Benachrichtigung über den Versand    |
+| Sperrfläche anzeigen         | Zeigt den von der Deutschen Post geforderten Sperrbereich auf Testbriefen an                       |
 
 ### Standardeinstellungen einrichten
 Neben der Einrichtung der API, können hier auch die Standards für den Versand von Briefen eingestellt werden. Dafür stehen Ihnen folgende Optionen zur Verfügung:

@@ -15,11 +15,9 @@ weight: 2
 The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under **"Navigate" - "Document layouts"** of the respective customer.
 
 When you open the document layouts, new fields are now available.
-**XRechnung", "Ident ID" and "Add document as attachment"**.
+**"Ident ID" and "Add document as attachment"**.
 
 ![](images/XRechnung/XRechnungScreenshot2.PNG)
-
-In the **"XRechnung"** field, place a check mark to activate the function that invoices/credit notes for this customer should be sent as XRechnung.
  
 In the field **"Ident ID"** the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient. This field is subject to a syntax check and only allows valid Ident IDs.
 

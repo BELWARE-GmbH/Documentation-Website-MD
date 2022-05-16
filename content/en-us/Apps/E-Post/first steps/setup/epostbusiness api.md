@@ -28,6 +28,7 @@ Enter the PIN in the corresponding field and confirm the dialog with OK. The pas
 | API Secret                   | The secret is created automatically after you set your password                                    |
 | API Password                 | Here is your encrypted password                                                                    |
 | Save File in Joblist         | Determines whether sent files are archived in the job list                                         |
+| Show dialog                  | Determines whether another dialog for changing/checking the options is opened before sending       |
 | Testmode                     | If this option is enabled, the data of the letters will not be sent to the printing center         |
 | Testmail                     | If the test mode is enabled, this email address will receive a notification about the shipment     |
 | Show restricted area         | Displays the restricted areas required by Deutsche Post on test letters                            |
