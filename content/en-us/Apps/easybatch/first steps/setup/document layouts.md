@@ -22,13 +22,13 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
 
 The checkmark in the **Batchmode** field activates the batch mode for this entry.
 
-The selection in the **Job Mode** field specifies how accurately the customer's documents will be processed.
+The selection in the **Job Mode** field specifies how the customer's documents will be processed.
 
-These two buttons control the batch mode of the customer.
+These two fields control the batch mode of the customer.
 
 ![](images/apps/easylayouten.PNG)
 
-You can set up all uses and use them in batch mode. It is basically possible to set several job modes per document, these will then be processed one after the other.
+You can set up all uses and use them in batch mode. It is basically possible to set several job modes per document. These will then be processed one after the other.
 
 #### Job mode
 The Job mode specifies how the batch is handled. By default, there are three options available there - Email, Print and Blank.

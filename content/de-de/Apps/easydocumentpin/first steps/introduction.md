@@ -18,4 +18,4 @@ Mit Connector 365 Easy Document Pin gehören Nachfass-E-Mails der Vergangenheit 
 
 **Das Setup kann an die Bedürfnisse Ihres Unternehmens angepasst werden**
 
-Legen Sie pro Mahnungsmodus fest, auf welcher Mahnstufe die Rechnungen automatisch angehängt werden sollen. Eine Importfunktion macht die Einrichtung noch schneller.
+Legen Sie pro Mahnmethode fest, nach welcher Mahnstufe die Rechnungen automatisch angehängt werden sollen. Eine Importfunktion macht die Einrichtung noch schneller.

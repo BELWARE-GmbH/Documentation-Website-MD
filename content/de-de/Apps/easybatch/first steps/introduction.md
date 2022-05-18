@@ -10,10 +10,13 @@ weight: 1
 
 ### Einleitung
 
-Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken, mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger.
+Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken. Mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger als notwendig.
 
-Mit dem Connector 365 Easy Batch ist es möglich intelligent gesteuert mehrere Belege gleichzeitig zu versenden, richten Sie die gewünschte Versandmethode in den Dokumentlayouts ein und wählen Sie einfach Ihre Belege aus die Sie versenden wollen - Ein Klick und alle Beleg werden versendet.
+Mit dem Connector 365 Easy Batch ist es möglich, mehrere Belege intelligent gesteuert und gleichzeitig zu versenden. Richten Sie die gewünschte Versandmethode in den Dokumentenlayouts ein und wählen Sie einfach Ihre Belege aus, die Sie versenden wollen:  Ein Klick und alle Belege werden versendet.
 
 #### Kompatibel mit anderen Connector 365 Lösungen
 
-Der Connector 365 Easy Batch unterstützt ebenfalls die Connector 365 XRechnung & E-POST App im Stapelversand.
+Aktuell unterstützt **Connector 365 Easy Batch** ebenfalls die Nutzung folgender BELWARE-Lösungen im Stapellauf:
+ - [**Connector 365 XRechnung**](/de-de/apps/xrechnung/)
+
+ - [**Connector 365 E-Post**](/de-de/apps/e-post)

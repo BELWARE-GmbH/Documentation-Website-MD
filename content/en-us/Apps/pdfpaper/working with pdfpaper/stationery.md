@@ -18,8 +18,8 @@ We support the following reports
 | Quote             | Inquiries             |
 | Sales Order             | Purchase Order         |
 | Blanket purchase order       | Blanket sales order   |
-| post. sales invoice    | Sales purchase invoice   |
-| post. sales credit memeo | Post. purchase credit memo |
+| Post. sales invoice    | Sales purchase invoice   |
+| Post. sales credit memo | Post. purchase credit memo |
 | Reg. Reminder       |                      |
 
 Our other apps that involve PDF creation also support the Connector 365 PdfPaper app:
@@ -28,5 +28,5 @@ Our other apps that involve PDF creation also support the Connector 365 PdfPaper
 - Connector 365 XRechnung
 - Connector 365 Easy Batch
 
-#### Preview Funktion
+#### Preview function
 Before actually creating the PDF for the process, you have the option to preview it once. Select your document and then use the preview function via **Print/Send** -> **Preview**. The finished document will now be displayed.

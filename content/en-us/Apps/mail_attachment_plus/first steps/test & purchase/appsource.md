@@ -32,7 +32,7 @@ To the form
 
 [<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUNlZYRkRDRVRDM0hFVlBRNlNVT0pKWktWSy4u)
 
-![](images/apps/senderforms_removed.PNG)
+![](/images/apps/senderforms_removed.PNG)
  
 Connector 365 Mail Sender Plus is available for the following BC licensing:
 

@@ -1,5 +1,5 @@
 ---
-title: "Test & Kauf"
+title: "Testing & purchasing"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -11,4 +11,4 @@ Here you will find all help and learning resources about testing and purchasing 
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/easybatch/help-support/).
+In case a question could not be answered, we will be glad to help you personally. The necessary contact information can be found on the [support page](en-us/apps/easybatch/help-support/).
