@@ -10,27 +10,27 @@ weight: 1
 
 ### AppSource
 
-Öffnen Sie mithilfe der Suchfunktion den **Marketplace für Erweiterungen** und öffnen Sie ihn.
+Öffnen Sie mithilfe der Suchfunktion den **Marketplace für Erweiterungen**.
 
-![](images/XRechnung/marketplacesuch.PNG)
+![](images/apps/general/de-de/marketplace_search.png)
 
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 E-POST** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
-![](images/apps/storeepost.png)
+![](images/apps/E-POST/store_epost.png)
 
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die Connector 365 E-POST App zu wählen. Unsere Connector 365 E-POST App* ist in Deutsch und Englisch verfügbar. Klicken Sie anschließend **Installieren**.
 
-![](images/XRechnung/xrechnungsprache.PNG)
+![](images/apps/general/de-de/app_language.png)
 
 Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt wird. Diese findet vollautomatisch im Hintergrund statt
 
-![](images/XRechnung/xrechnunginstallation.PNG)
+![](images/apps/general/de-de/app_installation.png)
 
 Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
 
 Wenn alles geklappt hat, können Sie nun den **Connector 365 E-POST** unter **Installierte Erweiterungen** finden.
 
-![](images/apps/epostinstalliertde.PNG)
+![](images/apps/E-POST/app_installed.png)
 
 Sie können nun mit der [Einrichtung](/de-de/apps/e-post/first-steps/setup/) starten.
 

@@ -10,16 +10,17 @@ weight: 2
 
 ### Archiv
 
-Nachdem Versand der Belege können Sie den Versand-Status in der Jobliste prüfen. Der Versandstatus steht Ihnen an den Verschiedenen Stellen in Dynamics 365 Business Central zur Verfügung:
+Nachdem Versand der Belege können Sie den Versand-Status an verschiedenen Stellen Dynamics 365 Business Central prüfen:
 
-In der Factbox in der Übersicht der Belege, die für den postalischen Versand angeboten werden.
+Im Factbox-Bereich der Belege finden Sie die **"Connector 365 Aktivitäten"**. Dort finden Sie die Kurzübersicht zu jedem einzelnen Vorgang. Diese Factbox finden Sie sowohl in der Übersicht als auch in der Karte der jeweiligen Belege.
+Durch Klicken des Feldes **"Angenommen um"** gelangen Sie in zur vollständigen Übersicht. Durch Klicken des Feldes **"Status"** gelangen Sie zur detaillierten Statusübersicht des jeweiligen Vorgangs.
 
-![](images/apps/epostjobfactde.PNG)
+![](images/apps/E-POST/de-de/app_activities_factbox.png)
 
-Die Jobliste bietet Ihnen eine detaillierte Übersicht zu allen Briefen die versendet wurden. Hier wird angezeigt welche Optionen genutzt wurden und zeigt Fehlermeldungen die eventuell aufgetreten sind. Ist in der Einrichtung die Option **"Datei in Jobliste speichern"** aktiv, dann können Sie den versendeten Beleg ebenfall einsehen. Dazu klicken Sie einfach unter **"Dateiname"** auf den jeweiligen Namen der Datei.
+Die Seite **"Connector 365 Aktivitäten"** bietet Ihnen eine detaillierte Übersicht zu allen Briefen die versendet wurden. Hier wird angezeigt welche Optionen genutzt wurden und Fehlermeldungen welche eventuell aufgetreten sind. Ist in der Einrichtung die Option **"Datei in Jobliste speichern"** aktiv, dann können Sie den versendeten Beleg ebenfalls einsehen. Dazu klicken Sie einfach unter **"Dateiname"** auf den jeweiligen Namen der Datei.
 
-![](images/apps/epostjoblistfullde.PNG)
+![](images/apps/E-POST/de-de/app_activities_full.png)
 
 Im Rollencenter auf der Startseite finden Sie den Versandstatus über alle postalischen versendenten und noch nicht versendeten Belege: 
 
-![](images/apps/epostRollencenterde.PNG)
+![](images/apps/E-POST/de-de/app_role_center.png)

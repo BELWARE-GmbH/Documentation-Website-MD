@@ -6,13 +6,13 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Erste Schritte
+### Einrichtung
 
 ### Berichtsauswahl
-Vor dem ersten Versand, muss in der Berichtsauswahl die Berichte für den E-POST Versand festgelegt werden. Aktuell gibt es diese Möglichkeit in **"Berichtsauswahl Verkauf"** und **"Berichtsauswahl Mahnung"**
+Vor dem ersten Versand, muss in der Berichtsauswahl ausgewählt werden, welche Berichte für den E-POST Versand verwendet werden sollen. Aktuell gibt es diese Möglichkeit in **"Berichtsauswahl Verkauf"** und **"Berichtsauswahl Mahnung"**
 
-![](images/apps/epostreportselectionde.PNG)
+![](images/apps/E-POST/de-de/app_reportselection.png)
 
-Nur Berichte bei denen der Haken in der Option **"Für E-POST nutzen"** gesetzt ist, werden berücksichtigt.
+Nur Berichte bei denen der Haken in der Option **"Für E-POST verwenden"** gesetzt ist, werden berücksichtigt.
 
 

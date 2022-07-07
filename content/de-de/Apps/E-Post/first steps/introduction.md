@@ -29,7 +29,7 @@ Versandoptionen:
 - Einschreiben (Einwurf/Rückschein)
 - Duplexdruck
 
-Eine Reportanpassung an ein bestimmtes Schablonen-Format der Deutschen Post ist nicht nötig. Es steht Ihnen ein Deckblatt mit den korrekten Maßen zur Verfügung. Ihre Belege werden an die Deutsche Post übermittelt und vollautomatisch, zeitunabhängig und unter Berücksichtigung der DSGVO verarbeitet und auf dem Postweg direkt in den Briefkasten grebracht. Den aktuellen Versandstatus jederzeit in Microsoft Dynamics 365 Business Central verfolgen und einsehen.
+Eine Reportanpassung an ein bestimmtes Schablonen-Format der Deutschen Post ist nicht nötig. Es steht Ihnen ein Deckblatt mit den korrekten Maßen zur Verfügung. Ihre Belege werden an die Deutsche Post übermittelt und vollautomatisch, zeitunabhängig und unter Berücksichtigung der DSGVO verarbeitet und auf dem Postweg direkt in den Briefkasten grebracht. Den aktuellen Versandstatus Ihrer Briefe können Sie jederzeit in Microsoft Dynamics 365 Business Central verfolgen und einsehen.
 
 
 

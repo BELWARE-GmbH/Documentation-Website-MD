@@ -12,25 +12,24 @@ weight: 2
 
 Die Connector 365 E-POST App* steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/pubid.belwaregmbh2%7Caid.belware_epost%7Cpappid.a36878af-965a-4b9e-93ea-252da599c05d?tab=overview) zur Verfügung.
 
-![](images/apps/epoststorenew.PNG)
+![](images/apps/E-POST/de-de/store_epost_big.png)
 
-Nach dem Download haben Sie folgende Testmöglichkeiten:
+{{< notice info "Hinweis" >}}
+ Zur Nutzung der App wird eine kostenlose Registrierung zur E-POSTBUSINESS API vorausgesetzt.
+ Information finden Sie hier: [Registrierung](/de-de/apps/e-post/first-steps/installation/)
+{{< /notice >}}
 
-**Kein registrierter E-POST Kunde**
-Sie erhalten beim testen der Connector 365 E-POST App eine Nachricht mit dem Hinweis, dass an dieser Stelle ein Briefversand stattfinden würde. Wenn Sie sich registrieren wollen, finden Sie [hier](/de-de/apps/e-post/first-steps/registration/) eine Anleitung.
-
-**Registrierter E-POST Kunde**
 Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:
 
-- Testmodus Versand - Sie erhalten den Brief per Mail an eine zuvor angegebene Adresse.
-- Produktiver Versand - Ihr Brief wird korrekt an den Empfänger gesendet.
+- Testmodus Versand - Sie erhalten den Brief per E-Mail an eine zuvor angegebene Adresse.
+- Produktiver Versand - Ihr Brief wird an den Empfänger gesendet.
 
 Für beide Optionen benötigen Sie Ihre EKP-Nummer. Haben Sie diese nicht zur Hand sprechen Sie uns an.
 
 Nach Installation der App steht Ihnen die App vollständig für 30 Tage zum testen zur Verfügung.
 Die anfallenden Portokosten während der Tests werden direkt über die Deutsche Post mit Ihnen abgerechnet.
 
-Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter **support@belware.de** in Verbindung. Gerne können vereinbaren wir mit Ihnen einen individuellen Testzeitraum. 
+Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter **service@belware.de** in Verbindung. Gerne vereinbaren wir mit Ihnen einen individuellen Testzeitraum. 
  
 Connector 365 E-POST App steht Ihnen für die folgende BC Lizensierung zur Verfügung:
 
@@ -43,7 +42,7 @@ Wenn Sie eine Vollversion unserer App erwerben möchten, nutzen Sie dazu bitte u
 Zum Formular
 </p>
 
-[<img src="/images/apps/Forms_epost.png">](https://forms.office.com/r/JNtGHfUi6n)
+[<img src="/images/apps/E-POST/license_order.PNG">](https://forms.office.com/r/JNtGHfUi6n)
 
 Ihre Kosten:
 

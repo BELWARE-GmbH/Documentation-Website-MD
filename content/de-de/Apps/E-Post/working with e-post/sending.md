@@ -10,26 +10,26 @@ weight: 1
 
 ### Versand
 
-Mit unserer Connector 365 E-POST App* können Sie Geb. Verkaufsrechnungen, Geb. Verkaufsgutschriften, Reg. Mahnungen, Angebote und Verkaufsaufträge versenden. In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
+Mit unserer Connector 365 E-POST App* können Sie Geb. Verkaufsrechnungen, Geb. Verkaufsgutschriften, Reg. Mahnungen, Verkaufsangebote und Verkaufsaufträge versenden. In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
 
-![](images/apps/epostubersichtde.PNG)
+![](images/apps/E-POST/de-de/app_overview.png)
 
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
 
-Die Funktion zum versenden von postalischen Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als Brief senden"**, um den Dialog zum versenden von Briefen zu öffnen.
+Die Funktion zum versenden von postalischen Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als Brief senden"** um den Versand zu starten.
 
-![](images/apps/epostdruckensendende.PNG)
+![](images/apps/E-POST/de-de/app_send_letter.png)
 
 ### Der Dialog
 
-Im Dialog haben Sie die Möglichkeit bestimmte Optionen für den Versand des Briefes anzupassen, z.B. ob Sie den Brief schwarz-weiß oder in Farbe versenden möchten.
+Sofern der Dialog in der **"Connector 365 Einrichtung"** aktiviert ist, haben Sie nun im Dialogfenster die Möglichkeit bestimmte Optionen für den Versand des Briefes anzupassen, z.B. ob Sie den Brief schwarz-weiß oder in Farbe versenden möchten.
 
-![](images/apps/epostdialogde.PNG)
+![](images/apps/E-POST/de-de/app_dialog.png)
 
-Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Click auf **"OK"** ausführen. Ihr Beleg wird nun an die Deutsche Post übermittelt und von dort aus direkt dem Empfänger in den Briefkasten.
+Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Klick auf **"OK"** ausführen. Ihr Beleg wird nun an die Deutsche Post übermittelt und von dort aus direkt dem Empfänger in den Briefkasten.
 
 {{< notice info "Hinweis" >}}
- _Die Connector 365 E-POST App zieht sich die Adresse des Empfängers automatisch aus dessen Daten_
+ _Die für den Versand genutzten Adressdaten werden aus den Kontaktdaten des im Beleg hinterlegten Rech. an Debitoren übernommen_
 {{< /notice >}}
 #
 
