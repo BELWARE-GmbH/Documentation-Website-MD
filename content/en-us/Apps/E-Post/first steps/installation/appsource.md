@@ -10,11 +10,11 @@ weight: 1
 
 ### AppSource
 
-Using the search function, open the **Extension Marketplace** and open it.
+Using the search function, open the **Extension Marketplace**.
 
-![](images/apps/epostextensionen.PNG)
+![](images/apps/general/en-us/marketplace_search.png)
 
-The Microsoft AppSource opens. There you can use the search function again to find the **Connector 365 CTI for STARFACE**. Click on **Get it now** to start the installation. Before the installation starts, you have to provide some contact information.
+The Microsoft AppSource opens. There you can use the search function again to find the **Connector 365 E-POST**. Click on **Get it now** to start the installation. Before the installation starts, you have to provide some contact information.
 
 ![](images/apps/ctimarketplacesearch.PNG)
 
