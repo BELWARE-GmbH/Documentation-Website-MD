@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Arbeiten mit PdfPaper on Connector 365 Online Hilfe",
+    "description": "Recent content in Arbeiten mit PdfPaper on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/working-with-pdfpaper/index.json",
+    "items" : [
+    {
+        "title" : "Briefpapier nutzen",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/working-with-pdfpaper/stationery/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/working-with-pdfpaper/stationery/",
+        "content_html" : "\u003ch3 id=\"arbeiten-mit-der-pdfpaper-app\"\u003eArbeiten mit der PdfPaper App\u003c/h3\u003e\n\u003ch3 id=\"briefpapier-nutzen\"\u003eBriefpapier nutzen\u003c/h3\u003e\n\u003cp\u003eEinmal hinterlegt, wird das Briefpapier automatisch bei der Erstellung von PDFs gemerged. Dabei unterstützen wir jeden Arbeitsvorgang bei dem eine PDF zur Verfügung gestellt wird.\u003c/p\u003e\n\u003cp\u003eDabei unterstützen wir die folgenden Berichte:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003e\u003cstrong\u003eVerkauf\u003c/strong\u003e\u003c/th\u003e\n\u003cth\u003e\u003cstrong\u003eEinkauf\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eAngebote\u003c/td\u003e\n\u003ctd\u003eAnfragen\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAufträge\u003c/td\u003e\n\u003ctd\u003eBestellungen\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eRahmenaufträge\u003c/td\u003e\n\u003ctd\u003eRahmenbestellungen\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eGeb. Vk-Rechnungen\u003c/td\u003e\n\u003ctd\u003eGeb. Ek-Rechnungen\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eGeb. Vk-Gutschriften\u003c/td\u003e\n\u003ctd\u003eGeb. EK-Gutschriften\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eReg. Mahnungen\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eUnsere anderen Apps, bei denen eine PDF-Erstellung stattfindet, unterstützen ebenfalls die Connector 365 PdfPaper App:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eConnector 365 E-POST API\u003c/li\u003e\n\u003cli\u003eConnector 365 XRechnung\u003c/li\u003e\n\u003cli\u003eConnector 365 Easy Batch\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"preview-funktion\"\u003ePreview Funktion\u003c/h4\u003e\n\u003cp\u003eVor dem eigentlich erstellen, der PDF für de n Vorgang, haben Sie die Möglichkeit sich diese einmal in einer Vorschau anzeigen zu lassen. Wählen Sie dazu Ihren Beleg aus und nutzen Sie anschließend die Vorschau-Funktion via \u003cstrong\u003eDrucken/Senden\u003c/strong\u003e -\u0026gt; \u003cstrong\u003eVorschau\u003c/strong\u003e. Nun wird Ihnen der fertige Beleg angezeigt.\u003c/p\u003e\n"
+    }
+    ]
+}

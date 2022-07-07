@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fax modul on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/fax/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/</link>
     <description>Recent content in Fax modul on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/fax/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Additional notes Faxmaker</title>
-        <link>https://docs.belware.de/en-us/connectornav/fax/faxmaker/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/faxmaker/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/fax/faxmaker/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/faxmaker/</guid>
         <description>Additional notes Faxmaker Following settings must be set in the configuration menu. Here, the folder names refer to the folders in the Setup and Configuration documentation.
 Faxmaker configuration
 Go to the menu item Text-API.
@@ -28,31 +28,30 @@ Here you set the check mark at Activated. As path you enter the path that you ha
       
       <item>
         <title>Application example</title>
-        <link>https://docs.belware.de/en-us/connectornav/fax/example/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/fax/example/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/example/</guid>
         <description>Application example Sending faxes from Dynamics NAV is possible from any page. In the following an offer is used as an example.
 Example Quote Connector NAV Integration
-   Actions      Fax Use this action to send the fax.   PDF With this action you create the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions Fax Use this action to send the fax. PDF With this action you create the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
         <title>The dialog</title>
-        <link>https://docs.belware.de/en-us/connectornav/fax/dialog/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/dialog/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/fax/dialog/</guid>
-        <description>The dialogue Actions Dialog Mode Email, Actions
-   Actions      Add files This action allows you to select additional files to be sent as attachments.   Show Documents This action displays the added documents as a list.   Show Attachments 1-4 Via this action you can view the selected attachments.    General tab Dialog Mode Fax, General tab</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/dialog/</guid>
+        <description>The dialogue Actions Dialog Mode Email, ActionsActions Add files This action allows you to select additional files to be sent as attachments. Show Documents This action displays the added documents as a list. Show Attachments 1-4 Via this action you can view the selected attachments. General tab Dialog Mode Fax, General tabfield description Job No. Unique job number, assigned by Connector NAV UserID Current login Report Name the report name assigned to the report (from the interface transfer) Document number document number of the document (from the interface transfer) Name Name of the contact (from the interface transfer) File type File type of the document (from the interface transfer) Job mode Job mode of the operation (from the interface transfer) Log Print Preset according to setup or user setup, mark the job for log printing Send via This field shows the fax interface.</description>
       </item>
       
       <item>
         <title>Job files and feedback massages</title>
-        <link>https://docs.belware.de/en-us/connectornav/fax/jobs/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/jobs/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/fax/jobs/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/fax/jobs/</guid>
         <description>Job files and feedback massages This chapter is only relevant for licensing an interface with external communication software (OfficeMaster, Twinfax, Tobit, Faxmaker, C3000).
 After the dialog has been confirmed with OK, the Connector NAV stores a text file in the path com_job and the job identifier from Connector NAV Setup. This is picked up and processed by the communication software. Afterwards the software returns a feedback file. This is located under com_ack or com_err.</description>
       </item>

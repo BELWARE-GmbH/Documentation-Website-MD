@@ -2,37 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test &amp; Purchase on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/</link>
     <description>Recent content in Test &amp; Purchase on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>AppSource</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The Connector 365 CTI for STARFACE App is available in the Microsoft AppSource.
 After the Connector 365 CTI for STARFACE app is installed, you have the option to get started immediately and use the app for free. However, in the free version you are limited to a single user in the setup. Outside of this limitation, however, you can take full advantage of the Connector 365 CTI for STARFACE App options.</description>
       </item>
       
       <item>
         <title>OnPrem</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 CTI for STARFACE App without obligation or to purchase it directly. For this we need some information from you.
-To the form
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
     

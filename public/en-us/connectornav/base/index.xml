@@ -2,56 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The base on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/base/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/</link>
     <description>Recent content in The base on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/base/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>The Baseoverview</title>
-        <link>https://docs.belware.de/en-us/connectornav/base/base_overview/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/base_overview/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/base/base_overview/</guid>
-        <description>The Baseoverview Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.  The Connector NAV Job List Overview Important fields Connector NAV Job List Overview
-The Connector NAV job list overview displays the respective job orders with all required information in tabular form. The figure above shows a small part of the job list overview.</description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/base_overview/</guid>
+        <description>The Baseoverview Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.The Connector NAV Job List Overview Important fields Connector NAV Job List Overview
+The Connector NAV job list overview displays the respective job orders with all required information in tabular form. The figure above shows a small part of the job list overview.
+field describtion Sequence no.</description>
       </item>
       
       <item>
         <title>The PDF creation</title>
-        <link>https://docs.belware.de/en-us/connectornav/base/pdf_creation/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/pdf_creation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/base/pdf_creation/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/pdf_creation/</guid>
         <description>The PDF creation With Connector NAV Basis you have the possibility to create and manage simple PDF documents directly in Dynamics NAV.
 The creation of PDF files from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Extract sample offer Connector NAV Integration
-   Actions      PDF This action creates the PDF.   Status This action leads you to the job list and to the corresponding entry.</description>
+Actions PDF This action creates the PDF. Status This action leads you to the job list and to the corresponding entry.</description>
       </item>
       
       <item>
         <title>The module DocImport</title>
-        <link>https://docs.belware.de/en-us/connectornav/base/docimport_module/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/docimport_module/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/base/docimport_module/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/docimport_module/</guid>
         <description>The module DocImport Using With the DocImport module you can centrally manage external documents in Microsoft Dynamics NAV. You minimize your paperwork by storing important documents of any type in the job list. Not only will you find your documents faster, you&amp;rsquo;ll also save time and reduce the likelihood of something getting lost.
 Moving the documents Navigate to the path you entered in the Connector NAV Configuration and Setup documentation under the Connector NAV Setup, E-Mail tab menu item in the Document Inbox Directory field.</description>
       </item>
       
       <item>
         <title>useful funktions</title>
-        <link>https://docs.belware.de/en-us/connectornav/base/useful_functions/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/useful_functions/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/base/useful_functions/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/base/useful_functions/</guid>
         <description>Useful functions CheckFeedback(FromDateL : Date;ToDateL : Date;WithConfirmL : Boolean) For a certain period of time, the system checks which jobs have a negative status feedback. These can then be displayed.
 FromDateL: Start date
 ToDateL: End date

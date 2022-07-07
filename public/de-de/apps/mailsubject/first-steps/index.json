@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Erste Schritte on Connector 365 Online Hilfe",
+    "description": "Recent content in Erste Schritte on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Einleitung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/introduction/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/introduction/",
+        "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eWenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.\u003c/p\u003e\n\u003cp\u003eMit der Connector 365 Mail Subject Plus App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor. Dabei können Sie den neuen voreingestellten Betreff frei definieren. Es ist auch möglich, eigene Platzhalter für den jeweiligen Bericht zu definieren, so dass Sie einen dynamischen Text für Ihre Betreffzeile erstellen können. Geben Sie einfach den gewünschten Platzhalter ein und verknüpfen Sie ihn mit einem Feld aus dem Bericht.\u003c/p\u003e\n\u003cp\u003eDie Einrichtung der Betreffzeile ist über das Dokumentenlayout für Kunden/Lieferanten oder über die Berichtsauswahl schnell und einfach zu erreichen.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Test \u0026 Kauf",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/test-purchase/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-mail-mail-subject-plus\"\u003eTesten und kaufen der Connector 365 Mail Mail Subject Plus\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Mail Subject Plus.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/mailsubject/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Einrichtung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/setup/",
+        "content_html" : "\u003ch3 id=\"einrichtungen-der-connector-365-mail-subject-plus-app\"\u003eEinrichtungen der Connector 365 Mail Subject Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 Mail Subject Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/mailsubject/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/installation/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-der-connector-365-mail-subject-plus-app\"\u003eInstallation der Connector 365 Mail Subject Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Mail Subject Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/mailsubject/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

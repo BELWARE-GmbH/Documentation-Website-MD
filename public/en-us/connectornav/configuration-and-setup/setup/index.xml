@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connector 365 setup on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/</link>
     <description>Recent content in Connector 365 setup on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/setup_connectornav/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/setup_connectornav/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/setup_connectornav/</guid>
         <description>The Connector NAV setup Actions Connector NAV setups, actions
 Using the default funktion the fields com_job to com_form are via the server name automatically listed. The funktion DocImport creates for all documents listed in the document entry register an entry in the job list. This way external documents can be made acessable in Microsoft Dynamics NAV.
 Register general Connector NAV setup, Register general
@@ -28,33 +28,35 @@ All imporant settings are deposited in the Connector NAV setup once.</descriptio
       
       <item>
         <title>User setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/user_setup_connectornav/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/user_setup_connectornav/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_setup_connectornav/</guid>
         <description>The Connector NAV User setup For the use of the Connector NAV, an entry is created here for each user.
 Register general Connector NAV user setup, register general
-   Field describtion      UserID Here, the NAV standard table User Setup is referenced.   Extern UserID An external user ID can be entered here.   E-mail This e-mail address is used when sending e-mails using the Connector NAV.</description>
+Field describtion UserID Here, the NAV standard table User Setup is referenced. Extern UserID An external user ID can be entered here. E-mail This e-mail address is used when sending e-mails using the Connector NAV.
+For IncaMail, the e-mail of the IncaMail account is entered.</description>
       </item>
       
       <item>
         <title>User report setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</guid>
         <description>The Connector NAV User report setup Using the User Report Setup you can set more individual preferences per user, report and language. A setting in the user report setup has higher priority than the Connector NAV user setup (e.g. email sender).
 Actions Connector NAV user report setup, actions
-   Actions describtion      Bodytext/SMS Bodytext
-Attached file 1 - 4 These actions can be used to display the intended document.</description>
+Actions describtion Bodytext/SMS Bodytext
+Attached file 1 - 4 These actions can be used to display the intended document. Client/Server stationery
+Printing process stationery</description>
       </item>
       
       <item>
         <title>Destination address selection</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/address_chooser/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/address_chooser/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/address_chooser/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/address_chooser/</guid>
         <description>Destination address selection Connector NAV selection destination adress
 Via the selection of the target addresses, it can be set independently per job mode which document goes to which recipient. Individual standard adjustments can also be taken into consideration.
 The illustration above shows an example of the setup of the target addresses for invoices, credit notes and quotations. In plain text, the setup specifies that emails for invoices go to the &amp;ldquo;Invoice to contact no.</description>
@@ -62,22 +64,22 @@ The illustration above shows an example of the setup of the target addresses for
       
       <item>
         <title>Communication matrix</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/communication_matrix/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/communication_matrix/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/communication_matrix/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/communication_matrix/</guid>
         <description>Communication matrix The communication matrix is the special setup of destination addresses. With the overview described above, global destination addresses are determined (e.g. sale to contact, e-mail field). Exceptions can be determined with the communication matrix.
 Connector NAV Communication matrix overview
 In the lower part of the map there is an overview of the existing global settings. The exceptions only take effect if there is also a global setting.
-   Field describtion      Job mode Selection of the job mode.</description>
+Field describtion Job mode Selection of the job mode.</description>
       </item>
       
       <item>
         <title>Task queue setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/setup_queue/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/setup_queue/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/setup_queue/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/setup_queue/</guid>
         <description>Setting up a task queue for background processing The task queue setup is located in the menu under Administration-&amp;gt; IT Administration-&amp;gt; Application Setup-&amp;gt; Task Queue.
 Microsoft Dynamics NAV, task queue
 To execute Connector NAV server jobs, a task queue item is created with the corresponding code unit 5402516. For this item to run, a task queue with corresponding service must be created. There are several ways to do this. In the following example, a task queue is created with the administrator user without any further setup on the server.</description>

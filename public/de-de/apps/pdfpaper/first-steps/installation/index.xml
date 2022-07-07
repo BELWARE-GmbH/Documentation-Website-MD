@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Connector 365 Online Hilfe</title>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/first-steps/installation/</link>
+    <description>Recent content in Installation on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/first-steps/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>iPaper</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/first-steps/installation/ipaper/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/first-steps/installation/ipaper/</guid>
+        <description>Installation iPaper Damit Sie die PdfPaper App nutzen können müssen Sie zunächst die Folder Monitoring Version der iPaper Software installieren. Aufgrund von verschiedenen technischen Gegebenheiten unterstützen wir aktuell nur die iPaper Version 3.0.61 - diese können Sie hier runterladen.
+Nachdem Download können Sie die Software wie jede andere Software mithilfe des mitgelieferten Wizards installieren. Hierfür ist eine Internetverbindung notwendig, da während des Setups noch die Schnittstelle Ghostscript mitinstalliert wird. Sollte keine Möglichkeit bestehen eine Installation mit Internet durchzuführen, müssen Sie Ghostscript separat installieren bevor Sie mit der Installation des iPapers starten.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; PdfPaper App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; PdfPaper App Das veröffentlichen der Connector 365 Base &amp;amp; PdfPaper App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,89 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "To 31.12.2019 on Connector 365 Online Help",
+    "description": "Recent content in To 31.12.2019 on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/index.json",
+    "items" : [
+    {
+        "title" : "Januar",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/january/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/january/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDrag \u0026amp; Drop function can now also be used via Outlook\u003c/li\u003e\n\u003cli\u003eNew field/table for managing standard BCC/CC addresses\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe drag \u0026amp; drop function can now be used in conjunction with mails from Outlook\u003c/li\u003e\n\u003cli\u003eAdjustment of the logic for the detection of an aborted dialog\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "February",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/february/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/february/",
+        "content_html" : "\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAttachment files from emails are now stored in com_pdf instead of com_tmp.\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "March",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/march/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/march/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew field in the setup around the storage path of data for the processing of CTI data\u003c/li\u003e\n\u003cli\u003eNew table for CTI status of users\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "April",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/april/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/april/",
+        "content_html" : "\u003ch3 id=\"enhancements-to-standard-features--new-features\"\u003eEnhancements to standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePassword field in the communication matrix to encrypt processed data via iPaper.\u003c/li\u003e\n\u003cli\u003eNew module: CTI\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdjust field names in communication matrix to generalize usage.\n\u003cul\u003e\n\u003cli\u003eCustomer name -\u0026gt; Name\u003c/li\u003e\n\u003cli\u003eCustomer no. -\u0026gt; No.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "July",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/july/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/july/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew E-POST API for hybrid sending of letters from Dynamics NAV\u003c/li\u003e\n\u003cli\u003eSending letters via POST AT from Dynamics NAV\u003c/li\u003e\n\u003cli\u003eAdjustment of the functions for sending hybrid letters via E-POST BOX\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "August",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/august/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/august/",
+        "content_html" : "\u003ch3 id=\"enhancements-to-standard-features--new-features\"\u003eEnhancements to standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRelease of Connector NAV Templates.\u003cbr /\u003e\nProvides each of our function buttons already integrated into various documents.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eNew Module\u003c/strong\u003e - Connector NAV/365 HR for using Connector NAV features in conjunction with HR functionalities.\n\u003cul\u003e\n\u003cli\u003eNew field for body texts\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eNew field to switch on/off test sending of E-POST letters\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "September",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/september/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/september/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew fields in the communication matrix\n\u003cul\u003e\n\u003cli\u003ePDF/A Level\u003c/li\u003e\n\u003cli\u003ePDF/A-ZUGFeRD attachment\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe above fields extended to 200 characters\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "October",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/october/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/october/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe CTI client now opens automatically when Dynamics NAV is started.\u003c/li\u003e\n\u003cli\u003eGlobal setting of PDF level is now possible\u003c/li\u003e\n\u003cli\u003ePassword encryption via communication matrix\u003c/li\u003e\n\u003cli\u003eNew PEPPOL functionalities in the communication matrix\u003c/li\u003e\n\u003cli\u003eSetting of the PDF level in the communication matrix\u003c/li\u003e\n\u003cli\u003eNew file size field when attaching files\u003c/li\u003e\n\u003cli\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdjustments in the drag \u0026amp; drop function\u003c/li\u003e\n\u003cli\u003ecertain functions have been transferred to the CTI code unit\u003c/li\u003e\n\u003cli\u003eDifferent sender via Office 365 SMTP in HR module\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "November",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/november/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/november/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatic rotation of documents in portrait mode via iPaper\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eOptimizations for the web client\u003c/li\u003e\n\u003cli\u003eChanges to the page for the drag \u0026amp; drop function\u003c/li\u003e\n\u003cli\u003eAdjustment of the upload folder of stationery\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "December",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/december/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/december/",
+        "content_html" : "\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe character limit of a text field in the setup has been removed.\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

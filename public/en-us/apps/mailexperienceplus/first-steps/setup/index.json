@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Setup on Connector 365 Online Help",
+    "description": "Recent content in Setup on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/setup/index.json",
+    "items" : [
+    {
+        "title" : "Setting up the individual modules",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/setup/modules/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/setup/modules/",
+        "content_html" : "\u003ch3 id=\"setup\"\u003eSetup\u003c/h3\u003e\n\u003ch3 id=\"setting-up-the-individual-modules\"\u003eSetting up the individual modules\u003c/h3\u003e\n\u003cp\u003eThe Connector 365 Mail Experience Plus app combines the 3 apps from our Mail Plus series into one power app. Below we will tell you how to set up each area.\u003c/p\u003e\n\u003ch5 id=\"mail-subject-plus-area\"\u003eMail Subject Plus area\u003c/h5\u003e\n\u003cp\u003eThe Mail Subject Plus area is for adding your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://docs.belware.de/de-de/apps/mailsubject/first-steps/setup/\" target=\"_blank\"\u003eSetup Subject\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"mail-sender-plus-area\"\u003eMail Sender Plus area\u003c/h5\u003e\n\u003cp\u003eMail Sender Plus allows you to intelligently control your sender addresses per report. When used in older versions, Mail Sender Plus functions provide you with a separate mail dialog that is more user-friendly than the standard one.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/\" target=\"_blank\"\u003eSetup Sender\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"mail-attachments-plus-area\"\u003eMail Attachments Plus area\u003c/h5\u003e\n\u003cp\u003eMail Attachments Plus allows you to control your mail attachments at various levels and specify attachments that will always be attached to specific reports when sent by default. Control for attachments over a period of time is also possible.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/\" target=\"_blank\"\u003eAttachments Setup\u003c/a\u003e\u003c/p\u003e\n"
+    }
+    ]
+}

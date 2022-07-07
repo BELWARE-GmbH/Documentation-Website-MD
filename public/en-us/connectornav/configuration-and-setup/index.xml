@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Configuration &amp; Setup on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/</link>
     <description>Recent content in Configuration &amp; Setup on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/configuration-and-setup/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Preparation</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/preparations/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/preparations/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/preparations/</guid>
-        <description>Preparation Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.  Please release a directory in the network and name it e.g. &amp;ldquo;T611&amp;rdquo;. Create the required subfolders. The names of the folders are optional, but serve for a better overview regarding the Connector NAV setup.
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/preparations/</guid>
+        <description>Preparation Please note that functions are also described for modules whose license you have not purchased. These should usually be recognizable by the context.Please release a directory in the network and name it e.g. &amp;ldquo;T611&amp;rdquo;. Create the required subfolders. The names of the folders are optional, but serve for a better overview regarding the Connector NAV setup.
 It should be noted that the users are given full permission for this folder structure.</description>
       </item>
       
       <item>
         <title>Configuration</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/configuration/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/configuration/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/configuration/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/configuration/</guid>
         <description>Configuration The Connector NAV Configuration Configurationsetup Connector NAV configuration, actions
 Before you start setting up the Connector NAV, your individual configuration data is loaded. To do this, press the Configuration setting action at the beginning. The configuration provides information about your acquired modules.
 Register Codeunit Connector NAV configuration, Register Codeunit
-   Field describtion      Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit For each acquired module, the corresponding object number of the code unit was entered.</description>
+Field describtion Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit For each acquired module, the corresponding object number of the code unit was entered.</description>
       </item>
       
       <item>
         <title>Connector 365 setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/configuration-and-setup/setup/</guid>
         <description>Setups </description>
       </item>
       

@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Arbeiten mit Mail Subject Plus on Connector 365 Online Hilfe",
+    "description": "Recent content in Arbeiten mit Mail Subject Plus on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/working-with-mail-subject-plus/index.json",
+    "items" : [
+    {
+        "title" : "Betreff im Mail-Dialog",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/working-with-mail-subject-plus/maildialogue/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/working-with-mail-subject-plus/maildialogue/",
+        "content_html" : "\u003ch3 id=\"arbeiten-mit-mail-subject-plus\"\u003eArbeiten mit Mail Subject Plus\u003c/h3\u003e\n\u003ch3 id=\"betreff-im-mail-dialog\"\u003eBetreff im Mail-Dialog\u003c/h3\u003e\n\u003cp\u003eNachdem Sie die Einrichtung vorgenommen haben - Egal ob in Dokumentenlayouts oder der Berichtsauswahl. Sind Sie jetzt bereit Ihre(n) zuvor definierten Betreff(s) aktiv zu nutzen.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/subjectmail1de.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eÖffnen Sie zunächst einen der Belege die Sie eingerichtet haben und anschließend den gewünschten Beleg (ggf. den eines eingerichteten Debitor/Kreditor). Klicken Sie nun auf \u003cstrong\u003e\u0026ldquo;Drucken/Senden\u0026rdquo;\u003c/strong\u003e -\u0026gt; \u003cstrong\u003e\u0026ldquo;Per E-Mail senden\u0026rdquo;\u003c/strong\u003e. Es öffnet sich der Dialog für den Mailversand und an Stelle des Standardbetreffs finden Sie nun den neuen von Ihnen definierte Betreff stehen.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/subjectmail2de.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eSollte es gewünscht sein, können Sie diesen natürlich immer noch abändern.\u003c/p\u003e\n\u003cp\u003eÄndern Sie ggf. andere Einstellungen im Dialog und versenden Sie Ihre E-Mail wie gewohnt.\u003c/p\u003e\n"
+    }
+    ]
+}

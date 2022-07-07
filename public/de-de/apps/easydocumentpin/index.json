@@ -1,0 +1,49 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Easy Document Pin on Connector 365 Online Hilfe",
+    "description": "Recent content in Easy Document Pin on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/index.json",
+    "items" : [
+    {
+        "title" : "Erste Schritte",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Neu und geplant",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Arbeiten mit Easy Document Pin",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/working-with-edp/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/working-with-edp/",
+        "content_html" : "\u003ch3 id=\"arbeiten-mit-easy-document-pin\"\u003eArbeiten mit Easy Document Pin\u003c/h3\u003e\n\u003cp\u003eNach dem die Einrichtung der App stattgefunden hat, können Sie die App sofort ohne Aufwand nutzen. Wählen Sie einfach eine Mahnung die versendet werden soll und versenden Sie diese wie gewohnt.\u003c/p\u003e\n\u003cp\u003eSie werden bemerken, dass die angemahnten Rechnungen automatisch an die Mahnung angehängt wurden.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/edpdialogde.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Hilfe \u0026 Support",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/",
+        "content_html" : "\u003ch3 id=\"hilfe--support\"\u003eHilfe \u0026amp; Support\u003c/h3\u003e\n\u003cp\u003eWir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.\u003c/p\u003e\n\u003cp\u003eFür Allgemeines sind wir zu erreichen über:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"/Documentation-Website-Test/mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eAlternativ\u003c/p\u003e\n\u003cp\u003eTel.: +49 2362 788 90 55\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003eSowohl für Partner als auch für Kunden bieten wir unsere Unterstützung zuverlässig und zeitnah an. Zur bestmöglichen Analyse und Lösung Ihres Problems, bevorzugen wir die Fehlermeldung über eine E-Mail mit entsprechender Fehlerbeschreibung und Screenshots.\u003c/p\u003e\n\u003cp\u003eUnseren Support erreichen Sie über:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"/Documentation-Website-Test/mailto:support@belware.de\"\u003esupport@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eAlternativ\u003c/p\u003e\n\u003cp\u003eTel.: +49 2362 788 90 55\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/Support/TeamviewerTeams.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eFür den Support nutzen wir TeamViewer oder Teams. Falls Sie TeamViewer noch nicht nutzen, können Sie ihn \u003ca href=\"https://get.teamviewer.com/belware\" target=\"_blank\"\u003ehier\u003c/a\u003e downloaden.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eBürozeiten:\u003c/strong\u003e\u003cbr /\u003e\nMo - Do: 08:00 - 17:00 Uhr\u003cbr /\u003e\nFr: 08:00 - 16:00 Uhr\u003c/p\u003e\n\u003ch3 id=\"portale\"\u003ePortale\u003c/h3\u003e\n\u003cp\u003eIn unseren Portalen für Kunden/Partner haben Sie Zugriff auf verschiedene Hilferessourcen wie z.B. unser FAQ (häufig gestellte Fragen) und unsere Dokumentationen, die Ihnen Hilfestellung bei Problemen geben.\u003c/p\u003e\n\u003ch3 id=\"statement-of-direction-und-support-lifecycle\"\u003eStatement of Direction und Support-Lifecycle\u003c/h3\u003e\n\u003cp\u003eDie BELWARE GmbH arbeitet kontinuierlich an der Weiterentwicklung des Connector NAV, um zu gewährleisten, dass das Produkt stets für dieselbe ERP-Lösung bzw. Version einsetzbar ist, für die auch Microsoft Dynamics NAV Support leistet. Dazu gehört, dass der Connector NAV stets mit der aktuellen Version von Microsoft Dynamics NAV kompatibel ist. Für Kunden mit einem Wartungsvertrag werden die neuen Versionen und Hotfixe kostenlos zur Verfügung gestellt und sind im Support inbegriffen. Ausgenommen sind hierbei z.B. Dienstleistungen wie das Mergen von Objekten oder individuelle Anpassungen. Durch regelmäßige Updates des Connector NAV kann es dazu kommen, dass der Support älterer Connector NAV eingestellt wird. Dies wird vorab bekannt gegeben. Sollten Sie davon betroffen sein, können Sie sich über \u003ca href=\"/Documentation-Website-Test/mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e gerne über weitere Schritte informieren.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/videos/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema\u003c/p\u003e\n\u003ch4 id=\"einrichtung-und-versand\"\u003eEinrichtung und Versand\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ipoUXh64NiU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e"
+    }
+    ]
+}

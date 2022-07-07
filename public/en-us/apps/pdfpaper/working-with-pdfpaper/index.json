@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Working with PdfPaper on Connector 365 Online Help",
+    "description": "Recent content in Working with PdfPaper on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/working-with-pdfpaper/index.json",
+    "items" : [
+    {
+        "title" : "Using the stationery",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/working-with-pdfpaper/stationery/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/working-with-pdfpaper/stationery/",
+        "content_html" : "\u003ch3 id=\"working-with-the-pdfpaper-app\"\u003eWorking with the PdfPaper App\u003c/h3\u003e\n\u003ch3 id=\"using-the-stationery\"\u003eUsing the stationery\u003c/h3\u003e\n\u003cp\u003eOnce stored, the stationery is automatically remembered when PDFs are created. In doing so, we support any operation where a PDF is provided.\u003c/p\u003e\n\u003cp\u003eWe support the following reports\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003e\u003cstrong\u003eSales\u003c/strong\u003e\u003c/th\u003e\n\u003cth\u003e\u003cstrong\u003ePurchase\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eQuote\u003c/td\u003e\n\u003ctd\u003eInquiries\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eSales Order\u003c/td\u003e\n\u003ctd\u003ePurchase Order\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eBlanket purchase order\u003c/td\u003e\n\u003ctd\u003eBlanket sales order\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePost. sales invoice\u003c/td\u003e\n\u003ctd\u003eSales purchase invoice\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePost. sales credit memo\u003c/td\u003e\n\u003ctd\u003ePost. purchase credit memo\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eReg. Reminder\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eOur other apps that involve PDF creation also support the Connector 365 PdfPaper app:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eConnector 365 E-POST API\u003c/li\u003e\n\u003cli\u003eConnector 365 XRechnung\u003c/li\u003e\n\u003cli\u003eConnector 365 Easy Batch\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"preview-function\"\u003ePreview function\u003c/h4\u003e\n\u003cp\u003eBefore actually creating the PDF for the process, you have the option to preview it once. Select your document and then use the preview function via \u003cstrong\u003ePrint/Send\u003c/strong\u003e -\u0026gt; \u003cstrong\u003ePreview\u003c/strong\u003e. The finished document will now be displayed.\u003c/p\u003e\n"
+    }
+    ]
+}

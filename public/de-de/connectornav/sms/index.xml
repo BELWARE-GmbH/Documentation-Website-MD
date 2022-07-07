@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modul SMS on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/connectornav/sms/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/</link>
     <description>Recent content in Modul SMS on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/connectornav/sms/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Einrichtung</title>
-        <link>https://docs.belware.de/de-de/connectornav/sms/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/sms/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/setup/</guid>
         <description>Einrichtung: Nötig zur Einrichtung ist lediglich, dass Sie auf der Seite Konfiguration unter SMS Zieladresse, die Ihnen von Message Mobile zugewiesene Adresse hinterlegen. Sobald das geschehen ist können Sie SMS aus NAV versenden.</description>
       </item>
       
       <item>
         <title>Versand über Kontakte</title>
-        <link>https://docs.belware.de/de-de/connectornav/sms/send_via_contacts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/sms/send_via_contacts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_contacts/</guid>
         <description>Versand über Kontakte: Um SMS über die Kontakte zu versenden, öffnen Sie zunächst Ihre Kontaktübersicht und suchen den Kontakt an dem Sie die SMS senden wollen (wenn Sie mehrere SMS an mehrere Kontakte senden wollen, markieren Sie einfach alle Kontakte die eine SMS empfangen sollen.) Nachdem Sie den Kontakt gefunden und markiert haben, können den SMS-Dialog öffnen indem Sie auf den SMS-Knopf in der Menüleiste unter „Bericht“ klicken.
 Es öffnet sich ein neues Fenster, in dem Sie mit einer Übersicht mit allen wichtigen Parametern für Ihre SMS präsentiert werden.</description>
       </item>
       
       <item>
         <title>Versand über gebuchte Belege</title>
-        <link>https://docs.belware.de/de-de/connectornav/sms/send_via_receipts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_receipts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/sms/send_via_receipts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/send_via_receipts/</guid>
         <description>Versand über gebuchte Belege: Zunächst rufen Sie wie gewohnt Ihre gebuchten Belege auf. Anschließend wählen Sie z.B. gebuchte Verkaufsrechnungen auf. Dort angekommen, wählen Sie die Rechnung aus von der aus Sie eine SMS an den verknüpften Kontakt senden wollen. Anschließend klicken Sie in der Menüleiste unter „Vorgang“ auf den SMS-Knopf
 Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Kontakten. Von dort aus können Sie wieder einen 160 Zeichen Text versenden bzw.</description>
       </item>
       
       <item>
         <title>Message Mobile Kontaktdaten</title>
-        <link>https://docs.belware.de/de-de/connectornav/sms/message_mobile/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/message_mobile/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/sms/message_mobile/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/sms/message_mobile/</guid>
         <description>Message Mobile Kontaktdaten Message Mobile GmbH
 Stresemannstraße 6
 21335 Lüneburg

@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "First Steps on Connector 365 Online Help",
+    "description": "Recent content in First Steps on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Introduction",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/introduction/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/introduction/",
+        "content_html" : "\u003ch3 id=\"first-steps\"\u003eFirst steps\u003c/h3\u003e\n\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003cp\u003eThanks to the enhanced mail capabilities Microsoft Dynamics 365 Business Central received plenty of new Email functions which improves the experience when mailing directly from Dynamics 365 Business Central. Our Mail Plus apps aim to further improve that experience with quality of life functions that users might miss. To give easy access to these quality of life functions we have decided to roll them into one central app for users that desire the whole package of improvements - Mail Experience Plus.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Test \u0026 Purchase",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/test-purchase/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testing-and-purchasing-of-the-connector-365-mail-experience-plus-app\"\u003eTesting and purchasing of the Connector 365 Mail Experience Plus App\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources about testing and purchasing the Connector 365 Mail Experience Plus App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/mailexperienceplus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/installation/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-of-the-connector-365-mail-experience-plus-app\"\u003eInstallation of the Connector 365 Mail Experience Plus App\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources about installing the Connector 365 Mail Experience Plus App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/mailexperienceplus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Setup",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/setup/",
+        "content_html" : ""
+    }
+    ]
+}

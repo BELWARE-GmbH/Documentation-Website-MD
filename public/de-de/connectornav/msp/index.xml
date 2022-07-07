@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mail Sender Plus on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/connectornav/msp/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/</link>
     <description>Recent content in Mail Sender Plus on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/connectornav/msp/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Prioritäten</title>
-        <link>https://docs.belware.de/de-de/connectornav/msp/priorities/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/priorities/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/msp/priorities/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/priorities/</guid>
         <description>Prioritäten Standardmäßig gibt es im Connector NAV/365 BC zwei Stufen die wichtig sind:
-  Benutzerberichte
-  Benutzer Einrichtung
-  Beispiel: Ein ausgefülltes Absenderfeld in einem Benutzerbericht überschreibt die Einstellung pro Benutzer.</description>
+Benutzerberichte
+Benutzer Einrichtung
+Beispiel: Ein ausgefülltes Absenderfeld in einem Benutzerbericht überschreibt die Einstellung pro Benutzer.</description>
       </item>
       
       <item>
         <title>Benutzer einrichten</title>
-        <link>https://docs.belware.de/de-de/connectornav/msp/setup_user/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_user/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/msp/setup_user/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_user/</guid>
         <description>Einrichten einer SMTP Adresse pro Benutzer Zunächst müssen wir auf die Benutzer Einrichtung des gewünschten Nutzers zugreifen, um sicherzustellen, dass dort überhaupt bzw. die korrekte E-Mail-Adresse angegeben ist.
 Die Benutzereinrichtung für den Benutzer Max Mustermann
 Prüfen Sie ob das markierte E-Mail Feld (korrekt) ausgefüllt ist. Nehmen Sie ggf. Änderungen vor und schließen Sie die Benutzer Einrichtung anschließend. Öffnen Sie nun die Mail Sender Plus Einrichtung, welche im Connector NAV Menü zu finden ist.</description>
@@ -39,10 +39,10 @@ Prüfen Sie ob das markierte E-Mail Feld (korrekt) ausgefüllt ist. Nehmen Sie g
       
       <item>
         <title>Report einrichten</title>
-        <link>https://docs.belware.de/de-de/connectornav/msp/setup_report/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/msp/setup_report/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/setup_report/</guid>
         <description>Einrichten einer SMTP Adresse pro Bericht Sie haben auch die Möglichkeit eine bestimmte Adresse pro Bericht festzulegen. Öffnen Sie zunächst wieder die Mail Sender Plus Einrichtung. Dort werden wir nun eine Adresse hinterlegen, die immer im Rechnungsversand genutzt werden soll.
 Die Mail Sender Plus Einrichtung, ein neuer Eintrag wurde angelegt
 Nun öffnen Sie die Einrichtung der Benutzerberichte und öffnen Sie den Einstellungen für den gewünschten Bericht, in unserem Fall Rechnungen. Tragen Sie dort im Feld „E-Mail Absender“ die so eben in der Einrichtung hinterlegte Adresse ein.</description>
@@ -50,10 +50,10 @@ Nun öffnen Sie die Einrichtung der Benutzerberichte und öffnen Sie den Einstel
       
       <item>
         <title>Der Dialog</title>
-        <link>https://docs.belware.de/de-de/connectornav/msp/dialog/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/dialog/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/msp/dialog/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/msp/dialog/</guid>
         <description>Der Dialog Auch im Dialog haben Sie die Möglichkeit die Absenderadresse nochmal anzupassen, vorausgesetzt ist aber auch hier, dass die zu verwendende Adresse zuvor in der Mail Sender Plus Einrichtung hinterlegt wurde.
 Übersicht des Dialogs
 Ändern Sie dazu einfach die Adresse im „Email Absender“ Feld auf die von Ihnen gewünschte Adresse. Anschließend können Sie wie gewohnt den Dialog bestätigen</description>

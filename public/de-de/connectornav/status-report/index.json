@@ -2,23 +2,23 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Status reports on Connector 365 Online Hilfe",
     "description": "Recent content in Status reports on Connector 365 Online Hilfe",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/de-de/connectornav/status-report/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/index.json",
     "items" : [
     {
         "title" : "Die Konfiguration",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/connectornav/status-report/configuration/",
-        "url" : "https://docs.belware.de/de-de/connectornav/status-report/configuration/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/configuration/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/configuration/",
         "content_html" : "\u003ch4 id=\"die-konfiguration\"\u003eDie Konfiguration\u003c/h4\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/status/config.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eConnector NAV Einrichtung, Register Steuerung\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eIn der Connector NAV Einrichtung kann unter dem Reiter Steuerung eingestellt werden, wann eine Rückmeldung für den Fax- oder Mailversand versendet werden soll.\u003cbr /\u003e\n\u003cstrong\u003eDer Versand setzt eine Einrichtung des internen SMTP von Microsoft Dynamics NAV voraus\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eFolgende Optionen stehen zur Verfügung.\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eFeldbeschreibung\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u0026lt;\u0026gt;\u003c/td\u003e\n\u003ctd\u003eKein Rückmeldungsversand\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eImmer\u003c/td\u003e\n\u003ctd\u003eRückmeldung unabhängig nach Status.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e+\u003c/td\u003e\n\u003ctd\u003eRückmeldung für positive Vorgänge.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e-\u003c/td\u003e\n\u003ctd\u003eRückmeldung für negative Vorgänge.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n"
     },
     {
         "title" : "Benutzerbericht Einrichtung",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/connectornav/status-report/user_report_setup/",
-        "url" : "https://docs.belware.de/de-de/connectornav/status-report/user_report_setup/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/user_report_setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/status-report/user_report_setup/",
         "content_html" : "\u003ch4 id=\"die-connector-nav-benutzerbericht-einrichtung\"\u003eDie Connector NAV Benutzerbericht Einrichtung\u003c/h4\u003e\n\u003cp\u003eDas Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/status/ben_ber_einr.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eConnector NAV Benutzerbericht Einrichtung, Register Allgemein\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eFür das Versenden von Statusmeldungen wird ein Satz in der Benutzerberichts Einrichtung mit folgenden Parametern angelegt:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eFeldbeschreibung\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eBenutzer\u003c/td\u003e\n\u003ctd\u003eLeer.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eSprache\u003c/td\u003e\n\u003ctd\u003eLeer.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eBerichts ID\u003c/td\u003e\n\u003ctd\u003e0.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eBodytextdatei\u003c/td\u003e\n\u003ctd\u003eBodytextdatei für die Statusrückmeldung.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eHTML Bodytext\u003c/td\u003e\n\u003ctd\u003eJa, wenn der Bodytext eine HTML-Datei ist.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eBeispiel für einen Bodytext:\u003c/p\u003e\n\u003cp\u003eDer Job wurde nicht versendet. Bitte prüfen Sie den Vorgang.\u003c/p\u003e\n\u003cp\u003eFehler aus Rückmeldung: %17\u003cbr /\u003e\nJob-Nummer: %18\u003cbr /\u003e\nStatus: %19\u003cbr /\u003e\nBetreff: %21\u003c/p\u003e\n"
     }
     ]

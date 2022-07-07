@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rapidstart on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/rapidstart/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/</link>
     <description>Recent content in Rapidstart on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/rapidstart/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Importing the package</title>
-        <link>https://docs.belware.de/en-us/connectornav/rapidstart/install/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/install/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/rapidstart/install/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/install/</guid>
         <description>Importing the BELWARE RapidStart package Before you can use Rapidstart, you must first install the package we provide into your system. This is done with the help of RapidStart Services, which you can find either directly via the search function or Administration -&amp;gt; Application Setup. There, open the page for configuration packages.
 In the overview for the RapidStart Services you now have the possibility to import the package into your system via &amp;ldquo;Import Package&amp;rdquo;.</description>
       </item>
       
       <item>
         <title>Adjusting the spreadsheets</title>
-        <link>https://docs.belware.de/en-us/connectornav/rapidstart/adjust/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/adjust/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/rapidstart/adjust/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/adjust/</guid>
         <description>Adjusting the spreadsheets After importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the &amp;ldquo;Import to Excel&amp;rdquo; button.
 In Excel you now have a table with several sheets, relevant here are CON Field Selection Target Address, CON Communication Matrix &amp;amp; Matrix Target.
 In all tables you will find examples created by us, which should make the setup easier for you.</description>
@@ -37,10 +37,10 @@ In all tables you will find examples created by us, which should make the setup 
       
       <item>
         <title>Import and tranfer</title>
-        <link>https://docs.belware.de/en-us/connectornav/rapidstart/import/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/import/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/rapidstart/import/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/import/</guid>
         <description>Import of the finished spreadsheet &amp;amp; Datatransfer After you have made all the necessary adjustments to the spreadsheet, you can now save it and import it back into Business Central.
 So first open the program again and the RapidStart Services and its overview.
 Once there, select the &amp;ldquo;Import from Excel&amp;rdquo; option, select the saved Excel file and confirm the dialog.

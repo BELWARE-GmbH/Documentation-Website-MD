@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML in Word on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/html-word/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/</link>
     <description>Recent content in HTML in Word on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/html-word/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Create file</title>
-        <link>https://docs.belware.de/en-us/connectornav/html-word/create_file/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/create_file/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/html-word/create_file/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/create_file/</guid>
         <description>Create file First you have to create a file in HTML or HTM format, to do this open a new document and click on &amp;ldquo;File&amp;rdquo; &amp;ldquo;Save as&amp;rdquo;. Here, select a folder as the storage location and name the file &amp;ldquo;Bodytext_Mustermann&amp;rdquo; or &amp;ldquo;Newsletter_YYYY-MM&amp;rdquo;, for example. You must select &amp;ldquo;Web page (*.htm; *.html)&amp;rdquo; as the file type; &amp;ldquo;.htm&amp;rdquo; will then be automatically added after the file name.
 Before you save the file you must check wether the correct character encoding is set.</description>
       </item>
       
       <item>
         <title>Link pictures</title>
-        <link>https://docs.belware.de/en-us/connectornav/html-word/link_pics/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/link_pics/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/html-word/link_pics/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/link_pics/</guid>
         <description>Linking images If you want to create your HTML templates with Word, used images must be linked by URL in the document. Otherwise, they will not be displayed after being sent by e-mail.
 The images must first be made available at a suitable location, for example via an FTP program on a web server, preferably in .jpg or .png format. Once your image files are uploaded to the web server, you can copy the exact address (for example, &amp;ldquo;http://www.</description>
       </item>
       
       <item>
         <title>Body text</title>
-        <link>https://docs.belware.de/en-us/connectornav/html-word/bodytexts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/bodytexts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/html-word/bodytexts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/html-word/bodytexts/</guid>
         <description>Tabular body text A good way to design a body text clearly is to insert a table into the file and then take this as a basis for further editing. This also allows further design options such as highlighting different cells or variable placement of text/images.
-If wished, you must hide the border lines when you are done with your table. Place holder in body texts For an email body text template, you can use place holders for components that are individual to each employee, for example, name or email address.</description>
+If wished, you must hide the border lines when you are done with your table.Place holder in body texts For an email body text template, you can use place holders for components that are individual to each employee, for example, name or email address.</description>
       </item>
       
     

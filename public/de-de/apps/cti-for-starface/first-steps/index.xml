@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erste Schritte on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/</link>
     <description>Recent content in Erste Schritte on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Einleitung</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Die Telefonaktivitäten Ihrer Mitarbeiter zu kontrollieren kann aufwendig sein, ein ständiges Wechseln zwischen dem STARFACE Client und der Microsoft Dynamics 365 Business Central Umgebung verursacht einen Bruch im Workflow. Dieser Bruch lässt sich aber vehindern.
 Volle Kontrolle über Ihre STARFACE CTI
 Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365 Business Central Umgebung zu Ihrer CTI-Zentrale zu machen. Wir bieten Ihnen viele Möglichkeiten die Sie dabei unterstützt Ihre STARFACE-Lösung vollständig zu nutzen.</description>
@@ -27,10 +27,10 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
       
       <item>
         <title>Test &amp; Kauf</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/test-purchase/</guid>
         <description>Testen und kaufen der Connector 365 CTI for STARFACE App Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 CTI for STARFACE App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
@@ -38,10 +38,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
       
       <item>
         <title>Installation</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/installation/</guid>
         <description>Installation der Connector 365 CTI for STARFACE App Hier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 CTI for STARFACE App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
@@ -49,10 +49,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
       
       <item>
         <title>Einrichtung</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/</guid>
         <description>Einrichtungen der Connector 365 CTI for STARFACE App Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 CTI for STARFACE App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Setup on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/</link>
     <description>Recent content in Setup on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Document Layouts</title>
-        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-layouts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-layouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-layouts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-layouts/</guid>
         <description>Setup Setting up the document layouts In order to be able to use the Connector 365 Easy Batch App correctly, you must first set up the customers who want to receive documents in batch mode.
 Open the desired customer and navigate to the document layouts
 Navigate -&amp;gt; Document layouts
@@ -28,10 +28,10 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
       
       <item>
         <title>Document Sending Profile</title>
-        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
         <description>Setup Document Sending Profile The document send profile is a standard functionality of Microsoft Dynamics 365 Business Central.
 It is used to control the preferred method of sending sales documents. By default, the functionality is intended for use with &amp;ldquo;Post and Send&amp;rdquo;. However, with Connector 365 Easy Batch, document send profiles can also be used to control the batch function.
 Set up document send profiles To set up a document sending profile</description>

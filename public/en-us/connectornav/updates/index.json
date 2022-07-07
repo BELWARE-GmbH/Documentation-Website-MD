@@ -2,40 +2,48 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Updates on Connector 365 Online Help",
     "description": "Recent content in Updates on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/connectornav/updates/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/index.json",
     "items" : [
     {
         "title" : "To 31.12.2021",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2021/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2021/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2021/",
+        "content_html" : ""
+    },
+    {
+        "title" : "To 31.12.2022",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/",
         "content_html" : ""
     },
     {
         "title" : "To 31.12.2020",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/",
         "content_html" : ""
-    },
-    {
-        "title" : "To 31.12.2019",
-        "date_published" : "2020-02-28T10:08:56+09:00",
-        "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2019/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2019/",
-        "content_html" : "\u003ch3 id=\"new-update-points-between-01012019---31122019\"\u003eNew update points between 01.01.2019 - 31.12.2019.\u003c/h3\u003e\n\u003cp\u003eThe following features \u0026amp; hotfixes have been enhanced and corrected for you this year.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cConnector_NAV_Update_Sales_Overview_May_2019.pdf\"\u003eNew Features Version 160CU May 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cConnector_NAV_Update_Sales_Overview_July_2019.pdf\"\u003eInnovations version 160CU July 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cOperational_Overview_August_2019.pdf\"\u003eInnovations version 160CU August 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2019%5cOperational_Overview_September_2019.pdf\"\u003eChanges version 160CU September 2019\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/files%5cnewandplanned%5c2019%5cConnector_NAV_Update_Sales_Overview_December_2019.pdf\"\u003eNew features version 160CU December 2019\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThis is only information about enhancements \u0026amp; optimizations from 2019. You can find our current enhancements on the current year\u0026rsquo;s page.\u003c/p\u003e\n\u003cp\u003eIf you have any suggestions for improvements, please feel free to use our feedback form.\u003c/p\u003e\n"
     },
     {
         "title" : "To 31.12.2018",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2018/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2018/",
-        "content_html" : "\u003ch3 id=\"older-updates-until-31122018\"\u003eOlder updates until 31.12.2018\u003c/h3\u003e\n\u003cp\u003eThe following Connector NAV versions are no longer supported and have been discontinued:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eVersion \u0026lt; 00.125CU as of 12/31/2019\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.125 as of 12/31/2018\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.30 as of 12/31/2017\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.05 as of 12/31/2016\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;5.90 as of 12/31/2014\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;5.55 as of 12/31/2013\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIn the following section you will find an overview of the respective innovations in a version:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionVxxx160.pdf\"\u003eInnovations Version x.xx.160\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cChangesVersionV701125.pdf\"\u003eChanges version 7.01.125 CU\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60096.pdf\"\u003eInnovations version 6.00.96\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60055.pdf\"\u003eInnovations version 6.00.55\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60030.pdf\"\u003eInnovations version 6.00.30\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60005.pdf\"\u003eInnovations version 6.00.05\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/%5cfiles%5cnewandplanned%5c2018%5cEnhancementsVersionV590.pdf\"\u003eInnovations version 5.90\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIf you have any suggestions for improvement, please use our feedback form.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2018/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2018/",
+        "content_html" : "\u003ch3 id=\"older-updates-until-31122018\"\u003eOlder updates until 31.12.2018\u003c/h3\u003e\n\u003cp\u003eThe following Connector NAV versions are no longer supported and have been discontinued:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eVersion \u0026lt; 00.125CU as of 12/31/2019\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.125 as of 12/31/2018\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.30 as of 12/31/2017\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;00.05 as of 12/31/2016\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;5.90 as of 12/31/2014\u003c/li\u003e\n\u003cli\u003eVersion \u0026lt;5.55 as of 12/31/2013\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIn the following section you will find an overview of the respective innovations in a version:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/Documentation-Website-Test/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionVxxx160.pdf\"\u003eInnovations Version x.xx.160\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/Documentation-Website-Test/%5cfiles%5cnewandplanned%5c2018%5cChangesVersionV701125.pdf\"\u003eChanges version 7.01.125 CU\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/Documentation-Website-Test/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60096.pdf\"\u003eInnovations version 6.00.96\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/Documentation-Website-Test/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60055.pdf\"\u003eInnovations version 6.00.55\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/Documentation-Website-Test/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60030.pdf\"\u003eInnovations version 6.00.30\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/Documentation-Website-Test/%5cfiles%5cnewandplanned%5c2018%5cInnovationsVersionV60005.pdf\"\u003eInnovations version 6.00.05\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/Documentation-Website-Test/%5cfiles%5cnewandplanned%5c2018%5cEnhancementsVersionV590.pdf\"\u003eInnovations version 5.90\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIf you have any suggestions for improvement, please use our feedback form.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "To 31.12.2019",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2019/",
+        "content_html" : ""
     }
     ]
 }

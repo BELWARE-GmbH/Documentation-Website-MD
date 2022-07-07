@@ -2,31 +2,31 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Rapidstart on Connector 365 Online Help",
     "description": "Recent content in Rapidstart on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/connectornav/rapidstart/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/index.json",
     "items" : [
     {
         "title" : "Importing the package",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/rapidstart/install/",
-        "url" : "https://docs.belware.de/en-us/connectornav/rapidstart/install/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/install/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/install/",
         "content_html" : "\u003ch4 id=\"importing-the-belware-rapidstart-package\"\u003eImporting the BELWARE RapidStart package\u003c/h4\u003e\n\u003cp\u003eBefore you can use Rapidstart, you must first install the package we provide into your system. This is done with the help of RapidStart Services, which you can find either directly via the search function or Administration -\u0026gt; Application Setup. There, open the page for configuration packages.\u003c/p\u003e\n\u003cp\u003eIn the overview for the RapidStart Services you now have the possibility to import the package into your system via \u0026ldquo;Import Package\u0026rdquo;.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/import.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIn the dialog that opens afterwards you have to select the package we have provided.\u003c/p\u003e\n\u003cp\u003eIn our package you will find a sample setup for the communication matrix and the additional destination addresses in it, as well as a complete setup of the destination address matrix.\u003c/p\u003e\n"
     },
     {
         "title" : "Adjusting the spreadsheets",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/rapidstart/adjust/",
-        "url" : "https://docs.belware.de/en-us/connectornav/rapidstart/adjust/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/adjust/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/adjust/",
         "content_html" : "\u003ch4 id=\"adjusting-the-spreadsheets\"\u003eAdjusting the spreadsheets\u003c/h4\u003e\n\u003cp\u003eAfter importing the package, the communication martix must now be filled in, for this it has to be exported first. This is done via the \u0026ldquo;Import to Excel\u0026rdquo; button.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/anpassen.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIn Excel you now have a table with several sheets, relevant here are CON Field Selection Target Address, CON Communication Matrix \u0026amp; Matrix Target.\u003c/p\u003e\n\u003cp\u003eIn all tables you will find examples created by us, which should make the setup easier for you. It is important that you delete them before importing. Since only contacts can be taken over, which already exist in your system.\u003c/p\u003e\n\u003cp\u003eCON Field selection destination address contains the destination address matrix, there you can define from which fields the destination addresses are drawn.\u003c/p\u003e\n\u003cp\u003eIn CON Communication Matrix you find the actual communication matrix here you can store your contacts and control the destination addresses by job mode. The fields Target Address 2 \u0026amp; 3 do not have to be filled in, because they can be filled in more detailed and unlimited in the Matrix Target table.\u003c/p\u003e\n\u003cp\u003eMatrix Target gives you the possibility to add more target addresses to a contact by job mode.\u003c/p\u003e\n\u003cp\u003eMore detailed info about the Matrix function can be found in the documentation for the Communication Matrix.\u003c/p\u003e\n"
     },
     {
         "title" : "Import and tranfer",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/rapidstart/import/",
-        "url" : "https://docs.belware.de/en-us/connectornav/rapidstart/import/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/import/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/rapidstart/import/",
         "content_html" : "\u003ch4 id=\"import-of-the-finished-spreadsheet--datatransfer\"\u003eImport of the finished spreadsheet \u0026amp; Datatransfer\u003c/h4\u003e\n\u003cp\u003eAfter you have made all the necessary adjustments to the spreadsheet, you can now save it and import it back into Business Central.\u003c/p\u003e\n\u003cp\u003eSo first open the program again and the RapidStart Services and its overview.\u003c/p\u003e\n\u003cp\u003eOnce there, select the \u0026ldquo;Import from Excel\u0026rdquo; option, select the saved Excel file and confirm the dialog.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/import.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eAfterwards another dialog will open, click on import, this will start the import process. Now confirm the two dialogs that open with Yes.\u003c/p\u003e\n\u003cp\u003eNow you are ready to import your package, click on the button \u0026ldquo;Import package\u0026rdquo; and confirm the dialog with Yes. After a short time the process should be finished and show you a final report.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/rapidstart/uebernahme.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eNow check the communication matrix to ensure everything has been transferred.\u003c/p\u003e\n"
     }
     ]

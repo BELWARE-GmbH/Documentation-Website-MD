@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Neu und geplant on Connector 365 Online Hilfe",
+    "description": "Recent content in Neu und geplant on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/index.json",
+    "items" : [
+    {
+        "title" : "V1.0.0.3 \u0026 Roadmap",
+        "date_published" : "2022-05-16T15:07:00+09:00",
+        "date_modified" : "2022-05-16T15:07:00+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1003\"\u003eVersion 1.0.0.3\u003c/h3\u003e\n\u003cp\u003eNeue Funktionen:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMergen von mehreren PDF-Dateien zu einer einzigen\u003c/li\u003e\n\u003cli\u003eAutomatisches Drehen von PDF-Dateien, wenn diese im Querformat vorhanden sind\u003c/li\u003e\n\u003cli\u003eAktionsknöpfe, um Briefpapier per Knopfdruck wieder zu entfernen\u003c/li\u003e\n\u003cli\u003eBriefpapier global unter Firmendaten einrichtbar\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eKorrekturen:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eKorrekter Dateiname bei der Vorschau von Briefpapieren\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIntegration von PDF/A-Funktion\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.0 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eHinterlegen von Briefpapier pro Bericht \u0026amp; Debitor\u003c/li\u003e\n\u003cli\u003eAnlegen von mehreren Briefpapieren\u003c/li\u003e\n\u003cli\u003eVorschaufunktion\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eWeitere Funktionen aus Modul PdfPaper\u003c/li\u003e\n\u003cli\u003eGlobales Briefpapier in Firmendaten\u003c/li\u003e\n\u003cli\u003eBriefpapier je Mandant\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

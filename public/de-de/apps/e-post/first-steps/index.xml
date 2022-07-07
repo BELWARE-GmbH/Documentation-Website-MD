@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erste Schritte on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/apps/e-post/first-steps/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/</link>
     <description>Recent content in Erste Schritte on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/apps/e-post/first-steps/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Einleitung</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/introduction/</guid>
         <description>Erste Schritte Schneller hybrider Versand mit der Connector 365 E-POST App Der Bedarf an postalischen Belegempfang ist immer noch allgegenwärtig. Was heißt das für meine ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Belege im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Ersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Belege kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
       </item>
       
       <item>
         <title>Test &amp; Kauf</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/test-purchase/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/test-purchase/</guid>
         <description>Testen und kaufen der Connector 365 E-POST App Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 E-POST App*.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
@@ -37,20 +37,20 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
       
       <item>
         <title>Registrierung</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/registration/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/registration/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/registration/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/registration/</guid>
         <description>Erste Schritte Registrierung Um die Connector 365 E-POST App* zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie hier aber auch direkt in der Connector 365 E-POST App.
-Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der Deutschen Post. Wenden Sie sich dafür einfach an support@belware.de  Im Formular für die Registrierung werden verschiedene Kontaktinformationen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher sicher, dass Sie sich als Geschäftskunde registrieren.</description>
+Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der Deutschen Post. Wenden Sie sich dafür einfach an service@belware.de.Im Formular für die Registrierung werden verschiedene Kontaktinformationen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher sicher, dass Sie sich als Geschäftskunde registrieren.</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/installation/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/installation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/installation/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/installation/</guid>
         <description>Installation der Connector 365 E-POST App Hier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 E-POST App*.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
@@ -59,10 +59,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
       
       <item>
         <title>Einrichtung</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/first-steps/setup/</guid>
         <description>Einrichtungen der Connector 365 E-POST App Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 E-POST App*.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.

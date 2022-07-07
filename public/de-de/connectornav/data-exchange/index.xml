@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Einrichtung &amp; Benutzung von PEPPOL &amp; XRechnung on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/connectornav/data-exchange/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/</link>
     <description>Recent content in Einrichtung &amp; Benutzung von PEPPOL &amp; XRechnung on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/connectornav/data-exchange/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>PEPPOL via Connector 365BC</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/peppol/</guid>
         <description>PEPPOL via Connector 365BC Über PEPPOL (Pan-European Public Procurement OnLine) lassen sich aus Belegen XML-Dateien erstellen, welche der Empfänger in Dynamics NAV einlesen kann und dort automatisch verarbeitet werden.</description>
       </item>
       
       <item>
         <title>XRechnung via Connector 365BC</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/</guid>
         <description>Einführung XRechnung Ab dem 27.11.2020 müssen Lieferanten öffentlicher Auftraggeber Rechnungen in dem sogenannten XRechnung-Format versenden. Bei diesem Format handelt es sich um ein XML-basiertes Datenmodell, das aktuell als Standard für elektronische Rechnungen etabliert wird.
 Das Modul XRechnung für Dynamics NAV / 365 Business Central ist in der Lage, solche elektronischen Rechnungen im XRechnung-Standard zu erzeugen.</description>
       </item>

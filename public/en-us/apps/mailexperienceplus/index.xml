@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mail Experience Plus on Connector 365 Online Help</title>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/</link>
+    <description>Recent content in Mail Experience Plus on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>First Steps</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/first-steps/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>New and planned</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/new-and-planned/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Working with Mail Experience Plus</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/working-with-mep/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/working-with-mep/</guid>
+        <description>Working with Mail Experience Plus The Connector 365 Mail Experience Plus app combines the 3 apps from our Mail Plus series into one power app. Below we provide information on how to use each area.
+Mail Subject Plus area The Mail Subject Plus area is there to add your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.
+Working with Subject</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailexperienceplus/videos/</guid>
+        <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic</description>
+      </item>
+      
+    
+  </channel>
+</rss>

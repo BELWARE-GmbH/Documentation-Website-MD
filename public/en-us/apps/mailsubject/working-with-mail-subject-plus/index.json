@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Arbeiten mit Mail Subject Plus on Connector 365 Online Help",
+    "description": "Recent content in Arbeiten mit Mail Subject Plus on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/working-with-mail-subject-plus/index.json",
+    "items" : [
+    {
+        "title" : "Subject in the mail dialog",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/working-with-mail-subject-plus/maildialogue/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/mailsubject/working-with-mail-subject-plus/maildialogue/",
+        "content_html" : "\u003ch3 id=\"working-with-mail-subject-plus\"\u003eWorking with Mail Subject Plus\u003c/h3\u003e\n\u003ch3 id=\"subject-in-mail-dialog\"\u003eSubject in mail dialog\u003c/h3\u003e\n\u003cp\u003eAfter you have set up - Whether in document layouts or report selection. You are now ready to actively use your previously defined subject(s).\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/subjectmail1en.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eFirst open one of the reports you have set up and then open the desired document (if applicable, that of a customer/vendor you have set up). Now click on \u003cstrong\u003e\u0026ldquo;Print/Send \u0026ldquo;\u003c/strong\u003e -\u0026gt; \u003cstrong\u003e\u0026ldquo;Send by e-mail \u0026ldquo;\u003c/strong\u003e. The dialog for sending the e-mail will open and instead of the standard subject you will now find the new subject defined by you.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/subjectmail2en.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIf you want to, you can still change it.\u003c/p\u003e\n\u003cp\u003eIf necessary, change other settings in the dialog and send your e-mail as usual.\u003c/p\u003e\n"
+    }
+    ]
+}

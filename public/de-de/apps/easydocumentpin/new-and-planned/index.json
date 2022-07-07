@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Neu und geplant on Connector 365 Online Hilfe",
+    "description": "Recent content in Neu und geplant on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/index.json",
+    "items" : [
+    {
+        "title" : "V1.0.0.0 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatisches Anhängen von angemahnten Rechnungen an Mahnungen bei Versand\u003c/li\u003e\n\u003cli\u003eSteuerung des Versands nach Mahnstufe\u003c/li\u003e\n\u003cli\u003eSteuerung des Versands nach Mahnmethode\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatisches Anhängen von Lieferscheinen\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

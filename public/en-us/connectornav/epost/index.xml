@@ -2,55 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-Post module on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/epost/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/</link>
     <description>Recent content in E-Post module on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/epost/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Application example</title>
-        <link>https://docs.belware.de/en-us/connectornav/epost/example/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/epost/example/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/example/</guid>
         <description>Application example Sending E-Post letters from Dynamics NAV is possible from any page, the following is an example of a Geb. sales invoice.
 Example Invoice Connector NAV Integration
-   Actions      E-POST With this action you send the E-POST.   PDF With this action you create the PDF.   Status This action takes you to the job list and the corresponding entry.   History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+Actions E-POST With this action you send the E-POST. PDF With this action you create the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
       </item>
       
       <item>
         <title>The dialog</title>
-        <link>https://docs.belware.de/en-us/connectornav/epost/dialog/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/dialog/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/epost/dialog/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/dialog/</guid>
         <description>The dialog Actions Dialog Mode Email, Actions
-   Actions      View attachments 1-4 This action allows you to view the selected attachments.   Add files Via this action you can select additional files to be sent as attachments.   Show Documents Via this action you can view the added documents as a list.    Register General Dialog Mode E-POST, Register General</description>
+Actions View attachments 1-4 This action allows you to view the selected attachments. Add files Via this action you can select additional files to be sent as attachments. Show Documents Via this action you can view the added documents as a list. Register General Dialog Mode E-POST, Register General
+field description Job No. Unique job number, assigned by the Connector NAV. UserID Current login Report Name The report name assigned to the report.</description>
       </item>
       
       <item>
         <title>E-POST Summary</title>
-        <link>https://docs.belware.de/en-us/connectornav/epost/summary/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/summary/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/epost/summary/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/summary/</guid>
         <description>E-Post Summary For companies with a high volume of postal items, the &amp;ldquo;Summary&amp;rdquo; function is available. This allows individual documents to be combined into a larger mailing. In this way, further savings can be achieved.
 Set up task queue In order for the function to work as intended, you must first set up a separate task queue for the Summary function. So open the task queue items and create a new queue item.</description>
       </item>
       
       <item>
         <title>E-Post status request</title>
-        <link>https://docs.belware.de/en-us/connectornav/epost/status/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/status/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/epost/status/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/epost/status/</guid>
         <description>E-Post status request As soon as you have made a dispatch by E-Post, you will notice that there is no status for the corresponding entry in the job list yet.
 To get the status for sent E-Post API letters, it is recommended to set up a task queue for it as well. This requires a similar procedure as for the E-Post Summary queue. To do this, open the Task Queue Item page and create a new queue item.</description>
       </item>

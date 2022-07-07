@@ -2,8 +2,8 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Impressum on Connector 365 Online Hilfe",
     "description": "Recent content in Impressum on Connector 365 Online Hilfe",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/de-de/legalnotice/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/legalnotice/index.json",
     "items" : [
     ]
 }

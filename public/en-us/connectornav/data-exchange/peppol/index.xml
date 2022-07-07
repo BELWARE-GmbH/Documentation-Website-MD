@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PEPPOL via Connector 365BC on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/</link>
     <description>Recent content in PEPPOL via Connector 365BC on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/data-exchange/peppol/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Setting PEPPOL</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/settings/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/settings/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/settings/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/settings/</guid>
         <description>Setting PEPPOL in the Communication Matrix First go to the communication matrix and fill it as usual for the correct report and the customer who should receive a document in PEPPOL format.
 Then in the &amp;ldquo;PEPPOL Usage&amp;rdquo; column select the report in which PEPPOL should be used, currently we only support sales invoices and sales credit memos. If you want to turn off PEPPOL for a customer, simply select &amp;ldquo;No&amp;rdquo; here.</description>
       </item>
       
       <item>
         <title>Sending via e-mail</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/send_email/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/send_email/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/send_email/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/send_email/</guid>
         <description>Sending a PEPPOL XML via e-mail After you have made the intended settings, you can send your PEPPOL files. In our example we use Geb. sales invoices. First select an invoice for a customer for whom PEPPOL is activated.
 Overview Dialog Mail.
 Now click on the button for sending an email. Now you already have the possibility to check if the PEPPOL file was created successfully. To do this, click on the &amp;ldquo;View files&amp;rdquo; area in the ribbon.</description>
@@ -37,21 +37,21 @@ Now click on the button for sending an email. Now you already have the possibili
       
       <item>
         <title>Creation of a PEPPOL-XML</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/create_xml/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/create_xml/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/create_xml/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/create_xml/</guid>
         <description>Creating a pure PEPPOL XML via the PDF job mode. First you have to go to the pdfPaper setup to fill in the storage path for the created PEPPOL-XMLs. This can be found under &amp;ldquo;Peppol storage folder&amp;rdquo;. It is important here that there is an authorization to store files in the path. Therefore we recommend to create an additional folder in the T611 structure of the Connector NAV, for example &amp;ldquo;com_peppol&amp;rdquo;.</description>
       </item>
       
       <item>
         <title>PEPPOL in standard</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/standard/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/standard/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/standard/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/standard/</guid>
         <description>Peppol in the standard PEPPOL documents can also be created in the standard Microsoft Dynamics NAV/365 BC. However, only from version 2016 upwards. The version options are as follows:
-         As of Dynamics NAV 2016 PEPPOL 2.0   As of Dynamics NAV 2016 PEPPOL 2.1   As of Business Central 14 PEPPOL 3.0    For more information on how to use PEPPOL in the standard, please refer to official documentation from Microsoft, such as</description>
+As of Dynamics NAV 2016 PEPPOL 2.0 As of Dynamics NAV 2016 PEPPOL 2.1 As of Business Central 14 PEPPOL 3.0 For more information on how to use PEPPOL in the standard, please refer to official documentation from Microsoft, such as</description>
       </item>
       
     

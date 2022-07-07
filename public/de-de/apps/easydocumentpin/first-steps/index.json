@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Erste Schritte on Connector 365 Online Hilfe",
+    "description": "Recent content in Erste Schritte on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Einleitung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/introduction/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/introduction/",
+        "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eWenn Sie Mahnungen an Ihre Kunden verschicken, stellen Sie oft fest, dass diese nach Erhalt der Mahnung eine Kopie der betreffenden Rechnung(en) anfordern. Dies führt zu einer Folge-E-Mail, in der jede Rechnung einzeln in ein PDF-Dokument umgewandelt und dann angehängt werden muss. Dieses Verfahren ist nicht nur fehleranfällig, sondern auch ineffizient.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eKeine Folge-E-Mails zur Anforderung von Dateien mehr\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eMit Connector 365 Easy Document Pin gehören Nachfass-E-Mails der Vergangenheit an. Nach einer einfachen Einrichtung fügt die App die angemahnten Rechnungen automatisch an die E-Mail an, wenn die Mahnung versendet wird. So wird der Prozess effizienter und der Kunde erhält einen schnellen Überblick, welche Rechnungen bezahlt werden müssen.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDas Setup kann an die Bedürfnisse Ihres Unternehmens angepasst werden\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eLegen Sie pro Mahnmethode fest, nach welcher Mahnstufe die Rechnungen automatisch angehängt werden sollen. Eine Importfunktion macht die Einrichtung noch schneller.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Test \u0026 Kauf",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-easy-document-pin-app\"\u003eTesten und kaufen der Connector 365 Easy Document Pin App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Easy Document Pin App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Einrichtung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/setup/",
+        "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einrichtung\"\u003eEinrichtung\u003c/h3\u003e\n\u003ch5 id=\"berechtigungssätze\"\u003eBerechtigungssätze\u003c/h5\u003e\n\u003cp\u003eBevor Sie mit der Einrichtung beginnen, müssen Sie den Nutzern der App, neue Berechtigungssätze vergeben. Dabei stellen wir die folgenden zur Verfügung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eCON365, VIEW\u003c/strong\u003e\u003cbr /\u003e\nDieser erlaubt Nutzern grundsätzlich mit der App zu interagieren und Belege mit automatischen Anhängen zu versenden.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eCON365, EDIT\u003c/strong\u003e\u003cbr /\u003e\nIm Fall der Easy Document Pin App, bietet dieser Satz die gleichen Berechtigungen wie \u003cstrong\u003eVIEW\u003c/strong\u003e\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eCON365, SETUP\u003c/strong\u003e\u003cbr /\u003e\nDieser Berechtigungssatz ist notwendig um Änderungen an der Einrichtung der App vorzunehmen und sollte dem Administrator zugewiesen werden.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch5 id=\"connector-365-einrichtung\"\u003eConnector 365 Einrichtung\u003c/h5\u003e\n\u003cp\u003eÖffnen Sie die Suchfunktion und suchen Sie nach der \u003cstrong\u003eConnector 365 Einrichtung\u003c/strong\u003e und öffnen Sie diese. Im Fenster der Einrichtung gibt es einen eigenen Bereich für die Connector 365 Easy Document Pin App.\u003c/p\u003e\n\u003cp\u003eDie Einrichtung lässt sich auf zwei Stufen einrichten - \u003cstrong\u003eGlobal\u003c/strong\u003e oder pro \u003cstrong\u003eMahnmethode\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/edpsetupde.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGlobal\u003c/strong\u003e\u003cbr /\u003e\nUm den automatischen Versand von angemahnten Rechnungen \u003cstrong\u003eglobal\u003c/strong\u003e einzuschalten, setzen Sie den Haken bei \u003cstrong\u003eRechnungsbeleg bei Mahnungsversand anhängen [Global]\u003c/strong\u003e, danach müssen Sie noch unter \u003cstrong\u003eRechnungsbeleg anhängen bei Mahnstufe [Global]\u003c/strong\u003e festlegen ab wann die Rechnungen automatisch mitversendet werden.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eMahnmethode\u003c/strong\u003e\u003cbr /\u003e\nWenn Sie lieber eine Einrichtung je \u003cstrong\u003eMahnmethode\u003c/strong\u003e wünschen, setzen Sie den Haken in der globalen Einrichtung nicht, dies erlaubt das bearbeiten der \u003cstrong\u003eEinrichtung pro Mahnmethode\u003c/strong\u003e. Klicken Sie auf \u003cstrong\u003eEinrichtung pro Mahnmethode\u003c/strong\u003e und anschließend auf \u003cstrong\u003eMahnmethodenzeilen aktualisieren\u003c/strong\u003e, um automatisch Ihre Mahnmethoden in die Zeilen der Tabelle zu kopieren. Anschließen müssen Sie noch festlegen, ab welcher Mahnstufe Rechnungen angehängt werden und ob diese überhaupt angehängt werden sollen, für den Fall, dass Sie Mahnmethoden haben bei denen ein automatischer Versand nicht gewünscht ist.\u003c/p\u003e\n\u003cp\u003eNachdem Sie die Einrichtung abgeschlossen haben, können Sie anfangen, mit Easy Document Pin zu arbeiten.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-der-connector-365-easy-document-pin-app\"\u003eInstallation der Connector 365 Easy Document Pin App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Easy Document Pin App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/easydocumentpin/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

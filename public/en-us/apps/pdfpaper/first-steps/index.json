@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "First steps on Connector 365 Online Help",
+    "description": "Recent content in First steps on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Introduction",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/introduction/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/introduction/",
+        "content_html" : "\u003ch3 id=\"first-steps\"\u003eFirst steps\u003c/h3\u003e\n\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003cp\u003eWith the Connector 365 PdfPaper App, you can apply your high-quality stationery with your CI to your digital documents without the need for time-consuming report adjustments - these are no longer necessary.\u003c/p\u003e\n\u003cp\u003eThe Connector 365 PdfPaper App allows you to store your own stationery for each report and also for each customer. Before sending your documents, you can still check the final result using the preview function.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Test \u0026 Purchase",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/test-purchase/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"test-and-purchase-the-connector-365-mail-pdfpaper-app\"\u003eTest and purchase the Connector 365 Mail PdfPaper App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and tips for testing and purchasing the Connector 365 PdfPaper app.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/pdfpaper/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/installation/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installing-the-connector-365-pdfpaper-app\"\u003eInstalling the Connector 365 PdfPaper App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to install the Connector 365 PdfPaper App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/pdfpaper/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Setup",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/",
+        "content_html" : "\u003ch3 id=\"setting-up-the-connector-365-pdfpaper-app\"\u003eSetting up the Connector 365 PdfPaper App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and notes on setting up the Connector 365 PdfPaper App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered for you, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/Documentation-Website-Test/en-us/apps/pdfpaper/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

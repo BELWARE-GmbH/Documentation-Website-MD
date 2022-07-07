@@ -2,52 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neu und geplant on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/</link>
     <description>Recent content in Neu und geplant on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
+        <title>V1.1.0.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
-        <description>Neu und geplant Version 1.0.1.3  Warnung beim schließen des CTI-Clients Änderung der Einrichtung des Moduls  Geplante Funktionen für zukünftige Versionen  Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/</guid>
+        <description>Neu und geplant Version 1.1.0.0 Neue Optionen in der Nutzereinrichtung Anrufrichtung für das öffnen der CTI-Seite Zeitpunkt des öffnens der Karte Verhalten bei nicht vorhandenem Kontakt Neue Einrichtung des Moduls für STARFACE ab Version 7.x. Geplante Funktionen für zukünftige Versionen Anpassung der Jobliste passend zur App Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.8 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</guid>
+        <description>Neu und geplant Version 1.0.1.8 Die Telefonnotizen lassen sich nun im Nachhinein bearbeiten. Es lässt sich einstellen wann sich die CTI-Karte öffnet. Geplante Funktionen für zukünftige Versionen Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
+        <description>Neu und geplant Version 1.0.1.3 Warnung beim schließen des CTI-Clients Änderung der Einrichtung des Moduls Geplante Funktionen für zukünftige Versionen Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
       </item>
       
       <item>
         <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.1  CTI Status im Rollencenter Button zum öffnen des CTI Clients im Rollencenter Automatisches konvertieren von Telefonnummern Frei setzbare CTI-Seite Webdienst wird automatisch generiert  Geplante Funktionen für zukünftige Versionen  Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.1 CTI Status im Rollencenter Button zum öffnen des CTI Clients im Rollencenter Automatisches konvertieren von Telefonnummern Frei setzbare CTI-Seite Webdienst wird automatisch generiert Geplante Funktionen für zukünftige Versionen Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
       </item>
       
       <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central  Geplante Funktionen für zukünftige Versionen  Rollencenter verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0 Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central Geplante Funktionen für zukünftige Versionen Rollencenter verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen </description>
       </item>
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1  Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs  Geplante Funktionen für zukünftige Versionen  Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Rollencenter Unbekannte Nummern bei eingehenden Anrufen anzeigen  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1 Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs Geplante Funktionen für zukünftige Versionen Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Rollencenter Unbekannte Nummern bei eingehenden Anrufen anzeigen </description>
       </item>
       
     

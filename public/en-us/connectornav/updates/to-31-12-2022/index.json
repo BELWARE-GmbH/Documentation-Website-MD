@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "To 31.12.2022 on Connector 365 Online Help",
+    "description": "Recent content in To 31.12.2022 on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/index.json",
+    "items" : [
+    {
+        "title" : "January",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/january/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2022/january/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eSchematron for XInvoice has been updated to version 2.1.\u003c/li\u003e\n\u003cli\u003eCommission settlements are now connected to the Connector NAV.\u003c/li\u003e\n\u003cli\u003eFile links in the DoJob function can now be pre-populated.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe function that automatically starts the CTI client is skipped if there is no CTI license.\u003c/li\u003e\n\u003cli\u003eOptimization of the key row in connection with the comment function in the job list.\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

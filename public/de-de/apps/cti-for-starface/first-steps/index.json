@@ -2,40 +2,40 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Erste Schritte on Connector 365 Online Hilfe",
     "description": "Recent content in Erste Schritte on Connector 365 Online Hilfe",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/index.json",
     "items" : [
     {
         "title" : "Einleitung",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/",
-        "url" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/introduction/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/introduction/",
         "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eDie Telefonaktivitäten Ihrer Mitarbeiter zu kontrollieren kann aufwendig sein, ein ständiges Wechseln zwischen dem STARFACE Client und der Microsoft Dynamics 365 Business Central Umgebung verursacht einen Bruch im Workflow. Dieser Bruch lässt sich aber vehindern.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eVolle Kontrolle über Ihre STARFACE CTI\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eMit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365 Business Central Umgebung zu Ihrer CTI-Zentrale zu machen. Wir bieten Ihnen viele Möglichkeiten die Sie dabei unterstützt Ihre STARFACE-Lösung vollständig zu nutzen. Unsere Features unterstützen Sie dabei einen schnellen Überblick über Ihre Anrufszeit zu erlangen, so können minutengenaue Dienstleistungen in Ihrer Rechnung erfasst werden. Ebenfalls können Sie mit uns Ihr Vertriebspersonal entlasten indem sich automatisch die Kontaktkarte von Anrufern öffnet und Anrufe direkt aus der Kontaktkarte starten.\u003c/p\u003e\n"
     },
     {
         "title" : "Test \u0026 Kauf",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/",
-        "url" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/",
-        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-cti-for-starface-app\"\u003eTesten und kaufen der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/test-purchase/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-cti-for-starface-app\"\u003eTesten und kaufen der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Installation",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/",
-        "url" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/",
-        "content_html" : "\u003ch3 id=\"installation-der-connector-365-cti-for-starface-app\"\u003eInstallation der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/installation/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-der-connector-365-cti-for-starface-app\"\u003eInstallation der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Einrichtung",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/",
-        "url" : "https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/",
-        "content_html" : "\u003ch3 id=\"einrichtungen-der-connector-365-cti-for-starface-app\"\u003eEinrichtungen der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/first-steps/setup/",
+        "content_html" : "\u003ch3 id=\"einrichtungen-der-connector-365-cti-for-starface-app\"\u003eEinrichtungen der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }

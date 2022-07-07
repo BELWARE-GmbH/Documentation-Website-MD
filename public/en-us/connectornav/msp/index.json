@@ -2,39 +2,39 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Mail Sender Plus on Connector 365 Online Help",
     "description": "Recent content in Mail Sender Plus on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/connectornav/msp/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/index.json",
     "items" : [
     {
         "title" : "Priorities",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/msp/priorities/",
-        "url" : "https://docs.belware.de/en-us/connectornav/msp/priorities/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/priorities/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/priorities/",
         "content_html" : "\u003ch4 id=\"priorities\"\u003ePriorities\u003c/h4\u003e\n\u003cp\u003eBy default, in Connector NAV/365 BC there are two levels that are important:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eUser reports\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eUser setup\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eExample:\u003c/strong\u003e \u003cem\u003eA filled in sender field in a user report overrides the per user setting.\u003c/em\u003e\u003c/p\u003e\n"
     },
     {
         "title" : "User setup",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/msp/setup_user/",
-        "url" : "https://docs.belware.de/en-us/connectornav/msp/setup_user/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/setup_user/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/setup_user/",
         "content_html" : "\u003ch4 id=\"setup-of-an-smtp-adress-per-user\"\u003eSetup of an SMTP adress per user\u003c/h4\u003e\n\u003cp\u003eFirst of all, we need to access the intended user\u0026rsquo;s user setup to make sure that the correct email address is specified there.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ben.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eThe user setup for the user Max Mustermann\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eCheck if the marked e-mail field is filled in (correctly). Make any necessary changes and then close the user setup. Now open the Mail Sender Plus setup, which can be found in the Connector NAV menu.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ben1.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eOverview of the E-Mail Sender Plus function with opened setup\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eIn the Mail Sender Plus setup, you must now create a new entry using the \u0026ldquo;New\u0026rdquo; button. A new window will open where you have to enter the address of the SMTP account you want to use together with the related password. Therefore the setup for this user is completed and you can now close the window.\u003c/p\u003e\n\u003cp\u003eIf an e-mail dispatch is now triggered by the configured user in a report in which no deviating address was stored per user report, the address just stored is used for the dispatch.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ben2.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eThe dialog for the mail dispatch\u003c/center\u003e\u003c/p\u003e\n"
     },
     {
         "title" : "Report setup",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/msp/setup_report/",
-        "url" : "https://docs.belware.de/en-us/connectornav/msp/setup_report/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/setup_report/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/setup_report/",
         "content_html" : "\u003ch4 id=\"set-up-an-smtp-address-per-report\"\u003eSet up an SMTP address per report\u003c/h4\u003e\n\u003cp\u003eYou also have the option to set a specific address per report. First, open the Mail Sender Plus setup again. There we will now store an address that will always be used in the invoice dispatch.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ber.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eThe Mail Sender Plus setup, a new entry was created\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eNow open the User Reports setup and open the settings for the intended report, in our case Invoices. In the \u0026ldquo;E-mail sender\u0026rdquo; field, enter the address you just entered in the setup. Then make sure that SMTP is selected for \u0026ldquo;Send via\u0026rdquo;.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/smtp_ber1.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eOverview of the user report setup\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eIf the e-mail dispatch is now triggered for an invoice, the address invoices@belware.de stored here is always used for the dispatch.\u003c/p\u003e\n"
     },
     {
         "title" : "The Dialog",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/msp/dialog/",
-        "url" : "https://docs.belware.de/en-us/connectornav/msp/dialog/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/dialog/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/msp/dialog/",
         "content_html" : "\u003ch4 id=\"the-dialog\"\u003eThe Dialog\u003c/h4\u003e\n\u003cp\u003eAlso in the dialog you have the possibility to adjust the sender address again, provided that the address to be used was previously stored in the Mail Sender Plus setup.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/msp/dialog.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eOverview of the dialog\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eSimply change the address in the \u0026ldquo;Email sender\u0026rdquo; field to the address you intended. Afterwards you can confirm the dialog as usual.\u003c/p\u003e\n"
     }
     ]

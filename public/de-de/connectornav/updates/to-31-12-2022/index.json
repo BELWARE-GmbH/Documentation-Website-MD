@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Bis 31.12.2022 on Connector 365 Online Hilfe",
+    "description": "Recent content in Bis 31.12.2022 on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/index.json",
+    "items" : [
+    {
+        "title" : "Januar",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/january/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2022/january/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDer Schematron für die XRechnung wurde auf die Version 2.1 geupdatet.\u003c/li\u003e\n\u003cli\u003eProvisionsabrechnungen sind jetzt an den Connector NAV angebunden.\u003c/li\u003e\n\u003cli\u003eDateilinks in der DoJob-Funktion können nun vorbelegt werden.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie Funktion die den CTI-Client automatisch startet wird übersprunen bei einer fehlenden CTI-Lizenz.\u003c/li\u003e\n\u003cli\u003eOptimierung der Key-Reihe im Zusammenhang mit der Kommentarfunktion in der Jobliste.\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

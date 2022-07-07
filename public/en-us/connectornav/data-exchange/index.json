@@ -2,23 +2,23 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Setup & Use of PEPPOL & XRechnung on Connector 365 Online Help",
     "description": "Recent content in Setup & Use of PEPPOL & XRechnung on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/connectornav/data-exchange/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/index.json",
     "items" : [
     {
         "title" : "PEPPOL via Connector 365BC",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/data-exchange/peppol/",
-        "url" : "https://docs.belware.de/en-us/connectornav/data-exchange/peppol/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/peppol/",
         "content_html" : "\u003ch4 id=\"peppol-via-connector-365bc\"\u003ePEPPOL via Connector 365BC\u003c/h4\u003e\n\u003cp\u003ePEPPOL (Pan-European Public Procurement OnLine) can be used to create XML files from documents, which the recipient can read into Dynamics NAV and process automatically there.\u003c/p\u003e\n"
     },
     {
         "title" : "XRechnung via Connector 365BC",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/",
-        "url" : "https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/",
         "content_html" : "\u003ch4 id=\"introduction-xrechnung\"\u003eIntroduction XRechnung\u003c/h4\u003e\n\u003cp\u003eAs of 27.11.2020, suppliers of public clients must send invoices in the so-called \u003cstrong\u003eXRechnung\u003c/strong\u003e format. This format is an XML-based data model that is currently being established as the standard for electronic invoices.\u003c/p\u003e\n\u003cp\u003eThe \u003cstrong\u003eXRechnung\u003c/strong\u003e module for Dynamics NAV / 365 Business Central is able to generate such electronic invoices in the \u003cstrong\u003eXRechnung\u003c/strong\u003e standard.\u003c/p\u003e\n"
     }
     ]

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Segment dispatch on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/segment/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/</link>
     <description>Recent content in Segment dispatch on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/segment/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Segment overview</title>
-        <link>https://docs.belware.de/en-us/connectornav/segment/segment_view/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/segment_view/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/segment/segment_view/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/segment_view/</guid>
         <description>open segment overview In the tab &amp;ldquo;Sales &amp;amp; Marketing&amp;rdquo; in the subitem &amp;ldquo;Marketing&amp;rdquo; you will find the segment shipping.
 The segments overview In the segments overview you have access to all your created templates. Select the intended segments and enter the &amp;ldquo;Edit&amp;rdquo; mode.
 Creating a new segment In order to create a new segment click &amp;ldquo;New&amp;rdquo; in the menu bar.
@@ -28,20 +28,20 @@ First you have to fill the emty fields with information:</description>
       
       <item>
         <title>Add contacts</title>
-        <link>https://docs.belware.de/en-us/connectornav/segment/add_contacts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/add_contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/segment/add_contacts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/add_contacts/</guid>
         <description>Add contacts To be able to send the segment, the recipients must first be entered in the &amp;ldquo;Rows&amp;rdquo;. You can either do this manually, directly in the spreadsheet or automatically using the &amp;ldquo;Add contacts&amp;hellip;&amp;rdquo; function in the ribbon.
 If you click on &amp;ldquo;Add contacts&amp;hellip;&amp;rdquo;, a new window will open in which you can, with the help of various search criteria, add large numbers of contacts to your segment at once.</description>
       </item>
       
       <item>
         <title>Setup segment dispatch</title>
-        <link>https://docs.belware.de/en-us/connectornav/segment/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/segment/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/segment/setup/</guid>
         <description>Setup Connector NAV for the segments dispatch Now that the list of contacts that will receive the segment has been prepared, it&amp;rsquo;s time to set up the mail with Connector NAV. Via &amp;ldquo;User report&amp;rdquo; you now set up the following parameters:
 ReportID: Is fixed – this one can not be changed.
 Language: Should you have multilingual customers and want to send your mails in different languages accordingly. Is to define the user report setup per language code.</description>

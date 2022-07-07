@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "New and planned on Connector 365 Online Help",
+    "description": "Recent content in New and planned on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/index.json",
+    "items" : [
+    {
+        "title" : "V1.0.0.0 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/v1.0.0.0/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/v1.0.0.0/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatic attachment of reminded invoices to reminder on sending of reminder\u003c/li\u003e\n\u003cli\u003eControl of sending by reminder level\u003c/li\u003e\n\u003cli\u003eControl of sending by reminder method\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatic attachment of delivery bills\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

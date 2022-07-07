@@ -2,56 +2,96 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Connector 365 Apps on Connector 365 Online Hilfe",
     "description": "Recent content in Connector 365 Apps on Connector 365 Online Hilfe",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/de-de/apps/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/index.json",
     "items" : [
     {
         "title" : "CTI for STARFACE",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/cti-for-starface/",
-        "url" : "https://docs.belware.de/de-de/apps/cti-for-starface/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/cti-for-starface/",
         "content_html" : "\u003ch3 id=\"connector-365-cti-for-starface-online-hilfe\"\u003eConnector 365 CTI for STARFACE Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connecto 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "E-POST",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/e-post/",
-        "url" : "https://docs.belware.de/de-de/apps/e-post/",
-        "content_html" : "\u003ch3 id=\"connector-365-e-post-online-hilfe\"\u003eConnector 365 E-POST Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 E-POST App im Microsoft AppSource.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/e-post/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/e-post/",
+        "content_html" : "\u003ch3 id=\"connector-365-e-post-online-hilfe\"\u003eConnector 365 E-POST Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 E-POST App im Microsoft AppSource.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/e-post/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Easy Batch",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/easybatch/",
-        "url" : "https://docs.belware.de/de-de/apps/easybatch/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/",
         "content_html" : "\u003ch3 id=\"connector-365-easy-batch-online-hilfe\"\u003eConnector 365 Easy Batch Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Easy Batch App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/easybatch/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Easy Document Pin",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easydocumentpin/",
+        "content_html" : "\u003ch3 id=\"connector-365-easy-document-pin-online-help\"\u003eConnector 365 Easy Document Pin Online help\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Easy Document Pin App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/mail-attachment-plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Mail Attachments Plus",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/mail_attachment_plus/",
-        "url" : "https://docs.belware.de/de-de/apps/mail_attachment_plus/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail_attachment_plus/",
         "content_html" : "\u003ch3 id=\"connector-365-mail-attachments-plus-online-hilfe\"\u003eConnector 365 Mail Attachments Plus Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Attachments Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/mail_attachment_plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Mail Experience Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/",
+        "content_html" : "\u003ch3 id=\"connector-365-mail-experience-plus-online-help\"\u003eConnector 365 Mail Experience Plus Online help\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Experience Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/mail-attachment-plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Mail Sender Plus",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/mail-sender-plus/",
-        "url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/",
         "content_html" : "\u003ch3 id=\"connector-365-mail-sender-plus-online-help\"\u003eConnector 365 Mail Sender Plus Online help\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/mail-attachment-plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Mail Subject Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailsubject/",
+        "content_html" : "\u003ch3 id=\"connector-365-mail-subject-plus-online-hilfe\"\u003eConnector 365 Mail Subject Plus Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Mail Subject Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/mailsubject/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "PdfPaper",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/pdfpaper/",
+        "content_html" : "\u003ch3 id=\"connector-365-pdfpaper-online-hilfe\"\u003eConnector 365 PdfPaper Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource PdfPaper App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/pdfpaper/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "XRechnung",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/xrechnung/",
-        "url" : "https://docs.belware.de/de-de/apps/xrechnung/",
-        "content_html" : "\u003ch3 id=\"connector-365-xrechnung-online-hilfe\"\u003eConnector 365 XRechnung Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource XRechnungs App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/connector-on-appsource/xrechnung/support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/xrechnung/",
+        "content_html" : "\u003ch3 id=\"connector-365-xrechnung-online-hilfe\"\u003eConnector 365 XRechnung Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource XRechnungs App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/connector-on-appsource/xrechnung/support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Unterstützte Länder",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/countries/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/countries/",
+        "content_html" : "\u003ch3 id=\"unsere-lösunge-unterstützt-zur-zeit-die-folgenden-märkte\"\u003eUnsere Lösunge unterstützt zur Zeit die folgenden Märkte:\u003c/h3\u003e\n\u003cp\u003eAlgerien\u003cbr /\u003e\nArgentinien\u003cbr /\u003e\nAustralien\u003cbr /\u003e\nÖsterreich\u003cbr /\u003e\nBangladesch\u003cbr /\u003e\nBelgien\u003cbr /\u003e\nBrasilien\u003cbr /\u003e\nBulgarien\u003cbr /\u003e\nKanada\u003cbr /\u003e\nChile\u003cbr /\u003e\nKolumbien\u003cbr /\u003e\nKroatien\u003cbr /\u003e\nTschechische Republik\u003cbr /\u003e\nDänemark\u003cbr /\u003e\nÄgypten\u003cbr /\u003e\nEstland\u003cbr /\u003e\nFäröer Inseln\u003cbr /\u003e\nFinnland\u003cbr /\u003e\nFrankreich\u003cbr /\u003e\nDeutschland\u003cbr /\u003e\nGriechenland\u003cbr /\u003e\nGrönland\u003cbr /\u003e\nHongkong SAR\u003cbr /\u003e\nUngarn\u003cbr /\u003e\nIsland\u003cbr /\u003e\nIndien\u003cbr /\u003e\nIndonesien\u003cbr /\u003e\nIrland\u003cbr /\u003e\nItalien\u003cbr /\u003e\nJapan\u003cbr /\u003e\nKenia\u003cbr /\u003e\nKorea\u003cbr /\u003e\nLettland\u003cbr /\u003e\nLibanon\u003cbr /\u003e\nLitauen\u003cbr /\u003e\nLuxemburg\u003cbr /\u003e\nMalaysia\u003cbr /\u003e\nMalta\u003cbr /\u003e\nMexiko\u003cbr /\u003e\nMarokko\u003cbr /\u003e\nMyanmar\u003cbr /\u003e\nNiederlande\u003cbr /\u003e\nNeuseeland\u003cbr /\u003e\nNigeria\u003cbr /\u003e\nNorwegen\u003cbr /\u003e\nPeru\u003cbr /\u003e\nPhilippinen\u003cbr /\u003e\nPolen\u003cbr /\u003e\nPortugal\u003cbr /\u003e\nPuerto Rico\u003cbr /\u003e\nKatar\u003cbr /\u003e\nRumänien\u003cbr /\u003e\nSaudi-Arabien\u003cbr /\u003e\nSerbien\u003cbr /\u003e\nSingapur\u003cbr /\u003e\nSlowakei\u003cbr /\u003e\nSlowenien\u003cbr /\u003e\nSüd-Afrika\u003cbr /\u003e\nSpanien\u003cbr /\u003e\nSri Lanka\u003cbr /\u003e\nSchweden\u003cbr /\u003e\nSchweiz\u003cbr /\u003e\nTaiwan\u003cbr /\u003e\nThailand\u003cbr /\u003e\nTunesien\u003cbr /\u003e\nTürkei\u003cbr /\u003e\nUkraine\u003cbr /\u003e\nVereinigte Arabische Emirate\u003cbr /\u003e\nVereinigtes Königreich\u003cbr /\u003e\nVereinigte Staaten\u003cbr /\u003e\nVietnam\u003c/p\u003e\n"
     }
     ]
 }

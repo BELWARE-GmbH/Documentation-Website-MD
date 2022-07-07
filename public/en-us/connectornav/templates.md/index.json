@@ -2,23 +2,23 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Overview templates on Connector 365 Online Help",
     "description": "Recent content in Overview templates on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/connectornav/templates.md/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/index.json",
     "items" : [
     {
         "title" : "Booked receipts",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/templates.md/booked_receipts/",
-        "url" : "https://docs.belware.de/en-us/connectornav/templates.md/booked_receipts/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/booked_receipts/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/booked_receipts/",
         "content_html" : "\u003ch3 id=\"booked-receipts\"\u003eBooked receipts\u003c/h3\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/templates/gebucht.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
     },
     {
         "title" : "Unbooked receipts",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/templates.md/unbooked_receipts/",
-        "url" : "https://docs.belware.de/en-us/connectornav/templates.md/unbooked_receipts/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/unbooked_receipts/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/templates.md/unbooked_receipts/",
         "content_html" : "\u003ch3 id=\"unbooked-receipts\"\u003eUnbooked receipts\u003c/h3\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/templates/ungebucht.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
     }
     ]

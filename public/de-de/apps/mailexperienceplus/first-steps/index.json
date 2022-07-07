@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Erste Schritte on Connector 365 Online Hilfe",
+    "description": "Recent content in Erste Schritte on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Einleitung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/introduction/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/introduction/",
+        "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eDank der erweiterten Mail-Funktionen hat Microsoft Dynamics 365 Business Central viele neue E-Mail-Funktionen erhalten, die den Versand direkt aus Dynamics 365 Business Central verbessern. Unsere Mail Plus-Apps zielen darauf ab, diese Erfahrung mit Quality-of-Life-Funktionen weiter zu verbessern, die Benutzer möglicherweise vermissen. Um einen einfachen Zugang zu diesen Funktionen zu ermöglichen, haben wir uns entschlossen, sie in einer zentralen App zusammenzufassen - Mail Experience Plus - für Benutzer, die das gesamte Paket an Verbesserungen wünschen.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Test \u0026 Kauf",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-mail-experience-plus-app\"\u003eTesten und kaufen der Connector 365 Mail Experience Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Experience Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/mailexperienceplus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Einrichtung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/setup/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mailexperienceplus/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-der-connector-365-mail-experience-plus-app\"\u003eInstallation der Connector 365 Mail Experience Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Mail Experience Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/mailexperienceplus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

@@ -2,40 +2,40 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Erste Schritte on Connector 365 Online Hilfe",
     "description": "Recent content in Erste Schritte on Connector 365 Online Hilfe",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/index.json",
     "items" : [
     {
         "title" : "Einleitung",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/introduction/",
-        "url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/introduction/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/introduction/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/introduction/",
         "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eDie Connector 365 Mail Sender Plus App erlaubt Ihnen mit einem erweiterten Mail-Setup mehrere Mail-Absenderadressen zu steuern und zu nutzen. Standardmäßig ist nur eine einzige SMTP-Absenderadresse pro Mandanten nutzbar. Die Mail Sender Plus App bietet durch ein prioritätengesteuertes Setup verschiedene Einsatzszenarien in den Absenderadressen. Somit kann entweder einfach im Dialog die Adresse geändert werden, oder Sie setzen Adressen im Default für Report-ID’s oder Debitoren/Kreditoren. So können Sie z.B. globale Adressen für den Rechnungsversand nutzen.  Somit erlaubt Ihnen diese App Ihre Mails einfach persönlicher zu gestalten.\u003c/p\u003e\n"
     },
     {
         "title" : "Test \u0026 Kauf",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/",
-        "url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/test-purchase/",
-        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-mail-sender-plus-app\"\u003eTesten und kaufen der Connector 365 Mail Sender Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/mail-sender-plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/test-purchase/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-mail-sender-plus-app\"\u003eTesten und kaufen der Connector 365 Mail Sender Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/mail-sender-plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Einrichtung",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/",
-        "url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/setup/",
         "content_html" : ""
     },
     {
         "title" : "Installation",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/",
-        "url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/",
-        "content_html" : "\u003ch3 id=\"installation-der-connector-365-mail-sender-plus-app\"\u003eInstallation der Connector 365 Mail Sender Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/mail-sender-plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/installation/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-der-connector-365-mail-sender-plus-app\"\u003eInstallation der Connector 365 Mail Sender Plus App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/Documentation-Website-Test/de-de/apps/mail-sender-plus/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }

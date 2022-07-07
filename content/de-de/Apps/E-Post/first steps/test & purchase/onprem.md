@@ -29,7 +29,7 @@ Ihre Kosten:
 
 Danach können Sie mit der [Installation](/de-de/apps/e-post/first-steps/installation/) der Connector 365 E-POST App starten
 
-Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an Support@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de
+Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an service@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de
 
 
 

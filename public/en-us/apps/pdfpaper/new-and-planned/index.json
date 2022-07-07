@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "New and planned on Connector 365 Online Help",
+    "description": "Recent content in New and planned on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/index.json",
+    "items" : [
+    {
+        "title" : "V1.0.0.3 \u0026 Roadmap",
+        "date_published" : "2022-05-16T15:07:00+09:00",
+        "date_modified" : "2022-05-16T15:07:00+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1003\"\u003eVersion 1.0.0.3\u003c/h3\u003e\n\u003cp\u003eNew features:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMerge multiple PDF files into one\u003c/li\u003e\n\u003cli\u003eAutomatic rotation of PDF files if they are in landscape format\u003c/li\u003e\n\u003cli\u003eAction buttons to remove stationery at the touch of a button\u003c/li\u003e\n\u003cli\u003eStationery can be set up globally under company data\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eCorrections:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCorrection for file name when previewing pdf stationery\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIntegration of PDF/A functionality\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "V1.0.0.0 \u0026 Roadmap",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eSetting of stationery per report \u0026amp; customer\u003c/li\u003e\n\u003cli\u003eCreate multiple stationery\u003c/li\u003e\n\u003cli\u003ePreview function\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAdditional functions from PdfPaper module\u003c/li\u003e\n\u003cli\u003eGlobal stationery in company data\u003c/li\u003e\n\u003cli\u003eStationery per company\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

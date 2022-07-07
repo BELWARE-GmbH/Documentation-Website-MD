@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modul CTI on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/cti/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/</link>
     <description>Recent content in Modul CTI on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/cti/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Preparation</title>
-        <link>https://docs.belware.de/en-us/connectornav/cti/preparation/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/preparation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/cti/preparation/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/preparation/</guid>
         <description>Preparation Before commissioning the CTI module, you should check with the &amp;ldquo;Performance Monitor&amp;rdquo; tool whether your telephone system is TAPI-capable. Because this is the basic requirement for the operation of the module.
 Download of the performance monitor 32 bit
 Download of the performance monitor 64 bit
@@ -29,10 +29,10 @@ After you have downloaded and opened the &amp;ldquo;Performance Observer&amp;rdq
       
       <item>
         <title>Setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/cti/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/cti/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/setup/</guid>
         <description>Setup Prerequisite is that the software of your TAPI-enabled PBX is installed and already running.
 For the installation you will get a zip folder from us, which contains all necessary files of the TapiMaster. You can download this folder in the customer portal under Downloads/Other Downloads. Depending on what kind of phone system you have (Multi/Single Line) there is a different procedure for the setup.
 Single Line (Client) Open the zip folder, now start the FCTICLNT application.</description>
@@ -40,10 +40,10 @@ Single Line (Client) Open the zip folder, now start the FCTICLNT application.</d
       
       <item>
         <title>Call via contacts</title>
-        <link>https://docs.belware.de/en-us/connectornav/cti/call_contacts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/call_contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/cti/call_contacts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/call_contacts/</guid>
         <description>Call via contacts You can call contacts easily with a click. To do this, first open the contact page and search for the contact you want to call.
 Cutout contact overview.
 You now have the option to click directly on the contact&amp;rsquo;s phone number and your phone system will automatically connect them. It is also possible to open this function inside a contact card.
@@ -53,10 +53,10 @@ Just click on the phone next to the number within the contact card under &amp;ld
       
       <item>
         <title>Caller identification</title>
-        <link>https://docs.belware.de/en-us/connectornav/cti/caller_identification/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/caller_identification/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/cti/caller_identification/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/cti/caller_identification/</guid>
         <description>Caller identification The module can also automatically detect who is calling you on incoming calls. To do this, you simply need to open the &amp;ldquo;CTI Client&amp;rdquo; button in your role center and keep it open in the background.
 If there is now an incoming call while you have Dynamics NAV or the client open, the module matches the number of the incoming call with the numbers in your contact list and opens the card of the matching contact.</description>
       </item>

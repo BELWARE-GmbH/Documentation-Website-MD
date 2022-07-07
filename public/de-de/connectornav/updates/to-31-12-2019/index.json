@@ -1,0 +1,89 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Bis 31.12.2019 on Connector 365 Online Hilfe",
+    "description": "Recent content in Bis 31.12.2019 on Connector 365 Online Hilfe",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/index.json",
+    "items" : [
+    {
+        "title" : "Januar",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/january/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/january/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie Drag \u0026amp; Drop Funktion ist nun auch via Outlook verwendbar\u003c/li\u003e\n\u003cli\u003eNeues Feld/Tabelle für das verwalten von Standard BCC/CC-Adressen\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie Drag \u0026amp; Drop-Funktion kann nun in Verbindung mit Mails aus Outlook verwendet werden\u003c/li\u003e\n\u003cli\u003eAnpassen der Logik für die Erkennung eines abgebrochenen Dialogs\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Februar",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/february/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/february/",
+        "content_html" : "\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAnhangsdateien aus E-Mails werden nun in com_pdf statt in com_tmp abgelegt.\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "März",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/march/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/march/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNeues Feld in der Einrichtung um den Ablagepfad von Daten zur Verarbeitung der CTI-Daten\u003c/li\u003e\n\u003cli\u003eNeue Tabelle für den CTI-Status der Nutzer\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "April",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/april/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/april/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003ePasswort-Feld in der Kommunikationsmatrix um verarbeitete Daten via iPaper zu verschlüsseln\u003c/li\u003e\n\u003cli\u003eNeues Modul: CTI\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAnpassen der Feldnamen in der Kommunikationsmatrix um die Verwendung zu verallgemeinern\n\u003cul\u003e\n\u003cli\u003eKundenname -\u0026gt; Name\u003c/li\u003e\n\u003cli\u003eKundennr. -\u0026gt; Nr.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Juli",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/july/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/july/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNeue E-POST API für den hybriden Versand von Briefen aus Dynamics NAV\u003c/li\u003e\n\u003cli\u003eVersand von Briefe via POST AT aus Dynamics NAV\u003c/li\u003e\n\u003cli\u003eAnpassen der Funktionen zum Versand von hybriden Briefen via E-POST BOX\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "August",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/august/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/august/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eVeröffentlichung der Connector NAV Templates\u003cbr /\u003e\nBietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eNeues Modul\u003c/strong\u003e - Connector NAV/365 HR für die Verwendung der Connector NAV Funktionen in Verbindung mit HR-Funktionalitäten\n\u003cul\u003e\n\u003cli\u003eNeues Feld für Bodytexte\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eNeues Feld zum ein/ausschalten des Tesversands von E-POST-Briefen\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "September",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/september/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/september/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNeue Felder in der Kommunikationsmatrix\n\u003cul\u003e\n\u003cli\u003ePDF/A-Level\u003c/li\u003e\n\u003cli\u003ePDF/A-ZUGFeRD Anhang\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie oben genannten Felder auf 200 Zeichen erweitert\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Oktober",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/october/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/october/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDer CTI-Client öffnet sich nun automatisch bei Start von Dynamics NAV\u003c/li\u003e\n\u003cli\u003eGlobale Einstellung des PDF-Levels ist nun möglich\u003c/li\u003e\n\u003cli\u003ePasswortverschlüsselung via Kommunikationsmatrix\u003c/li\u003e\n\u003cli\u003eNeue PEPPOL-Funktionalitäten in der Kommunikationsmatrix\u003c/li\u003e\n\u003cli\u003eEinstellung des PDF-Levels in der Kommunikationxmatrix\u003c/li\u003e\n\u003cli\u003eNeues Dateigröße-Feld bei dem anhängen von Dateien\u003c/li\u003e\n\u003cli\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAnpassungen in der Drag \u0026amp; Drop Funktion\u003c/li\u003e\n\u003cli\u003ebestimmte Funktionen wurden in die CTI-Codeunit übertragen\u003c/li\u003e\n\u003cli\u003eAbweichende Absender via Office 365 SMTP im HR-Modul\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "November",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/november/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/november/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatisches drehen von Dokumenten in Hochkant via iPaper\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eOptimierungen für den Web-Client\u003c/li\u003e\n\u003cli\u003eÄnderungen bei der Seite für die Drag \u0026amp; Drop Funktion\u003c/li\u003e\n\u003cli\u003eAnpassung des Uploadordners von Briefpapier\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Dezember",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/december/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/updates/to-31-12-2019/december/",
+        "content_html" : "\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDas Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

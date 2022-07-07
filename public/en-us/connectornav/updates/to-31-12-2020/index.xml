@@ -2,24 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>To 31.12.2020 on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/</link>
     <description>Recent content in To 31.12.2020 on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
-        <title>March</title>
-        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/march/</link>
+        <title>January</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/january/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/march/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/january/</guid>
+        <description>Enhancements of standard features &amp;amp; new features: Test dispatch in the segments Batch dispatch via communication matrix New batch shipping button in the templates Control of report options via user report setup Optimizations: Optimizations in the E-POST code unit Error correction for standard attachments </description>
+      </item>
+      
+      <item>
+        <title>To 31.12.2021</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/to-31-12-2021/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/to-31-12-2021/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>February</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/february/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/february/</guid>
+        <description>Enhancements of standard features &amp;amp; new features: New field in the communication matrix to control the report for Peppol New Printer &amp;ldquo;Shipping&amp;rdquo; option in the communication matrix New template for blanket orders New template contact / vendor / debtor Optimizations: No. field &amp;amp; Name field in communication matrix have only a 100 character limit. PEPPOL version field in the communication matrix now has a 20 character limit </description>
+      </item>
+      
+      <item>
+        <title>March</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/</guid>
         <description>Enhancements to standard features: Vendor selection and contact selection enhanced with communication matrix.
 The Vendor Selection &amp;amp; Contact Selection pages built into the templates, now both have their own button from which the communication matrix can be accessed.
 New field Use PEPPOL in communication matrix.
@@ -29,10 +56,10 @@ More information can be found in the corresponding documentation.</description>
       
       <item>
         <title>April</title>
-        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/april/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/april/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/</guid>
         <description>Enhancements to standard features: Assist button for communication matrix entries in dialog.
 If a recipient&amp;rsquo;s address is overridden via communication matrix, the view pre-filtered via the Assist button is still pre-filtered to the original contact.
 New event for development
@@ -42,10 +69,10 @@ More information about available events can be found in a separate documentation
       
       <item>
         <title>May</title>
-        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/may/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/may/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/</guid>
         <description>Enhancements to standard features: **Post &amp;amp; Process function
 In selected templates you will now find the function Post &amp;amp; Process, it allows matrix-controlled posting of documents and subsequent processing via a previously set up dispatch type.
 **Stacking function
@@ -55,10 +82,10 @@ More information on both points can be found in the documentation for the commun
       
       <item>
         <title>June</title>
-        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/june/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/june/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/</guid>
         <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
 To the documentations
 Enhancements of standard features: Append attachments before/behind documents.
@@ -68,10 +95,10 @@ For more information on exactly how to use this feature, please see the setup do
       
       <item>
         <title>July</title>
-        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/july/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/july/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/</guid>
         <description>Optimizations: Outlook N-recipient addresses
 When storing additional destination addresses, which were neither created as CC nor BCC, the address was previously taken as CC instead of the desired equivalent in the &amp;ldquo;To&amp;rdquo; field. This is now corrected.
 Consideration of matrix printers
@@ -80,10 +107,10 @@ During batch processing, the additional printers from the communication matrix w
       
       <item>
         <title>August</title>
-        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/august/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/august/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/</guid>
         <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
 To the documentations
 Enhancements of standard features: Automatic filling of the destination address in the communication matrix.
@@ -92,10 +119,10 @@ In the communication matrix, the destination address field is now automatically 
       
       <item>
         <title>September</title>
-        <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/september/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/september/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/</guid>
         <description>New in the documentations: As always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.
 To the documentation
 New features: Module XRechnung

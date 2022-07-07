@@ -2,15 +2,15 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Neu und geplant on Connector 365 Online Hilfe",
     "description": "Recent content in Neu und geplant on Connector 365 Online Hilfe",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/new-and-planned/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/index.json",
     "items" : [
     {
         "title" : "V1.0.0.2 \u0026 Roadmap",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/",
-        "url" : "https://docs.belware.de/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/",
         "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1002\"\u003eVersion 1.0.0.2\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eErweiterte Maileinrichtung mit mehreren Absendern\u003c/li\u003e\n\u003cli\u003eÄnderbare Absenderadresse im Dialog\u003c/li\u003e\n\u003cli\u003eEine Adresse pro Benutzer festlegen\u003c/li\u003e\n\u003cli\u003eEine Standardadresse pro Bericht\u003c/li\u003e\n\u003cli\u003eEine Standardadresse pro Kreditor/Debitor\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAnpassen an die Mail Experience\u003c/li\u003e\n\u003c/ul\u003e\n"
     }
     ]

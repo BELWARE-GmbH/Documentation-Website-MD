@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drag and Drop funktion on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/drag-and-drop/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/</link>
     <description>Recent content in Drag and Drop funktion on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/drag-and-drop/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/drag-and-drop/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/drag-and-drop/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/setup/</guid>
         <description>Setup To install the module you must first stop the RTC instance, this step must be executed on all RTC servers. Then place the .dll files &amp;ldquo;NetUiControll.dll&amp;rdquo; and &amp;ldquo;OutlookHandlerLib.dll&amp;rdquo; in the following folder:
 folder to drop.
 Now restart the RTC instance.
@@ -31,10 +31,10 @@ Now on the page open a new line enter the following parameters exactly:</descrip
       
       <item>
         <title>User example</title>
-        <link>https://docs.belware.de/en-us/connectornav/drag-and-drop/example/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/drag-and-drop/example/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/drag-and-drop/example/</guid>
         <description>User example With Drag&amp;amp;Drop you can add any number of files to any document. So you can easily attach documents that you have locally on your PC and previously could not link to a document in NAV, now with drag &amp;amp; drop to a document and have everything in NAV at a glance.
 Overview sales offers with drag &amp;amp; drop infobox
 On the pages on which the Drag &amp;amp; Drop function is integrated, you will now see the Drag &amp;amp; Drop info box.</description>

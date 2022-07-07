@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML in Word on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/connectornav/html-word/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/</link>
     <description>Recent content in HTML in Word on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/connectornav/html-word/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Datei anlegen</title>
-        <link>https://docs.belware.de/de-de/connectornav/html-word/create_file/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/create_file/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/html-word/create_file/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/create_file/</guid>
         <description>Datei anlegen Zunächst müssen Sie eine Datei im HTML- bzw. HTM-Format anlegen, öffnen Sie dazu ein neues Dokument und klicken Sie auf „Datei“ „Speichern unter“. Wählen Sie hier einen Ordner als Speicherort aus und benennen Sie die Datei beispielsweise mit „Bodytext_Mustermann“ oder „Newsletter_JJJJ-MM“. Als Dateityp müssen Sie „Webseite (*.htm; *.html)“ auswählen, hinter dem Dateinamen wird dann automatisch „.htm“ ergänzt.
 Bevor Sie die Datei speichern, müssen Sie überprüfen, ob die korrekte Zeichencodierung eingestellt ist.</description>
       </item>
       
       <item>
         <title>Bilder verknüpfen</title>
-        <link>https://docs.belware.de/de-de/connectornav/html-word/link_pics/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/link_pics/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/html-word/link_pics/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/link_pics/</guid>
         <description>Bilder verknüpfen Wenn Sie Ihre HTML-Vorlagen mit Word erstellen wollen, müssen verwendete Bilder mittels URL im Dokument verknüpft werden. Andernfalls werden diese nach dem Versand per E-Mail nicht mehr angezeigt.
 Die Bilder müssen zunächst an geeigneter Stelle beispielsweise über ein FTP-Programm auf einem Webserver bereitgestellt werden, am besten im Format .jpg oder .png. Sobald Ihre Bilddateien auf dem Webserver hochgeladen sind, können Sie die genaue Adresse (beispielsweise „http://www.firma-xyz.de/images/testbild.jpg“) kopieren und in Ihren Newsletter einfügen.</description>
       </item>
       
       <item>
         <title>Bodytext</title>
-        <link>https://docs.belware.de/de-de/connectornav/html-word/bodytexts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/bodytexts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/html-word/bodytexts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/html-word/bodytexts/</guid>
         <description>Tabellarischer Bodytext Eine gute Möglichkeit einen Bodytext übersichtlich zu gestalten ist es eine Tabelle in die Datei einzufügen und diese dann als Grundlage nehmen für die weitere Bearbeitung. Dies erlaubt auch weitere Gestaltungsmöglichkeiten wie verschiedene Zellen farblich hervorzuheben oder variable Platzierung von Texten/Bildern.
-Falls gewünscht müssen Sie wenn Sie mit Ihrer Tabelle fertig sind die Rahmenlinien ausblenden. Platzhalter in Bodytexten Sie können für eine E-Mail-Bodytextvorlage Platzhalter für Bestandteile verwenden, die individuell für jeden Mitarbeiter sind, beispielsweise für den Namen oder die E-Mail-Adresse.</description>
+Falls gewünscht müssen Sie wenn Sie mit Ihrer Tabelle fertig sind die Rahmenlinien ausblenden.Platzhalter in Bodytexten Sie können für eine E-Mail-Bodytextvorlage Platzhalter für Bestandteile verwenden, die individuell für jeden Mitarbeiter sind, beispielsweise für den Namen oder die E-Mail-Adresse.</description>
       </item>
       
     

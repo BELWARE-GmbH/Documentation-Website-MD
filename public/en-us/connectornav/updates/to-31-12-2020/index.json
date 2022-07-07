@@ -2,63 +2,87 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "To 31.12.2020 on Connector 365 Online Help",
     "description": "Recent content in To 31.12.2020 on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/index.json",
     "items" : [
+    {
+        "title" : "January",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/january/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/january/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eTest dispatch in the segments\u003c/li\u003e\n\u003cli\u003eBatch dispatch via communication matrix\n\u003cul\u003e\n\u003cli\u003eNew batch shipping button in the templates\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eControl of report options via user report setup\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eOptimizations in the E-POST code unit\u003c/li\u003e\n\u003cli\u003eError correction for standard attachments\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "To 31.12.2021",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/to-31-12-2021/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/to-31-12-2021/",
+        "content_html" : ""
+    },
+    {
+        "title" : "February",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/february/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/february/",
+        "content_html" : "\u003ch3 id=\"enhancements-of-standard-features--new-features\"\u003eEnhancements of standard features \u0026amp; new features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNew field in the communication matrix to control the report for Peppol\u003c/li\u003e\n\u003cli\u003eNew Printer \u0026ldquo;Shipping\u0026rdquo; option in the communication matrix\u003c/li\u003e\n\u003cli\u003eNew template for blanket orders\u003c/li\u003e\n\u003cli\u003eNew template contact / vendor / debtor\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNo. field \u0026amp; Name field in communication matrix have only a 100 character limit.\u003c/li\u003e\n\u003cli\u003ePEPPOL version field in the communication matrix now has a 20 character limit\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
     {
         "title" : "March",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/march/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/march/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/march/",
         "content_html" : "\u003ch3 id=\"enhancements-to-standard-features\"\u003eEnhancements to standard features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eVendor selection and contact selection enhanced with communication matrix\u003c/strong\u003e.\u003cbr /\u003e\nThe Vendor Selection \u0026amp; Contact Selection pages built into the templates, now both have their own button from which the communication matrix can be accessed.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNew field Use PEPPOL in communication matrix\u003c/strong\u003e.\u003cbr /\u003e\nThe new field allows you to specify which type of document PEPPOL is used for. Non/invoice/credit memo\u003c/p\u003e\n\u003cp\u003eMore information can be found in the corresponding \u003ca href=\"/en/connectornav/data-exchange/\"\u003edocumentation\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eStandard for report options in user reports\u003c/strong\u003e.\u003cbr /\u003e\nIn addition to simply opening the report options in the process, there is now the option to set a default report option that applies to the report in question.\u003cbr /\u003e\nMore information about the new options can be found in the \u003ca href=\"/en/connectornav/configuration-and-setup/\"\u003edocumentation\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePrint on empty job mode in communication matrix\u003c/strong\u003e.\u003cbr /\u003e\nIf the job mode is left blank in the communication matrix, printing is now done by default.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSegment dispatch with background processing\u003c/strong\u003e\u003cbr /\u003e\nSegment dispatch can now also run via background processing.\u003c/p\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eThe length of the PEPPOL version field in the communication matrix has been extended.\u003c/li\u003e\n\u003cli\u003eFor a blanket sales order, the correct DocType is now output \u0026amp; the status info now also runs correctly.\u003c/li\u003e\n\u003cli\u003eFixed an error that could cause attachments to be attached multiple times.\u003c/li\u003e\n\u003cli\u003eThe Customer Name \u0026amp; Account No. fields in the communication matrix have been renamed to Name \u0026amp; No.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"new-features\"\u003eNew features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003epdfPaper\u003c/strong\u003e\u003cbr /\u003e\nThere is now a path for setting up ZUGFeRD in the pdfPaper setup.\u003c/p\u003e\n"
     },
     {
         "title" : "April",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/april/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/april/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/april/",
         "content_html" : "\u003ch3 id=\"enhancements-to-standard-features\"\u003eEnhancements to standard features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eAssist button for communication matrix entries in dialog\u003c/strong\u003e.\u003cbr /\u003e\nIf a recipient\u0026rsquo;s address is overridden via communication matrix, the view pre-filtered via the Assist button is still pre-filtered to the original contact.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNew event for development\u003c/strong\u003e\u003cbr /\u003e\nVia the new event OnAfterSetReportIDPostedSalesInv it is now possible for developers to insert a different report ID.\u003c/p\u003e\n\u003cp\u003eMore information about available events can be found in a separate documentation in the future.\u003c/p\u003e\n\u003ch3 id=\"new-features\"\u003eNew features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eE-Post Summary\u003c/strong\u003e\u003cbr /\u003e\nWith the more expensive E-Post Summary, you can now combine letter mailings from the same recipients and thus reduce the amount of individual letters sent.\u003c/p\u003e\n\u003cp\u003eMore information about this feature can be found in the E-Post \u003ca href=\"/en-en/connectornav/epost/\"\u003edocumentation\u003c/a\u003e\u003c/p\u003e\n"
     },
     {
         "title" : "May",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/may/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/may/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/may/",
         "content_html" : "\u003ch3 id=\"enhancements-to-standard-features\"\u003eEnhancements to standard features:\u003c/h3\u003e\n\u003cp\u003e**Post \u0026amp; Process function\u003cbr /\u003e\nIn selected templates you will now find the function Post \u0026amp; Process, it allows matrix-controlled posting of documents and subsequent processing via a previously set up dispatch type.\u003c/p\u003e\n\u003cp\u003e**Stacking function\u003cbr /\u003e\nUsing the batch run, documents can be processed at the push of a button, the respective dispatch type can be defined in advance per customer in the communication matrix.\u003c/p\u003e\n\u003cp\u003eMore information on both points can be found in the documentation for the \u003ca href=\"/en-en/connectornav/matrix/\"\u003ecommunication matrix\u003c/a\u003e\u003c/p\u003e\n\u003ch3 id=\"new-features\"\u003eNew features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eNew templates\u003c/strong\u003e\u003cbr /\u003e\nImmediately after installing the connector, you now have access to even more reports in which our functions are integrated.\u003cbr /\u003e\nThe following reports are new in the templates: sales invoices, stock transfer orders, sales complaints, sales credit notes, dunning letters.\u003cbr /\u003e\nYou will soon be able to see exactly which functions you will find in these templates in our related overview.\u003c/p\u003e\n\u003cp\u003e**Mail Sender Plus\u003cbr /\u003e\nThe functionalities of our Mail Sender Plus app are now also available in the basic version \u0026amp; as an extension. With the Mail Sender Plus it is possible for you to maintain multiple SMTP senders.\u003c/p\u003e\n"
     },
     {
         "title" : "June",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/june/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/june/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/june/",
         "content_html" : "\u003ch3 id=\"new-in-the-documentations\"\u003eNew in the documentations:\u003c/h3\u003e\n\u003cp\u003eAs always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-en/connectornav/\"\u003eTo the documentations\u003c/a\u003e\u003c/p\u003e\n\u003ch3 id=\"enhancements-of-standard-features\"\u003eEnhancements of standard features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eAppend attachments before/behind documents\u003c/strong\u003e.\u003cbr /\u003e\nWith this feature, which is available in user reports \u0026amp; in the mail dialog, you can connect attachments directly to your document to be sent and send them as one file.\u003cbr /\u003e\nFor more information on exactly how to use this feature, please see the setup doc or the doc for the mail module.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRevised CTI contact card\u003c/strong\u003e.\u003cbr /\u003e\nThe contact card, which opens on incoming calls, has been enhanced with some new features. Now a corresponding entry is automatically created in the job list on an incoming call, which can be edited from the contact card. In addition, you now have access to a job list filtered by company or contact.\u003c/p\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eE-POST Hotfix\u003c/strong\u003e\u003cbr /\u003e\nPreviously it was not possible to send E-POST letters via server mode for technical reasons, this is now possible again. In the course of this, an incorrect dialog in the job list has also been corrected.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eExtension of DoJob functions\u003c/strong\u003e\u003cbr /\u003e\nThe DoJob functions have been extended by the Printer function. This allows the Printer function (print without iPaper) to work in batch mode.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOptimization DoJob functions\u003c/strong\u003e\u003cbr /\u003e\nThe parameters of the DoJob functions have been unified based on the DoJobPostSalesInvoice function.\u003c/p\u003e\n\u003ch3 id=\"new-features\"\u003eNew features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eMore new templates\u003c/strong\u003e\u003cbr /\u003e\nIn addition to our already known templates, templates for projects are now available.\u003cbr /\u003e\nAn overview of all templates and their functions can be found in our overview.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePrinter per user\u003c/strong\u003e\u003cbr /\u003e\nYou now have the option to specify a printer per user in the pdfPaper item in the user setup.\u003cbr /\u003e\nFor more information on this function, please refer to the pdfPaper documentation.\u003c/p\u003e\n"
     },
     {
         "title" : "July",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/july/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/july/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/july/",
         "content_html" : "\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eOutlook N-recipient addresses\u003c/strong\u003e\u003cbr /\u003e\nWhen storing additional destination addresses, which were neither created as CC nor BCC, the address was previously taken as CC instead of the desired equivalent in the \u0026ldquo;To\u0026rdquo; field. This is now corrected.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eConsideration of matrix printers\u003c/strong\u003e\u003cbr /\u003e\nDuring batch processing, the additional printers from the communication matrix were not taken into account in the Print job mode. Now it is possible to use these printers as well.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCorrection of PDF preview\u003c/strong\u003e\u003cbr /\u003e\nThanks to corrections in the background, all PDF preview functions (PDF, PDFPaper \u0026amp; PDFPaperServer) can now be used without restrictions.\u003c/p\u003e\n"
     },
     {
         "title" : "August",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/august/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/august/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/august/",
         "content_html" : "\u003ch3 id=\"new-in-the-documentations\"\u003eNew in the documentations:\u003c/h3\u003e\n\u003cp\u003eAs always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-en/connectornav/\"\u003eTo the documentations\u003c/a\u003e\u003c/p\u003e\n\u003ch3 id=\"enhancements-of-standard-features\"\u003eEnhancements of standard features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eAutomatic filling of the destination address in the communication matrix\u003c/strong\u003e.\u003cbr /\u003e\nIn the communication matrix, the destination address field is now automatically filled based on the settings in the destination addresses. In addition, there is now an Assist button that is pre-filtered to the respective contact. Of course, a manual filling is also still possible.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNew placeholder for mandates in the additional output\u003c/strong\u003e.\u003cbr /\u003e\nIn the user report setup, the new placeholder %9 is now available in the path for additional output folders. This placeholder can be used to specify a client-specific folder. This makes it easier to structure multi-client systems.\u003c/p\u003e\n\u003ch3 id=\"optimizations\"\u003eOptimizations:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eRemove error message communication matrix button\u003c/strong\u003e.\u003cbr /\u003e\nIf the communication matrix was not set up for a contact, an error message used to appear when clicking on the communication matrix button.At the request of many users, we have removed this message and made it possibleAccordion Item 7HeaderIconht to open the communicatrionxmatrix directly.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eE-mail job mode troubleshooting\u003c/strong\u003e.\u003cbr /\u003e\nThere were several minor programming errors in the E-Post job mode in connection with reminders, these have been corrected\u003c/p\u003e\n"
     },
     {
         "title" : "September",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/september/",
-        "url" : "https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/september/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/updates/to-31-12-2020/september/",
         "content_html" : "\u003ch3 id=\"new-in-the-documentations\"\u003eNew in the documentations:\u003c/h3\u003e\n\u003cp\u003eAs always, we have adapted our documentation according to the new features. In which documentation individual points can be found is listed.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-en/connectornav/\"\u003eTo the documentation\u003c/a\u003e\u003c/p\u003e\n\u003ch3 id=\"new-features\"\u003eNew features:\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003eModule XRechnung\u003c/strong\u003e\u003cbr /\u003e\nWe have released a new module that allows you to send XInvoices directly from Dynamics. You can find more information about the exact features of the module on our main page.\u003cbr /\u003e\nTo illustrate it, we have also prepared a video for you from our latest webcast along with a presentation.\u003c/p\u003e\n"
     }
     ]

@@ -1,0 +1,49 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Easy Document Pin on Connector 365 Online Help",
+    "description": "Recent content in Easy Document Pin on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/index.json",
+    "items" : [
+    {
+        "title" : "First Steps",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/first-steps/",
+        "content_html" : ""
+    },
+    {
+        "title" : "New and planned",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/new-and-planned/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Working with Easy Document Pin",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/working-with-edp/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/working-with-edp/",
+        "content_html" : "\u003ch3 id=\"working-with-easy-document-pin\"\u003eWorking with Easy Document Pin\u003c/h3\u003e\n\u003cp\u003eAfter the app setup has taken place, you can start using the app immediately without any hassle. Simply select a reminder to be sent and send it as usual.\u003c/p\u003e\n\u003cp\u003eYou will notice that the reminded invoices have been automatically attached to the reminder.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/apps/edpdialogen.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Help \u0026 Support",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/help-support/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/help-support/",
+        "content_html" : "\u003ch3 id=\"help--support\"\u003eHelp \u0026amp; Support\u003c/h3\u003e\n\u003cp\u003eWe are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.\u003c/p\u003e\n\u003cp\u003eFor general things you can reach us under:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"/Documentation-Website-Test/mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ealternatively\u003c/p\u003e\n\u003cp\u003ePhone: +49 2362 788 90 55\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003eWe offer reliable and prompt support to both partners and customers. To assure the best possible analysis and solution of your problem, we request you to send in the error message via mail together with a description and screenshots.\u003c/p\u003e\n\u003cp\u003eYou can reach our support under:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"/Documentation-Website-Test/mailto:support@belware.de\"\u003esupport@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ealternatively\u003c/p\u003e\n\u003cp\u003ePhone: +49 2362 788 90 55\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/Documentation-Website-Test/images/Support/TeamviewerTeams.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eWe use both TeamViewer or Microsoft Teams for Support, if you are not using TeamViewer yet you can download it \u003ca href=\"https://get.teamviewer.com/belware\" target=\"_blank\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOffice Hours:\u003c/strong\u003e\u003cbr /\u003e\nMon - Thu: 08:00 - 17:00 UTC+2\u003cbr /\u003e\nFri: 08:00 - 16:00 UTC+2\u003c/p\u003e\n\u003ch3 id=\"statement-of-direction-und-support-lifecycle\"\u003eStatement of Direction und Support-Lifecycle\u003c/h3\u003e\n\u003cp\u003eBELWARE GmbH is continuously working on the further development of Connector NAV to ensure that the product can always be used for the same ERP solution or version for which Microsoft Dynamics NAV provides support. This includes ensuring that Connector NAV is always compatible with the current version of Microsoft Dynamics NAV. For customers with a maintenance contract, the new versions and hotfixes are provided free of charge and are included in support. Excluded are services such as merging objects or individual adjustments. Due to regular updates of Connector NAV, support for older Connector NAV may be discontinued. This will be announced in advance. If you are affected by this, you are welcome to inform yourself about further steps via \u003ca href=\"/Documentation-Website-Test/mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/videos/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/easydocumentpin/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos about Easy Document Pin, each video covers a special topic\u003c/p\u003e\n\u003ch4 id=\"setup-and-usage-of-connector-365-easy-document-pin\"\u003eSetup and usage of Connector 365 Easy Document Pin\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ipoUXh64NiU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e"
+    }
+    ]
+}

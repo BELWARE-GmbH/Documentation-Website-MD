@@ -2,23 +2,23 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Status reports on Connector 365 Online Help",
     "description": "Recent content in Status reports on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/connectornav/status-report/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/index.json",
     "items" : [
     {
         "title" : "The configuration",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/status-report/configuration/",
-        "url" : "https://docs.belware.de/en-us/connectornav/status-report/configuration/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/configuration/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/configuration/",
         "content_html" : "\u003ch4 id=\"the-configuration\"\u003eThe configuration\u003c/h4\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/status/config.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eConnector NAV setup, control tab\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eIn the Connector NAV setup, under the Control tab, it is possible to set when a response should be sent for fax or mail dispatch.\u003cbr /\u003e\n\u003cstrong\u003eThe sending requires a setup of the internal SMTP of Microsoft Dynamics NAV\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eFollowing options are avaiable:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eField describtion\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u0026lt;\u0026gt;\u003c/td\u003e\n\u003ctd\u003eNo feedback dispatch\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAlways\u003c/td\u003e\n\u003ctd\u003eFeedback independend of status.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e+\u003c/td\u003e\n\u003ctd\u003eFeedback for positive operations.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e-\u003c/td\u003e\n\u003ctd\u003eFeedback for negative operations.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n"
     },
     {
         "title" : "User report setup",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/connectornav/status-report/user_report_setup/",
-        "url" : "https://docs.belware.de/en-us/connectornav/status-report/user_report_setup/",
+        "id" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/user_report_setup/",
+        "url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/status-report/user_report_setup/",
         "content_html" : "\u003ch4 id=\"the-connector-nav-user-report-setup\"\u003eThe Connector NAV user report setup\u003c/h4\u003e\n\u003cp\u003eSending faxes from Dynamics NAV is possible from any page, in the following an offer is used as an example.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/status/ben_ber_einr.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eConnector NAV user report setup, register general\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eFor sending status messages, a record is created in the user report setup with the following parameters:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eField describtion\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eUser\u003c/td\u003e\n\u003ctd\u003eEmpty\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eLanguage\u003c/td\u003e\n\u003ctd\u003eEmpty\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eReportID\u003c/td\u003e\n\u003ctd\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eBodytext file\u003c/td\u003e\n\u003ctd\u003eBodytext file for the Status feedback.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eHTML bodytext\u003c/td\u003e\n\u003ctd\u003eYes if the bodytext is a HTML file.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eExample of a bodytext:\u003c/p\u003e\n\u003cp\u003eThe job was no sent. Please check the process.\u003c/p\u003e\n\u003cp\u003eError from feedback: %17\u003cbr /\u003e\nJob number: %18\u003cbr /\u003e\nStatus: %19\u003cbr /\u003e\nSubject: %21\u003c/p\u003e\n"
     }
     ]

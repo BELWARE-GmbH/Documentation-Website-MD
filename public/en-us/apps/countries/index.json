@@ -1,0 +1,9 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Supported Countries on Connector 365 Online Help",
+    "description": "Recent content in Supported Countries on Connector 365 Online Help",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/countries/index.json",
+    "items" : [
+    ]
+}

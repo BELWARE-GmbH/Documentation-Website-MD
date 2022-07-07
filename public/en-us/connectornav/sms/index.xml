@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SMS module on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/sms/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/</link>
     <description>Recent content in SMS module on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/sms/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/sms/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/sms/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/setup/</guid>
         <description>Setup: All you need to do is to enter the address assigned to you by Message Mobile on the Configuration page under SMS destination address. As soon as this is done, you can send SMS from NAV.</description>
       </item>
       
       <item>
         <title>Shipping via contacts</title>
-        <link>https://docs.belware.de/en-us/connectornav/sms/send_via_contacts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/send_via_contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/sms/send_via_contacts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/send_via_contacts/</guid>
         <description>Shipping via contacts: To send SMS via the contacts, first open your contact overview and find the contact you want to send the SMS to (if you want to send multiple SMS to multiple contacts, just mark all contacts that should receive an SMS). After you have found and marked the contact, you can open the SMS dialog by clicking on the SMS button in the menu bar under &amp;ldquo;Report&amp;rdquo;.</description>
       </item>
       
       <item>
         <title>Shipping via posted documents</title>
-        <link>https://docs.belware.de/en-us/connectornav/sms/send_via_receipts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/send_via_receipts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/sms/send_via_receipts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/send_via_receipts/</guid>
         <description>Shipping via posted documents: First you open your posted documents as usual. Then select e.g. booked sales invoices. Once there, select the invoice from which you want to send an SMS to the linked contact. After that click on the SMS button in the menu bar under &amp;ldquo;Operation&amp;rdquo;.
 The SMS dialog opens again as it did when sending via contacts. From there you can send a 160 characters text or use a body text.</description>
       </item>
       
       <item>
         <title>Message Mobile contact details</title>
-        <link>https://docs.belware.de/en-us/connectornav/sms/message_mobile/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/message_mobile/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/sms/message_mobile/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/sms/message_mobile/</guid>
         <description>Message Mobile contact details Message Mobile GmbH
 Stresemannstraße 6
 21335 Lüneburg

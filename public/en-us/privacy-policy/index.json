@@ -2,8 +2,8 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Privacy Policy on Connector 365 Online Help",
     "description": "Recent content in Privacy Policy on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de/",
-    "feed_url" : "https://docs.belware.de/en-us/privacy-policy/index.json",
+    "home_page_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/",
+    "feed_url" : "https://belware-gmbh.github.io/Documentation-Website-Test/en-us/privacy-policy/index.json",
     "items" : [
     ]
 }

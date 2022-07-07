@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XRechnung via Connector 365BC on Connector 365 Online Help</title>
-    <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/</link>
     <description>Recent content in XRechnung via Connector 365BC on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Preparation</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/preparation/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/preparation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/preparation/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/preparation/</guid>
         <description>Preparation Make sure you have one of the following Dynamics 365 Business Central versions installed:
 NAV 2016 as of CU55 (05/20)
 NAV 2017 as of CU41 (04/20)
@@ -31,48 +31,48 @@ The XRechnung module generates invoices and credit notes in XRechnung format and
       
       <item>
         <title>Possible document types</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/receipts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/receipts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/receipts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/receipts/</guid>
         <description>Possible document types Currently it is possible to convert the following document types into an XRechnung:
-  Sales invoices
-  Sales credit memos
-  Service invoices
-  Service credit memos
-  The following sections demonstrate an example of XRechnung generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
+Sales invoices
+Sales credit memos
+Service invoices
+Service credit memos
+The following sections demonstrate an example of XRechnung generation for sales invoices. The procedures shown here for sales invoices are almost identical to those for the other possible document types. That is, you can perform the methods shown here analogously for the other types, such as service credit memos.</description>
       </item>
       
       <item>
         <title>Setup</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/setup/</guid>
         <description>Setup The setup for XRechnung is done in the Connector-Setup and in the Communication Matrix. To get into Setup, go to Connector 365 -&amp;gt; Setup as shown in the following image.
-You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information. The settings that affect XRechnung can be found in the Per Client section under the PEPPOL/XRechnung Setup tab.</description>
+You may want to review some master data prior to deployment so that you don&amp;rsquo;t run into errors in later shipping that can be avoided. See the end of the documentation for more information.The settings that affect XRechnung can be found in the Per Client section under the PEPPOL/XRechnung Setup tab.</description>
       </item>
       
       <item>
         <title>Routing ID</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/gateway_id/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/gateway_id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/gateway_id/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/gateway_id/</guid>
         <description>Routing ID As mentioned earlier, the routing ID is used to uniquely identify invoice recipients to enable addressing and, if necessary, routing of electronic invoices to the correct administrative units. Basically, a routing ID consists of the following components:
-  Coarse addressing
-  Fine addressing (optional)
-  Check digit
-  Further information on the structure of a routing ID can be found here.
+Coarse addressing
+Fine addressing (optional)
+Check digit
+Further information on the structure of a routing ID can be found here.
 The Connector is able to check the syntax of a route ID for correctness.</description>
       </item>
       
       <item>
         <title>Create XRechnung</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/create/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/create/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/create/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/create/</guid>
         <description>Create XRechnung Now that we have created the XRechnung entry for Gilde Jupiter Versicherungs AG for the PDF job mode, we can create an XRechnung from the selected 103003 invoice using the PDF button.
 Alternatively, this can also be done using the Batch Run button, provided that the relevant entry in the communication matrix has been marked for batch mode:
 As soon as one of the above buttons has been activated, an XRechnung will be generated from the selected invoice.</description>
@@ -80,49 +80,49 @@ As soon as one of the above buttons has been activated, an XRechnung will be gen
       
       <item>
         <title>Accompanying documents</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/added_documents/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/added_documents/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/added_documents/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/added_documents/</guid>
         <description>Accompanying documents The XRechnung standard allows attachments to accompany invoices.
 This standard allows attachments of the following MIME (Multipurpose Internet Mail Extensions) types:
-  Application/pdf (.pdf)
-  Image/png (.png)
-  Image/jpeg (.jpg)
-  Text/CSV (.csv)
-  Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
-  Excel tables
-  Application/vnd.oasis.opendocument.spreadsheet (.ods)
-  OpenDocument tables
-  PDF attachments may be considered insecure by some clients and are accordingly marked as such by XRechnung Portal Deutschland.</description>
+Application/pdf (.pdf)
+Image/png (.png)
+Image/jpeg (.jpg)
+Text/CSV (.csv)
+Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
+Excel tables
+Application/vnd.oasis.opendocument.spreadsheet (.ods)
+OpenDocument tables
+PDF attachments may be considered insecure by some clients and are accordingly marked as such by XRechnung Portal Deutschland. To avoid this, it is recommended to use PDF/A files instead. These have a higher security level and are therefore also classified as secure attachments by the portal.</description>
       </item>
       
       <item>
         <title>Direct shipping via e-mail</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/send_via_mail/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/send_via_mail/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/send_via_mail/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/send_via_mail/</guid>
         <description>Send XRechnung directly by e-mail (Connector e-mail module) If you have also installed the Connector365 module Email, you can send an XRechnung directly by e-mail through the Connector after it has been generated. For this you have to make an adjustment in the communication matrix.
 Simply change the value of the Job Mode field from PDF to Email. In addition, you can optionally enter a default destination address. Now the marked invoice can be converted to XRechnung format via the Email button, or via the Batch button, if the batch mode entry has been marked, and sent on directly via e-mail.</description>
       </item>
       
       <item>
         <title>Analyze errors</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/error_analysis/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/error_analysis/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/error_analysis/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/error_analysis/</guid>
         <description>Analyze validation results in case of error During the validation of the XRechnung file, it can of course also happen that an XRechnung is classified as non-compliant. This happens when important information is missing from the invoice. For example, validation will fail even if the customer&amp;rsquo;s city is not specified.
 To simulate a case where validation fails, we modify the above procedure to &amp;ldquo;forget&amp;rdquo; to specify a routing ID. To do this, we again open the Communication Matrix for our example calculation 103003, and remove the value for the route ID.</description>
       </item>
       
       <item>
         <title>Troubleshooting information</title>
-        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/more_error_analysis/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/more_error_analysis/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/more_error_analysis/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/connectornav/data-exchange/xrechnung/more_error_analysis/</guid>
         <description>Further information on troubleshooting In this documentation, a possible case of an incorrect validation was shown as an example. In addition to the problem shown there with the routing ID, there are several other sources of errors. Therefore, it is enormously advantageous to use a validation service, as otherwise errors may only be noticed in one of the invoice portals or by the invoice recipient. Using the validation report and with the help of the PEPPOL BIS Billing 3.</description>
       </item>
       

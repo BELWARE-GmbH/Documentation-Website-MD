@@ -2,25 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neu und geplant on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/</link>
     <description>Recent content in Neu und geplant on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <title>V1.0.0.8 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</link>
+        <pubDate>Mon, 16 May 2022 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</guid>
+        <description>Neu und geplant Version 1.0.0.8 Korrektur: Setze negativen Status, wenn E-Mail-Codeunit fehlschlägt Korrektur: Schreiben von E-Mail bezogenen Informationen in die Connector 365 Aktivitäten Liste Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.6 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0  Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen  Geplante Funktionen für zukünftige Versionen  Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege  </description>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
+        <description>Neu und geplant Version 1.0.0.6 Logik bei der Auswahl des Berichtslayouts an den Standard angeglichen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.7 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</link>
+        <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
+        <description>Neu und geplant Version 1.0.0.7 Dialog-Seiten nur wenn erlaubt (GuiAllowed) Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>Neu und geplant Version 1.0.0.0 Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
       </item>
       
     

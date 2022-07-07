@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>iPaper</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/ipaper/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/ipaper/</guid>
+        <description>Setup iPaper In order to apply the correct stationery to the created PDFs, the iPaper must first be set up correctly. This starts with the location of the stationery.
+Stationery Folder All stationery templates must be stored in the same folder, which will be made known to the software. A stored stationery must be in PDF format.
+You can find the folder as follows:
+Open the user interface of the software, this is done via the Windows search or by running the software from the folder in which it was installed.</description>
+      </item>
+      
+      <item>
+        <title>PdfPaper Setup</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/pdfpaper/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/pdfpaper/</guid>
+        <description>Setup Connector 365 PdfPaper In order to use the Connector 365 PdfPaper app, a connection to the iPaper software must be established. This is done via the &amp;ldquo;Connector 365 Setup&amp;rdquo;, which you can find via the search function.
+There you will find 3 fields for setup:
+PdfPaperIn - Here you have to specify the input folder from the iPaper setup.
+PdfPaperOut - Here you have to specify the output folder from the iPaper setup.</description>
+      </item>
+      
+      <item>
+        <title>Stationery in the report selection</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/reportselection/</guid>
+        <description>Setup Stationery in the report selection The report selection is one of two places where you can store your stationery.
+To do this, open the corresponding report selection, e.g. &amp;ldquo;Report selection - Sales&amp;rdquo;. Now select the report for which you want to store a stationery.
+You will find the new field &amp;ldquo;Stationery&amp;rdquo;. Click on the field, a new window will open where you can select your stationery.
+If this is the first time you open this window, the selection will be empty.</description>
+      </item>
+      
+      <item>
+        <title>Stationery in the document layout</title>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/en-us/apps/pdfpaper/first-steps/setup/documentlayouts/</guid>
+        <description>Setup Stationery in the document layout You also have the option to store a stationery per customer &amp;amp; report, this is done in the respective document layouts.
+Open the card of the customer for which you want to store a stationery. Then click on &amp;ldquo;Navigate&amp;rdquo; and &amp;ldquo;Document layouts&amp;rdquo;.
+Now set up the corresponding report and use the &amp;ldquo;Stationery&amp;rdquo; field to store your stationery.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

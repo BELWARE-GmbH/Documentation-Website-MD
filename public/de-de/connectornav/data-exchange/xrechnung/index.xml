@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XRechnung via Connector 365BC on Connector 365 Online Hilfe</title>
-    <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/</link>
+    <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/</link>
     <description>Recent content in XRechnung via Connector 365BC on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Vorbereitung</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/preparation/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/preparation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/preparation/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/preparation/</guid>
         <description>Vorbereitung Gehen Sie sicher, dass Sie eine der folgenden Dynamics 365 Business Central Versionen installiert haben:
 NAV 2016 ab CU55 (05/20)
 NAV 2017 ab CU41 (04/20)
@@ -31,49 +31,49 @@ Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und 
       
       <item>
         <title>Mögliche Belegarten</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/receipts/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/receipts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/receipts/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/receipts/</guid>
         <description>Mögliche Belegarten Aktuell ist es möglich, folgende Belegarten in eine XRechnung umzuwandeln:
-  Verkaufsrechnungen
-  Verkaufsgutschriften
-  Servicerechnungen
-  Servicegutschriften
-  Die folgenden Abschnitte demonstrieren beispielhaft die XRechnung-Erzeugung von Verkaufsrechnungen. Die hier gezeigten Vorgehensweisen für Verkaufsrechnungen sind nahezu identisch mit denen für die jeweiligen anderen möglichen Belegarten. Das heißt, Sie können die hier gezeigten Methoden analog für die anderen Typen, beispielsweise für Servicegutschriften, durchführen. Es sind einzig minimale Anpassungen in der Einrichtung der Kommunikationsmatrix notwendig (BerichtsID, PEPPOL Verwendung).</description>
+Verkaufsrechnungen
+Verkaufsgutschriften
+Servicerechnungen
+Servicegutschriften
+Die folgenden Abschnitte demonstrieren beispielhaft die XRechnung-Erzeugung von Verkaufsrechnungen. Die hier gezeigten Vorgehensweisen für Verkaufsrechnungen sind nahezu identisch mit denen für die jeweiligen anderen möglichen Belegarten. Das heißt, Sie können die hier gezeigten Methoden analog für die anderen Typen, beispielsweise für Servicegutschriften, durchführen. Es sind einzig minimale Anpassungen in der Einrichtung der Kommunikationsmatrix notwendig (BerichtsID, PEPPOL Verwendung).</description>
       </item>
       
       <item>
         <title>Einrichtung</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/setup/</guid>
         <description>Einrichtung Die Einrichtung für XRechnung wird in der Connector-Einrichtung und in der Kommunikationsmatrix vorgenommen. Um in die Einrichtung zu gelangen, gehen Sie auf Connector 365 -&amp;gt; Einrichtung wie im folgenden Bild gezeigt.
-Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im späteren Versand nicht auf Fehler stoßen, die sich vermeiden lassen. Weitere Informationen dazu finden Sie am Ende der Dokumentation. Die Einstellungen, die XRechnung betreffen, finden Sie im Abschnitt Pro Mandant unter dem Reiter PEPPOL/XRechnung Einrichtung</description>
+Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im späteren Versand nicht auf Fehler stoßen, die sich vermeiden lassen. Weitere Informationen dazu finden Sie am Ende der Dokumentation.Die Einstellungen, die XRechnung betreffen, finden Sie im Abschnitt Pro Mandant unter dem Reiter PEPPOL/XRechnung Einrichtung</description>
       </item>
       
       <item>
         <title>Leitweg-ID</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/gateway_id/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/gateway_id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/gateway_id/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/gateway_id/</guid>
         <description>Leitweg-ID Wie bereits erwähnt, dient die Leitweg-ID der eindeutigen Identifikation von Rechnungsempfängern, um die Adressierung und ggf. Weiterleitung von elektronischen Rechnungen zu den richtigen Verwaltungseinheiten zu ermöglichen. Grundsätzlich besteht eine Leitweg-ID aus folgenden Bestandteilen:
-  Grobadressierung
-  Feinadressierung (optional)
-  Prüfziffer
-  Weitere Informationen zum Aufbau einer Leitweg-ID finden Sie hier.
+Grobadressierung
+Feinadressierung (optional)
+Prüfziffer
+Weitere Informationen zum Aufbau einer Leitweg-ID finden Sie hier.
 Der Connector ist in der Lage, die Syntax einer Leitweg-ID auf Richtigkeit zu überprüfen.
 Das heißt, es wird geprüft, ob die einzelnen Bestandteile die erlaubte Anzahl an Zeichen enthalten, und ob die Prüfziffer korrekt ist.</description>
       </item>
       
       <item>
         <title>XRechnung erzeugen</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/create/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/create/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/create/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/create/</guid>
         <description>XRechnung erzeugen Da wir nun den **XRechnungs-**Eintrag für Gilde Jupiter Versicherungs AG für den Jobmodus PDF angelegt haben, können wir aus der markierten Rechnung 103003 über die Schaltfläche PDF eine XRechnung erzeugen.
 Alternativ geht dies auch über die Schaltfläche Stapellauf, insofern der betreffende Eintrag in der Kommunikationsmatrix für den Stapelmodus markiert worden ist:
 Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der markierten Rechnung eine XRechnung erzeugt.</description>
@@ -81,49 +81,49 @@ Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der
       
       <item>
         <title>Begleitende Dokumente</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/added_documents/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/added_documents/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/added_documents/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/added_documents/</guid>
         <description>Begleitende Dokumente Der XRechnung-Standard lässt es zu, rechnungsbegleitende Anlagen anzuhängen.
 Dieser Standard erlaubt Anhänge von folgenden MIME-Typen (Multipurpose Internet Mail Extensions):
-  Application/pdf (.pdf)
-  Image/png (.png)
-  Image/jpeg (.jpg)
-  Text/CSV (.csv)
-  Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
-  Excel-Tabellen
-  Application/vnd.oasis.opendocument.spreadsheet (.ods)
-  OpenDocument-Tabellen
-  PDF-Anhänge können von manchen Auftraggebern als unsicher eingestuft werden und werden dementsprechend auch vom XRechnung Portal Deutschland als solche gekennzeichnet.</description>
+Application/pdf (.pdf)
+Image/png (.png)
+Image/jpeg (.jpg)
+Text/CSV (.csv)
+Application/vnd.openxmlformats-officedocument.spreadsheethtml.sheet (.xslx)
+Excel-Tabellen
+Application/vnd.oasis.opendocument.spreadsheet (.ods)
+OpenDocument-Tabellen
+PDF-Anhänge können von manchen Auftraggebern als unsicher eingestuft werden und werden dementsprechend auch vom XRechnung Portal Deutschland als solche gekennzeichnet. Um dies zu vermeiden wird empfohlen stattdessen PDF/A-Dateien zu verwenden. Diese haben eine höhere Sicherheitsstufe und werden daher auch vom Portal als sichere Anghänge eingestuft.</description>
       </item>
       
       <item>
         <title>Direktversand per E-Mail</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</guid>
         <description>XRechnung direkt per E-Mail versenden (Connector E-Mail Modul) Wenn Sie zusätzlich das Connector365-Modul E-Mail installiert haben, können Sie eine XRechnung nach der Erzeugung direkt per E-Mail durch den Connector versenden. Dazu müssen sie eine Anpassung in der Kommunikationsmatrix vornehmen.
 Ändern Sie einfach den Wert des Feldes Jobmodus von PDF auf E-Mail. Zudem können Sie optional eine Standard-Zieladresse eingeben. Nun kann die markierte Rechnung über die Schaltfläche E-Mail, oder über die Schaltfläche Stapellauf, sofern der Eintrag für den Stapelmodus markiert worden ist, in das XRechnung-Format konvertiert und direkt per E-Mail weiter versendet werden.</description>
       </item>
       
       <item>
         <title>Fehler analysieren</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/error_analysis/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/error_analysis/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/error_analysis/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/error_analysis/</guid>
         <description>Validierungsergebnisse bei Fehler analysieren Bei der Validierung der XRechnung-Datei kann es natürlich auch vorkommen, dass eine XRechnung als nicht konform eingestuft wird. Dies passiert dann, wenn wichtige Informationen in der Rechnung fehlen. Beispielsweise wird eine Validierung schon dann fehlschlagen, wenn die Stadt des Debitors nicht angegeben wurde.
 Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir das obige Vorgehen so um, dass wir „vergessen“ eine Leitweg-ID anzugeben. Dazu rufen wir wieder für unsere Beispielrechnung 103003 die Kommunikationsmatrix auf, und entfernen in unserem Eintrag den Wert für die Spalte Leitweg-ID.</description>
       </item>
       
       <item>
         <title>Informationen zur Fehlersuche</title>
-        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</link>
+        <link>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</guid>
+        <guid>https://belware-gmbh.github.io/Documentation-Website-Test/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</guid>
         <description>Weitere Informationen zur Fehlersuche In dieser Dokumentation wurde beispielhaft ein möglicher Fall einer fehlerhaften Validierung aufgezeigt. Neben der dort gezeigten Problematik mit der Leitweg-ID, gibt es noch einige andere Fehlerquellen. Daher ist es enorm vorteilhaft, einen Validierungsdienst zu verwenden, da ansonsten Fehler möglicherweise erst in einem der Rechnungsportale oder beim Rechnungsempfänger auffallen. Anhand des Validierungsberichts und mithilfe der PEPPOL BIS Billing 3.0 Code Lists lassen sich die meisten Fehler schnell beseitigen.</description>
       </item>
       
