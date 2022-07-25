@@ -14,14 +14,17 @@ weight: 2
 
 The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under **"Navigate" - "Document layouts"** of the respective customer.
 
-When you open the document layouts, new fields are now available.
-**"Ident ID" and "Add document as attachment"**.
+When you open the document layouts, following new fields are now available:
+- **Ident ID**
+- **Add document as attachment**
 
-![](images/XRechnung/XRechnungScreenshot2.PNG)
+![](images/XRechnung/xr_doc_layout_en.png)
  
-In the field **"Ident ID"** the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient. This field is subject to a syntax check and only allows valid Ident IDs.
+In the field **Ident ID** the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient. This field is subject to a syntax check and only allows valid Ident IDs.
 
-In the field **"Add document as attachment"** you have 3 selection options which determine how the original document and any attachments are handled.
+***Note: The route ID can also be set in the e-mail dialog, i.e. it does not necessarily have to be set in the document layouts.***
+
+In the field **Add document as attachment** you have 3 selection options which determine how the original document and any attachments are handled.
 
 ![](images/XRechnung/xrechnungbeleganhang.PNG)
 
@@ -31,4 +34,5 @@ In the field **"Add document as attachment"** you have 3 selection options which
 
 **PDF** - The original document is attached as a PDF in addition to the XML of the XRechnung. Other attachments are also attached as usual.
 
-If the checkmark for XRechnungis set, a correct Ident ID is stored, the desired attachment option is selected and all necessary master data is entered, invoices/credit notes can be sent in XRechnung format.
+***Note: This setting cannot be customized in the mail dialog. If a special setting is desired, it must be
+this must be set in the document layouts.***
