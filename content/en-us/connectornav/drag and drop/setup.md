@@ -13,6 +13,10 @@ To install the module you must first stop the RTC instance, this step must be ex
 
 ![](/images/connectornav/dragdrop/einr1.png)<center>folder to drop</center>.
 
+***Important***: This step must be performed for all client machines. Otherwise, the following error message appears.
+
+![](/images/connectornav/dragdrop/error_message_en.png)
+
 Now restart the RTC instance.
 The add-in has now been registered by the RTC. Now open the control add-ins page.
 

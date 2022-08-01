@@ -13,6 +13,10 @@ Um das Modul zu installieren muss zunächst die RTC-Instanz gestoppt werden, die
 
 ![](/images/connectornav/dragdrop/einr1.png)<center>Ordner zum ablegen</center>
 
+***Wichtig***: Dieser Schritt muss für alle Client-Rechner durchgeführt werden. Andernfalls erscheint folgende Fehlermeldung.
+
+![](/images/connectornav/dragdrop/error_message.png)
+
 Starten Sie nun die RTC-Instanz neu.
 Das Add-In wurde nun durch den RTC registriert. Rufen Sie nun die Steuerelement-Add-Ins-Seite auf.
 
