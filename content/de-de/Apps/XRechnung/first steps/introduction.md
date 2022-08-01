@@ -24,7 +24,8 @@ Die nachfolgende Tabelle gibt eine Übersicht über die Gültigkeitzeiträume de
 
 | XRechnung-Version | Fassung vom     | Gültigkeitszeitraum         |
 |-------------------|-----------------|-----------------------------|
-| 2.1.1             | 27.07.2021      | 01.02.2022                  |
+| 2.2               |                 | 01.08.2022                  |
+| 2.1.1             | 27.07.2021      | 01.02.2022 - 31.07.2022     |
 | 2.1.0<br>(zurückgezogen) | 22.07.2021   | zurückgezogen           |
 |**2.0.1**          | **16.12.2020**  | **01.07.2021 - 31.01.2022** |
 | 2.0.0             | 30.06.2020      | 01.01.2021 - 30.06.2021     |
