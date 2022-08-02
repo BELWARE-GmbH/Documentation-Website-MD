@@ -11,15 +11,15 @@ weight: 1
 ### Versandszenarios
 Grundsätzlich haben Sie die Möglichkeit mehrere Jobmodi gleichzeitig zu nutzen in Verwendung mit der Stapelfunktion. Sie müssen dies nur dem entsprechend in den Dokumentlayouts einrichten.
 
-Wird der Stapelversand ausgelöst während für einen Beleg mehrere Jobmodi eingerichtet sind, werden diese nacheinander ausgelöst.
+Wird der Stapelversand ausgelöst, während für einen Beleg mehrere Jobmodi eingerichtet sind, werden diese nacheinander ausgelöst.
 
 **Beispiel 1**
 
-Ein Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail, dies sieht in den Dokumentlayouts wie folgt aus:
+Ein Szenario bei der diese Funktionsweise gewünscht sein kann, wäre in der Übergangsphase von einem postalischen Versand zu einem rein digitalen Versand per E-Mail. Dies sieht in den Dokumentlayouts wie folgt aus:
 
 ![](images/apps/easyscenario1en.PNG)
 
-So würden beim auslösen des Stapelversands die entsprechenden Debitoren eine E-Mail erhalten und gleichzeitig auch einen Brief.
+So würden beim Auslösen des Stapelversands die entsprechenden Debitoren eine E-Mail erhalten und gleichzeitig auch einen Brief.
 
 **Beispiel 2**
 
