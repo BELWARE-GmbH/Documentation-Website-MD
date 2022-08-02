@@ -35,8 +35,10 @@ Fax: +49 2362 788 90 56
 Für den Support nutzen wir TeamViewer oder Teams. Falls Sie TeamViewer noch nicht nutzen, können Sie ihn [hier](https://get.teamviewer.com/belware) downloaden.
 
 **Bürozeiten:**
-Mo - Do: 08:00 - 17:00 Uhr
-Fr: 08:00 - 16:00 Uhr
+Mo - Do: 08:00 - 17:00 Uhr (Mittagspause 12:00 - 13:30 Uhr)
+Fr: 08:00 - 16:00 Uhr (Mittagspause 12:00 - 13:30 Uhr)
+
+
 
 ### Portale
 
