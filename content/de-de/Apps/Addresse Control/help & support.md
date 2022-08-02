@@ -16,7 +16,7 @@ E-Mail: info@belware.de
 
 Alternativ
 
-Tel.: +49 2362 788 90 55
+Tel.: +49 2362 788 90 55 0
 Fax: +49 2362 788 90 56
 
 Sowohl für Partner als auch für Kunden bieten wir unsere Unterstützung zuverlässig und zeitnah an. Zur bestmöglichen Analyse und Lösung Ihres Problems, bevorzugen wir die Fehlermeldung über eine E-Mail mit entsprechender Fehlerbeschreibung und Screenshots.
@@ -27,7 +27,7 @@ E-Mail: support@belware.de
 
 Alternativ
 
-Tel.: +49 2362 788 90 55
+Tel.: +49 2362 788 90 55 0
 Fax: +49 2362 788 90 56
 
 ![](images/Support/TeamviewerTeams.PNG)
@@ -35,7 +35,7 @@ Fax: +49 2362 788 90 56
 Für den Support nutzen wir TeamViewer oder Teams. Falls Sie TeamViewer noch nicht nutzen, können Sie ihn [hier](https://get.teamviewer.com/belware) downloaden.
 
 **Bürozeiten:**
-Mo - Do: 08:00 - 17:00 Uhr
+Mo - Do: 08:00 - 17:00 Uhr (Mittagspause: 12:00 - 13:30 Uhr)
 Fr: 08:00 - 16:00 Uhr
 
 ### Portale

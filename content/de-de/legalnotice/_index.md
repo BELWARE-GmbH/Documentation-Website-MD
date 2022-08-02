@@ -21,7 +21,7 @@ Jörg Belecke
 
 #### Kontakt:
 
-Telefon: +49 2362 788 90 55
+Telefon: +49 2362 788 90 55 0
 
 Telefax: +49 2362 788 90 56
 

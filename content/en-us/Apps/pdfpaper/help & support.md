@@ -16,7 +16,7 @@ E-Mail: info@belware.de
 
 alternatively
 
-Phone: +49 2362 788 90 55 0
+Phone: +49 2362 788 90 55 0 0
 Fax: +49 2362 788 90 56
 
 We offer reliable and prompt support to both partners and customers. To assure the best possible analysis and solution of your problem, we request you to send in the error message via mail together with a description and screenshots.
@@ -27,7 +27,7 @@ E-Mail: support@belware.de
 
 alternatively
 
-Phone: +49 2362 788 90 55 0
+Phone: +49 2362 788 90 55 0 0
 Fax: +49 2362 788 90 56
 
 ![](images/Support/TeamviewerTeams.PNG)

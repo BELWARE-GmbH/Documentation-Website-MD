@@ -21,7 +21,7 @@ Jörg Belecke
 
 ### Contact:
 
-Phone: +49 2362 788 90 55
+Phone: +49 2362 788 90 55 0
 
 Fax: +49 2362 788 90 56
 
