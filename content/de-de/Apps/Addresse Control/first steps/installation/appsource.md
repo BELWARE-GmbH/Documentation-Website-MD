@@ -14,7 +14,7 @@ weight: 1
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 CTI for STARFACE** zu finden. Klicken Sie auf **Get it now** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Addresse Control** zu finden. Klicken Sie auf **Get it now** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
 ![](images/apps/ctimarketplacesearch.PNG)
 
@@ -28,7 +28,7 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
 
-Wenn alles geklappt hat, können Sie nun den **Connector 365 CTI for STARFACE** unter **Installierte Erweiterungen** finden.
+Wenn alles geklappt hat, können Sie nun den **Connector 365 Addresse Control** unter **Installierte Erweiterungen** finden.
 
 ![](images/apps/ctiinstalledde.PNG)
 

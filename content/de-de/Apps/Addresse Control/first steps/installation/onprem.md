@@ -9,10 +9,10 @@ weight: 2
 ### Installation
 
 ### OnPrem
-Sie erhalten von uns die Objekte für die Connector 365 Base & CTI for STARFACE App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Sie erhalten von uns die Objekte für die Connector 365 Base & Addresse Control App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 
-#### Veröffentlichen der Connector 365 Base & CTI for STARFACE App
-Das veröffentlichen der Connector 365 Base & CTI for STARFACE App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.
+#### Veröffentlichen der Connector 365 Base & Addresse Control App
+Das veröffentlichen der Connector 365 Base & Addresse Control App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.
 
 ![](images/apps/adminshell.PNG)
 
@@ -46,7 +46,7 @@ Beide Apps sollten nun im System veröffentlicht sein.
 {{< /notice >}}
 #
 
-#### Installieren der Connector 365 Base & CTI for STARFACE App
+#### Installieren der Connector 365 Base & Addresse Control App
 
 In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
 
@@ -73,11 +73,11 @@ Für die Installation der Connector 365 Base App nutzen Sie den folgenden Befehl
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
-Es folgt noch die Connector 365 CTI for STARFACE App:
+Es folgt noch die Connector 365 Addresse Control App:
 
 **Beispiel:**
 
-```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 CTI for STARFACE" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Addresse Control" -Tenant Tenant1, Tenant2```
 
 Sie können nun mit der [Einrichtung](/de-de/apps/cti-for-starface/first-steps/setup/) starten.
 
