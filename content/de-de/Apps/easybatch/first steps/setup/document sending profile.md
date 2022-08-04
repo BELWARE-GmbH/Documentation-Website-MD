@@ -1,5 +1,5 @@
 ---
-title: "Belegsendeprofil"
+title: "Belegsendeprofile"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -18,25 +18,24 @@ Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsb
 
 Einrichten von Belegsendeprofilen
 
-1. Öffnen Sie die Suche, geben Sie Dokumentsendeprofile ein und wählen Sie dann den entsprechenden Link.
-2. Auf der Seite Dokumentsendeprofile wählen Sie die Aktion Neu aus.
+1. Öffnen Sie die Suche, geben Sie **Belegsendeprofile** ein und wählen Sie dann den entsprechenden Link.
+2. Auf der Seite **Belegsendeprofile** wählen Sie die Aktion **Neu** aus.
 3. Füllen Sie die Felder je nach Bedarf aus. Fahren Sie über ein Feld, um eine Kurzbeschreibung zu lesen.
 
 ![](images/apps/easydocumentsendingde.PNG)
 
-Nachdem Sie die Belegsendeprofile eingerichtet haben, sollten Sie noch eins als Standard setzen, dieses greift, wenn in einem Debitor keine Angabe zum Belegsendeprofil gemacht wurde.
+{{< notice warning "Hinweis" >}}
+ Die Belegsendeprofile beinhalten eine Schaltfläche, mit der sich eingerichtete Profile als Standard setzen lassen.
+            Dies hat allerdings keinen Einfluss auf die Funktionsweise der **Connector 365 Easy Batch App**.
+            Ein Belegsendeprofil wird nur dann von **Connector 365 Easy Batch** verarbeitet, wenn dieses in einem [Debitor](#customer_sending_profile) hinterlegt worden ist 
+            **UND** wenn für diesen Debitor keine aktive Stapelmodus-Einrichtung in den [Dokumentlayouts](/de-de/apps/easybatch/first-steps/setup/document-layouts) verfügbar ist. Das heißt, die Dokumentlayouts haben Vorrang bei der Verarbeitung des Belegs!
+{{< /notice >}}
 
-#### Sendeprofil für einen Debitor festlegen
+#### <a class="anchor" id="customer_sending_profile"></a> Sendeprofil für einen Debitor festlegen {#customer_sending_profile}
+
 
 1. Öffnen Sie die Suche, geben Sie Debitoren ein, und wählen Sie dann den zugehörigen Link.
 2. Öffnen Sie die Karte des Debitors, für den ein Sendeprofil eingerichtet werden soll.
-3. Wählen Sie im Inforegister Belegsendeprofil ein Profil aus, das sie eingerichtet haben wie im vorigen Verfahren beschrieben.
+3. Wählen Sie im Inforegister Belegsendeprofil ein Profil aus, das sie eingerichtet haben, wie im vorigen Verfahren beschrieben.
 
 ![](images/apps/easydocumentcustomerde.PNG)
-
-Ist nun in den Dokumentenlayout **kein** Haken im Feld Stapelmodus gesetzt und das Feld für den Jobmodus wurde **leer** gelassen, so greift die soeben vorgenommene Einrichtung.
-
-
-
-
-
