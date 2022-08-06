@@ -31,7 +31,7 @@ Einrichten von Belegsendeprofilen
             **UND** wenn für diesen Debitor keine aktive Stapelmodus-Einrichtung in den [Dokumentlayouts](/de-de/apps/easybatch/first-steps/setup/document-layouts) verfügbar ist. Das heißt, die Dokumentlayouts haben Vorrang bei der Verarbeitung des Belegs!
 {{< /notice >}}
 
-#### <a class="anchor" id="customer_sending_profile"></a> Sendeprofil für einen Debitor festlegen {#customer_sending_profile}
+#### <a class="anchor" name="customer_sending_profile"></a> Sendeprofil für einen Debitor festlegen {#customer_sending_profile}
 
 
 1. Öffnen Sie die Suche, geben Sie Debitoren ein, und wählen Sie dann den zugehörigen Link.
