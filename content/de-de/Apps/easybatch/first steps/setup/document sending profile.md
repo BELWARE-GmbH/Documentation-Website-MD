@@ -27,12 +27,11 @@ Einrichten von Belegsendeprofilen
 {{< notice warning "Hinweis" >}}
  Die Belegsendeprofile beinhalten eine Schaltfläche, mit der sich eingerichtete Profile als Standard setzen lassen.
             Dies hat allerdings keinen Einfluss auf die Funktionsweise der **Connector 365 Easy Batch App**.
-            Ein Belegsendeprofil wird nur dann von **Connector 365 Easy Batch** verarbeitet, wenn dieses in einem [Debitor](#customer_sending_profile) hinterlegt worden ist 
-            **UND** wenn für diesen Debitor keine aktive Stapelmodus-Einrichtung in den [Dokumentlayouts](/de-de/apps/easybatch/first-steps/setup/document-layouts) verfügbar ist. Das heißt, die Dokumentlayouts haben Vorrang bei der Verarbeitung des Belegs!
+            Ein Belegsendeprofil wird nur dann von **Connector 365 Easy Batch** verarbeitet, wenn dieses in einem [Debitor](de-de/apps/easybatch/first-steps/setup/document-sending-profile/#cust) hinterlegt worden ist **UND** wenn für diesen Debitor keine aktive Stapelmodus-Einrichtung in den [Dokumentlayouts](/de-de/apps/easybatch/first-steps/setup/document-layouts) verfügbar ist. Das heißt, die Dokumentlayouts haben Vorrang bei der Verarbeitung des Belegs!
 {{< /notice >}}
 
-#### <a class="anchor" name="customer_sending_profile"></a> Sendeprofil für einen Debitor festlegen {#customer_sending_profile}
-
+<a name="cust" class="anchor"></a>
+#### Sendeprofil für einen Debitor festlegen
 
 1. Öffnen Sie die Suche, geben Sie Debitoren ein, und wählen Sie dann den zugehörigen Link.
 2. Öffnen Sie die Karte des Debitors, für den ein Sendeprofil eingerichtet werden soll.
