@@ -4,9 +4,9 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
-weight: 2
+weight: 1
 ---
-### Erste Schritte mit der Connector 365 CTI for STARFACE App
+### Erste Schritte mit der Connector 365 Addresse Control App
 
 Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 CTI for STARFACE App.
 
