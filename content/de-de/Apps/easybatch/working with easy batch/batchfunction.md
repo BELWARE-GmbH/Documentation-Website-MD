@@ -16,7 +16,7 @@ Nachdem alle Debitoren nach Ihren Wünschen eingerichtet wurden, können Sie mit
 
 Wählen Sie nun die Belege aus, welche Sie versenden möchten.
 
-![](images/apps/easydocumentselectde.PNG)
+![](images/apps/easybatchdocumentselectde.PNG)
 
 In der Auswahl sind Sie komplett frei - Sie haben, falls gewünscht, auch die Möglichkeit einzelne Belege als Stapel zu versenden.
 
@@ -24,8 +24,6 @@ Sobald Sie einen oder mehrere Belege für den Versand ausgewählt haben, können
 
 ![](images/apps/easybatchfunctionde.PNG)
 
-Es öffnet sich kein weiterer Dialog, die Verarbeitung anhand der eingestellten Jobmodi wird sofort durchgeführt.
+Es öffnet sich kein weiterer Dialog. Die Verarbeitung wird anhand der eingestellten Jobmodi zum in der **Easy Batch Einrichtung** hinterlegten Zeitpunkt durchgeführt.
 
-Nach Abschluss der Verarbeitung erhalten Sie eine kurze Benachrichtigung.
-
-Der gesamte Vorgang und die verarbeiteten Jobs werden anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easybatch/working-with-easy-batch/archive/) archiviert.
+Jeder Vorgang wird im Anschluss als einzelne Aufgabe unter [Connector 365 Offene Aufgaben](/de-de/apps/easybatch/working-with-easy-batch/open-tasks/) eingestellt. 
