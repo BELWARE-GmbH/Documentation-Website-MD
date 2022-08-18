@@ -6,3 +6,56 @@ draft: false
 collapsible: true
 weight: 1
 ---
+
+### Neu und geplant
+
+### Geplante Funktionen für zukünftige Versionen
+
+### Version 2.0.0.0
+- Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0)
+- Überführung der Tabelle "Joblist Entry" in "Activity Entry"
+
+### Version 1.0.1.23
+- Kompatibilität zu XRechnung 2.2
+
+### Version 1.0.1.22
+- Verbesserungen bei der Integration mit der ***Connector 365 Easy Batch*** App
+
+### Version 1.0.1.18
+- Möglichkeit per XML-Felder per Event anzusteuern und zu überschreiben.
+
+### Version 1.0.1.11
+- Dokumentlayout übersteuert nun die Berichtsauswahl je Verwendung. 
+- Fehlerkorrektur Dialog: Unterpage "Anhänge" wurde doppelt angezeigt. 
+- Es wird nun immer das richtige E-Mail Layout genommen.
+- Servicebereich ist nun für die XRechnung verfügbar
+
+### Version 1.0.1.5
+- Korrekturen
+- Unterstützung von Servicerechnungen und Servicegutschriften
+
+### Version 1.0.1.3
+- Korrekturen
+- Integration zu Connector 365 Easy Batch
+
+### Version 1.0.1.1
+- Die Connector 365 XRechnung App stützt nun auf unsere Basis App
+- Hinzufügen von Events zur Steuerung der XRechnung
+- Fehlerkorrekturen
+
+### Version 1.0.1.0
+- Statusverfolgung im Rollencenter
+- Rechnungsbegleitende Anhänge
+- Überarbeiteter XRechnungs-Dialog
+- Syntaxüberprüfung der Leitweg-ID
+- Erweiterung der Eingabe für Leitweg ID's
+- XRechnungsversion angepasst
+
+### Version 1.0.0.1
+- Erstellen einer XRechnung XML-Datei 
+- Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog 
+- Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt.
+- Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität”
+- Abbruch des Versands bei "Nicht-Konformität
+- Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll
+

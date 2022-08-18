@@ -16,14 +16,21 @@ Der Bedarf an postalischen Belegempfang ist immer noch allgegenwärtig. Was hei�
 
 Dank der Connector 365 E-POST App* sind die Zeiten des manuellen Versands jedoch vorbei. Von überall aus können Sie nun mit nur einem Klick Ihre Belege postalisch verschicken. Nach installieren der Connector 365 E-POST App haben Sie die Möglichkeit, den gewünschten Beleg auszuwählen und diese mit den folgenden bekannten Versandoptionen zu versenden:
 
-Belegarten
+**Unterstützte Belegarten:**
+
+Verkauf:
 - Geb. Verkaufsrechnungen
 - Geb. Verkaufsgutschriften
 - Reg. Mahnungen
-- Angebote
+- Verkaufsangebote
 - Verkaufsaufträge
 
-Versandoptionen:
+Einkauf:
+- Einkaufsbestellungen
+- Geb. Einkaufsrücklieferungen
+
+
+**Versandoptionen:**
 - Schwarz/Weiß oder farbig
 - Auslandsversand
 - Einschreiben (Einwurf/Rückschein)
