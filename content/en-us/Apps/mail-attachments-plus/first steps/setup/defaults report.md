@@ -29,4 +29,4 @@ After adding the file(s), you may have noticed the "From Date" and "To Date" fie
 {{< /notice >}}
 #
 
-Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Report Default Attachments](en-us/apps/mail_attachment_plus/working-with-map/defaults-report/)
+Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Report Default Attachments](en-us/apps/mail-attachments-plus/working-with-map/defaults-report/)

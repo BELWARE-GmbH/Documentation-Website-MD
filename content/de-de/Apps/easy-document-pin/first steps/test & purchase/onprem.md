@@ -29,6 +29,6 @@ Ihre Kosten:
 
 *Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.*
 
-Danach können Sie mit der [Installation](/de-de/apps/easydocumentpin/first-steps/installation/) der Connector 365 Easy Document Pin App starten
+Danach können Sie mit der [Installation](/de-de/apps/easy-document-pin/first-steps/installation/) der Connector 365 Easy Document Pin App starten
 
 Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an Support@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de

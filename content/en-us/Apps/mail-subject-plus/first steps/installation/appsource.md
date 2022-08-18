@@ -32,5 +32,5 @@ If everything worked, you can now find **Connector 365 Mail Subject Plus** under
 
 ![](images/apps/subjectinstalledextensionen.PNG)
 
-You can now start with the [setup](en-us/apps/mailsubject/first-steps/setup/).
+You can now start with the [setup](en-us/apps/mail-subject-plus/first-steps/setup/).
 

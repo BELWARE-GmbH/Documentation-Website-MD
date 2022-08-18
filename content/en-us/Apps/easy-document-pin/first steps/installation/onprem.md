@@ -76,7 +76,7 @@ The Connector 365 Easy Document Pin app follows:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Easy Document Pin" -Tenant Tenant1, Tenant2```
 
-You can now start with the [setup](/en-us/apps/easydocumentpin/first-steps/setup/) starten.
+You can now start with the [setup](/en-us/apps/easy-document-pin/first-steps/setup/) starten.
 
 
 

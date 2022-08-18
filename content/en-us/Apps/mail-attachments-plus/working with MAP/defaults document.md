@@ -8,7 +8,7 @@ weight: 3
 ---
 ### Working with Mail Attachment Plus
 
-Once you have added all your desired attachments via the **"Attachments "** menu, you can start sending. If you have not done so yet, you can find the setup of the [Document Default Attachments](/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-document/) in the **"Getting Started"** section.
+Once you have added all your desired attachments via the **"Attachments "** menu, you can start sending. If you have not done so yet, you can find the setup of the [Document Default Attachments](/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/) in the **"Getting Started"** section.
 
 For the example, we have set up the attachments for a receipt as follows:
 

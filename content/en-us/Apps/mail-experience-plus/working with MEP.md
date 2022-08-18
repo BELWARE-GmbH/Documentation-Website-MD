@@ -13,7 +13,7 @@ The Connector 365 Mail Experience Plus app combines the 3 apps from our Mail Plu
 ##### Mail Subject Plus area
 The Mail Subject Plus area is there to add your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.
 
-[Working with Subject](https://docs.belware.de/en-us/apps/mailsubject/working-with-mail-subject-plus/)
+[Working with Subject](https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/)
 
 
 ##### Mail Sender Plus area
@@ -25,4 +25,4 @@ Mail Sender Plus allows you to intelligently control your sender addresses per r
 ##### Mail Attachments Plus area
 Mail Attachments Plus allows you to control your mail attachments at various levels and specify attachments that will always be attached to certain reports when sent by default. Control for attachments over a period of time is also possible.
 
-[Working with Attachments](https://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/)
+[Working with Attachments](https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/)

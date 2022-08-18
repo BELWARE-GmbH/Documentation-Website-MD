@@ -76,7 +76,7 @@ Es folgt noch die Connector 365 Mail Experience Plus App:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Mail Experience Plus" -Tenant Tenant1, Tenant2```
 
-Sie können nun mit der [Einrichtung](/de-de/apps/mailexperienceplus/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/mail-experience-plus/first-steps/setup/) starten.
 
 
 

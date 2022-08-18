@@ -18,4 +18,4 @@ Neben der geplanten Verarbeitungszeit, kann im Fehlerfall im Feld **Fehlernachri
 
 Über die Schaltfläche **Verarbeitung stornieren** kann die Verarbeitung für einzelne Belege gestoppt werden.
 
-Nachdem die Verarbeitung erfolgreich war werden die Vorgänge aus dieser Übersicht entfernt und anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easybatch/working-with-easy-batch/archive/) archiviert.
+Nachdem die Verarbeitung erfolgreich war werden die Vorgänge aus dieser Übersicht entfernt und anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easy-batch/working-with-easy-batch/archive/) archiviert.

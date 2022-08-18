@@ -12,4 +12,4 @@ Here you will find all help and learning resources about installing the Connecto
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/mail_attachment_plus/help-support/).
+In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/mail-attachments-plus/help-support/).

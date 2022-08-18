@@ -12,4 +12,4 @@ Here you will find all the important information and instructions on how to set 
 
 Just use either the bottom or left navigation menu.
 
-In case a question could not be answered for you, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/mailsubject/help-support/).
+In case a question could not be answered for you, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/mail-subject-plus/help-support/).

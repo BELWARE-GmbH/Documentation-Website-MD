@@ -32,5 +32,5 @@ Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Sender Plus** 
 
 ![](images/apps/senderinstalledextensions.png)
 
-Sie können nun mit der [Einrichtung](/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/mail-attachments-plus/first-steps/setup/priority-system/) starten.
 

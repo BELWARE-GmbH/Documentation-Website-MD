@@ -28,6 +28,6 @@ If everything worked, you can now find the **Connector 365 Easy Document Pin** u
 
 ![](images/apps/ctiinstalleden.PNG)
 
-You can now start with the [setup](/en-us/apps/easydocumentpin/first-steps/setup/).
+You can now start with the [setup](/en-us/apps/easy-document-pin/first-steps/setup/).
 
 

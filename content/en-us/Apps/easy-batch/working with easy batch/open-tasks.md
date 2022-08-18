@@ -18,4 +18,4 @@ Besides the planned processing time you can check the field **Error Message** fo
 
 Using the action **Cancel Processing** the processing can be stopped for individual documents.
 
-After the processing succeeded the tasks will be removed from this list and afterwardsarchived in the [Connector 365 Activities](/en-us/apps/easybatch/working-with-easy-batch/archive/).
+After the processing succeeded the tasks will be removed from this list and afterwardsarchived in the [Connector 365 Activities](/en-us/apps/easy-batch/working-with-easy-batch/archive/).

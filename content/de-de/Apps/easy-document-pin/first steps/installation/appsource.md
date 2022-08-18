@@ -32,5 +32,5 @@ Wenn alles geklappt hat, können Sie nun den **Connector 365 Easy Document Pin**
 
 ![](images/apps/senderinstalledextensions.png)
 
-Sie können nun mit der [Einrichtung](/de-de/apps/mailexperience/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/easy-document-pin/first-steps/setup/) starten.
 

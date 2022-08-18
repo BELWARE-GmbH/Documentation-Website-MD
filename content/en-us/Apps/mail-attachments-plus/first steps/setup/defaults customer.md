@@ -27,4 +27,4 @@ The rest of the process works the same as adding standard attachments to reports
 {{< /notice >}}
 #
 
-Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Customer Default Attachments](en-us/apps/mail_attachment_plus/working-with-map/defaults-customer/)
+Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Customer Default Attachments](en-us/apps/mail-attachments-plus/working-with-map/defaults-customer/)

@@ -30,7 +30,7 @@ You will not be notified about the completion of the installation, but the proce
 
 If everything worked, you can now find **Connector 365 Mail Attachment Plus** under **Installed Extensions**.
 
-You can now start with [setup](en-us/apps/mail_attachment_plus/first-steps/setup/allocating-license/).
+You can now start with [setup](en-us/apps/mail-attachments-plus/first-steps/setup/allocating-license/).
 
 
 

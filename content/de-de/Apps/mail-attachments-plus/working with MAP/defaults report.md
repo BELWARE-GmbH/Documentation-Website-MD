@@ -7,7 +7,7 @@ collapsible: false
 weight: 2
 ---
 ### Arbeiten mit Mail Attachment Plus
-Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich **"Erste Schritte"** die Einrichtung der [Debitor Standardanhänge](/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-report/) finden.
+Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich **"Erste Schritte"** die Einrichtung der [Debitor Standardanhänge](/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report/) finden.
 
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 

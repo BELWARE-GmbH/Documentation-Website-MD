@@ -28,6 +28,6 @@ If everything worked, you can now find the **Connector 365 Mail Experience Plus*
 
 ![](images/apps/ctiinstalleden.PNG)
 
-You can now start with the [setup](/en-us/apps/mailexperienceplus/first-steps/setup/).
+You can now start with the [setup](/en-us/apps/mail-experience-plus/first-steps/setup/).
 
 

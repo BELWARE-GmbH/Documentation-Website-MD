@@ -32,5 +32,5 @@ Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Experience Plu
 
 ![](images/apps/senderinstalledextensions.png)
 
-Sie können nun mit der [Einrichtung](/de-de/apps/mailexperience/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/mail-experience-plus/first-steps/setup/) starten.
 

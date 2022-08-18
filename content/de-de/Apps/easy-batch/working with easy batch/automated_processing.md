@@ -20,4 +20,4 @@ Wenn Sie in der **Easy Batch Einrichtung** die automatisierte Verarbeitung aktiv
 Dort angekommen können Sie wie gewohnt über die Schaltfläche **Buchen...** die selektierten Belege buchen.
 Im Anschluss daran, wird die erzeugte gebuchte Verkaufsrechnung und/oder gebuchte Verkaufslieferung zur Verarbeitung eingestellt, sofern die automatisierte Verarbeitung in der easy Batch Einrichtung für diese Belegart aktiviert ist.
 
-Den Status können Sie anschließend auch hier unter [Connector 365 Offene Aufgaben](/de-de/apps/easybatch/working-with-easy-batch/open-tasks/) einsehen.
+Den Status können Sie anschließend auch hier unter [Connector 365 Offene Aufgaben](/de-de/apps/easy-batch/working-with-easy-batch/open-tasks/) einsehen.

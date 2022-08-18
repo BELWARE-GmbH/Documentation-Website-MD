@@ -28,5 +28,5 @@ If everything worked, you can now find the **Connector 365 Easy Batch** under **
 
 ![](images/apps/easyinstalledextension.PNG)
 
-You can now start with the [Setup](/en-us/apps/easybatch/first-steps/setup/).
+You can now start with the [Setup](/en-us/apps/easy-batch/first-steps/setup/).
 

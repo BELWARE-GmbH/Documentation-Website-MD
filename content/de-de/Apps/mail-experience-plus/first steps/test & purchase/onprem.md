@@ -29,6 +29,6 @@ Ihre Kosten:
 
 *Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.*
 
-Danach können Sie mit der [Installation](/de-de/apps/mailexperienceplus/first-steps/installation/) der Connector 365 Mail Experience Plus App starten
+Danach können Sie mit der [Installation](/de-de/apps/mail-experience-plus/first-steps/installation/) der Connector 365 Mail Experience Plus App starten
 
 Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an Support@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de

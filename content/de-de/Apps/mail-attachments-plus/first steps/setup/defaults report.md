@@ -29,4 +29,4 @@ Nach dem Hinzufügen der Datei(en) sind Ihnen möglicherweise die Felder "Von Da
 {{< /notice >}}
 #
 
-Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Bericht Standardanhänge](de-de/apps/mail_attachment_plus/working-with-map/defaults-report/)
+Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Bericht Standardanhänge](de-de/apps/mail-attachments-plus/working-with-map/defaults-report/)

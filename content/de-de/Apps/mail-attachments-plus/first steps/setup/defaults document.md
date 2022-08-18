@@ -24,4 +24,4 @@ Um diese Funktionalität voll zu aktivieren, muss in den Dokumentenlayouts des j
 
 ![](images/apps/documents_de.png)
 
-Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Beleg Standardanhänge](de-de/apps/mail_attachment_plus/working-with-map/defaults-document/)
+Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Beleg Standardanhänge](de-de/apps/mail-attachments-plus/working-with-map/defaults-document/)

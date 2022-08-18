@@ -76,7 +76,7 @@ The Connector 365 Mail Subject Plus app follows:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Mail Subject Plus" -Tenant Tenant1, Tenant2```
 
-You can now start with the [setup](/en-us/apps/mail_subject_plus/first-steps/setup/).
+You can now start with the [setup](/en-us/apps/mail-subject-plus/first-steps/setup/).
 
 
 

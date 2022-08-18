@@ -32,5 +32,5 @@ Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Subject Plus**
 
 ![](images/apps/subjectinstalledextensionde.PNG)
 
-Sie können nun mit der [Einrichtung](/de-de/apps/mailsubject/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/mail-subject-plus/first-steps/setup/) starten.
 

@@ -47,4 +47,4 @@ With this we could now for example, build this subject: Our invoice **%1** for *
 
 ![](images/apps/subjectdoclayoutdoneen.PNG)
 
-how the subject then looks in use, you will find out in the next [step](en-us/apps/mailsubject/working-with-mail-subject-plus/maildialogue/).
+how the subject then looks in use, you will find out in the next [step](en-us/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).

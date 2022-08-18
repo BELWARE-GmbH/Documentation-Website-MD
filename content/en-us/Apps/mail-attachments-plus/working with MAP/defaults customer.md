@@ -8,7 +8,7 @@ weight: 2
 ---
 ### Working with Mail Attachment Plus
 
-After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the [Customer Default Attachments](/en-us/apps/mail_attachment_plus/first-steps/setup/defaults-customer/) in the **"Getting Started"** section.
+After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the [Customer Default Attachments](/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-customer/) in the **"Getting Started"** section.
 
 For this example, we have set up the default attachments in invoice shipping as follows:
 

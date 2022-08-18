@@ -26,4 +26,4 @@ As soon as you have selected the vouchers for sending, you can start the batch. 
 
 No further dialog opens, processing is based on the previously set job modes and is performed at the time you specified in the **Easy Batch Setup**.
 
-Each process will be enqueued as a single task under [Connector 365 Open Tasks](/en-us/apps/easybatch/working-with-easy-batch/open-tasks/). 
+Each process will be enqueued as a single task under [Connector 365 Open Tasks](/en-us/apps/easy-batch/working-with-easy-batch/open-tasks/). 

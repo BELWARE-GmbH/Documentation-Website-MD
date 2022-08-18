@@ -26,4 +26,4 @@ Sobald Sie einen oder mehrere Belege für den Versand ausgewählt haben, können
 
 Es öffnet sich kein weiterer Dialog. Die Verarbeitung wird anhand der eingestellten Jobmodi zum in der **Easy Batch Einrichtung** hinterlegten Zeitpunkt durchgeführt.
 
-Jeder Vorgang wird im Anschluss als einzelne Aufgabe unter [Connector 365 Offene Aufgaben](/de-de/apps/easybatch/working-with-easy-batch/open-tasks/) eingestellt. 
+Jeder Vorgang wird im Anschluss als einzelne Aufgabe unter [Connector 365 Offene Aufgaben](/de-de/apps/easy-batch/working-with-easy-batch/open-tasks/) eingestellt. 

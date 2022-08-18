@@ -8,7 +8,7 @@ weight: 4
 ---
 ### Arbeiten mit Mail Attachment Plus
 
-Wenn Sie alle Ihre gewünschten Anhänge über das **"Anhänge"** Menü hinzugefügt haben, können Sie mit dem Versand starten. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich **"Erste Schritte"** die Einrichtung der [Debitor Standardanhänge](/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/) finden.
+Wenn Sie alle Ihre gewünschten Anhänge über das **"Anhänge"** Menü hinzugefügt haben, können Sie mit dem Versand starten. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich **"Erste Schritte"** die Einrichtung der [Debitor Standardanhänge](/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-document/) finden.
 
 Für das Beispiel haben wir die Anhänge für einen Beleg wie folgt eingerichtet:
 

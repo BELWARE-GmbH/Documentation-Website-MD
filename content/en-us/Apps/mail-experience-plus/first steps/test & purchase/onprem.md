@@ -31,7 +31,7 @@ Your costs:
 
 *We reserve the right to change prices in the event of functional enhancements.*
 
-After that you can start with the [installation](/en-us/apps/mailexperienceplus/first-steps/installation/) of the Connector 365 Mail Experience Plus App
+After that you can start with the [installation](/en-us/apps/mail-experience-plus/first-steps/installation/) of the Connector 365 Mail Experience Plus App
 
 Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.
 

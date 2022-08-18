@@ -46,6 +46,6 @@ Damit könnten wir nun Beispielsweise, diesen Betreff aufbauen: Unsere Rechnung 
 
 ![](images/apps/subjectreportselectionfillde.PNG)
 
-wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mailsubject/working-with-mail-subject-plus/maildialogue/).
+wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
 
 

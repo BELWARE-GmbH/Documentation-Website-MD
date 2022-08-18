@@ -29,7 +29,7 @@ Your costs:
 |-----------------------------------------|----------------------------------------|
 |590,-€                                   | 25,-€                                  |
 
-After that you can start with the [installation](/en-us/apps/mail_attachment_plus/first-steps/installation/) of the Connector 365 Mail Attachment Plus App
+After that you can start with the [installation](/en-us/apps/mail-attachments-plus/first-steps/installation/) of the Connector 365 Mail Attachment Plus App
 
 Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.
 

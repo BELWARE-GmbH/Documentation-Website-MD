@@ -27,6 +27,6 @@ Ihre Kosten:
 |-------------------------------|---------------------------------------|
 |590,-€                         |25,-€                                  |
 
-Danach können Sie mit der [Installation](/de-de/apps/mailsubject/first-steps/installation/) der Connector 365 Mail Subject Plus App starten
+Danach können Sie mit der [Installation](/de-de/apps/mail-subject-plus/first-steps/installation/) der Connector 365 Mail Subject Plus App starten
 
 Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an Support@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de
