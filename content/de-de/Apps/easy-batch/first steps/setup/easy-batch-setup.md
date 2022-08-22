@@ -14,7 +14,7 @@ Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geb
 Dort finden Sie den Reiter **Easy Batch Einrichtung**.
 
 Grundsätzlich werden alle Belege über Easy Batch im Hintergrund verarbeitet.
-Über die Easy Batch Einrichtung können Sie allerdings steuern, welche Belege zu welchem Zeitpunkt verarbiettet werden sollen.
+Über die Easy Batch Einrichtung können Sie allerdings steuern, welche Belege zu welchem Zeitpunkt verarbeitet werden sollen.
 
 ![](images/apps/Easy_Batch/de-de/app_setup.png)
 
