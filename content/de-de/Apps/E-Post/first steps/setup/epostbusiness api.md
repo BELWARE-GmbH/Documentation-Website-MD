@@ -47,9 +47,6 @@ Neben der Einrichtung der API, können hier auch die Standards für den Versand 
 | Duplex       | Ermöglicht, dass Briefe als Duplex-Druck versendet. werden                                                                                            |
 | Einschreiben | Hier können Sie die verschiedenen Möglichkeiten für Einschreiben einrichten.                                                                   |
 
-Neben diesen Einstellungen für den Versand, können Sie mit X noch einstellen, ob vor dem Versand ein zusätzlicher Dialog geöffnet wird in dem nochmals die gesetzten Standardeinstellungen für den Versand individuell angepasst werden können. Ist der Haken nicht gesetzt, werden alle Briefe mit den hier hinterlegten Einstellungen versendet.
-
-
 ***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
 
 

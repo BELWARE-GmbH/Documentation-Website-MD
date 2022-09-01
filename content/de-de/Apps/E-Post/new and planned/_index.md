@@ -3,17 +3,59 @@ title: "Neu und geplant"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 1
 ---
-### Neue und geplante Features der Connector 365 E-POST App
+### Neu und geplant
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 E-POST App*.
+### Geplante Funktionen für zukünftige Versionen
+- Erneutes versenden von fehlerhaften Briefen
+- Kontakte im Dialog editierbar
+- Weitere Belegarten
+    - Geb. Service-Rechnungen
+    - Geb. Service-Gutschriften
 
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+### Version 2.0.0.0
+ - Versand von Belegen aus dem Einkaufsbereich (Einkaufsbestellungen, Gebuchte Einkaufsrücklieferungen)
+ - Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0)
+ - Überführung der Tabelle "Joblist Entry" in "Activity Entry"
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/e-post/help-support/).
+### Version 1.1.0.1
+- Automatisierte Statusabfrage für offene E-POST-Sendungen über eine Aufgabenwarteschlange.
+- Bestimmte Sonderzeichen (",\\) in den Adressdaten führen nicht mehr zu Verarbeitungsfehlern.
+- Überläufe bei den Adressdaten werden nicht mehr berücksichtigt, sodass es zu keinen Fehlern bei der Verarbeitung mehr kommt.
 
+### Version 1.0.1.10
+- Ländercodes werden bei Installation automatisch eingelesen und in die Tabelle "Länder/Region" geschrieben
+- Globale Voreinstellung für Dialog und Briefparameter in der Page "Connector 365 Einrichtung" möglich
+- "Berichtsauswahl Verkauf" und "Berichtsauswahl Mahnung" um neues Feld "Für E-POST nutzen" ergänzt. Nur Berichte, bei welchen der Haken gesetzt ist werden berücksichtigt.
+- Testzeitraum auf 30 Tage geändert. Zuvor waren hier 5 Gratisbriefe möglich.
 
+### Version 1.0.1.3
+- Fehlerkorrektur in der Einrichtung
 
-***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
+### Version 1.0.1.2
+- Korrekturen
+- Integration zu Connector 365 Easy Batch
+
+### Version 1.0.1.1
+- Korrektur der Übersetzung
+
+### Version 1.0.1.0
+- Versand weiterer Belegarten
+    - Geb. Verkaufsgutschriften
+    - Registrierte Mahnungen
+    - Angebote
+    - Verkaufsaufträge
+- Versand von Duplexbriefen
+- Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht
+- Zwei Boxen für die Jobliste im Rollencenter
+- Die Connector 365 XRechnung App stützt nun auf unsere Basis App
+
+### Version 1.0.0.5
+- Versenden von E-POST Briefen aus geb. Verkaufsrechnungen
+- Versand in Farbe bzw. S/W
+- Einschreiben (Einwurf/Rückschein)
+- Archivierung versendeter Briefe
+- Auslandsversand
+

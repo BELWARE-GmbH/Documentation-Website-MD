@@ -14,19 +14,40 @@ Wir bieten Ihnen die Möglichkeit sich mit Events in unsere Programmierlogik ein
 Um ein Event für Verkaufsrechnungen bzw. Servicerechnungen zu subscriben, muss der XML-Port **BEL365 S. Inv. XRechnung 2.0** in einem **EventSubscriber** angegeben werden.
 
 **Beispiel:**
-![](images/apps/Eventdoku1.PNG)
+```al
+[EventSubscriber(ObjectType::XmlPort, XmlPort::"BEL365 S. Inv. XRechnung 2.0", 'OnAfterGetLineInvoicePeriodInfo', "", true, true)]
+```
 
 Für Verkaufsgutschriften bzw. Servicegutschriften ist als folgender XML-Port einzutragen: **BEL365 S. Cr. M. XRechnung 2.0.**
 
 **Beispiel:**
-![](images/apps/eventdoku2.PNG)
+```al
+[EventSubscriber(ObjectType::XmlPort, XmlPort::"BEL365 S. Cr. M. XRechnung 2.0", 'OnAfterGetLineInvoicePeriodInfo', "", true, true)]
+```
 
+{{< notice info Hinweis>}}
+Einige der Business Terms, welche im folgenden aufgelistet werden, können **nicht** über die beiden oben genannten XML-Ports verändert werden.
+**Connector 365 XRechnung** bedient sich teilweise aus Funktionen der Microsoft Standard-**Codeunit: PEPPOL Management (1605)**.
+Die betroffenden Events werden in dieser Dokumentation mit einer Hinweis-Box versehen.
+{{< /notice >}}
+<br>
 Die XRechnung-Events bieten die Möglichkeit, Business Terms zu „füllen“ nachdem Sie standardmäßig gesetzt werden und noch bevor Sie weiterverarbeitet, also in die resultierende XML-Datei eingefügt werden. Die Business Terms werden dabei jeweils als **Text**-Variable übergeben. Vorangestellt an diesen Variablen steht das Schlüsselwort **VAR**, welches angibt, dass die Variablen Referenzen auf die ursprünglichen Variablen sind.
 
 Nachdem Sie eine Funktion als Subscriber definiert haben, so können Sie die übergebenen Variablen beliebig und nach eigener Logik füllen.
 
-**Beispiel***
-![](images/apps/eventdoku3.PNG)
+**Beispiel**
+```al
+[EventSubscriber(ObjectType::XmlPort, XmlPort::"BEL365 S. Inv. XRechnung 2.0", 'OnAfterGetLineInvoicePeriodInfo', "", true, true)]
+local procedure SubAfterGetLineInvoicePeriodInfo (
+    var Sender: XmlPort "BEL365 S. Inv. XRechnung 2.0"; 
+    SalesLine: Record "Sales Line";
+    var InvLineInvoicePeriodStartDate: Text;
+    var InvLineInvoicePeriodEndDate: Text);
+begin
+    InvLineInvoicePeriodStartDate := format(SalesLine."Posting Date");
+    InvLineInvoicePeriodEndDate := '2021-04-15';
+end;
+```
 
 Die Funktion **SubAfterGetLineInvoicePeriod** ist hier ein Subscriber für das Event **OnAfterGetLineInvoicePeriodInfo**.
 
@@ -43,6 +64,85 @@ Im Folgenden eine Auflistung der verfügbaren Events und die damit zu verändern
 Dies ist der Grund, weshalb alle folgenden Events mit „Sales Header“ oder mit „Sales Line“ arbeiten.
 {{< /notice >}}
 #
+
+### GetGeneralInfoBIS
+
+{{< notice info >}}
+Dieses Event stammt aus der **Codeunit: PEPPOL Management (1605)**.
+{{< /notice >}}
+
+```al
+. SalesHeader: Record "Sales Header"
+. var ID: Text                   (BT-1)
+. var IssueDate: Text            (BT-2)
+. var InvoiceTypeCode: Text      (BT-3)
+. var Note: Text                 (BT-22)
+. var TaxPointDate: Text         (BT-7)
+. var DocumentCurrencyCode: Text (BT-5)
+. var AccountingCost: Text       (BT-19)
+```
+<table style="width:100%">
+    <tr style="background-color:#eceff1">
+        <th> Name </th>
+        <th> Business Term </th>
+        <th> Semantischer Datentyp </th>
+    </tr>
+    <tr>
+        <td><b>Invoice number</b></td>
+        <td>BT-1</td>
+        <td>Identifier</td>
+    </tr>
+    <tr>
+        <td colspan=3>Eine eindeutige Kennung der Rechnung, die diese im System des Verkäufers identifiziert.</td>
+    </tr>
+    <tr>
+        <td><b>Invoice issue date</b></td>
+        <td>BT-2</td>
+        <td>Date</td>
+    </tr>
+    <tr>
+        <td colspan=3>Das Datum, an dem die Rechnung ausgestellt wurde.</td>
+    <tr>
+        <td><b>Invoice type code</b></td>
+        <td>BT-3</td>
+        <td>Code</td>
+    </tr>
+    <tr>
+        <td colspan=3>Ein Code, der den Funktionstyp der Rechnung angibt.
+                      Anmerkung: Der Rechnungstyp muss gemäß <a href= "https://www.xrepository.de/details/urn:xoev-de:kosit:codeliste:untdid.1001_2">UNTDID 1001</a> spezifiert werden.</td>
+    <tr>
+        <td><b>Invoice currency code</b></td>
+        <td>BT-5</td>
+        <td>Code</td>
+    </tr>
+    <tr>
+        <td colspan=3>Die Währung, in der alle Rechnungsbeträge angegeben werden, ausgenommen ist der Umsatzsteuer-Gesamtbetrag, der in der Abrechnungswährung anzugeben ist.</td>
+    </tr>
+    <tr>
+        <td><b>Value added tax point date</b></td>
+        <td>BT-7</td>
+        <td>Date</td>
+    </tr>
+    <tr>
+        <td colspan=3>Das Datum, zu dem die Umsatzsteuer für den Verkäufer und für den Erwerber abrechnungsrelevant wird. Die Anwednung von BT-7 und 8 schließen sich gegenseitig aus.</td>
+    <tr>
+    <tr>
+        <td><b>Buyer accounting reference</b></td>
+        <td>BT-19</td>
+        <td>Text</td>
+    </tr>
+    <tr>
+        <td colspan=3>Ein Textwert, der angibt, an welcher Stelle die betreffenden Daten in den Finanzkosten des Erwerbers zu buchen sind.</td>
+    <t/r>
+    <tr>
+        <td><b>Invoice note</b></td>
+        <td>BT-22</td>
+        <td>Text</td>
+    </tr>
+    <tr>
+        <td colspan=3>Ein Textvermerk, der unstrukturierte Informationen enthält, die für die Rechnung als Ganzes maßgeblich sind.</td>
+    <tr>
+</table>
 
 #### OnGetInvoicePeriod
 ```al
@@ -230,6 +330,22 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
 . VAR ContractRefDocTypeCodeListID : Text
 . VAR DocumentType : Text
 ```
+
+<table style="width:100%">
+    <tr style="background-color:#eceff1">
+        <th> Name </th>
+        <th> Business Term </th>
+        <th> Semantischer Datentyp </th>
+    </tr>
+    <tr>
+        <td><b>Contract reference</b></td>
+        <td>BT-12</td>
+        <td>Document Reference</td>
+    </tr>
+    <tr>
+        <td colspan=3>Eine eindeutige Bezeichnung des Vertrages (z.B: Vertragsnummer).</td>
+    </tr>
+</table>
 
 #### OnAfterGetAccountingCustomerPartyInfoBIS
 

@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
-weight: 1
+weight: 2
 ---
 ### Getting started with the Connector 365 PdfPaper app.
 
