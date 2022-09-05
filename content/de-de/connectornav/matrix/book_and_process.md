@@ -7,13 +7,14 @@ collapsible: false
 weight: 8
 ---
 
-#### Funktion buchen & verarbeiten
+#### Funktion Buchen & Verarbeiten
 
-Ähnlich wie die Standardfunktionen buchen & senden bzw. buchen & drucken, erlaubt die Funktion buchen & verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief & E-Mail zu versenden.
+Ähnlich wie die Standardfunktionen buchen & senden bzw. buchen & drucken, erlaubt die Funktion Buchen & Verarbeiten ihnen einen Beleg nach dem buchen noch weiter zu verarbeiten. Im Gegensatz zum Standard erlaubt Ihnen die Funktion ein Verarbeiten des Belegs durch alle Connector NAV Schnittstellen. Außerdem haben Sie die Möglichkeit einen Beleg gleich mehrfach über verschiedene Kanäle z.B. Brief & E-Mail zu versenden.
 
-Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Kommunikationsmatrix einrichten.
+Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in in der **Connector NAV Kommunikationsmatrix** festlegen.
 
-![](/images/connectornav/matrix/buchen1.png)<center>Die Funktion buchen & verarbeiten in einer Template</center>
+|![](images/connectornav/matrix/buchen1.png)<left>Die Funktion Buchen & Verarbeiten in einer der Connector NAV Templates</left>|
+|-|
 
 Standardmäßig unterstützen wir buchen & verarbeiten in den folgenden Belegen, via unserer Templates.
 
@@ -27,26 +28,37 @@ Standardmäßig unterstützen wir buchen & verarbeiten in den folgenden Belegen,
 
 -   Mahnungen (registrieren & verarbeiten)
 
-##### Einrichtung vor dem Einsatz der Funktion
+#### Einrichtung 
 
-Bevor die Funktion buchen & verarbeiten korrekt genutzt werden kann, muss zunächst ein Eintrag in der Kommunikationsmatrix vorgenommen werden, so dass klar ist, wie der gebuchte Beleg verarbeiten werden soll.
+Bevor die Funktion **Buchen & Verarbeiten** korrekt genutzt werden kann, muss zunächst in der Kommunikationsmatrix festgelegt werden, wie die Belege nach dem Buchungsprozess verarbeitet werden sollen.
 
 Dieser Eintrag in der Matrix muss in dem jeweiligen Folgebericht vorgenommen werden, also z.B. für Verkaufsrechnungen in den geb. Verkaufsrechnungen.
 
-![](/images/connectornav/matrix/buchen2.png)<center>Beispieleinträge in der Matrix für buchen & verarbeiten</center>
+|![](images/connectornav/matrix/buchen2.png)<left>Beispieleinträge in der Matrix für **Buchen & Verarbeiten**</left>|
+|-|
 
 Es muss nun pro Debitor & Bericht eingestellt werden, wie Belege verarbeitet werden sollen. Im Screenshot finden Sie eine Beispieleinrichtung der Matrix, auf die nun zurückgegriffen wird, wenn die Funktion buchen & verarbeiten benutzt wird.
 
-##### Nutzen der Funktion
+{{<notice info Hinweis>}}
+Die Einrichtung für **Buchen und Verarbeiten** funktioniert analog zu der Einrichtung für den [**Stapelversand**](de-de/connectornav/matrix/stack_mode/).
+Wenn Sie eine Matrix-Zeile als Aktion für Buchen und Verarbeiten festlegen möchten, so muss das Häkchen für **Stapelversand** angehakt werden.
+{{</notice>}}
+
+##### Nutzung der Funktion
 
 Nachdem die Kommunikationsmatrix eingerichtet wurde, kann die Funktion nun eingesetzt werden.
 
 **Ein konkretes Beispiel:**
 
-Die Rechnung für den Debitor Harburger Bäderwelt soll gebucht & verarbeitet werden, wir schauen also in der Kommunikationsmatrix nach, was für den Debitor eingerichtet wurde. In diesem Fall ist hier eingestellt, dass geb. Verkaufsrechnungen per Mail an eine ausgewählte Adresse gesendet wird.
+Eine Rechnung für den Debitor ***Harburger Bäderwelt*** soll gebucht und anschließend per Connector NAV verarbeitet werden. Durch öffnen der Kommunikationsmatrix kann überprüft werden, wie Belege für den gewünschten Debitor/Kreditor verarbeitet werden:
+|![](images/connectornav/matrix/buchen3.png)<left>Beispieleinrichtung für den Debitor: ***Harbuger Bäderwelt***</left>|
+|-|
 
-Wird nun also buchen & verarbeiten ausgelöst, so wird im ersten Schritt die Rechnung gebucht, anschließend an die ausgewählte E-Mail-Adresse versendet und als Brief verschickt.
+In diesem konkreten Beisipel wurde eingerichtet, dass gebuchte Verkaufsrechnungen per Mail an eine ausgewählte Adresse (demo@belware) gesendet werden.
+Gleichzeitig wird aber auch veranlasst, dass der Beleg auch noch über die E-Post API-Schnittstelle postalisch zum gewünschten Debitor gelangt.
 
-Ob & wie die Kommunikationsmatrix für einen jeweiligen Debitor eingerichtet ist, lässt sich jederzeit über einen klicke auf den Knopf „Kommunikationsmatrix“ überprüfen.
+Wird nun also buchen & verarbeiten ausgelöst, so wird im ersten Schritt die Rechnung gebucht, anschließend wird der gebuchte Beleg an die ausgewählte E-Mail-Adresse versendet und als Brief verschickt.
 
-![](/images/connectornav/matrix/buchen3.png)<center>Die Einstellungen in der Matrix für die Harburger Bäderwelt</center>
+{{<notice info>}}
+**Buchen und Verarbeiten** funktioniert ebenfalls auf mehrfach selektierte Belege.
+{{</notice>}}

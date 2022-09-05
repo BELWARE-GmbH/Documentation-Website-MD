@@ -13,10 +13,10 @@ Voraussetzung für einen elektronischen und/oder automatisierten Versand ist die
 
 D.h. jeder Debitor/Kreditor hat einen dazugehörigen Kontakt und zu diesem Kontakt gibt es dazugehörige Mitarbeiterkontakte.
 
-![](/images/connectornav/matrix/kontakte_anl.png)<center>Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Meller ist als Unternehmen angelegt.  Die Mitarbeiter als Personen, die dem Unternehmen zugeordnet sind.</center>
+|![](images/connectornav/matrix/kontakte_anl.png)<center>Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Meller ist als Unternehmen angelegt.  Die Mitarbeiter als Personen, die dem Unternehmen zugeordnet sind.</center>|
+|-|
 
-Die Firmenzentrale ist immer fett dargestellt und die dazugehörigen Kontakte sind in leichter Schrift darunter zugeordnet. Der Unternehmenskontakt ist auch der Kontakt, der als Debitor/Kreditor angelegt wird. Veränderungen am Kontakt eines Debitors/Kreditors werden in den Debitor/Kreditor übernommen und Veränderungen am Debitor/Kreditor eines Kontakts werden in den Kontakt übernommen. In der Einrichtung des Debitors/Kreditors haben Sie zusätzlich noch die Möglichkeit einen primären Kontakt zu zuweisen. Dieser ist aber frei wählbar und für den elektronischen Versand der Belege erst einmal uninteressant.
+Die Firmenzentrale ist immer fett gedruckt dargestellt und die dazugehörigen Kontakte sind in leichter Schrift darunter zugeordnet. Der Unternehmenskontakt ist auch der Kontakt, der als Debitor/Kreditor angelegt wird. Veränderungen am Kontakt eines Debitors/Kreditors werden in den Debitor/Kreditor übernommen und Veränderungen am Debitor/Kreditor eines Kontakts werden in den Kontakt übernommen. In der Einrichtung des Debitors/Kreditors haben Sie zusätzlich noch die Möglichkeit, einen primären Kontakt zuzuweisen. Dieser ist aber frei wählbar und für den elektronischen Versand der Belege erst einmal uninteressant.
 
 {{<notice warning "Wichtig">}}Um einen korrekten Versand zu sichern, sollte bei jedem Kontakt eine E-Mail-Adresse angegeben sein.{{</notice>}}
 ####
-Sollten Sie Unterstützung bei der Einrichtung Ihrer Kontakte benötigen, unterstützen wir Sie gerne.
