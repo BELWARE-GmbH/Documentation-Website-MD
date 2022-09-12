@@ -31,7 +31,7 @@ Die Felder sind durchnummeriert, und werden in der darunterstehenden Tabelle jew
 | 8                                                   | **Berichtsname**            | wird automatisch mit dem Namen des Berichts gefüllt                              |
 | 9                                                   | **Zieladresse**             | legt die Zieladresse je nach Jobmodus fest (E-Mail/Fax-Nr. etc.)                 |
 | 10                                                  | **Weitere Zieladressen**    | legt zusätzliche Zieladressen für CC/BCC für Jobmodus eMail fest                 |
-| 11                                                 | **Betreff**                 | aus individuell setzbaren Platzhalern automatisch generierte Betreffzeile        |
+| 11                                                 | **Betreff**                 | aus individuell setzbaren Platzhalern automatisch generierte Betreffzeile (mehr dazu [hier](de-de/connectornav/matrix/subject))       |
 | **nur nutzbar mit Modul XRechnung**|||
 | 12                                                  | **PEPPOL Verwendung**       | legt fest, ob bzw. wo PEPPOL verwendet wird                                      |
 | 13                                                  | **PEPPOL Version**          | legt fest, welche Version von PEPPOL eingesetzt werden soll                      |
