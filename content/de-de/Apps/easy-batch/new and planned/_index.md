@@ -12,6 +12,12 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
+### Version 2.1.0.0
+Verbesserungen:
+ - Implementierung der Funktionalität zum erneuten starten offener Aufgaben, welche auf einen Fehler gestoßen sind.
+ - Navigation zum Beleg aus der Liste offener Aufgaben.
+ - fehlernachricht nun als Textfeld in die Tabelle der offenen AUfgaben integriert.
+
 ### Version 2.0.0.0
 Verbesserungen:
  - Implementierung Hintergrundverarbeitung

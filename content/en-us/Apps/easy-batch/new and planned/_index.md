@@ -12,6 +12,12 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.1.0.0
+Improvements:
+ - Implementation of rety functionality for open tasks, which ran into an error.
+ - Navigation to the document from the list of open tasks.
+ - Error message now included as a text field in the table for open tasks.
+
 ### Version 2.0.0.0
 Improvements:
  - Implementation of background processing

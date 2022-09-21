@@ -17,6 +17,6 @@ To do this, open one of the desired document pages: e.g. sales orders.
 ![](images/apps/Easy_Batch/en-us/app_sales_orders.png)
 
 After navigating to the page you can post the selected documents as usual using the action **Post...**.
-Afterwards the created posted sales invoice and/or posted sales shipment will be enqueued tob be processed, as long as the automated processing is enabled for this document type in the Easy Batch Setup. 
+Afterwards the created posted sales invoice and/or posted sales shipment will be enqueued to be processed, as long as the automated processing is enabled for this document type in the Easy Batch Setup. 
 
 You can then check the status under [Connector 365 Open Tasks](/en-us/apps/easy-batch/working-with-easy-batch/open-tasks/).

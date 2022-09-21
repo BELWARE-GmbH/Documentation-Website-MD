@@ -18,4 +18,9 @@ Besides the planned processing time you can check the field **Error Message** fo
 
 Using the action **Cancel Processing** the processing can be stopped for individual documents.
 
+The action **Retry Task** enqueues the selected tasks to be processed again.
+Only tasks that ran into an error will be considered by using this action.
+
+Clicking the **Document No.** lets you navigate to the specific document.
+
 After the processing succeeded the tasks will be removed from this list and afterwardsarchived in the [Connector 365 Activities](/en-us/apps/easy-batch/working-with-easy-batch/archive/).
