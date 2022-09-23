@@ -18,4 +18,9 @@ Neben der geplanten Verarbeitungszeit, kann im Fehlerfall im Feld **Fehlernachri
 
 Über die Schaltfläche **Verarbeitung stornieren** kann die Verarbeitung für einzelne Belege gestoppt werden.
 
+Die Aktion **Aufgabe wiederholen** stellt die selektierten Aufgaben erneut zur Verarbeitung ein.
+Es werden nur Aufgaben berücksichtigt, welche bei der Verarbeitung auf einen Fehler gestoßen sind.
+
+Durch Klicken des Felds **Belegnr.** navigieren Sie zum spezifischen Beleg.
+
 Nachdem die Verarbeitung erfolgreich war werden die Vorgänge aus dieser Übersicht entfernt und anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easy-batch/working-with-easy-batch/archive/) archiviert.

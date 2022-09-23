@@ -3,6 +3,20 @@ title: "Neu und geplant"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 1
 ---
+
+### Neu und geplant
+
+### Version 2.0.0.0
+- Mahnungen werden nun auch bei Nutzung der App Connector 365 Easy Batch angehangen
+- Abhängigkeit zur neuen Version der App Connector 365 base (2.0.0.0)
+
+### Version 1.0.0.0
+- Automatisches Anhängen von angemahnten Rechnungen an Mahnungen bei Versand
+- Steuerung des Versands nach Mahnstufe
+- Steuerung des Versands nach Mahnmethode
+
+### Geplante Funktionen für zukünftige Versionen
+- Automatisches Anhängen von Lieferscheinen

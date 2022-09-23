@@ -3,7 +3,7 @@ title: "Connector 365 Role Center"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 2
 ---
 ### Inserting the Connector 365 Role Centre into existing Role Centers
