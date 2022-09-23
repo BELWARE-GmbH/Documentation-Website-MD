@@ -9,10 +9,7 @@ weight: 5
 ### Weitere E-Mail-Empfänger einrichten
 
 Neben der Funktionalität, Zieladressen pro Jobmodus und Verwendung einzurichten,
-bietet **Connector 365 Addressee Control** eine weitere Funktion an, die es erlaubt,
-pro Debitor und Verwendung noch weitere E-Mail-Empfänger festzulegen.
-Wie Sie dies einrichten können, erfahren Sie im Folgenden.
-
+bietet **Connector 365 Addressee Control** eine weitere Funktion an, die es erlaubt, pro Debitor und Verwendung noch weitere E-Mail-Empfänger festzulegen. Wie Sie dies einrichten können, erfahren Sie im Folgenden.
 
 ### Einrichtung
 Weitere Debitor-Zieladressen können Sie in den Dokumentlayouts des gewünschten Debitors hinterlegen.

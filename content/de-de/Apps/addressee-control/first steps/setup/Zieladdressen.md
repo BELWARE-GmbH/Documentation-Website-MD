@@ -60,8 +60,13 @@ Legt man also beispielsweise für die Verwendung (Verkaufs-)**Rechnung**, Jobmod
 
 Mit **Connector 365 Addressee Control** lassen sich auch die Zieladressen-Logik weiterer **Connector 365 Apps** anpassen.
 Folgende **Connector 365 Apps** sind kompatibel zu **Connector 365 Addressee Control**:
-- **Connector 365 XRechnung**
-- **Connector 365 E-Post**
+
+-  **Connector 365 XRechnung**
+-  **Connector 365 E-Post**
+-  **Connector 365 Easy Document Pin**
+-  **Connector 365 Mail Experience Plus**
+   >  **Connector 365 Mail Attachments Plus**
+   >  **Connector 365 Mail Subject Plus**
 
 Um weitere Jobmodis (bzw. Apps) per **Addresse Control** einzurichten, können Sie einfach weitere Zeilen in der **Connector 365 Addresse Control** Seite hinzufügen.
 {{< notice info Beispiel >}}
