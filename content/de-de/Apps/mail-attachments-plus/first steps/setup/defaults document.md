@@ -18,10 +18,13 @@ Klicken Sie nun bei "Belege" auf die 0, es öffnet sich ein Fenster in dem Sie v
 
 ![](images/apps/attachmentdoc.PNG)
 
-Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle gewünschten Dateien angehängt sind. Ab jetzt werden die ausgewählten Dateien immer mit versendet wenn Sie den ausgewählten Beleg versenden.
+Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle gewünschten Dateien angehängt sind. Ab jetzt können die ausgewählten Dateien immer mit versendet werden, wenn Sie den ausgewählten Beleg versenden.
+Um diese Option tatsächlich zu nutzen, muss in der passenden Berichtsauswahl bzw. den Dokumentenlayouts des jeweiligen Debitors noch der Haken im Feld **"Dokumentenanhänge verwenden"** gesetzt werden.
+Dabei ist zu beachten, dass die Einstellung in den Dokumentenlayouts diejenige in der Berichtsauswahl überschreibt.
+![](images/apps/mail_att_plus_berichtsauswahl.png)
 
-Um diese Funktionalität voll zu aktivieren, muss in den Dokumentenlayouts des jeweiligen Debtior zunächst noch der Haken bei **"Dokumentenanhänge verwenden"** gesetzt werden.
+![](images/apps/mail_att_plus_dokumentenlayout.png)
 
-![](images/apps/documents_de.png)
+Soll das Überschreiben verhindert werden, also neben den kundenspezifischen Standardanhängen auch die allgemeinen Standardanhänge angefügt werden, kann dies durch Setzen des Hakens im Feld "Standard anhängen" erreicht werden.
 
 Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Beleg Standardanhänge](de-de/apps/mail-attachments-plus/working-with-map/defaults-document/)

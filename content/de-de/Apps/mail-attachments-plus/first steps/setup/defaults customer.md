@@ -18,13 +18,15 @@ Wenn Sie in der Berichtsauswahl bereits Voreinstellungen vorgenommen haben, ist 
 
 Wenn Sie Ihre eigenen Anhänge einrichten möchten, wählen Sie den Bericht aus, für den Sie Standardanhänge hinzufügen möchten; in diesem Beispiel verwenden wir wieder Rechnungen. Wie zuvor werden Sie das neue Feld Anhänge bemerken. Sie öffnen das Dialogfeld für Anhänge, indem Sie auf die Null klicken.
 
-![](images/apps/attachmentdocumentlayouts.png)
+![](images/apps/attachmentdocumentlayouts_new.png)
 
 Der restliche Prozess funktioniert genauso wie das Hinzufügen von Standardanhängen zu Berichten, ohne diese kundenspezifisch zu gestalten. Sie können die gleichen Optionen wie zuvor verwenden, einschließlich des Datumsbereichs. Nachdem Sie Ihre Vorgaben hinzugefügt haben, schließen Sie das Anlagen-Dialogfeld.
 
 {{< notice info "Hinweis" >}}
- _Eine wichtige Sache, die bei auf Kundenbasis festgelegten Standards zu beachten ist, ist, dass sie die regulären Standards überschreiben. Für den Fall, dass dies nicht erwünscht ist, werden durch das Ankreuzen des Kästchens im Feld "Standard Anhängen" die kundenspezifischen Anhänge zusätzlich zu den Standardanhängen hinzugefügt._
+ _Zu beachten ist bei Standardanhängen, die auf Ebene des Debitors festgelegt werden, dass sie die in der Berichtsauswahl gesetzten Standards überschreiben. Für den Fall, dass dies nicht erwünscht ist, kann im Feld "Standard anhängen" ein Haken gesetzt werden. Dadurch werden weiterhin die allgemeinen Standardanhänge und zusätzlich die kundenspezifischen Anhänge angefügt._
 {{< /notice >}}
-#
-
+{{< notice info "Hinweis" >}}
+_Die im obigen Screenshot markierte Checkbox "Dokumentanhänge anhängen" dient nicht der Steuerung der hier hochgeladenen Anhänge. Mit ihr wird gesteuert, ob am einzelnen Dokument befindliche Anhänge ebenfalls verschickt werden sollen._
+{{< /notice >}}
+####
 Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Debitor Standardanhänge](de-de/apps/mail-attachments-plus/working-with-map/defaults-customer/)

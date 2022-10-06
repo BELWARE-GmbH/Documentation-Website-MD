@@ -10,7 +10,7 @@ weight: 2
 
 ### Hinzufügen von Standardanhängen pro Bericht
 
-![](images/apps/attachmentreportselection.png)
+![](images/apps/attachmentreportselection_new.png)
 
 Standardanhänge sind eine gute Möglichkeit, Zeit zu sparen, wenn Sie Ihren E-Mails Dateien hinzufügen. Wenn Sie den gleichen Anhang in jeder E-Mail verwenden, fügen Sie ihn einfach als Standard hinzu, und er wird automatisch an jede E-Mail angehängt.
 
@@ -27,6 +27,8 @@ Nach dem Hinzufügen der Datei(en) sind Ihnen möglicherweise die Felder "Von Da
 {{< notice info "Hinweis" >}}
  _Das für die Anlage eingestellte Datum verwendet nicht das Systemdatum zur Bestimmung des Tages, sondern das Arbeitsdatum Ihrer Business Central Umgebung._
 {{< /notice >}}
-#
-
+{{< notice info "Hinweis" >}}
+_Die im obigen Screenshot markierte Checkbox "Dokumentanhänge anhängen" dient nicht der Steuerung der hier hochgeladenen Anhänge. Mit ihr wird gesteuert, ob am einzelnen Dokument befindliche Anhänge ebenfalls verschickt werden sollen._
+{{< /notice >}}
+####
 Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich **"Arbeiten mit Mail Attachment Plus"** unter [Bericht Standardanhänge](de-de/apps/mail-attachments-plus/working-with-map/defaults-report/)
