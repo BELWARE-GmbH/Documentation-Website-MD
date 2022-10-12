@@ -15,4 +15,6 @@ Before sending the first letter, the reports for sending with E-POST must be def
 
 Only reports with a check mark in the **"Use for E-POST"** option are taken into account.
 
+***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**
+
 

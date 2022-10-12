@@ -11,7 +11,18 @@ weight: 1
 ### Einrichtung
 By searching **"Connector 365 Setup"** you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
 
-![](images/apps/epostsetup.PNG)
+![](images/apps/E-POST/en-us/app_setup.png)
+
+| Field                        | Desciption                                                                                         |
+|------------------------------|----------------------------------------------------------------------------------------------------|
+| EKP                          | This is your customer number that you have received from Deutsche Post                             |
+| Secret                       | The secret is created automatically after you set your password                                    |
+| Password                     | Here is your encrypted password                                                                    |
+| Save File in Joblist         | Determines whether sent files are archived in the job list                                         |
+| Show dialog                  | Determines whether another dialog for changing/checking the options is opened before sending       |
+| Testmode                     | If this option is enabled, the data of the letters will not be sent to the printing center         |
+| Test Email Address           | If the test mode is enabled, this email address will receive a notification about the shipment     |
+| Show restricted area         | Displays the restricted areas required by Deutsche Post on test letters                            |
 
 {{< notice info "Note" >}}
  _While the test mode is activated, no invoices are sent. Instead, the previously specified test mail will receive a notification_
@@ -22,25 +33,16 @@ To set a password for the App, you should first make sure that the setup is comp
 
 Enter the PIN in the corresponding field and confirm the dialog with OK. The password is now set and a secret is automatically generated.
 
-| Feld                         | Beschreibung                                                                                       |
-|------------------------------|----------------------------------------------------------------------------------------------------|
-| API EKP                      | This is your customer number that you have received from Deutsche Post                             |
-| API Secret                   | The secret is created automatically after you set your password                                    |
-| API Password                 | Here is your encrypted password                                                                    |
-| Save File in Joblist         | Determines whether sent files are archived in the job list                                         |
-| Show dialog                  | Determines whether another dialog for changing/checking the options is opened before sending       |
-| Testmode                     | If this option is enabled, the data of the letters will not be sent to the printing center         |
-| Testmail                     | If the test mode is enabled, this email address will receive a notification about the shipment     |
-| Show restricted area         | Displays the restricted areas required by Deutsche Post on test letters                            |
-
 ### Setting up defaults
 In addition to setting up the API, you can also set the defaults for sending letters here. The following options are available for this purpose:
 
 | Field             | Description                                                                                                                    |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Coverletter  | Sending letters with a cover sheet ensures that the letter does not exceed the areas required for printing by Deutsche Post.        |
 | Color             | Here you choose whether the letter is printed in color or b/w                                                                  |
-| With Coverletter  | Sending letters with a cover sheet ensures that the letter does not exceed the areas required for printing by Deutsche Post.   |
 | Duplex            | Allows letters to be sent as a duplex                                                                                          |
 | Registered Letter | Here you can set up the different ways of registered letters                                                                   |
 
 In addition to these settings for sending, you can use X to specify whether an additional dialog should be opened before sending in which the default settings for sending can be individually adjusted. If the check mark is not set, all letters are sent with the settings stored here.
+
+***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**

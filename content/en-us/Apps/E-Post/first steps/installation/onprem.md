@@ -14,7 +14,7 @@ You will receive the objects for the Connector 365 Base & E-POST App from us by 
 #### Publishing of the Connector 365 Base & E-POST App
 the publishing of the Connector Base & E-POST App is done via the **Business Central Administration Shell**. First transfer the files we sent to you to the server where your Business Central instance is running.
 
-![](images/apps/adminshell.PNG)
+![](images/apps/adminshell.png)
 
 Now start the **Business Central Administration Shell** to start the publishing process. Using the Administration Shell, first navigate to the location for the file using the **cd** command.
 
@@ -49,14 +49,14 @@ Both apps should now be published in your system.
 #### Installing the Connector 365 Base & E-POST App
 In the extension management of your environment, you will now see the apps as published, but they are not yet installed.
 
-![](images/apps/epostpublishen.PNG)
+![](images/apps/E-POST/en-us/app_published.png)
 
 ##### Installing via the client
 Open your Business Central environment, open the search function and look for **Extension Management**.
 
 There you should find the two apps with the status not installed. By clicking on the 3 dots of the respective app, you can now install it in your environment via the item **Install**.
 
-![](images/apps/appinstallen.PNG)
+![](images/apps/E-POST/en-us/app_install.png)
 
 ##### Installing via the administration shell
 In case you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you have to use the **Install-NAVApp** command. When doing so, you should specify the **Tenant ID**. In the following examples, we install the apps in two tenants.

@@ -10,23 +10,22 @@ weight: 1
 
 ### Sending
 
-With our Connector 365 E-POST App* you can send pos. sales invoices, pos. credit notes, issued reminders, quotes and sales orders. However, in our application example we will focus on invoices. All other document types can be sent in the same way.
+With our Connector 365 E-POST App* you can send different types of documents. However, in our application example we will focus on invoices.
+The other document types can be send in the same way.
 
-![](images/apps/epostrechnung.PNG)
+First select the document you want to send.
 
-First select the invoice you want to send.
+The function for sending letters by post can be found under **Print/Send** in the menu bar. Open it and select **Send as letter** to open the dialog for sending letters.
 
-The function for sending letters by post can be found under **"Print/Send"** in the menu bar. Open it and select **"Send as letter"** to open the dialog for sending letters.
-
-![](images/apps/epostprintsenden.PNG)
+![](images/apps/E-POST/en-us/app_send_letter.png)
 
 ### The dialog
 
 In the dialog you have the possibility to adjust certain options for sending the letter, e.g. whether you want to send the letter in black and white or in color.
 
-![](images/apps/epostdialogen.PNG)
+![](images/apps/E-POST/en-us/app_dialog.png)
 
-After you have made all desired changes, you can execute the dispatch with a click on **"OK"**. Your invoice will now be sent to Deutsche Post and from there to the recipient's mailbox.
+After you have made all desired changes, you can execute the dispatch with a click on **OK**. Your invoice will now be sent to Deutsche Post and from there to the recipient's mailbox.
 
 {{< notice info "Note" >}}
  _The App automatically extracts the recipient's address from their data_
