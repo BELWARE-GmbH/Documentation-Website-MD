@@ -19,7 +19,10 @@ In case a question could not be answered, we will be glad to help you personally
 - Hiding the CTI functions in the Role center for non-CTI users
 - Add compatibility for versons 7.2 and 7.3 for STARFACE phone systems
 
-### Version 2.0.0.0
+### Version 2.0.0.0 from 17.10.2022
+- Error correction for writing contacts during calls.
+
+### Version 2.0.0.0 from 13.10.2022
 - Dependency from new version of app Connector 365 Base (2.0.0.0)
 - Moved table "Joblist ENtry" to "Activity Entry"
 - Added compatibility for versons 7.1 for STARFACE phone systems
