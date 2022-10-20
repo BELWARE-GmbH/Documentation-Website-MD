@@ -29,7 +29,22 @@ Now the window **"Email subject placeholder"** opens, here you have the possibil
 **Creating a new placeholder**
 First, enter the placeholder you want to use in the **Placeholder** field. We recommend using placeholders here which could not accidentally appear in the subject, for example, if you define the placeholder **Inv** for the invoice number and the subject contains the word **Invoice**, the **Inv** part of the word would be replaced in the subject. It is best to use a combination of special characters and numbers or adjust placeholders so that they do not accidentally appear in words.
 
-Now you have to define the field to which the placeholder refers. Here you have all the respective fields from the report you are currently in at your disposal.
+Now you have to define the field to which the placeholder refers. To do this, click on the assist button of the **Definition** field. 
+Now another window opens, in which all fields from the company information, as well as all fields from the header data of the underlying report are available to you. You can select a field assignment for each placeholder.
+
+|![](images/apps/mail_subject_field_lookup.png)|
+|-|
+
+{{< notice info "Technical Note" >}}
+To determine the table for the header data, the report metadata of the respective report is examined for its property: **FirstDataItemTableID**. 
+The standard reports in Business Central store the underlying header for this respective first element (FirstDataItemTableId). Example: Report 1306 -> Sales Invoice Header. 
+If customized reports have a different structure, i.e. a different table is in the first place, it will also be taken over into the table filter, whereby possibly useless fields will be displayed, or important fields could be missed.
+For such cases there is the possibility to set the correct target table via an event subscriber depending on the report id.
+More about this can be found at [Events](/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events).
+{{< /notice >}}
+
+<br>
+<br>
 
 Repeat this process for all fields/placeholders you want to use in your subject.
 
