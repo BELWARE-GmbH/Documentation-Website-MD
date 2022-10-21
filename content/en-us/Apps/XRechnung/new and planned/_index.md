@@ -9,7 +9,12 @@ weight: 1
 
 ### New and planned
 
-### Version 2.0.0.0
+### Version 2.0.0.0 from 21.10.2022
+#### Correction
+- The usage combined with apps Mail Subject Plus and Easy Batch no longer results in an error during the send process.
+- Changes within the Email dialog no longer result in an error.
+
+### Version 2.0.0.0 from 23.09.2022
 - Dependency from the new version of app Connector 365 Base (2.0.0.0)
 - Transfering table "Joblist Entry" to "Activity Entry"
 

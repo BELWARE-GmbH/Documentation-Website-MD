@@ -20,7 +20,7 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 ### Version 2.0.0.1 vom 17.10.2022
 - Fehlerkorrektur beim Schreiben der Kontakte bei Anrufen
 
-### Version 2.0.0.0 from 13.10.2022
+### Version 2.0.0.0 vom 13.10.2022
  - Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0)
  - Überführung der Tabelle "Joblist Entry" in "Activity Entry"
  - Herstellen der Kompatibilität für Version 7.1 der STARFACE Telefonanlage

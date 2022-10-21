@@ -3,7 +3,7 @@ title: "Neu und geplant"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 1
 ---
 
@@ -11,7 +11,12 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
-### Version 2.0.0.0
+### Version 2.0.0.0 vom 21.10.2022
+#### Korrekturen
+- Die Nutzung im Zusammenhang mit Mail Subject Plus und Easy Batch führt während des Versands nicht mehr zur Fehlermeldung.
+- Änderungen im E-Mail-Dialog führen nicht mehr zur Fehlermeldung.
+
+### Version 2.0.0.0 vom 23.09.2022
 - Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0)
 - Überführung der Tabelle "Joblist Entry" in "Activity Entry"
 
