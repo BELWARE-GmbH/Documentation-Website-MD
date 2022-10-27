@@ -26,26 +26,20 @@ Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen 
 | Bankkonto | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 | Projekt | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 
+Die **Connector 365 Addressee Control** App erweitert unterstützte Berichtsauswahl-Pages um eine
+Subpage.
 
 *Beispiel aus dem Bereich Verkauf -> **Berichtsauswahl - Verkauf**:*
 
 |<img src="/images/apps/Addresse_Control/Berichtsauswahl_Verkauf.png" />|
 |-|
 
-
-Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen und Jobmodis die Zieladressen-Logik einzustellen.
-Wählen Sie also unter **Jobmodus** zuerst den Gewünschten Modus ein (*z.B: E-Mail*).
-Anschließend klicken Sie auf den **Assist Button** (***Drei Pünktchen***) des Feldes **Ziel aus Feldnummer**.
+Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik einzustellen.
+Klicken Sie hierzu auf den **Assist Button** (***Drei Pünktchen***) des Feldes **Ziel aus Feldnummer**.
 
 |![](/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_AssistButton.png)|
 |-|
 
-{{< notice info Hinweis >}}
-Mit Jobmodus ist hier gemeint, für welche Art von Verarbeitung die eingestellte Zieladressen-Logik greift. Immer vorhanden
-ist der Jobmodus E-Mail, also der standartisierte Mail-Versand von Business Central.
-Es lassen sich zudem allerdings auch weitere **Connector 365 Apps** über **Connector 365 Addresse Control** steuern.
-Welche Apps hierfür kompatibel sind, erfahren Sie [hier](de-de/apps/addresse-control/first-steps/setup/zieladdressen/#ACCon365).
-{{< /notice >}}
 Damit öffnet sich eine neue Seite: **Mögliche Zieladressen**.
 
 |![](/images/apps/Addresse_Control/Zieladdressen_Lookup_Page.png)|
@@ -53,7 +47,15 @@ Damit öffnet sich eine neue Seite: **Mögliche Zieladressen**.
 
 Nun haben Sie die Möglichkeit, eines der aufgezeigten Felder als Standard-Zieladresse zu definieren.
 Die angezeigten Felder auf dieser Seite sind Felder, welche einen direkten Bezug zu einem Debitor/Kreditor oder zu einem Kontakt haben.
-Legt man also beispielsweise für die Verwendung (Verkaufs-)**Rechnung**, Jobmodus **E-Mail** eine Verknüpfung zu Feld Nr. **2** - **Verk. an Deb.-Nr.** an, so wird der Empfänger einer Verkaufsrechnung künftig immer aus dem Debitor gesucht, welcher mit **Verk. an Deb.-Nr** verknüpft ist.
+Legt man also beispielsweise für die Verwendung (Verkaufs-)**Rechnung** eine Verknüpfung zu Feld Nr. **2** - **Verk. an Deb.-Nr.** an, so wird der Empfänger einer Verkaufsrechnung künftig immer aus dem Debitor gesucht, welcher mit **Verk. an Deb.-Nr** verknüpft ist.
+
+{{< notice info>}}
+Wählt man als Zieladresse eine Feldzuordnung zu einem Debitor/Kreditor, so hat dies auch Einfluss auf die Wahl
+der Dokumentlayouts. Wenn Sie beispielsweise für Verkaufsrechnungen festlegen, dass der Verkauf-an-Debitor für 
+die Suche nach Zieladressen herangezogen werden soll, so werden auch die Einstellungen der Dokumentlayouts des
+entsprechenden Debitors entnommen. Standardmäßig ist in Business Central hierfür der Rechnungsempfänger vorgesehen. 
+Mit **Connector 365 Addressee Control** können Sie also dieses Verhalten übersteuern.
+{{< /notice >}}
 
 <a name="ACCon365" class="anchor"></a>
 ### Kompatibilität zu anderen **Connector 365 Apps**
@@ -67,10 +69,3 @@ Folgende **Connector 365 Apps** sind kompatibel zu **Connector 365 Addressee Con
 -  **Connector 365 Mail Experience Plus**
    >  **Connector 365 Mail Attachments Plus**
    >  **Connector 365 Mail Subject Plus**
-
-Um weitere Jobmodis (bzw. Apps) per **Addresse Control** einzurichten, können Sie einfach weitere Zeilen in der **Connector 365 Addresse Control** Seite hinzufügen.
-{{< notice info Beispiel >}}
-{{< /notice >}}
-
-|![](/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_Mehrere_Zeilen.png)|
-|-|

@@ -37,7 +37,7 @@ Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 3
 
 **Beispiel:**
 
-```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\CTIforSTARFACE.app"```
+```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\AddresseeControl.app"```
 
 Beide Apps sollten nun im System veröffentlicht sein.
 
@@ -79,7 +79,7 @@ Es folgt noch die Connector 365 Addresse Control App:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Addresse Control" -Tenant Tenant1, Tenant2```
 
-Sie können nun mit der [Einrichtung](/de-de/apps/cti-for-starface/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/addressee-control/first-steps/setup/) starten.
 
 
 
