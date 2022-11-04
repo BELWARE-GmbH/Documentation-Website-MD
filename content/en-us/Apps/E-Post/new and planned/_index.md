@@ -17,6 +17,11 @@ weight: 1
     - Pos. service credit memos
     - Purchase orders
 
+
+### Version 2.0.0.1 from 04.11.2022
+ - Improved form for license orders
+ - Compatibility with **Connector 365 Addressee Control** App
+
 ### Version 2.0.0.0
  - Sending of purchase documents (Purchase Order, Posted Return Order)
  - Dependency from the new version of app Connector 365 Base (2.0.0.0)

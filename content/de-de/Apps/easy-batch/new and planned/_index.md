@@ -9,12 +9,13 @@ weight: 1
 
 ### Neu und geplant
 
+### Geplante Funktionen für zukünftige Versionen
+- Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
+
 ### Version 2.2.0.0
  - Kompatibilität mit **Connector 365 Addressee Control** App vom 04.11.2022
  - Verbessertes Formular für Lizenzbestellungen
 
-### Geplante Funktionen für zukünftige Versionen
-- Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
 ### Version 2.1.0.0
 Verbesserungen:

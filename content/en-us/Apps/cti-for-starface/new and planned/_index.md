@@ -19,6 +19,9 @@ In case a question could not be answered, we will be glad to help you personally
 - Hiding the CTI functions in the Role center for non-CTI users
 - Add compatibility for versons 7.2 and 7.3 for STARFACE phone systems
 
+### Version 2.0.0.1 from 04.11.2022
+ - Improved form for license orders
+
 ### Version 2.0.0.0 from 17.10.2022
 - Error correction for writing contacts during calls.
 

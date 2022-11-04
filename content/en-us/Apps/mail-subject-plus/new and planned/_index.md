@@ -8,10 +8,15 @@ weight: 1
 ---
 ### New and planned
 
+
 ### Planned functions for future versions
 - Increase length of desired placeholders
 - Multilingual placeholders
 - Preview function
+
+### Version 2.1.0.0 from 04.11.2022
+ - Compatibility with **Connector 365 Addressee Control** App
+ - Improved form for license orders
 
 ### Version 2.0.0.0
 - Entered subjects will now be considered when using Connector 365 Easy Batch

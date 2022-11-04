@@ -12,6 +12,9 @@ weight: 1
 ### Planned functions for future versions
 - Automatic attachment of delivery bills
 
+### Version 2.0.0.1 from 04.11.2022
+ - Improved form for license orders
+
 ## Version 2.0.0.0
 - Reminders will now be considered when using Connector 365 Easy Batch
 - Dependency from the new version of app Connector 365 Base (2.0.0.0)

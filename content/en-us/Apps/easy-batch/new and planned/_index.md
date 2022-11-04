@@ -12,6 +12,12 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 
+
+### Version 2.0.0.1 from 04.11.2022
+ - Compatibility with **Connector 365 Addressee Control** App
+ - Improved form for license orders
+
 ### Version 2.1.0.0
 Improvements:
  - Implementation of rety functionality for open tasks, which ran into an error.
