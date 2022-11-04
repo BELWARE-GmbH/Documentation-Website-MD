@@ -14,6 +14,8 @@ footer:
           link: support/
         - title: Impressum
           link: legalnotice/
+        - title: DSGVO
+          link: https://belware.de/datenschutzerklaerung
   contents: 
     align: left
     applySinglePageCss: false
