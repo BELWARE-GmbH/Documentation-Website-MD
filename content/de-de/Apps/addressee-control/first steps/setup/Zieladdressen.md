@@ -3,7 +3,7 @@ title: "Zieladressen"
 date: 2020-02-28T00:00:00+09:00
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 5
 ---
 ### Einrichtung
