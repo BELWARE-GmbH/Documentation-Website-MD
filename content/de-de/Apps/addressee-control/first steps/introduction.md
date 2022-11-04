@@ -10,5 +10,7 @@ weight: 1
 
 ### Einleitung
 
-Mit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen.
-Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.
+Mit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.
+
+Desweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls 
+bestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.
