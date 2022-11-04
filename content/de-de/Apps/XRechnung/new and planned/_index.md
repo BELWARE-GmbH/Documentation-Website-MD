@@ -11,6 +11,10 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.1.0.0 vom 04.11.2022
+ - Kompatibilität mit **Connector 365 Addressee Control** App
+ - Verbessertes Formular für Lizenzbestellungen
+
 ### Version 2.0.0.0 vom 21.10.2022
 #### Korrekturen
 - Die Nutzung im Zusammenhang mit Mail Subject Plus und Easy Batch führt während des Versands nicht mehr zur Fehlermeldung.

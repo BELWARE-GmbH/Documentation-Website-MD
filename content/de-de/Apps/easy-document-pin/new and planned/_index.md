@@ -9,6 +9,9 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.0.0.1 vom 04.11.2022
+ - Verbessertes Formular für Lizenzbestellungen
+
 ### Version 2.0.0.0
 - Mahnungen werden nun auch bei Nutzung der App Connector 365 Easy Batch angehangen
 - Abhängigkeit zur neuen Version der App Connector 365 base (2.0.0.0)

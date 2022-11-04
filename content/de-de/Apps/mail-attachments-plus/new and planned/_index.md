@@ -12,6 +12,9 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.0.0.1 vom 04.11.2022
+ - Verbessertes Formular für Lizenzbestellungen
+
 ### Version 2.0.0.0
 - Anhänge werden nun auch bei Nutzung der App Connector 365 Easy Batch berücksichtigt
 - Abhängigkeit zur neuen Version der App Connector 365 base (2.0.0.0)

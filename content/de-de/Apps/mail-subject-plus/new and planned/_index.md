@@ -13,6 +13,10 @@ weight: 1
 - Mehrsprachige Platzhalter
 - Vorschaufunktion
 
+### Version 2.1.0.0 vom 04.11.2022
+ - Kompatibilität mit **Connector 365 Addressee Control** App
+ - Verbessertes Formular für Lizenzbestellungen
+
 ### Version 2.0.0.0
 - Eingetragene Betreffs werden nun auch bei Nutzung der App Connector 365 Easy Batch berücksichtigt
 - Abhängigkeit zur neuen Version der App Connector 365 base (2.0.0.0)

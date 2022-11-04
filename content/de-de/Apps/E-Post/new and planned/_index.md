@@ -18,6 +18,11 @@ weight: 1
   * Bearbeitungsstatus im Zielgebiet
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
+
+### Version 2.0.0.1 vom 04.11.2022
+ - Kompatibilität mit **Connector 365 Addressee Control** App
+ - Verbessertes Formular für Lizenzbestellungen
+
 ### Version 2.0.0.0
  - Versand von Belegen aus dem Einkaufsbereich (Einkaufsbestellungen, Gebuchte Einkaufsrücklieferungen)
  - Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0)
