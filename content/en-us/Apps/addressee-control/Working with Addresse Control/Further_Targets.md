@@ -8,7 +8,7 @@ weight: 3
 ---
 ### Working with multiple e-mail recipients
 
-After you have successfully [set up](/en/apps/address-control/first-steps/setup/additional-recipients) additional target addresses for a customer, you can simply send your desired voucher, for a customer/vendor that you have set up, by e-mail.
+After you have successfully [set up](/en-us/apps/addressee-control/first-steps/setup/multiple_recipients) additional target addresses for a customer, you can simply send your desired voucher, for a customer/vendor that you have set up, by e-mail.
 To do this, first go to the desired document page. Example: **Posted Sales Invoices**.
 At the top of the action bar, go to **Print/Send**, and then **Send by Email**:
 |![](images/apps/Addresse_Control/Beleg_per_email_senden.png)|
