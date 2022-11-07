@@ -1,14 +1,14 @@
 ---
-title: "Einleitung"
+title: "Introduction"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
 weight: 1
 ---
-### Erste Schritte
+### Introduction
 
-### Einleitung
+With the Connector 365 Address Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is the standard.
 
-Mit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen.
-Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.
+Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also determine 
+whether a recipient is to be reached via CC or BCC.

@@ -1,15 +1,15 @@
 ---
-title: "Connector 365 Addresse Control"
+title: "Addresse Control"
 date: 2022-07-04T00:00:00.000-05:00
 description: 
-draft: true
+draft: false
 collapsible: true
 weight: 1
 ---
-### Connector 365 Addresse Control Online Hilfe
+### Connector 365 Addresse Control Online Help
 
-Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connecto 365 Addresse Control App.
+Here you will find all the help and learning resources, for our Connecto 365 Addresse Control App.
 
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Just use either the bottom or left navigation menu.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](/de-de/apps/cti-for-starface/help-support/).
+In case a question could not be answered for you, we will be happy to help you personally. the necessary connecto information can be found on the [support page](/en-us/apps/addressee-control/help-support).

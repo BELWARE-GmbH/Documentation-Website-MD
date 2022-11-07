@@ -1,15 +1,15 @@
 ---
-title: "Einrichtung Test"
+title: "Setup"
 date: 2020-02-28T00:00:00+09:00
 description: 
 draft: false
 collapsible: true
 weight: 4
 ---
-### Einrichtungen der Connector 365 Addresse Control App
+### Installing the Connector 365 Addresse Control App.
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 Addresse Control App.
+Here you will find all the important information and instructions on how to install the Connector 365 Addresse Control App.
 
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Simply use either the bottom or left navigation menu.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/cti-for-starface/help-support/).
+In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en/apps/cti-for-starface/help-support/).

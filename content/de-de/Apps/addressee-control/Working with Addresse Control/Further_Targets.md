@@ -20,7 +20,7 @@ Es öffnet sich wie gewohnt das E-Mail-Dialog-Fenster:
 |-|
 
 Unter **E-Mail-Details** können Sie die E-Mail-Empfänger ablesen.
-Die [eingerichteten](/de-de/apps/addresse-control/first-steps/setup/weitere-empfänger) weiteren E-Mail-Adressen sind direkt in die zugehörigen Zeilen eingefügt worden.
+Die [eingerichteten](/de-de/apps/addressee-control/first-steps/setup/further_targets) weiteren E-Mail-Adressen sind direkt in die zugehörigen Zeilen eingefügt worden.
 Durch Klicken auf **Senden** wird die E-Mail an alle eingetragenen Empfänger, mit Berücksichtigung auf eingestellte Empfangsoptionen (CC, BCC etc..) geschickt.
 {{< notice info Hinweis >}}
 Sollten Sie die Zeilen **CC** und **BCC** nicht sehen, klicken Sie oben rechts auf **Weitere anzeigen**.
