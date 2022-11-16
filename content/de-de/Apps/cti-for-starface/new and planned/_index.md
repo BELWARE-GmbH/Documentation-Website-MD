@@ -17,7 +17,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 - Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer
 - Herstellen der Kompatibilität für Version 7.2 und 7.3 der STARFACE Telefonanlage
 
-### Version 2.0.0.1 vom 04.11.2022
+### Version 2.0.0.3 vom 16.11.2022
+ - Fehlerkorrektur: Wenn ein Personenkontakt anruft öffnet sich nicht mehr länger die Unternehmenskontaktkarte sonder die der Person.
+ 
+### Version 2.0.0.2 vom 04.11.2022
  - Verbessertes Formular für Lizenzbestellungen
 
 ### Version 2.0.0.1 vom 17.10.2022
