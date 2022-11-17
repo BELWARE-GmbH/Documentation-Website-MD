@@ -9,9 +9,12 @@ weight: 1
 
 ### New and planned
 
+### Version 2.1.0.2 from 17.11.2022
+- Error Correction: Using the app together with other COnnector 365 Apps Easy Batch and Addressee Control no longer results in an error. 
+
 ### Version 2.1.0.0 from 04.11.2022
- - Compatibility with **Connector 365 Addressee Control** App
- - Improved form for license orders
+- Compatibility with **Connector 365 Addressee Control** App
+- Improved form for license orders
 
 ### Version 2.0.0.0 from 21.10.2022
 #### Correction

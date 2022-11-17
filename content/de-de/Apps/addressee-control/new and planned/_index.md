@@ -12,4 +12,13 @@ Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/cti-for-starface/help-support/).
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/addressee-control/help-support/).
+
+### Neu und geplant
+
+### Version 1.0.0.1 - 17.11.2022
+- Herstellung der Kompatibilität mit zukünftigen BC-Versionen.
+- Anpassung der Links zur Dokumentation
+
+### Version 1.0.0.0 - 04.11.2022
+- Erste Veröffentlichung

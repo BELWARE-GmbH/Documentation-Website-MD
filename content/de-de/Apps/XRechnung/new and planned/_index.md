@@ -11,6 +11,9 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.1.0.2 vom 17.11.2022
+ - Fehlerkorrektur: Die Nutzng der App zusammen mit den anderen connector 365 Apps Easy Batch und Addressee Control führt nicht mehr zum Fehler. 
+
 ### Version 2.1.0.0 vom 04.11.2022
  - Kompatibilität mit **Connector 365 Addressee Control** App
  - Verbessertes Formular für Lizenzbestellungen
