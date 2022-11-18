@@ -2,8 +2,8 @@
 title: "Events"
 date: 2020-02-28T10:08:56+09:00
 description: 
-draft: true
-collapsible: false
+draft: false
+collapsible: true
 weight: 4
 ---
 ## Connector 365 Mail Subject Plus Events

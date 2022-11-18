@@ -42,8 +42,8 @@ Now another window opens, in which all fields from the company information, as w
 To determine the table for the header data, the report metadata of the respective report is examined for its property: **FirstDataItemTableID**. 
 The standard reports in Business Central store the underlying header for this respective first element (FirstDataItemTableId). Example: Report 1306 -> Sales Invoice Header. 
 If customized reports have a different structure, i.e. a different table is in the first place, it will also be taken over into the table filter, whereby possibly useless fields will be displayed, or important fields could be missed.
-For such cases the next app release will provied the possibility to set the correct target table via an event subscriber depending on the report id.
-<!-- More about this can be found at [Events](/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events).-->
+For such cases there is the possibility to set the correct target table via an event subscriber depending on the report id.
+More about this can be found at [Events](/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events).
 {{< /notice >}}
 
 <br>
