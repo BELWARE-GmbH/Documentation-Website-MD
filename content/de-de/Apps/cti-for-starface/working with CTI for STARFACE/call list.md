@@ -14,7 +14,7 @@ Ein- und ausgehende Anrufe werden an drei Stellen erfasst. Entweder direkt in de
 
 #### CTI-Einträge
 
-In Ihren Kontakten können Sie die **"CTI-Einträge"** finden, diese befinden sich am Ende der Kontaktkarte. Dort finden Sie die Details zu allen Telefonaten die mit diesem Kontakt gefürht wurden, wie z.B. ob es ein- oder ausgehende war, Wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat. 
+In Ihren Kontakten können Sie die **"CTI-Einträge"** finden, diese befinden sich am Ende der Kontaktkarte. Dort finden Sie die Details zu allen Telefonaten die mit diesem Kontakt geführt wurden, wie z.B. ob es ein- oder ausgehende war, wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat. 
 
 ![](images/apps/ctientriesde.PNG)
 
@@ -26,6 +26,6 @@ Auch hier lässt sich kontaktunabhängig die Details von einzelnen Telefonanten 
 ![](images/apps/ctijoblistde.PNG)
 
 #### Das Rollencenter
-Im Rollencenter könnnen Sie ebenfalls einen Ausschnitt aus der Jobliste finden, dort werden in der Kachel **"CTI Status"** die Anrufe der letzten 30 Tage aufgeführt.
+Im Rollencenter können Sie ebenfalls einen Ausschnitt aus der Jobliste finden, dort werden in der Kachel **"CTI-Status"** die Anrufe der letzten 30 Tage aufgeführt.
 
 ![](images/apps/ctidashboardde.PNG)

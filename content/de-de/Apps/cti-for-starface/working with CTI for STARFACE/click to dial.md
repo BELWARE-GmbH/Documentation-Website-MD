@@ -15,7 +15,7 @@ klappen Sie den Bereich **"Kommunikation"** auf. Neben der Telefonnr. befinden s
 ![](images/apps/ctic2dde.PNG)
 
 {{< notice info "Hinweis" >}}
- _Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Browsers ausschalten oder Ihren STARFACE-Client zum öffnen von Telefonnr. festlegen._
+ _Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Browsers ausschalten oder Ihren STARFACE-Client zum Öffnen von Telefonnr. festlegen._
 {{< /notice >}}
 #
 

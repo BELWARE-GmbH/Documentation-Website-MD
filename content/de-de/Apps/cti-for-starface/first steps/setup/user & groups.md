@@ -9,9 +9,9 @@ weight: 3
 ### Einrichtung
 
 ### Gruppen
-Gruppen bieten Ihnen die Möglichkeit Ihre Nutzer zu sortieren egal ob es eine Unterteilung pro Abteilung oder pro Team ist, es lässt sich mit Gruppen abbilden. Nutzer die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI Client. Die Benutzung von Gruppen ist optional.
+Gruppen bieten Ihnen die Möglichkeit Ihre Nutzer zu sortieren egal ob es eine Unterteilung pro Abteilung oder pro Team ist, es lässt sich mit Gruppen abbilden. Nutzer die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI-Client. Die Benutzung von Gruppen ist optional.
 
-Öffnen Sie über die Suchfunktion die **"CTI Gruppen"**, hier findet sich eine Tabelle mit zwei Spalten.
+Öffnen Sie über die Suchfunktion die **"CTI-Gruppen"**, hier findet sich eine Tabelle mit zwei Spalten.
 
 ![](images/apps/ctigruppende.PNG)
 
@@ -27,7 +27,7 @@ Als nächsten Schritt sollten Sie Ihre Nutzer anlegen. öffnen Sie erneut die Su
 
 Geben Sie nun noch im Feld für die Durchwahl, die entsprechende Durchwahl des Nutzers an. Anschließend können Sie dem Nutzer noch optional eine Gruppe zuweisen, dies können Sie im Feld **"CTI Gruppe"** vornehmen.
 
-Im Feld **"CTI-Seite"** können Sie die beliebige Seiten ausgewählt werden, welche sich bei eingehenden Anrufen automatisch öffnet. Diese Seiten basieren auf den folgenden Tabellen:
+Im Feld **"CTI-Seite"** kann eine Seite ausgewählt werden, die sich bei eingehenden Anrufen automatisch öffnet. Diese Seiten basieren auf den folgenden Tabellen:
 
 - Kontakte (5050)
 - Debitoren (22)
@@ -35,8 +35,8 @@ Im Feld **"CTI-Seite"** können Sie die beliebige Seiten ausgewählt werden, wel
 
 Bei Debitoren und Kreditoren ist zu beachten, dass diese mit einem Kontakt verknüpft sein müssen.
 
-Über due Felder **"CTI-Seite öffnen"** & **"Zeitpunkt des Öffnens der CTI-Seite"** lässt sich einrichten, wann genau der Kontakt geöffnet wird und auf welche Anrufsrichtung reagiert wird.
+Über die Felder **"CTI-Seite öffnen"** & **"Zeitpunkt des Öffnens der CTI-Seite"** lässt sich einrichten, wann genau der Kontakt geöffnet wird und auf welche Anrufrichtung reagiert wird.
 
-Unter **"Nr. nicht gefunden Aktionen"** haben Sie die Möglichkeit festzulegen, wie Sich das System verhält wenn eine Unbekannte Nummer anruft. Weitere Informationen hierzu gibt es im Teil **Arbeiten mit CTI for STARFACE**.
+Unter **"Nr. nicht gefunden Aktionen"** haben Sie die Möglichkeit festzulegen, wie sich das System verhält, wenn eine unbekannte Nummer anruft. Weitere Informationen hierzu gibt es im Teil **Arbeiten mit CTI for STARFACE**.
 
 Wiederholen Sie diesen Prozess für alle Nutzer der Connector 365 CTI for STARFACE App.

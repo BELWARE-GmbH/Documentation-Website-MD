@@ -19,7 +19,7 @@ Für den Fall, dass sie den Client versehentlich schließen, werden Sie vor dem 
 
 ![](images/apps/cticlientdashboardde.PNG)
 
-Kommt es nun zu einem eingehenden Anruf wird dies im Client abgebildet, alle Nutzer in der gleichen Gruppen können sehen wer angerufen wird und wie der aktuelle Status des Telefonat lautet. Zeitgleich wird ein Eintrag in die Jobliste geschrieben und die Kontaktkarte für den entsprecheden Kontakt wird geöffnet, sofern dieser vorhanden ist.
+Kommt es nun zu einem eingehenden Anruf, wird dies im Client abgebildet. Alle Nutzer in der gleichen Gruppe können sehen, wer angerufen wird und wie der aktuelle Status des Telefonats lautet. Zeitgleich wird ein Eintrag in die Jobliste geschrieben und die Kontaktkarte für den entsprechenden Kontakt wird geöffnet, sofern dieser vorhanden ist.
 
 ![](images/apps/cticlientde.png)
 
