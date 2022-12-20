@@ -12,4 +12,4 @@ Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen 
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/pdfpaper/help-support/).
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).

@@ -12,4 +12,4 @@ Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSo
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](/de-de/apps/easy-batch/help-support/).
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).

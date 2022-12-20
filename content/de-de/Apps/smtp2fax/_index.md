@@ -12,4 +12,4 @@ Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 S
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](/de-de/apps/smtp2fax/help-support/).
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).

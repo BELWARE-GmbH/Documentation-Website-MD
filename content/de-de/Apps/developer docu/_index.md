@@ -10,4 +10,4 @@ weight: 5
 
 Als Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unseren Apps eigenhändig vornehmen können.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](de-de/apps/pdfpaper/help-support/).
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
