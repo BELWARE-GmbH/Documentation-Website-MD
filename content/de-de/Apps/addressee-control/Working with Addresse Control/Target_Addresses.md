@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 4
 ---
-# Arbeiten mit festgelegten Zieladressen
+### Arbeiten mit festgelegten Zieladressen
 
 Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der 
 **Connector 365 Addressee Control** als Zieladresse eingerichtet wurde:
@@ -36,6 +36,6 @@ Mit der Einstellung jedoch, dass der Verkauf-an-Debitor für das Setzen der Ziel
 
 
 
-Hier wurde nun die E-Mail Adresse des Verkauf-an-Debitors als Zieladresse festgelegt. 
+Hier wurde nun die E-Mail-Adresse des Verkauf-an-Debitors als Zieladresse festgelegt. 
 In diesem Beispiel waren weder für den Rechnungsempfänger noch für den Käufer ein Dokumentlayout eingerichtet worden.
 Sofern eingerichtet, werden jedoch noch weitere Empfänger (CC und BCC) entsprechend der eingerichteten Zieladressen-Logik übernommen.

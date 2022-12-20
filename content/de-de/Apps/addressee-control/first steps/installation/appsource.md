@@ -2,7 +2,7 @@
 title: "AppSource"
 date: 2020-02-28T10:08:56+09:00
 description: 
-draft: true
+draft: false
 collapsible: false
 weight: 1
 ---
@@ -14,9 +14,9 @@ weight: 1
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Addresse Control** zu finden. Klicken Sie auf **Get it now** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Addressee Control** zu finden. Klicken Sie auf **Get it now** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
-![](images/apps/ctimarketplacesearch.PNG)
+![](images/apps/Addresse_Control/AddresseeControlAppSourceDe.png)
 
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließen **Installieren**.
 
@@ -28,11 +28,11 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
 
-Wenn alles geklappt hat, können Sie nun den **Connector 365 Addresse Control** unter **Installierte Erweiterungen** finden.
+Wenn alles geklappt hat, können Sie nun den **Connector 365 Addressee Control** unter **Installierte Erweiterungen** finden.
 
-![](images/apps/ctiinstalledde.PNG)
+![](images/apps/Addresse_Control/AddresseeControlErwVerwDe.png)
 
-Sie können nun mit der [Einrichtung](/de-de/apps/cti-for-starface/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](de-de/apps/addressee-control/first-steps/setup/) starten.
 
 
 

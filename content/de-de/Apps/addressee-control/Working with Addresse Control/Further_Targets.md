@@ -8,7 +8,7 @@ weight: 3
 ---
 ### Arbeiten mit weiteren E-Mail-Empfängern
 
-Nachdem Sie erfoglreich weitere Zieladressen für einen Debitor [eingerichtet](/de-de/apps/addressee-control/first-steps/setup/further_targets) haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
+Nachdem Sie erfolgreich weitere Zieladressen für einen Debitor [eingerichtet](/de-de/apps/addressee-control/first-steps/setup/further_targets) haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
 Dazu gehen Sie zunächst auf die gewünschte Beleg-Seite.
 Beispiel: **Gebuchte Verkaufsrechnungen**.
 Gehen Sie oben in der Aktionsleiste auf **Drucken/Senden**, und dann auf **Per E-Mail senden**:

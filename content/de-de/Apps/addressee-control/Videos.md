@@ -8,7 +8,7 @@ weight: 5
 ---
 ### Videos
 
-Hier finden Sie einige informative Videos zur unserer Connector 365 Addresse Control App, jedes Video behandelt ein spezielles Thema:
+Hier finden Sie einige informative Videos zu unserer Connector 365 Addressee Control App, jedes Video behandelt ein spezielles Thema:
 
 #### kurze Übersicht der App
 <p style="text-align: center;">

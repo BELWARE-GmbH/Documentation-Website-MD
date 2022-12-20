@@ -6,10 +6,9 @@ draft: false
 collapsible: false
 weight: 5
 ---
-### Einrichtung
+### Einrichtung Zieladressen pro Bericht
 
-Um die Zieladressen-Logik über die **Connector 365 Addresse Control** App nach Belieben einzustellen, öffnen Sie 
-eine der Seiten *Berichtsauswahlen*.
+Um die Zieladressen-Logik über die **Connector 365 Addressee Control** App nach Belieben einzustellen, öffnen Sie eine der Seiten *Berichtsauswahlen*.
 
 {{< notice info Hinweis>}}
 Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit **Connector 365 Addressee Control**.
@@ -26,8 +25,7 @@ Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen 
 | Bankkonto | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 | Projekt | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 
-Die **Connector 365 Addressee Control** App erweitert unterstützte Berichtsauswahl-Pages um eine
-Subpage.
+Die **Connector 365 Addressee Control** App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
 
 *Beispiel aus dem Bereich Verkauf -> **Berichtsauswahl - Verkauf**:*
 

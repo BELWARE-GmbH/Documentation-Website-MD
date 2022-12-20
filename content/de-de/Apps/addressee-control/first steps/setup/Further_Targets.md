@@ -18,8 +18,7 @@ Die **Connector 365 Addressee Control** App erweitert die **Dokumentlayouts** um
 |![](/images/apps/Addresse_Control/Dokumentenlayouts_Weitere_Zieladressen.png)|
 |-|
 
-Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt eingerichtet sind. In diesem Fall
-lautet der Inhalt des Feldes ***Weitere Ziele***: **Nein**, da noch keine Zieladressen eingerichtet sind.
+Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt eingerichtet sind. In diesem Fall lautet der Inhalt des Feldes ***Weitere Ziele***: **Nein**, da noch keine Zieladressen eingerichtet sind.
 
 Klicken Sie nun auf den Inhalt des Feldes. Es öffnet sich eine weitere Seite:
 |![](images/apps/Addresse_Control/Weitere_Zieladressen_Page.png)|
@@ -29,12 +28,12 @@ Es sind nun drei Felder zur Verfügung:
 
 | Feld | Funktion|
 |-|-|
-| Ziel | Die E-Mail Adresse, welche als weiterer Empfänger-Adresse hinterlegt wird.  |
+| Ziel | Die E-Mail-Adresse, welche als weiterer Empfängeradresse hinterlegt wird.  |
 | CC   | Die eingerichtete E-Mail-Adresse (*Ziel*) wird als CC-Empfänger angenommen |
 | BCC  | Die eingerichtete E-Mali-Adresse (*Ziel*) wird als BCC-Empfänger angenommen |
 
 {{< notice info Hinweis >}}
-Wenn eine E-Mail Adresse eingerichtet ist, jedoch weder **CC** oder **BCC** ausgewählt sind, so wird die eingerichtete E-Mail Adresse als direkter Empfänger hinterlegt.
+Wenn eine E-Mail-Adresse eingerichtet ist, jedoch weder **CC** oder **BCC** ausgewählt sind, so wird die eingerichtete E-Mail-Adresse als direkter Empfänger hinterlegt.
 {{< /notice >}}
 
 <br></br>
@@ -49,7 +48,7 @@ so sollte sich der Wert des Feldes **Weitere Ziele** von *Nein* auf *Ja* geände
 |![](images/apps/Addresse_Control/Dokumentenlayouts_Weitere_Zieladressen_Targets.png)|
 |-|
 
-Nun können Sie bei Bedarf gleiche Schritte für weitere Verwendungen (z.B. Verkaufsgutschrift) wiederholen.
+Nun können Sie bei Bedarf die gleichen Schritte für weitere Verwendungen (z.B. Verkaufsgutschrift) wiederholen.
 
 {{< notice info Hinweis>}}
 Die Zieladressen werden pro Debitor **und** pro Berichtsverwendung gespeichert. Ein Debitor kann also für jede Berichtsverwendung verschiedene Zieladressen hinterlegen.

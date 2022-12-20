@@ -33,7 +33,7 @@ Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von fo
 
 ```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
 
-Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 365 CTI for STARFACE App durchführen
+Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 365 Addressee Control App durchführen
 
 **Beispiel:**
 
@@ -46,9 +46,9 @@ Beide Apps sollten nun im System veröffentlicht sein.
 {{< /notice >}}
 #
 
-#### Installieren der Connector 365 Base & Addresse Control App
+#### Installieren der Connector 365 Base & Addressee Control App
 
-In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
+In der Erweiterungsverwaltung Ihrer Umgebung werden Ihnen die Apps nun als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
 
 ![](images/apps/ctipublishde.PNG)
 
@@ -73,11 +73,11 @@ Für die Installation der Connector 365 Base App nutzen Sie den folgenden Befehl
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
-Es folgt noch die Connector 365 Addresse Control App:
+Es folgt noch die Connector 365 Addressee Control App:
 
 **Beispiel:**
 
-```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Addresse Control" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Addressee Control" -Tenant Tenant1, Tenant2```
 
 Sie können nun mit der [Einrichtung](/de-de/apps/addressee-control/first-steps/setup/) starten.
 
