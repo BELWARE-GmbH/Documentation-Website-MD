@@ -12,4 +12,4 @@ Here you will find all important information and notes about the trial version, 
 
 Just use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be happy to help you personally. The necessary contact information can be found on the [support page](en-us/apps/easy-batch/help-support/).
+In case a question could not be answered, we will be happy to help you personally. The necessary contact information can be found on the [support page](en-us/apps/help-and-support/).

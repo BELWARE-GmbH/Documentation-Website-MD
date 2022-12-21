@@ -12,4 +12,4 @@ Here you can find all important information and notices for testing and purchasi
 
 Just use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be glad to help you personally. You can find the necessary contact information on the [support page](en-us/apps/mail-subject-plus/help-support/).
+In case a question could not be answered, we will be glad to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).

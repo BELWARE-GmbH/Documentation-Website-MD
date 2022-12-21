@@ -12,4 +12,4 @@ Here you will find all help and learning resources for the correct usage of the 
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/easy-batch/help-support/).
+In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/help-and-support/).

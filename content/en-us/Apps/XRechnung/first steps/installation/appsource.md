@@ -28,6 +28,6 @@ If everything worked, you can now find the **Connector 365 E-POST** under **Inst
 
 ![](images/apps/ctiinstalleden.PNG)
 
-You can now start with the [setup](/en-us/apps/cti-for-starface/first-steps/setup/).
+You can now start with the [setup](en-us/apps/xrechnung/first-steps/setup/).
 
 

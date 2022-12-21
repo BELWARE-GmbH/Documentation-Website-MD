@@ -12,7 +12,7 @@ Here you will find all the important information and instructions on how to inst
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/addressee-control/help-support/).
+In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 ### Version 1.0.0.1 - 17.11.2022
 - Added compatibility to future versions of BC.
 - Adjusted links to the documentation.

@@ -32,7 +32,7 @@ If everything worked, you can now find the **Connector 365 Address Control** und
 
 ![](images/apps/ctiinstalledde.PNG)
 
-You can now start with the [Setup](/de-de/apps/cti-for-starface/first-steps/setup/).
+You can now start with the [Setup](en-us/apps/addressee-control/first-steps/setup/).
 
 
 

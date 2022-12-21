@@ -6,10 +6,10 @@ draft: false
 collapsible: true
 weight: 4
 ---
-### Installing the Connector 365 Addresse Control App.
+### Setup of the Connector 365 Addressee Control App
 
-Here you will find all the important information and instructions on how to install the Connector 365 Addresse Control App.
+Here you will find all help and learning resources, to assist you in setting up the Connector 365 Addressee Control App.
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en/apps/cti-for-starface/help-support/).
+In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/help-and-support/).

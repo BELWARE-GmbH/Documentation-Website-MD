@@ -6,10 +6,10 @@ draft: true
 collapsible: true
 weight: 2
 ---
-### Testen und kaufen der Connector 365 CTI for STARFACE App
+### Testing and purchasing of the Connector 365 Addressee Control App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 CTI for STARFACE App.
+Here you will find all help and learning resources about testing and purchasing the Connector 365 Addressee Control App.
 
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Simply use either the bottom or left navigation menu.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/cti-for-starface/help-support/).
+In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the [support page](en-us/apps/help-and-support/).

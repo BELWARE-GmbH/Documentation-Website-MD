@@ -76,7 +76,7 @@ The Connector 365 PdfPaper app follows:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 PdfPaper" -Tenant Tenant1, Tenant2```
 
-You can now start with the [setup](/en-us/apps/pdfpaper/first-steps/setup/) starten.
+You can now start with the [setup](/en-us/apps/pdfpaper/first-steps/setup/).
 
 
 

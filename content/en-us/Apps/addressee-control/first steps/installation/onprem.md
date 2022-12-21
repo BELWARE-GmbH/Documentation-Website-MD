@@ -77,9 +77,9 @@ The Connector 365 Address Control App follows:
 
 **Example:**
 
-```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Addresse Control" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Addressee Control" -Tenant Tenant1, Tenant2```
 
-You can now start with the [Setup](/de-de/apps/cti-for-starface/first-steps/setup/).
+You can now start with the [Setup](en-us/apps/addressee-control/first-steps/setup/).
 
 
 

@@ -10,4 +10,4 @@ weight: 5
 
 As a developer in the area of Dynamics 365 Business Central, you will find information here on how you can make adjustments in connection with our apps yourself.
 
-In the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the [support page](en-us/apps/pdfpaper/help-support/).
+In the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the [support page](en-us/apps/help-and-support/).

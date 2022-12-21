@@ -12,4 +12,4 @@ Here you will find all the important information and instructions on how to inst
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the [support page](en-us/apps/pdfpaper/help-support/).
+In case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the [support page](en-us/apps/help-and-support/).
