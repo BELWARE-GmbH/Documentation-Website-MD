@@ -6,8 +6,6 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Erste Schritte
-
 ### Einleitung
 
 Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.

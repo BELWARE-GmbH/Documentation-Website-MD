@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Installation
+## Installation
 
 ### OnPrem
 Sie erhalten von uns die Objekte für die Connector 365 Base & SMTP2FAX App per Mail. Damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
