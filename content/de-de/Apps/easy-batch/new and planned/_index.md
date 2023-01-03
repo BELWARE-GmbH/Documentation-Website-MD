@@ -12,6 +12,13 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
+### Version 2.3.0.0 - 04.01.2023
+- Implementierung der neuen Lizenzprüfung.
+- Einkaufsbereich um Einkaufsanfragen erweitert.
+- Automatisierter Versand für Einkaufsbestellungen und Einkaufsanfragen.
+- Fehlerkorrektur beim Setzen des E-Mailabsenders.
+  Der E-mailabsender wurde für die einzelnen Szenarios nicht korrekt gesetzt.
+
 ### Version 2.2.0.0
  - Kompatibilität mit **Connector 365 Addressee Control** App vom 04.11.2022
  - Verbessertes Formular für Lizenzbestellungen

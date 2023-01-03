@@ -19,6 +19,11 @@ In case a question could not be answered, we will be glad to help you personally
 - Hiding the CTI functions in the Role center for non-CTI users
 - Add compatibility for versons 7.2 and 7.3 for STARFACE phone systems
 
+### Version 2.1.0.0 - 04.01.2023
+- Implementation of new license check.
+- Error correction for writng of activity entries.
+  In some cases an error occured while writing the entry, because it already existed.
+
 ### Version 2.0.0.3 vom 16.11.2022
  - Error correction: When a person contact calls from now on the contact card of this person will open instead of the company contact card.
 
