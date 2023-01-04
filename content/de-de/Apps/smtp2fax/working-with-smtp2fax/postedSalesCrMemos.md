@@ -10,7 +10,7 @@ weight: 2
 
 Auf der Seite der gebuchten Verkaufsgutschriften ist die Funktion im Menü "Drucken/Senden" zu finden.
 
-![](images/apps/smtp2fax/gebVerkGutschriften_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_gebVerkGutschriften.png)
 
 Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
 Ist in einer Verkaufsgutschrift ein abweichender Rechnungsempfänger angegeben, wird in dessen Dokumentlayouts nach einer Faxnummer gesucht, die für die Verwendung mit Verkaufsgutschriften eingetragen wurde. Wird dort keine gefunden, wird die in der Karte des Rechnungsempfängers eingetragene Faxnummer verwendet.
@@ -20,7 +20,7 @@ Zunächst wird in dessen Dokumentlayouts nach einer für Verkaufsgutschriften an
 
 Auch auf der Seite einer einzelnen gebuchten Verkaufsgutschrift findet sich die Funktion im Menü "Drucken/Senden".
 
-![](images/apps/smtp2fax/gebVerkGutschr_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_gebVerkGutschrift.png)
 
 Die Logik für die Auswahl der Faxnummer des Empfängers ist auch hier wie oben beschrieben.
 

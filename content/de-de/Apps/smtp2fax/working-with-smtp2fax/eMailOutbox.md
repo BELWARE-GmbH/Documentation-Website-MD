@@ -10,7 +10,7 @@ weight: 7
 
 Wurde ein Fax über den Dialog als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen.
 
-![](images/apps/smtp2fax/eMailAusgang.png)
+![](images/apps/smtp2fax/SMTP2FAX_MailAusgang.png)
 
 Dort kann die Nachricht dann gelöscht oder erneut versandt werden.
 
