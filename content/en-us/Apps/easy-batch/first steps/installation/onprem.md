@@ -76,6 +76,6 @@ The Connector 365 Easy Batch app follows:
 
 ```Install-NAVApp -ServerInstance YourBusinessCentralInstance -Name "Connector 365 Easy Batch" -Tenant Tenant1, Tenant2```
 
-You can now start with the [setup](/en-us/apps/easy-batch/first-steps/setup/) starten.
+You can now start with the [setup](/en-us/apps/easy-batch/first-steps/setup/).
 
 

@@ -9,6 +9,9 @@ weight: 1
 
 ### New and planned
 
+### Version 2.2.0.0 - 04.01.2023
+- Implementation of new license check.
+
 ### Version 2.1.0.2 from 17.11.2022
 - Error Correction: Using the app together with other COnnector 365 Apps Easy Batch and Addressee Control no longer results in an error. 
 

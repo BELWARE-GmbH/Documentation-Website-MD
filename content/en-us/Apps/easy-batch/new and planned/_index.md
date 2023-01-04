@@ -12,9 +12,14 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
-### Version 
+### Version 2.3.0.0 - 04.01.2023
+- Implementation of new license check.
+- Extended purchasing department with purchase quotes.
+- Autamted processing of purchase orders and purchadse quotes.
+- Error correction for setting the email sender.
+  The email sender was not set correctly for the single scenarios.
 
-### Version 2.0.0.1 from 04.11.2022
+### Version 2.0.0.1 - 04.11.2022
  - Compatibility with **Connector 365 Addressee Control** App
  - Improved form for license orders
 

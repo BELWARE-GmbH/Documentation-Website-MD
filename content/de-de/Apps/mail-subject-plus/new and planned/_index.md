@@ -12,6 +12,8 @@ weight: 1
 - Länge der gewünschten Platzhalter erhöhen
 - Mehrsprachige Platzhalter
 - Vorschaufunktion
+### Version 2.2.0.0 - 04.01.2023
+- Implementierung der neuen Lizenzprüfung.
 
 ### Version 2.1.0.0 vom 04.11.2022
  - Kompatibilität mit **Connector 365 Addressee Control** App
