@@ -8,9 +8,12 @@ weight: 6
 ---
 ### SMTP2FAX in der Connector 365 Aktivitätenliste
 
-Wurde ein Fax erfolgreich versandt, erfolgt ein entsprechender Eintrag in die Connector 365 Aktivitätenliste.
+Wurde im [SMTP2FAX-Dialog](de-de/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/) das Versenden der Nachricht gewählt, erfolgt ein entsprechender Eintrag in die Connector 365 Aktivitätenliste, der durch die Kennzeichnung Fax im Feld Jobmodus erkennbar ist.
 
 ![](images/apps/smtp2fax/SMTP2FAX_AktListe1.png)
+
+Ob das Versenden erfolgreich war oder fehlgeschlagen ist, wird durch eine entsprechende Markierung im Feld Status gekennzeichnet.
+
 ![](images/apps/smtp2fax/SMTP2FAX_AktListe2.png)
 
 Durch Klick auf die Statusmarkierung können genauere Informtionen zum Status aufgerufen werden.

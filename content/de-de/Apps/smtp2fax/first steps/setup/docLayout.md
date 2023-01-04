@@ -8,7 +8,7 @@ weight: 4
 ---
 ### SMTP2FAX in den Dokumentlayouts
 
-Für die Angabe der Faxnummer des Empfängers steht zum einen das im Business Central Standard vorhandene Feld in der Karte des Kreditors oder Debitors zur Verfügung. Die App SMTP2FAX fügt aber auch der Tabelle der Dokumentlayouts ein weiteres Feld hinzu, in dem Sie die Faxnummer für verschiedene Anwendungsfälle angeben können.
+Für die Angabe der Faxnummer des Empfängers steht zum einen das im Business Central Standard vorhandene Feld in der Karte des Kreditors oder Debitors zur Verfügung. Die App SMTP2FAX fügt aber auch der Tabelle der Dokumentlayouts ein weiteres Feld hinzu, in dem Sie die Zielfaxnummern für verschiedene Anwendungsfälle angeben können.
 
 ![](images/apps/smtp2fax/SMTP2FAX_DokLayouts.png)
 

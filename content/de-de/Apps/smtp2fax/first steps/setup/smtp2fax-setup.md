@@ -8,7 +8,7 @@ weight: 3
 ---
 ### SMTP2FAX in der Connector 365 Einrichtung
 
-Um zur SMTP2FAX Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort **Connector 365 Einrichtung** ein. Dort finden Sie die Rubrik **SMTP2FAX Einrichtung**.
+Um die App Connector 365 SMTP2FAX einzurichten, nutzen Sie zunächst die Suchfunktion von Business Central und öffnen die **Connector 365 Einrichtung**. Dort finden Sie die Rubrik **SMTP2FAX Einrichtung**.
 
 ![](images/apps/smtp2fax/Connector365Einrichtung.png)
 
