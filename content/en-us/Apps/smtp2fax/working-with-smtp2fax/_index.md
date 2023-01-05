@@ -2,7 +2,7 @@
 title: "Working with SMTP2FAX"
 date: 2020-02-28T00:00:00+09:00
 description: 
-draft: true
+draft: false
 collapsible: true
 weight: 3
 ---
