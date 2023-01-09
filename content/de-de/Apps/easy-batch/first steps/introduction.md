@@ -25,6 +25,7 @@ Verkauf:
 - Verkaufsaufträge
 
 Einkauf:
+- Einkaufsanfragen
 - Einkaufsbestellungen
 - Geb. Einkaufsrücklieferungen
 

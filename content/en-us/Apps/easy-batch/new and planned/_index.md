@@ -12,7 +12,7 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
-### Version 2.3.0.0 - 04.01.2023
+### Version 2.3.0.0 - 06.01.2023
 - Implementation of new license check.
 - Extended purchasing department with purchase quotes.
 - Autamted processing of purchase orders and purchadse quotes.

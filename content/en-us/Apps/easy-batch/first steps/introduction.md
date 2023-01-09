@@ -25,6 +25,7 @@ Sales:
 - Sales Orders
 
 Purchase:
+- Purchase Quotes
 - Purchase Orders
 - Posted Return Shipments
 

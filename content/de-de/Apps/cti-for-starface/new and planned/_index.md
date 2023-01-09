@@ -17,7 +17,7 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 - Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer
 - Herstellen der Kompatibilität für Version 7.2 und 7.3 der STARFACE Telefonanlage
 
-### Version 2.1.0.0 - 04.01.2023
+### Version 2.1.0.0 - 06.01.2023
 - Implementierung der neuen Lizenzprüfung
 - Fehlerkorrektur beim Schreiben von Aktivitäteneinträgen.
   Hier kam es einigen Fällen zu einem Fehler, da der Datensatz bereits vorhanden war.

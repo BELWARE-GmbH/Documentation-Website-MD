@@ -14,7 +14,7 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
-### Version 1.1.0.0 - 04.01.2023
+### Version 1.1.0.0 - 06.01.2023
 - Implementierung der neuen Lizenzprüfung
 
 ### Version 1.0.0.1 - 17.11.2022
