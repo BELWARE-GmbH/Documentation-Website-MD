@@ -10,7 +10,7 @@ weight: 3
 
 Auf der Seite der registrierten Mahnungen ist die Funktion abhängig von der Business Central Version in verschiedenen Menüs zu finden, z. B. unter "Verarbeiten" oder wie im Screenshot im Menü "Start".
 
-![](images/apps/smtp2fax/regMahnungen_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_regMahnungen.png)
 
 Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
 Zunächst wird in den Dokumentlayouts des Debitors, der als Empfänger angegeben ist, nach einer Faxnummer gesucht, die für die Verwendung mit Mahnungen eingetragen wurde.
@@ -18,7 +18,7 @@ Wird dort keine gefunden, wird die in der Karte des Mahnungsempfängers eingetra
 
 Auch auf der Seite einer einzelnen registrierten Mahnung kann sich die Funktion je nach Business Central Version in einem anderen Menü wiederfinden, im Screenshot zu sehen das Menü "Start".
 
-![](images/apps/smtp2fax/regMahnung_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_regMahnung.png)
 
 Die Logik für die Auswahl der Faxnummer des Empfängers ist auch hier wie oben beschrieben.
 

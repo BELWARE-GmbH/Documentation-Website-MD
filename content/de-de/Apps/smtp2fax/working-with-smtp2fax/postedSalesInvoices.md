@@ -10,7 +10,7 @@ weight: 1
 
 Auf der Seite der gebuchten Verkaufsrechnungen ist die Funktion im Menü "Drucken/Senden" zu finden.
 
-![](images/apps/smtp2fax/gebVerkRechnungen_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_gebVerkRechnungen.png)
 
 Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
 Ist in einer Rechnung ein abweichender Rechnungsempfänger angegeben, wird in dessen Dokumentlayouts nach einer Faxnummer gesucht, die für die Verwendung mit Rechnungen eingetragen wurde. Wird dort keine gefunden, wird die in der Karte des Rechnungsempfängers eingetragene Faxnummer verwendet.
@@ -20,7 +20,7 @@ Zunächst wird in dessen Dokumentlayouts nach einer für Rechnungen angegebenen 
 
 Auch auf der Seite einer einzelnen gebuchten Verkaufsrechnung findet sich die Funktion im Menü "Drucken/Senden".
 
-![](images/apps/smtp2fax/gebVerkRechn_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_gebVerkRechnung.png)
 
 Die Logik für die Auswahl der Faxnummer des Empfängers ist auch hier wie oben beschrieben.
 

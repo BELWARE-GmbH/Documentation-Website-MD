@@ -10,14 +10,14 @@ weight: 4
 
 Auf der Seite der Einkaufsbestellungen ist die Funktion im Menü "Drucken/Senden" zu finden.
 
-![](images/apps/smtp2fax/einkaufsbestellungen_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_EinkBestellungen.png)
 
 Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
 Zunächst wird in den Dokumentlayouts des Lieferanten, der als Empfänger angegeben ist, nach einer Faxnummer gesucht, die für die Verwendung mit Bestellungen eingetragen wurde. Wird dort keine gefunden, wird die in der Karte des Lieferanten eingetragene Faxnummer verwendet.
 
 Auch auf der Seite einer einzelnen Einkaufsbestellung findet sich die Funktion im Menü "Drucken/Senden".
 
-![](images/apps/smtp2fax/einkaufsbestellung_Menu.png)
+![](images/apps/smtp2fax/SMTP2FAX_EinkBestellung.png)
 
 Die Logik für die Auswahl der Faxnummer des Empfängers ist auch hier wie oben beschrieben.
 

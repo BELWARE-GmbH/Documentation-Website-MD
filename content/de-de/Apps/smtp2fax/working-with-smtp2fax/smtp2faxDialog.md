@@ -10,7 +10,7 @@ weight: 5
 
 Wurde für einen Bericht der Versand als Fax über SMTP ausgewählt, so erscheint zur weiteren Bearbeitung ein für die Faxanwendung angepasster Mail-Dialog.
 
-![](images/apps/smtp2fax/FaxFenster.png)
+![](images/apps/smtp2fax/SMTP2FAX_Dialog.png)
 
 Hier kann nachträglich die Empfängeradresse geändert und der Anhang auf Richtigkeit geprüft werden. Dann kann der Bericht über den jeweiligen Button im oberen Menü versandt oder verworfen werden. Wird der Dialog über das X oder den Schließen-Button beendet, kann noch ausgewählt werden, ob die Nachricht als Enwurf im [Mail-Ausgang](de-de/apps/smtp2fax/working-with-smtp2fax/emailoutbox/) gespeichert oder verworfen werden soll.
 

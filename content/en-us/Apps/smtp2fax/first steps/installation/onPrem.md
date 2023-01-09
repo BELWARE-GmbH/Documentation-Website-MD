@@ -11,8 +11,8 @@ weight: 2
 ### OnPrem
 You will receive the objects for the Connector 365 Base & SMTP2FAX App from us by mail. In order to be able to use the App, they must first be published and then installed.
 
-#### Publishing of the Connector 365 Base & SMTP2FAX App
-The publishing of the Connector Base & SMTP2FAX App is done via the **Business Central Administration Shell**. First transfer the files we sent to you to the server where your Business Central instance is running.
+#### Publishing the Connector 365 Base & SMTP2FAX App
+Publishing the Connector Base & SMTP2FAX App is done via the **Business Central Administration Shell**. First transfer the files we sent to you to the server where your Business Central instance is running.
 
 ![](images/apps/adminshell.PNG)
 

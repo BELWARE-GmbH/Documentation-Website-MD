@@ -8,9 +8,9 @@ weight: 7
 ---
 ### SMTP2FAX im E-Mail-Ausgang
 
-Wurde ein Fax über den Dialog als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen.
+Wurde ein Fax über den [Dialog](de-de/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/) als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen, auch hier zu erkennen an der Kennzeichnung Fax im Feld Jobmodus.
 
-![](images/apps/smtp2fax/eMailAusgang.png)
+![](images/apps/smtp2fax/SMTP2FAX_MailAusgang.png)
 
 Dort kann die Nachricht dann gelöscht oder erneut versandt werden.
 

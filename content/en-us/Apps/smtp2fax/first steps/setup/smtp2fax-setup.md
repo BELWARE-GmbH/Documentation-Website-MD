@@ -8,6 +8,13 @@ weight: 3
 ---
 ### SMTP2FAX in Connector 365 Setup 
 
-To get to SMTP2FAX setup, simply open the search and enter Connector 365 setup there. There you will find the section SMTP2FAX Setup. 
-Here you just need to specify the domain of the fax server. The address to which a fax is sent is automatically composed of the recipient's fax number, the @ sign and the specified domain. 
+To get to SMTP2FAX setup, first use the Business Central search function and open the Connector 365 Setup. There you will find the section SMTP2FAX Setup.
+
+![](images/apps/smtp2fax/en/connector365setup.png)
+
+Clicking on the entry opens the tab with the input fields required for the setup.
+
+![](images/apps/smtp2fax/en/SMTP2FAX_setup.png)
+
+Here you only need to specify the domain of your fax server, which handles the delivery of the e-mails to the fax recipients concerned.  The address to which a fax is sent is automatically composed of the recipient's fax number, the @ sign and the specified domain. 
 Another place where settings for the use of SMTP2FAX can be made are the [document layouts](en-us/apps/smtp2fax/first-steps/setup/doclayout/) of debtors and creditors. 
