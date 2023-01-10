@@ -3,7 +3,7 @@ title: "New and planned"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 1
 ---
 ### New and planned features of the Connector 365 PdfPaper App
@@ -17,8 +17,14 @@ In case a question could not be answered, we will be happy to help you personall
 ### Planned functions for future versions
 - Additional functions from PdfPaper module
 - Integration of PDF/A functionality
+### Version 1.1.0.1 - 10.01.2023
+Corrections:
+- Correction of priority control for picking the stationery.
 ### Version 1.1.0.0 - 04.01.2023
 - Implementation of new license check.
+
+New features:
+- Assign stationeries per responsibilty center.
 ### Version 1.0.0.3
 New features:
 - Merge multiple PDF files into one
