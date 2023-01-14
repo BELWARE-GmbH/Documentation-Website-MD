@@ -19,7 +19,7 @@ In case a question could not be answered, we will be glad to help you personally
 - Hiding the CTI functions in the Role center for non-CTI users
 - Add compatibility for versons 7.2 and 7.3 for STARFACE phone systems
 
-### Version 2.1.0.0 - 04.01.2023
+### Version 2.1.0.0 - 06.01.2023
 - Implementation of new license check.
 - Error correction for writng of activity entries.
   In some cases an error occured while writing the entry, because it already existed.

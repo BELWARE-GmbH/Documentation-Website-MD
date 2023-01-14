@@ -24,3 +24,4 @@ Im Feld **Verarbeitungszeit** können Sie eine feste Zeit hinterlegen, zu welche
 Wenn Sie dieses Feld leer lassen, werden diese Belege immer sofort verarbeitet.
 
 Über das Feld **Automatisierte Verarbeitung** können Sie festlegen, dass Belege dieser Art automatisch zur Verarbeitung eingestellt werden, sobald diese gebucht werden.
+Bei Nutzung dieser Einstellung für ungebuchte Belege wie Verkaufsaufträge werden diese zur eingestellten Zeit zur Verarbeitung eingestellt, sobald diese freigegeben sind.

@@ -14,7 +14,7 @@ weight: 1
 - Multilingual placeholders
 - Preview function
 
-### Version 2.2.0.0 - 04.01.2023
+### Version 2.2.0.0 - 06.01.2023
 - Implementation of new license check.
 
 ### Version 2.1.0.0 from 04.11.2022

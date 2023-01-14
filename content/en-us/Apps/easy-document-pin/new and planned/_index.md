@@ -12,7 +12,7 @@ weight: 1
 ### Planned functions for future versions
 - Automatic attachment of delivery bills
 
-### Version 2.1.0.0 - 04.01.2023
+### Version 2.1.0.0 - 06.01.2023
 - Implementation of new license check.
 - Improved filtering for linked documents to reminder.
 

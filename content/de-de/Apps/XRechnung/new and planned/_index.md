@@ -11,7 +11,7 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
-### Version 2.2.0.0 - 04.01.2023
+### Version 2.2.0.0 - 06.01.2023
 - Implementierung der neuen Lizenzprüfung.
 
 ### Version 2.1.0.2 vom 17.11.2022

@@ -24,3 +24,4 @@ In the field **Processing Time** you can enter a fixed time when documents of th
 If you leave this field empty, all documents will be processed immediately.
 
 Using the field **Automated Processing** you can define that all documents of this type shall be processed automatically after being posted.
+Using this setting for unposted documents like sales orders, will enqueue those for automated processing at the set up time as soon as they are released.

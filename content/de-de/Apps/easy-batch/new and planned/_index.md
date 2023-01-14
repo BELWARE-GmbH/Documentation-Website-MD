@@ -12,7 +12,7 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
-### Version 2.3.0.0 - 04.01.2023
+### Version 2.3.0.0 - 06.01.2023
 - Implementierung der neuen Lizenzprüfung.
 - Einkaufsbereich um Einkaufsanfragen erweitert.
 - Automatisierter Versand für Einkaufsbestellungen und Einkaufsanfragen.
