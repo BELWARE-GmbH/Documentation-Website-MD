@@ -14,7 +14,7 @@ Die Connector 365 CTI for STARFACE App steht Ihnen im [Microsoft AppSource](http
 
 ![](images/apps/ctiappsourcede.PNG)
 
-Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.
+Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf einen einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.
 
 Sie haben jederzeit die Möglichkeit Ihre kostenlose Version um weitere Lizenzen zu erweitern. Jede Lizenz kostet 4,90€/Monat und wird wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
 
@@ -36,7 +36,7 @@ Zum Formular
 
 ![](images/apps/ctiformsde_removed.PNG)
  
-die Connector 365 CTI for STARFACE App steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+die Connector 365 CTI for STARFACE App steht Ihnen für die folgende BC-Lizensierung zur Verfügung:
 
 - SaaS Essential
 - SaaS Premium

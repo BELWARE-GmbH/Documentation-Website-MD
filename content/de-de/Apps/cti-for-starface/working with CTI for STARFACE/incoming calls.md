@@ -19,22 +19,22 @@ Für den Fall, dass sie den Client versehentlich schließen, werden Sie vor dem 
 
 ![](images/apps/cticlientdashboardde.PNG)
 
-Kommt es nun zu einem eingehenden Anruf wird dies im Client abgebildet, alle Nutzer in der gleichen Gruppen können sehen wer angerufen wird und wie der aktuelle Status des Telefonat lautet. Zeitgleich wird ein Eintrag in die Jobliste geschrieben und die Kontaktkarte für den entsprecheden Kontakt wird geöffnet, sofern dieser vorhanden ist.
+Kommt es nun zu einem eingehenden Anruf, wird dies im Client abgebildet. Alle Nutzer in der gleichen Gruppen können sehen, wer angerufen wird und wie der aktuelle Status des Telefonats lautet. Zeitgleich wird ein Eintrag in die Jobliste geschrieben und die Kontaktkarte für den entsprechenden Kontakt wird geöffnet, sofern dieser vorhanden ist.
 
 ![](images/apps/cticlientde.png)
 
 ### Verhalten bei nicht vorhandenen Nummern
-Stellt das System fest, dass eine Nummer noch nicht im System hinterlegt ist, wird automatisch je nach Einrichtung des Benutzers eine Aktion ausgelöst.
+Stellt das System fest, dass eine Nummer noch nicht im System hinterlegt ist, wird automatisch eine Aktion ausgelöst, die entweder [global](de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/) oder [pro Benutzer](de-de/apps/cti-for-starface/first-steps/setup/user-groups/) definiert werden kann.
 
 ![](images/apps/cticlientunknown.jpg)
 
-Die folgenden Auswahlmöglichkeiten gibt es und werden in der Benutzereinrichtung festgelegt
+Die Optionen für die Einstellung sind jeweils:
 
 **Leer/Keine**
 Bei unbekannten Nummern wird keine Folgeaktion ausgelöst.
 
 **Fragen**
-Der Nutzer wird gefragt ob er einen für die unbekannte Nummer einen Kontakt anlegen möchte. Bei Bestätigung wird der entsprechende Dialog geöffnet.
+Der Nutzer wird gefragt, ob er für die unbekannte Nummer einen Kontakt anlegen möchte. Bei Bestätigung wird der entsprechende Dialog geöffnet.
 
 **Kontakt anlegen**
 Das System legt automatisch einen neuen Kontakt an und der entsprechende Dialog wird geöffnet.

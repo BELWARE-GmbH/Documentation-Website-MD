@@ -14,7 +14,7 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 ### Geplante Funktionen für zukünftige Versionen
 - Anpassung der Jobliste passend zur App
-- Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer
+- Ausblenden der CTI-Funktionen im Rollencenter für Nicht-CTI-Nutzer
 - Herstellen der Kompatibilität für Version 7.2 und 7.3 der STARFACE Telefonanlage
 
 ### Version 2.1.0.0 - 04.01.2023
@@ -23,7 +23,7 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
   Hier kam es einigen Fällen zu einem Fehler, da der Datensatz bereits vorhanden war.
 
 ### Version 2.0.0.3 vom 16.11.2022
- - Fehlerkorrektur: Wenn ein Personenkontakt anruft öffnet sich nicht mehr länger die Unternehmenskontaktkarte sonder die der Person.
+ - Fehlerkorrektur: Wenn ein Personenkontakt anruft, öffnet sich nicht mehr länger die Unternehmenskontaktkarte, sondern die der Person.
  
 ### Version 2.0.0.2 vom 04.11.2022
  - Verbessertes Formular für Lizenzbestellungen
@@ -37,12 +37,12 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
  - Herstellen der Kompatibilität für Version 7.1 der STARFACE Telefonanlage
  - Korrekturen
     - Einträge in der Jobliste wurde nicht immer mit dem richtigen Nutzer zugeordnet.
-    - Nicht angenommene Anrufe wurden nicht immer aus aus dem CTI-Client entfernt.  
+    - Nicht angenommene Anrufe wurden nicht immer aus dem CTI-Client entfernt.  
 
 ### Version 1.1.0.0
 - Neue Optionen in der Nutzereinrichtung
-  - Anrufrichtung für das öffnen der CTI-Seite
-  - Zeitpunkt des öffnens der Karte
+  - Anrufrichtung für das Öffnen der CTI-Seite
+  - Zeitpunkt des Öffnens der Karte
   - Verhalten bei nicht vorhandenem Kontakt
 - Neue Einrichtung des Moduls für STARFACE ab Version 7.x.
 
@@ -51,21 +51,21 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 - Es lässt sich einstellen wann sich die CTI-Karte öffnet.
 
 ### Version 1.0.1.3
-- Warnung beim schließen des CTI-Clients
+- Warnung beim Schließen des CTI-Clients
 - Änderung der Einrichtung des Moduls
 
 ### Version 1.0.1.1
-- CTI Status im Rollencenter
-- Button zum öffnen des CTI Clients im Rollencenter
+- CTI-Status im Rollencenter
+- Button zum Öffnen des CTI-Clients im Rollencenter
 - Automatisches konvertieren von Telefonnummern
 - Frei setzbare CTI-Seite
 - Webdienst wird automatisch generiert
 
 ### Version 1.0.1.0
 - Kleinere Korrekturen
-- Click to Dial für Telefon- und Handynummer
+- Click-to-Dial für Telefon- und Handynummer
 - Unbekannte Nummern bei eingehenden Anrufen anzeigen
-- Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central
+- Der CTI-Client öffnet sich automatisch nach Anmeldung bei Business Central
 
 ### Version 1.0.0.1
 - Anzeigen von Kontaktdaten bei eingehenden Anrufen
