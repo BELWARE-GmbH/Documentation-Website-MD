@@ -48,11 +48,11 @@ Beide Apps sollten nun im System veröffentlicht sein.
 
 #### Installieren der Connector 365 Base & CTI for STARFACE App
 
-In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
+In der Erweiterungsverwaltung Ihrer Umgebung werden Ihnen nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
 
 ![](images/apps/ctipublishde.PNG)
 
-##### Installieren via des Clients
+##### Installation über den Web-Client
 Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
 
 Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert. Mit einem Klick auf die 3 Punkte der jeweiligen App, können Sie diese nun über den Punkt **Installieren** in Ihrer Umgebung installieren.

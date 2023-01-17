@@ -45,7 +45,7 @@ Damit öffnet sich eine neue Seite: **Mögliche Zieladressen**.
 
 Nun haben Sie die Möglichkeit, eines der aufgezeigten Felder als Standard-Zieladresse zu definieren.
 Die angezeigten Felder auf dieser Seite sind Felder, welche einen direkten Bezug zu einem Debitor/Kreditor oder zu einem Kontakt haben.
-Legt man also beispielsweise für die Verwendung (Verkaufs-)**Rechnung** eine Verknüpfung zu Feld Nr. **2** - **Verk. an Deb.-Nr.** an, so wird der Empfänger einer Verkaufsrechnung künftig immer aus dem Debitor gesucht, welcher mit **Verk. an Deb.-Nr** verknüpft ist.
+Legt man also beispielsweise für die Verwendung (Verkaufs-)**Rechnung** eine Verknüpfung zu Feld Nr. **2** - **Verk. an Deb.-Nr.** an, so wird der Empfänger einer Verkaufsrechnung künftig immer aus dem Debitor gesucht, welcher mit **Verk. an Deb.-Nr.** verknüpft ist.
 
 {{< notice info>}}
 Wählt man als Zieladresse eine Feldzuordnung zu einem Debitor/Kreditor, so hat dies auch Einfluss auf die Wahl

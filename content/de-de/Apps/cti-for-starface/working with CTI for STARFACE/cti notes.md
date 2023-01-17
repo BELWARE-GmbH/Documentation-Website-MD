@@ -9,21 +9,21 @@ weight: 3
 ### Arbeiten mit CTI for STARFACE
 
 ### Erstellen von Telefonnotizen
-Nach Ihrem Telefonat haben Sie die Möglichkeit eigene Notizen zum Inhalt des Gesprächs zu verfassen. Dies können Sie direkt aus der **"Kontaktkarte"**, welche nach dem Telefonat noch offen sein sollte, vornehmen.
+Nach Ihrem Telefonat haben Sie die Möglichkeit, eigene Notizen zum Inhalt des Gesprächs zu verfassen. Dies können Sie direkt aus der **Kontaktkarte** vornehmen, welche nach dem Telefonat noch offen sein sollte.
 
 ![](images/apps/ctinotede.PNG)
 
-Wählen Sie zunächst den entsprechenden Eintrag in den **"CTI-Einträgen"** aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich **"CTI-Notizen"**, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen, diese kann maximal 1024 Zeichen lang sein.
+Wählen Sie zunächst den entsprechenden Eintrag in den **CTI-Einträgen** aus. Schauen Sie nun im rechten Bereich in die Factbox **CTI-Notizen**. Per Klick auf den Titel öffnet sich ein Menü, über das neue Notizen angelegt oder bestehende Notizen angezeigt werden können. Zum Erstellen einer neuen Notiz wählen Sie **Notiz hinzufügen**. CTI-Notizen können maximal 1024 Zeichen lang sein.
 
 ![](images/apps/ctinotedialogde.PNG)
 
-Nachdem Sie Ihre Notiz verfasst haben wird diese in den Notizen angezeigt. Um die verfasste Notiz erneut einzusehen können Sie entweder über die gleiche Schaltfläche zum erstellen von Notizen, sich erstellte Notizen erneut anzeigen lassen oder alternativ auf die 3 Punkte neben der Notiz klicken, dort finden Sie ebenfalls die Option zur Ansicht.
-
-Wird die Notiz angezeigt, so ist es hier auch nochmal möglich die Notiz zu bearbeiten.
+Nachdem Sie Ihre Notiz verfasst haben, wird diese in der Factbox **CTI-Notizen** angezeigt. Um die verfasste Notiz erneut einzusehen, können Sie entweder im Titelmenü der Factbox die Option **Notiz anzeigen** wählen oder über die drei Punkte neben der Notiz ein Menü öffnen, in dem sie die gleiche Option wählen.
 
 ![](images/apps/ctinotefillde.PNG)
 
-Ein längeres hovern über die Vorschau der Nachricht in der Factbox zeigt Ihnen die geschriebene Notiz auch an.
+Wird die Notiz angezeigt, so ist es hier auch möglich, sie nachträglich zu bearbeiten.
+
+Eine weitere Möglichkeit der Einsicht in den Text der Notiz ist das Halten des Mauszeigers auf den Vorschautext. Dadurch wird der vollständige Text in einem Pop-Up-Fenster angezeigt.
 
 ![](images/apps/ctipreviewde.PNG)
 
