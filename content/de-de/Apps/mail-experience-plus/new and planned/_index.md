@@ -6,3 +6,11 @@ draft: false
 collapsible: true
 weight: 1
 ---
+### Neu und geplant
+
+### Version 1.1.0.0 - 19.01.2023
+- Mail Sender Plus durch Addressee Control ersetzt.
+### Version 1.0.0.0
+- Intelligente Steuerung der Absender-Adresse je Bericht via Mail Sender Plus
+- Intelligente Steuerung der Anhänge auf verschiednenen Ebenen via Mail Attachments Plus
+- Intelligente Steuerung der Betreffzeile mit Platzhaltern via Mail Subject Plus

@@ -19,7 +19,14 @@ weight: 1
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
 
-### Version 2.1.0.0 - 06.01.2023
+### Version 2.3.0.0 - 19.01.2023
+- Integration der Connector 365 Berechtigungssätze View, Edit und Setup.
+
+Fehlerkorrekturen:
+- Korrektur des Datumfilters der Statuskacheln im Rollencenter.
+- Die Absenderadresse wird nun korrekt aus den Firmendaten übernommen.
+
+### Version 2.2.0.0 - 06.01.2023
 - Implementierung der neuen Lizenzprüfung.
 
 ### Version 2.0.0.1 vom 04.11.2022

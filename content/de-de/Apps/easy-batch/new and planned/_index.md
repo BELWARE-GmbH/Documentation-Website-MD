@@ -13,7 +13,9 @@ weight: 1
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
 ### Version 2.3.0.0 - 06.01.2023
-- Implementierung der neuen Lizenzprüfung.
+Implementierung der neuen Lizenzprüfung:
+- Ab sofort werden alle Business Central Nutzer der Produktivumgebung zur Lizenzierung berücksichtigt und abgrechnet.
+
 - Einkaufsbereich um Einkaufsanfragen erweitert.
 - Automatisierter Versand für Einkaufsbestellungen und Einkaufsanfragen.
 - Fehlerkorrektur beim Setzen des E-Mailabsenders.

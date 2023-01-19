@@ -15,7 +15,8 @@ weight: 1
 - Preview function
 
 ### Version 2.2.0.0 - 06.01.2023
-- Implementation of new license check.
+Implementation of new license check:
+- From now on all Business Central users within the production environment will be considerd for licensing and billing.
 
 ### Version 2.1.0.0 from 04.11.2022
  - Compatibility with **Connector 365 Addressee Control** App
