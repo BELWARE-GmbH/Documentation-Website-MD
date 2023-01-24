@@ -13,7 +13,8 @@ weight: 1
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
 ### Version 2.1.0.0 - 06.01.2023
-- Implementierung der neuen Lizenzprüfung.
+Implementierung der neuen Lizenzprüfung:
+- Ab sofort werden alle Business Central Nutzer der Produktivumgebung zur Lizenzierung berücksichtigt und abgrechnet.
 
 ### Version 2.0.0.1 vom 04.11.2022
  - Verbessertes Formular für Lizenzbestellungen

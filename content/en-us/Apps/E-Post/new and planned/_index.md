@@ -16,6 +16,13 @@ weight: 1
     - Pos. service invoices
     - Pos. service credit memos
 
+### Version 2.3.0.0 - 19.01.2023
+- Integration of Connector 365 permission sets View, Edit und Setup.
+
+Corrections:
+- Correction of the date filter of status cues in the role center.
+- The sender address will be correctly taken from the company information from now on.
+
 ### Version 2.2.0.0 - 06.01.2023
 - Implementation of new license check.
 
