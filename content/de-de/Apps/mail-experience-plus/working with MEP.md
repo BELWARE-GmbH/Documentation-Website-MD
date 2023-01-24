@@ -17,7 +17,8 @@ Der Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Bet
 
 
 ##### Bereich Mail Sender Plus
-Mail Sender Plus erlaubt Ihnen die intelligente Steuerung Ihrer Absender-Adressen je Bericht. Bei Verwendung in älteren Versionen bieten Ihne Mail Sender Plus Funktionen einen eigenen Mail Dialog der Nutzerfreundlicher als der Standard ist.
+Mail Sender Plus erlaubt Ihnen die intelligente Steuerung Ihrer Absender-Adressen je Bericht. Bei Verwendung in älteren Versionen von Business Central bietet Ihnen Mail Sender Plus einen eigenen Mail Dialog, der nutzerfreundlicher als der Standard ist.
+Zu beachten ist, dass Mail Sender Plus nur bis zur Version BC17.0 und damit auch nur onPrem eingesetzt werden kann. In späteren Versionen von Business Central wird die Funktion der App bereits durch die Mail-Szenarien des Standards abgedeckt.
 
 [Verwendung Sender](https://docs.belware.de/de-de/apps/mail-sender-plus/working-with-msp/)
 
