@@ -34,7 +34,7 @@ Your costs:
 To the form
 </p>
 
-[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/r/b3qD0jr8jf)
+[<img src="/images/apps/Forms_easy.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
 ![](images/apps/senderforms_removed.PNG)
  

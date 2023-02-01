@@ -22,9 +22,9 @@ Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können
 
 Ihre Kosten:
 
-| Monatliche Subscription inkl. Wartung* |
-|----------------------------------------|
-| 4,90€/User                             |
+| Monatliche Subscription inkl. Wartung | Jährliche Subscription inkl. Wartung |
+|---------------------------------------|--------------------------------------|
+| 6,40 €/User                           | 4,90 €/User                          |
 
 *wahlweise monatlich, quartalsweise oder jährlich abgerechnet
 
@@ -32,7 +32,7 @@ Ihre Kosten:
 Zum Formular
 </p>
 
-[<img src="/images/apps/Forms_CTI.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUN09ISENTR0ZHUkE5R0k4MVBDUVdSWEZJSS4u)
+[<img src="/images/apps/Forms_CTI.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
 ![](images/apps/ctiformsde_removed.PNG)
  

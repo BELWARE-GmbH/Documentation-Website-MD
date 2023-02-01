@@ -42,7 +42,7 @@ Wenn Sie eine Vollversion unserer App erwerben möchten, nutzen Sie dazu bitte u
 Zum Formular
 </p>
 
-[<img src="/images/apps/E-POST/license_order.PNG">](https://forms.office.com/r/JNtGHfUi6n)
+[<img src="/images/apps/E-POST/license_order.PNG">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
 Ihre Kosten:
 

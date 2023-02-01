@@ -25,6 +25,9 @@ Your costs:
 | Subscription incl. maintenance* |
 |---------------------------------|
 |4,90€/User                       |
+| Subscription incl. maintenance*| Subscription incl. maintenance* |
+|---------------------------------------|--------------------------------------|
+| 6,40 €/User                           | 4,90 €/User                          |
 
 *billed either monthly, quarterly or annually
 
@@ -32,7 +35,7 @@ Your costs:
 To the form
 </p>
 
-[<img src="/images/apps/Forms_CTI.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUOUxYOE8wNlFIVzc5WldRQkNVM1lPUzBRQi4u)
+[<img src="/images/apps/Forms_CTI.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
 ![](images/apps/ctiformsen_removed.PNG)
  
