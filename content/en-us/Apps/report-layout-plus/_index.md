@@ -1,12 +1,12 @@
 ---
-title: "Mail Attachments Plus"
+title: "Report Layout Plus"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
 weight: 1
 ---
-### Connector 365 Mail Attachments Plus Online Help
+### Connector 365 Report Layout Plus Online Help
 
 Here you will find all the help and learning resources, for our Microsoft AppSource Mail Attachment Plus App.
 
