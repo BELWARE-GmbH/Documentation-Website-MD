@@ -10,10 +10,6 @@ weight: 2
 
 ### AppSource
 
-The app is available in the [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.mailattachmentsplus|PAPPID.bedbabd4-3c73-482d-b8f5-1813e5a2493c).
-
-![](images/apps/attachmentappsource.PNG)
-
 The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
 If you like the app you order licenses using our order form.
 The licensing is based on the user count, regarding all users with either a TEam Member or Essentials license will be counted.
