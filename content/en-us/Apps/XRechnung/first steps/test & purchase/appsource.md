@@ -53,7 +53,7 @@ Your cost for a Premium** license:
 To the form
 </p>
 
-[<img src="/images/apps/Forms_xr.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUMTQxRTA4WDNIUUU2TFE4WUwxS0RDTTFYSy4u)
+[<img src="/images/apps/Forms_xr.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
 ![](images/XRechnung/xrechnungforms_removed.PNG)
 

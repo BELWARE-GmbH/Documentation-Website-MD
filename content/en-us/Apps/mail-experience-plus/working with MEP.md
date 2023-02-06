@@ -16,13 +16,13 @@ The Mail Subject Plus area is there to add your own dynamic subject lines per re
 [Working with Subject](https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/)
 
 
-##### Mail Sender Plus area
-Mail Sender Plus allows you to intelligently control your sender addresses per report. When used in older versions, Mail Sender Plus functions provide you with a separate mail dialog that is more user-friendly than the standard one.
-
-[Working with Sender](https://docs.belware.de/en-us/apps/mail-sender-plus/working-with-msp/)
-
-
 ##### Mail Attachments Plus area
 Mail Attachments Plus allows you to control your mail attachments at various levels and specify attachments that will always be attached to certain reports when sent by default. Control for attachments over a period of time is also possible.
 
 [Working with Attachments](https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/)
+
+##### Addressee Control
+Addressee Control allows you to control of the addressee per report type.
+For each report type you decide wether the customer from the field **Bill-to Customer** or **Sell-to Customer** will be used to define the addressee. 
+
+[Setup Addressee](https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/)

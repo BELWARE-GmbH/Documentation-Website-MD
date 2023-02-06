@@ -15,7 +15,7 @@ You have the possibility to test our Connector 365 Mail Subject Plus App without
 To the form
 </p>
 
-[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/r/CLMXAzVwhi)
+[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
 If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.
 

@@ -14,9 +14,9 @@ Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 
 ![](images/apps/senderappsource.PNG-ÄNDERN)
 
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
-
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Die einzelnen Apps haben einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
+Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
 
 Ihre Kosten:
 
@@ -29,13 +29,13 @@ Ihre Kosten:
 | 3,25€/Nutzer                                                      |
 
 
-*Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.*
+*Preisänderungen bei Funktionserweiterungen behalten wir uns vor.*
 
 <p style="text-align: center;">
 Zum Formular
 </p>
 
-[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/r/F0wreTJKvm)
+[<img src="/images/apps/Forms_plus.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
 ![](images/apps/senderforms_removed.PNG)
  
