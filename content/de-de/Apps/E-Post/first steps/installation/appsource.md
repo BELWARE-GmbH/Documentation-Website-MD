@@ -14,11 +14,11 @@ weight: 1
 
 ![](images/apps/general/de-de/marketplace_search.png)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 E-POST** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 E-POST** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
 ![](images/apps/E-POST/store_epost.png)
 
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die Connector 365 E-POST App zu wählen. Unsere Connector 365 E-POST App* ist in Deutsch und Englisch verfügbar. Klicken Sie anschließend **Installieren**.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert, eine Sprache für die Connector 365 E-POST App zu wählen. Unsere Connector 365 E-POST App* ist in Deutsch und Englisch verfügbar. Klicken Sie anschließend **Installieren**.
 
 ![](images/apps/general/de-de/app_language.png)
 

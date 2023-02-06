@@ -16,17 +16,17 @@ Mit unserer Connector 365 E-POST App* können Sie Geb. Verkaufsrechnungen, Geb. 
 
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
 
-Die Funktion zum versenden von postalischen Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als Brief senden"** um den Versand zu starten.
+Die Funktion zum Versenden von postalischen Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als Brief senden"** um den Versand zu starten.
 
 ![](images/apps/E-POST/de-de/app_send_letter.png)
 
 ### Der Dialog
 
-Sofern der Dialog in der **"Connector 365 Einrichtung"** aktiviert ist, haben Sie nun im Dialogfenster die Möglichkeit bestimmte Optionen für den Versand des Briefes anzupassen, z.B. ob Sie den Brief schwarz-weiß oder in Farbe versenden möchten.
+Sofern der Dialog in der **"Connector 365 Einrichtung"** aktiviert ist, haben Sie nun im Dialogfenster die Möglichkeit, bestimmte Optionen für den Versand des Briefes anzupassen, z.B. ob Sie den Brief schwarz-weiß oder in Farbe versenden möchten.
 
 ![](images/apps/E-POST/de-de/app_dialog.png)
 
-Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Klick auf **"OK"** ausführen. Ihr Beleg wird nun an die Deutsche Post übermittelt und von dort aus direkt dem Empfänger in den Briefkasten.
+Nachdem Sie alle gewünschten Änderungen vorgenommen haben, können Sie den Versand mit einem Klick auf **"OK"** ausführen. Ihr Beleg wird nun an die Deutsche Post übermittelt und von dort aus direkt dem Empfänger in den Briefkasten zugestellt.
 
 {{< notice info "Hinweis" >}}
  _Die für den Versand genutzten Adressdaten werden aus den Kontaktdaten des im Beleg hinterlegten Rech. an Debitoren übernommen_

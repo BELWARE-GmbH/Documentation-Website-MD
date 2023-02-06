@@ -9,9 +9,9 @@ weight: 3
 ### Einrichtung
 
 ### Automatisierte Rückmeldungen
-Neben der manuellen Statusabfrage zu E-POST-Vorgänge, gibt es auch die Möglichkeit die Statusabfrage zu automatisieren.
+Neben der manuellen Statusabfrage zu E-POST-Vorgängen gibt es auch die Möglichkeit, die Statusabfrage zu automatisieren.
 Hierzu gibt es einen bereits vorkonfigurierten Aufgabenwarteschlangenposten.
-Die vorkonfigurierten Einstellungen können Sie nach belieben anpassen.
+Die vorkonfigurierten Einstellungen können Sie nach Belieben anpassen.
 
 Über die Suche gelangen Sie zu den **"Aufgabenwarteschlangenposten"**.
 
@@ -22,6 +22,6 @@ Durch Doppelklick auf die Zeile gelangen Sie in die Einstellung des entsprechend
 
 ![](images/apps/E-POST/de-de/app_feedback_queue.png)
 
-Um hier Anpassungen vorzunehmen müssen Sie zunächst den Aufgabenwarteschlangenposten auf "Abwarten" setzen.
+Um hier Anpassungen vorzunehmen, müssen Sie zunächst den Aufgabenwarteschlangenposten auf "Abwarten" setzen.
 
 

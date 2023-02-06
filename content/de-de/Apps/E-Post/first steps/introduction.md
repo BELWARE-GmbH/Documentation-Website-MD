@@ -10,11 +10,11 @@ weight: 1
 
 ### Schneller hybrider Versand mit der Connector 365 E-POST App
 
-Der Bedarf an postalischen Belegempfang ist immer noch allgegenwärtig. Was heißt das für meine ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Belege im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Ersteller nicht "vor Ort" ist. Je nach Menge der zu versendenden Belege kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.
+Der Bedarf an postalischem Belegempfang ist immer noch allgegenwärtig. Was heißt das bei Nutzung des ERP Microsoft Dynamics 365 Business Central, mit dem auch mobiles Arbeiten möglich ist? Die Verarbeitung der Belege im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Arbeitsprozess hinauszögern - ganz besonders dann, wenn der Ersteller nicht "vor Ort" ist. Je nach Menge der zu versendenden Belege kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.
 
 **Per Mausklick ab in den Briefkasten**
 
-Dank der Connector 365 E-POST App* sind die Zeiten des manuellen Versands jedoch vorbei. Von überall aus können Sie nun mit nur einem Klick Ihre Belege postalisch verschicken. Nach installieren der Connector 365 E-POST App haben Sie die Möglichkeit, den gewünschten Beleg auszuwählen und diese mit den folgenden bekannten Versandoptionen zu versenden:
+Dank der Connector 365 E-POST App* sind die Zeiten des manuellen Versands jedoch vorbei. Von überall aus können Sie nun mit nur einem Klick Ihre Belege postalisch verschicken. Nach Installieren der Connector 365 E-POST App haben Sie die Möglichkeit, den gewünschten Beleg auszuwählen und ihn mit den folgenden bekannten Versandoptionen zu versenden:
 
 **Unterstützte Belegarten:**
 
@@ -36,7 +36,7 @@ Einkauf:
 - Einschreiben (Einwurf/Rückschein)
 - Duplexdruck
 
-Eine Reportanpassung an ein bestimmtes Schablonen-Format der Deutschen Post ist nicht nötig. Es steht Ihnen ein Deckblatt mit den korrekten Maßen zur Verfügung. Ihre Belege werden an die Deutsche Post übermittelt und vollautomatisch, zeitunabhängig und unter Berücksichtigung der DSGVO verarbeitet und auf dem Postweg direkt in den Briefkasten grebracht. Den aktuellen Versandstatus Ihrer Briefe können Sie jederzeit in Microsoft Dynamics 365 Business Central verfolgen und einsehen.
+Eine Reportanpassung an ein bestimmtes Schablonen-Format der Deutschen Post ist nicht nötig. Es steht Ihnen ein Deckblatt mit den korrekten Maßen zur Verfügung. Ihre Belege werden an die Deutsche Post übermittelt und vollautomatisch, zeitunabhängig und unter Berücksichtigung der DSGVO verarbeitet und auf dem Postweg direkt in den Briefkasten geliefert. Den aktuellen Versandstatus Ihrer Briefe können Sie jederzeit in Microsoft Dynamics 365 Business Central verfolgen und einsehen.
 
 
 

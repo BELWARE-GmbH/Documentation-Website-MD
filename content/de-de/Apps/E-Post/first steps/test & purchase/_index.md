@@ -6,9 +6,9 @@ draft: false
 collapsible: true
 weight: 2
 ---
-### Testen und kaufen der Connector 365 E-POST App
+### Testen und Kaufen der Connector 365 E-POST App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 E-POST App*.
+Hier finden Sie alle wichtigen Informationen und Hinweise zum Testen und Kaufen der Connector 365 E-POST App*.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

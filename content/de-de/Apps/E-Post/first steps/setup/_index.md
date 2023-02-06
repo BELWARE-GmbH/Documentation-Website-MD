@@ -6,7 +6,7 @@ draft: false
 collapsible: true
 weight: 5
 ---
-### Einrichtungen der Connector 365 E-POST App
+### Einrichten der Connector 365 E-POST App
 
 Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 E-POST App*.
 

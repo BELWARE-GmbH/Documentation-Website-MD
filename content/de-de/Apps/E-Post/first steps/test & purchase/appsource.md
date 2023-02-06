@@ -16,7 +16,7 @@ Die Connector 365 E-POST App* steht Ihnen im [Microsoft AppSource](https://appso
 
 {{< notice info "Hinweis" >}}
  Zur Nutzung der App wird eine kostenlose Registrierung zur E-POSTBUSINESS API vorausgesetzt.
- Information finden Sie hier: [Registrierung](/de-de/apps/e-post/first-steps/installation/)
+ Information finden Sie hier: [Registrierung](/de-de/apps/e-post/first-steps/registration/)
 {{< /notice >}}
 
 Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügung:
@@ -26,7 +26,7 @@ Ihnen stehen als registrierter E-POST Kunde folgende Möglichkeiten zur Verfügu
 
 Für beide Optionen benötigen Sie Ihre EKP-Nummer. Haben Sie diese nicht zur Hand sprechen Sie uns an.
 
-Nach Installation der App steht Ihnen die App vollständig für 30 Tage zum testen zur Verfügung.
+Nach Installation der App steht Ihnen die App vollständig für 30 Tage zum Testen zur Verfügung.
 Die anfallenden Portokosten während der Tests werden direkt über die Deutsche Post mit Ihnen abgerechnet.
 
 Ist der Testzeitraum für Sie zu knapp, dann setzen Sie sich mit uns unter **service@belware.de** in Verbindung. Gerne vereinbaren wir mit Ihnen einen individuellen Testzeitraum. 
@@ -54,7 +54,7 @@ Ihre Kosten:
 |----------------------------------------------------------------------------------------|
 | 12,90€                                                                                 |
 
-*Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
+*Das Abo bezieht sich auf eine Umgebung innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
 4,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
 6,95€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
 

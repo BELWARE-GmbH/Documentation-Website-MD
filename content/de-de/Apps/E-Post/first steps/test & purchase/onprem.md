@@ -9,7 +9,7 @@ weight: 2
 ### Test & Kauf
 
 ### OnPrem
-Sie haben die Möglichkeit unsere Connector 365 E-POST App* unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Sie haben die Möglichkeit, unsere Connector 365 E-POST App* unverbindlich vorab zu testen oder auch direkt zu erwerben. Hierfür benötigen wir einige Informationen von Ihnen.
 
 <p style="text-align: center;">
 Zum Formular
@@ -27,7 +27,7 @@ Ihre Kosten:
 |-------------------------------|---------------------------------------|
 |790,-€                         |35,-€                                  |
 
-Danach können Sie mit der [Installation](/de-de/apps/e-post/first-steps/installation/) der Connector 365 E-POST App starten
+Danach können Sie mit der [Installation](/de-de/apps/e-post/first-steps/installation/) der Connector 365 E-POST App starten.
 
 Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an service@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de
 

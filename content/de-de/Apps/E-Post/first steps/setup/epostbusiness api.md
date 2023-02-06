@@ -9,7 +9,7 @@ weight: 1
 ### Einrichtung
 
 ### E-POSTBUSINESS API
-Über die Suche unter **"Connector 365 Einrichtung"** können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+Über die Suche unter **"Connector 365 Einrichtung"** können Sie die Einrichtung für die Connector 365 E-POST App* finden. Hier werden alle für eine korrekte Funktion notwendigen Daten eingetragen.
 
 ![](images/apps/E-POST/de-de/app_setup.png)
 
@@ -32,13 +32,13 @@ weight: 1
 {{< /notice >}}
 #
 #### Passwort setzen
-Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist. Anschließend müssen Sie auf **"Passwort setzen"** in der Einrichtung klicken. Es öffnet sich nun ein neuer Dialog und gleichzeitig erhält der Admin der bei der E-POST Registrierung angegeben wurde eine SMS mit einem PIN.
+Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist. Anschließend müssen Sie auf **"Passwort setzen"** in der Einrichtung klicken. Es öffnet sich nun ein neuer Dialog und gleichzeitig erhält der Admin, der bei der E-POST Registrierung angegeben wurde, eine SMS mit einer PIN.
 
-Geben Sie den PIN in das entsprechende Feld ein und bestätigen Sie den Dialog mit OK. Das Passwort ist nun gesetzt und es wird automatisch ein Geheimnis generiert.
+Geben Sie die PIN in das entsprechende Feld ein und bestätigen Sie den Dialog mit OK. Das Passwort ist nun gesetzt und es wird automatisch ein Geheimnis generiert.
 
 
 ### Standardeinstellungen einrichten
-Neben der Einrichtung der API, können hier auch die Standards für den Versand von Briefen eingestellt werden. Dafür stehen Ihnen folgende Optionen zur Verfügung:
+Neben der Einrichtung der API können hier auch die Standards für den Versand von Briefen eingestellt werden. Dafür stehen Ihnen folgende Optionen zur Verfügung:
 
 | Feld         | Beschreibung                                                                                                                                   |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------|

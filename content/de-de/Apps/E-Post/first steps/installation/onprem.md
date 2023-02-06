@@ -9,10 +9,10 @@ weight: 2
 ### Installation
 
 ### OnPrem
-Sie erhalten von uns die Dateien für die Apps Connector 365 Base & Connector 365 E-POST* App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Sie erhalten von uns die Dateien für die Apps Connector 365 Base & Connector 365 E-POST* App per Mail. Damit Sie die Apps nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 
-#### Veröffentlichen der Connector 365 Base & E-POST App
-Das veröffentlichen der Connector 365 Base & E-POST App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.
+#### Veröffentlichen der Apps Connector 365 Base & E-POST
+Das Veröffentlichen der Apps Connector 365 Base & E-POST erfolgt über die **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server, auf dem Ihre Business Central Instanz läuft.
 
 ![](images/apps/general/adminshell.png)
 
@@ -42,7 +42,7 @@ Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 3
 Beide Apps sollten nun im System veröffentlicht sein.
 #
 
-#### Installieren der Connector 365 Base & E-POST App
+#### Installieren der Apps Connector 365 Base & E-POST
 In der Erweiterungsverwaltung Ihrer Umgebung werden die beiden Apps nun als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
 
 ![](images/apps/E-POST/de-de/app_published.png)
@@ -50,7 +50,7 @@ In der Erweiterungsverwaltung Ihrer Umgebung werden die beiden Apps nun als ver�
 ##### Installieren via des Clients
 Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
 
-Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert. Mit einem Klick auf die 3 Punkte der jeweiligen App, können Sie diese nun über den Punkt **Installieren** in Ihrer Umgebung installieren.
+Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert. Mit einem Klick auf die 3 Punkte der jeweiligen App können Sie diese nun über den Punkt **Installieren** in Ihrer Umgebung installieren.
 
 ![](images/apps/E-POST/de-de/app_install.png)
 
