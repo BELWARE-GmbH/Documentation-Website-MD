@@ -4,7 +4,7 @@ date: 2020-02-28T00:00:00+09:00
 description: 
 draft: false
 collapsible: true
-weight: 1
+weight: 3
 ---
 ### Installation of the Connector 365 SMTP2FAX App 
 

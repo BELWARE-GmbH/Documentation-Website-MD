@@ -79,7 +79,7 @@ Es folgt noch die Connector 365 SMTP2FAX App:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 SMTP2FAX" -Tenant Tenant1, Tenant2```
 
-Sie können nun mit der [Einrichtung](/de-de/apps/smtp2fax/first-steps/setup/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup) starten.
 
 
 

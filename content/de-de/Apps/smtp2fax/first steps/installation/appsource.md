@@ -14,9 +14,7 @@ weight: 1
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Mail Attachments Plus** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-
-![](images/apps/mailattachmentssuche.PNG)
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 SMTP2FAX** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließen **Installieren**.
 
@@ -28,9 +26,7 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
 
-Wenn alles geklappt hat, können Sie nun den **Connector 365 Mail Attachments Plus** unter **Installierte Erweiterungen** finden.
+Wenn alles geklappt hat, können Sie nun den **Connector 365 SMTP2FAX** unter **Installierte Erweiterungen** finden.
 
-![](images/apps/senderinstalledextensions.png)
-
-Sie können nun mit der [Einrichtung](/de-de/apps/mail-attachments-plus/first-steps/setup/priority-system/) starten.
+Sie können nun mit der [Einrichtung](/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup/) starten.
 

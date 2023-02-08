@@ -9,13 +9,13 @@ weight: 1
 
 ### Neu und geplant
 
-### Neue und geplante Features der **Connector 365 Report Layout Plus** App
+### Neue und geplante Features der **Connector 365 SMTP2FAX** App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 Report Layout Plus App.
+Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 SMTP2FAX App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
-### Version 1.0.0.1 - 07.02.2023
+### Version 1.0.0.0 - 08.02.2023
 - Erste Veröffentlichung

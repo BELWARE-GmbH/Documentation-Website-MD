@@ -1,15 +1,14 @@
 ---
-title: "Installation"
-date: 2020-02-28T00:00:00+09:00
+title: "Test & Kauf"
+date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
-weight: 3
-
+weight: 1
 ---
-### Installation der Connector 365 SMTP2FAX App
+### Testen und kaufen der Connector 365 SMTP2FAX App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 SMTP2FAX App.
+Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 SMTP2FAX App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
