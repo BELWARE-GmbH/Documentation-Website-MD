@@ -55,12 +55,4 @@ CurrPage.DragAndDrop.PAGE.RefreshPage();
 //\<<DragDropEVN End
 
 Save and compile the object.
-Now open the source table of the Card Page and create a global variable. Then write the following code at the end of the trigger.
-
-//\>\>DragDropEVN Start
-
-FileDropStorage.DragDropDelete(Rec.RECORDID);
-
-//\<\<DragDropEVN End
-
 After you save and compile the object, you are done.
