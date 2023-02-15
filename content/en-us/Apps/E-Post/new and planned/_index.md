@@ -16,6 +16,10 @@ weight: 1
     - Pos. service invoices
     - Pos. service credit memos
 
+### Version 2.3.1.0 - 15.02.2023
+- Hotfix: Necessary adjustments to the data format transferred to E-Post-API due to changes in the E-Post-Api interface.
+  -> Corrects message about incorrect conversion of data
+
 ### Version 2.3.0.0 - 19.01.2023
 - Integration of Connector 365 permission sets View, Edit und Setup.
 
