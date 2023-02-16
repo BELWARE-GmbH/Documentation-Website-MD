@@ -16,6 +16,9 @@ weight: 1
     - Pos. service invoices
     - Pos. service credit memos
 
+### Version 2.4.0.0 - 16.02.2023
+- Added function for sending of external documents
+
 ### Version 2.3.1.0 - 15.02.2023
 - Hotfix: Necessary adjustments to the data format transferred to E-Post-API due to changes in the E-Post-Api interface.
   -> Corrects message about incorrect conversion of data

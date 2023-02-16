@@ -9,5 +9,5 @@ weight: 1
 
 ### New and planned
 
-### Version 1.0.0.0 - 07.02.2023
+### Version 1.0.0.1 - 07.02.2023
 - First release

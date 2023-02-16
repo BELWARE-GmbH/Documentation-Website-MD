@@ -19,6 +19,8 @@ weight: 1
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
 
+### Version 2.4.0.0 - 16.02.2023
+- Funktion zum Versand von externen Dokumenten hinzugefügt
 ### Version 2.3.1.0 - 15.02.2023
 - Hotfix: Notwendige Anpassungen an die zu E-Post-API übertragenen Daten Format aufgrund von Änderungen der E-Post-Api-Schnittstelle
   -> Korrigiert Meldung über fehlerhafte Konvertierung von Daten

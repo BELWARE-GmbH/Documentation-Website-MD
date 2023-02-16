@@ -10,9 +10,13 @@ weight: 2
 
 ### AppSource
 
+The app is available on [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector-365-smtp2fax%7CPAPPID.b9086ec8-6ce9-4d0e-a799-6d829bc8d0ac?tab=Overview).
+
+![](images/apps/smtp2fax/en/store_smtp2fax.png)
+
 The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
 If you like the app you order licenses using our order form.
-The licensing is made per production environment. 3 additional sandbox environment are encluded as well.
+The licensing is done per production environment. 3 additional sandbox environment are encluded as well.
 
 <p style="text-align: center;">
 order now
