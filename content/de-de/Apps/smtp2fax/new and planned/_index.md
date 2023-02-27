@@ -17,5 +17,5 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
-### Version 1.0.0.0 - 08.02.2023
+### Version 1.0.0.0 - 15.02.2023
 - Erste Veröffentlichung

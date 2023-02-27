@@ -12,6 +12,9 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.4.0.0 - 16.02.2023
+- Compatibility with **Connector 365 SMTP2FAX** App
+- View callstack for failed Easy Batch tasks
 ### Version 2.3.0.0 - 06.01.2023
 Implementation of new license check:
 - From now on all Business Central users within the production environment will be considerd for licensing and billing.

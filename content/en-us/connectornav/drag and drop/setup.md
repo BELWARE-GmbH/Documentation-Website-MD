@@ -44,15 +44,20 @@ In the column "properties" select the option "PartType" = Page and "PagePartID" 
 
 ![](/images/connectornav/dragdrop/einr5.png)
 
-On the same Page, in the "OnAfterGetCurrRecord" trigger at the end of the trigger, write the following code:
+On the same Page add the following code to the end of each mentioned trigger:
 
-//\>\>DragDropEVN Start
+```
+OnNewRecord(BelowxRec : Boolean)
+CurrPage.DragAndDrop.PAGE.SetRecordID(Rec.RECORDID);
+CurrPage.DragAndDrop.PAGE.SetFilterRecordID(Rec.RECORDID);
 
-CurrPage.DragAndDrop.PAGE.SetRecordPage(RECORDID);
+OnInsertRecord(BelowxRec : Boolean) : Boolean
+CurrPage.UPDATE(FALSE);
 
-CurrPage.DragAndDrop.PAGE.RefreshPage();
-
-//\<<DragDropEVN End
+OnAfterGetCurrRecord()
+CurrPage.DragAndDrop.PAGE.SetRecordID(Rec.RECORDID);
+CurrPage.DragAndDrop.PAGE.SetFilterRecordID(Rec.RECORDID);
+```
 
 Save and compile the object.
 After you save and compile the object, you are done.
