@@ -6,7 +6,7 @@ draft: false
 collapsible: true
 weight: 4
 ---
-### Setup of the Connector 365 Easy Batch App
+## Setup of the Connector 365 Easy Batch App
 
 Here you will find all help and learning resources, to assist you in setting up the Connector 365 Easy Batch App.
 

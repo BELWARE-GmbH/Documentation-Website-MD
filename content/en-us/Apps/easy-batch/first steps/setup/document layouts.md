@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### Setup
+## Setup
 
 ### Setting up the document layouts
 

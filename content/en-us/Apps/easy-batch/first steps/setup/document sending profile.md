@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Setup
+## Setup
 
 ### Document Sending Profile
 

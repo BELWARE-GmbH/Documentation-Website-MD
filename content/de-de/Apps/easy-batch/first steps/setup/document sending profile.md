@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 3
 ---
-### Einrichtung
+## Einrichtung
 
 ### Belegsendeprofil
 

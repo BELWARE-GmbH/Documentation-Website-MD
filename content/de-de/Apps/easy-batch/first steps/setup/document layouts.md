@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Einrichtung
+## Einrichtung
 
 ### Einrichten der Dokumentlayouts
 
