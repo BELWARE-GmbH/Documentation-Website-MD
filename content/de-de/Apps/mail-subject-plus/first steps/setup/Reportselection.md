@@ -12,13 +12,16 @@ weight: 1
 
 Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf & Mahnung unterstützt.
 
-![](images/apps/subjectreportselectionde.PNG)
+![](images/apps/Mail_Subject_Plus/de-de/app_report_selection.png)
 
-in der Berichtsauswahl finden Sie das neue Feld **"E-Mail Betreff"**, dieses können Sie nutzen um Ihren Betreff zu definieren. Dieser ist frei definierbar, jedoch statisch.
+In der Berichtsauswahl finden Sie das Feld **"Betreff"**, durch Klicken des Feldes gelangen Sie zur Seite **E-Mail-Betreff**.
 
-Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalter festlegen. Dies können Sie tun in dem Sie neben dem Textfeld für den E-Mail Betreff auf die **[...]**-Schaltfläche klicken.
+![](images/apps/Mail_Subject_Plus/de-de/app_email_subject.png)
 
-![](images/apps/subjectplaceholderemptyde.PNG)
+
+Hier können Sie nun je Sprachcode einen beliebigen Betreff definieren. Über die **[...]**-Schaltfläche im Feld **Betrefftext** gelangen Sie zur Seite **E-Mail-Betreff-Platzhalter**, welche es Ihnen zusätzlich ermöglicht dynamische Platzhalter zu definieren.
+
+![](images/apps/Mail_Subject_Plus/de-de/app_email_subject_placeholder.png)
 
 #### Platzhalter definieren
 Es öffnet sich nun das Fenster **"E-Mail-Betreff-Platzhalter"**, hier können Sie nun die Möglichkeit Ihre Platzhalter zu definieren. Ihnen stehen zwei Felder zur Verfügung:
