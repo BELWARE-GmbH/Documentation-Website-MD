@@ -11,7 +11,11 @@ weight: 1
 
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
-
+### Version 2.5.0.0 - 02.03.2023
+- Immediate information that the documents are enqueued for processing, when executing the action **Send via Batch**.
+- Immediate information that the selected tasks are enqueued for retry, when tasks are retried.
+- Email status for failed dispatch can now be viewed in Connector 365 Activities.
+- Documents will now only be saved in Connector 365 Activities, when this setting is checked in Base Setup.
 ### Version 2.4.0.0 - 16.02.2023
 - Compatibility with **Connector 365 SMTP2FAX** App
 - View callstack for failed Easy Batch tasks
