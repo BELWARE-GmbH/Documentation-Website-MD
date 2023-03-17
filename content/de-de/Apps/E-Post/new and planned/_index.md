@@ -18,7 +18,9 @@ weight: 1
   * Bearbeitungsstatus im Zielgebiet
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
-
+### Version 2.4.0.1 - 03.03.2023
+- Korrektur zum Versand externer Belege:
+ - Der Parameter DocName muss nicht mehr zwingend gefüllt sein, damit der Versand externer Belege erfolgreich ist.
 ### Version 2.4.0.0 - 16.02.2023
 - Funktion zum Versand von externen Dokumenten hinzugefügt
 ### Version 2.3.1.0 - 15.02.2023

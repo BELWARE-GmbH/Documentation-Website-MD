@@ -11,8 +11,10 @@ weight: 1
 
 ### Planned functions for future versions
 - Increase length of desired placeholders
-- Multilingual placeholders
 - Preview function
+
+### Version 2.3.0.0 - 28.02.2023
+- Defining multi language subjects
 
 ### Version 2.2.0.0 - 06.01.2023
 Implementation of new license check:

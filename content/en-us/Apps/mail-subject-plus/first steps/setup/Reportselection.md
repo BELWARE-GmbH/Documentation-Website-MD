@@ -12,13 +12,15 @@ weight: 1
 
 Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, however, reports from the areas of sales, purchasing & reminder are supported.
 
-![](images/apps/subjectreportselections.PNG)
+![](images/apps/Mail_Subject_Plus/en-us/app_report_selection.png)
 
-in the report selection you will find the new field **"Email subject"**, you can use this to define your subject. This is freely definable, but static.
+In the report selection you will find the field **Subject**, by clikcing the field you navigate to the page **Email Subject**.
 
-In order to set a dynamic subject, you must first define placeholders. You can do this by clicking on the **[...]** button next to the text field for the e-mail subject.
+![](images/apps/Mail_Subject_Plus/en-us/app_email_subject.png)
 
-![](images/apps/subjectplaceholderemptyen.PNG)
+Here you can define different subjects for each language. By clicking the **[...]** button within the field **Subject Text** you navigate to the page **Email Subject Placeholder**, that allows you to define dynamic placeholders.
+
+![](images/apps/Mail_Subject_Plus/en-us/app_email_subject_placeholder.png)
 
 #### Define placeholder
 Now the window **"Email subject placeholder"** opens, here you have the possibility to define your placeholders. Two fields are available to you:

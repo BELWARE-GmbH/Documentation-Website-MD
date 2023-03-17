@@ -3,15 +3,16 @@ title: "Neu und geplant"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 1
 ---
 ### Neue und geplan
 
 ### Geplante Funktionen für zukünftige Versionen
 - Länge der gewünschten Platzhalter erhöhen
-- Mehrsprachige Platzhalter
 - Vorschaufunktion
+### Version 2.3.0.0 - 28.02.2023
+- Definieren von merhsprachigen Betreffs
 ### Version 2.2.0.0 - 06.01.2023
 Implementierung der neuen Lizenzprüfung:
 - Ab sofort werden alle Business Central Nutzer der Produktivumgebung zur Lizenzierung berücksichtigt und abgrechnet.

@@ -12,8 +12,13 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
-
-### Version 2.4.0.0 - 16.02.2023
+### Version 2.5.0.0 - 02.03.2023
+- Sofortige Information beim Auführen der Aktion **Als Stapel senden**, dass die Belege zur Verarbeitung eingestellt wurden.
+- Sofortige Information beim Wiederholen von Aufgaben, dass die selektierten Aufgaben wiederholt werden.
+- E-Mailrückmeldungen bei fehlerhaften Versand sind nun in den Connector 365 Aktivitäten zu sehen.
+- Belege werden nur noch in den Connector 365 Aktivitäten gespeichert, wenn dies in der Basis-Einrichtung angehakt ist.
+### Version 2.4.0.0 - 17.02.2023
+- Kompatibilität mit **SMTP2FAX**
 - Aufrufen des Aufrufstapels für fehlerhafte Easy Batch Aufgaben.
 
 ### Version 2.3.0.0 - 06.01.2023
