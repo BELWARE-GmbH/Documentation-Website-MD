@@ -52,7 +52,7 @@ Dieser löscht alle runtergeladenen Dokumente, die sich im lokalen Temp-Verzeich
 |Qualifizierte Signatur | Dies dient der Voreinstellung je Bericht und Benutzer. Hier wird festgelegt, welchen Modus (mit/ohne Signatur) das System beim Fax/E-Mailversand vorschlagen soll.|
 |HTML Bodytext | Hier kann man auswählen, ob man für diesen Vorgang einen HTML Bodytext voreingestellt hat.|
 |Berichtsoptionen abfragen | Ermöglicht das automatische aufrufen der Standard Berichtsoptionen im Verlauf des Versandprozesses|
-|Optionen Berichtsanfrageseite | Öffnet die Berichtsoptionen für den jeweiligen Bericht und erlaubt es Standardoptionen festzulegen, welche für den ausgewählten Bericht gelten.<br />Der Platzhalter %1 ist zwingend zu setzen, ansonsten ist ein Versand nicht möglich.|
+|[Optionen Berichtsanfrageseite](de-de/connectornav/configuration-and-setup/setup/request_page_options/) | Öffnet die Berichtsoptionen für den jeweiligen Bericht und erlaubt es Standardoptionen festzulegen, welche für den ausgewählten Bericht gelten.<br />Der Platzhalter %1 ist zwingend zu setzen, ansonsten ist ein Versand nicht möglich.|
 |Optionen Berichtsanfrageseite Ausdruck | Siehe oben.<br />Die hier festgelegten Optionen gelten ausschließlich für das ausdrucken von Berichten.|
 |Dokumentenlinks als Anhang | Über diese Funktion können hinterlegte Links zu einem Beleg als Anhang mitversendet werden.|
 |Serververarbeitung | Über diese Funktion lässt sich einstellen, ob der Beleg über eine Hintergrundverarbeitung abgeschickt werden soll. Dazu ist eine Einrichtung im NAS / Aufgabenwarteschlangeposten nötig. Näheres dazu im entsprechendem Abschnitt.|
