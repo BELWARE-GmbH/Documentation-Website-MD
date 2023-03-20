@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Einrichtung
 
-### Berechtigungssätze
+#### Berechtigungssätze
 Sie können Nutzern drei verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
 
 - **C365, Setup** - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung vorzunehmen und zu ändern
