@@ -1,13 +1,13 @@
 ---
-title: "E-POST"
+title: "Developer Documentation"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
-weight: 1
+weight: 5
 ---
-### Connector 365 E_POST Entwicklerdokumentation
+### Developer Documentation
 
-Als Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unserer App eigenhändig vornehmen können.
+As a developer in the area of Dynamics 365 Business Central, you will find information here on how you can make adjustments in connection with our apps yourself.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
+In the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the [support page](en-us/apps/help-and-support/).
