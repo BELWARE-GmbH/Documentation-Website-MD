@@ -20,7 +20,7 @@ Please refer to the following table of currently usable report selections for us
 | Purchase    | <img src="/images/apps/Addresse_Control/tick.png" width=30 > |
 | Cash Flow   | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
 | Warehouse      | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
-| Reminder/Finance Charge  | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
+| Reminder/Finance Charge  | <img src="/images/apps/Addresse_Control/tick.png" width=30 > from version 1.2.0.0 on|
 | Bank Account | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
 
 The **Connector 365 Addressee Control** app adds a subpage to supported report selection pages.

@@ -21,7 +21,7 @@ Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen 
 | Lager      | <img src="/images/apps/Addresse_Control/cross.png" width=30 >       |
 | Cashflow   | <img src="/images/apps/Addresse_Control/cross.png" width=30 >       |
 | Lager      | <img src="/images/apps/Addresse_Control/cross.png" width=30 >       |
-| Mahnung/Zinsrechnung  | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
+| Mahnung/Zinsrechnung  | <img src="/images/apps/Addresse_Control/tick.png" width=30 > ab Version 1.2.0.0 |
 | Bankkonto | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 | Projekt | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 
