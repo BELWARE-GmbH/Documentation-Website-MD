@@ -10,7 +10,14 @@ weight: 1
 
 ### Report selection
 
-Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, however, reports from the areas of sales, purchasing & reminder are supported.
+Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report. For our example we are going to use invoices, however, reports are supported for
+- Sales
+- Purchasing
+- Service
+- Reminder
+- Inventory
+- Production Order
+- Bank Account
 
 ![](images/apps/Mail_Subject_Plus/en-us/app_report_selection.png)
 

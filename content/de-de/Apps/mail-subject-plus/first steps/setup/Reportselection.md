@@ -10,7 +10,14 @@ weight: 1
 
 ### Berichtsauswahl
 
-Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf & Mahnung unterstützt.
+Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus. Für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte unterstützt aus den Bereichen
+- Verkauf
+- Einkauf
+- Service
+- Mahnung
+- Lagerbestand
+- Fertigungsauftrag
+- Bankkonto
 
 ![](images/apps/Mail_Subject_Plus/de-de/app_report_selection.png)
 

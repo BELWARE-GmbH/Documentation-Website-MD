@@ -14,14 +14,23 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
-### Version 1.1.0.0 - 06.01.2023
+#### Version 1.3.0.0 - 22.03.2023
+Fehlerkorrektur:
+- Bei Neuanlage von Dokumentlayouts und anschließendem Hinzufügen weiterer Empfängeradressen werden diese nun korrekt übernommen.
+- Beim Löschen von Dokumentlayoutzeilen werden nun auch die verknüpften weiteren Empfängeradressen gelöscht.
+
+Neue Funktionen:
+- Prüfung der Korrektheit des Formats von E-Mailadressen.
+#### Version 1.2.0.0 - 14.03.2023
+Die App unterstützt ab dieser Version auch die Belegart Mahnung.
+
+#### Version 1.1.0.0 - 06.01.2023
 Implementierung der neuen Lizenzprüfung:
 - Ab sofort werden alle Business Central Nutzer der Produktivumgebung zur Lizenzierung berücksichtigt und abgrechnet.
 
-
-### Version 1.0.0.1 - 17.11.2022
+#### Version 1.0.0.1 - 17.11.2022
 - Herstellung der Kompatibilität mit zukünftigen BC-Versionen.
 - Anpassung der Links zur Dokumentation
 
-### Version 1.0.0.0 - 04.11.2022
+#### Version 1.0.0.0 - 04.11.2022
 - Erste Veröffentlichung
