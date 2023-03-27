@@ -14,4 +14,4 @@ history are integrated.
 
 ![](images/connectornav/easysupra/Abb2.png)
 
-**Figure 2: easySUPRA in the main menu**
+**Figure 2: Easy Supra in the main menu**

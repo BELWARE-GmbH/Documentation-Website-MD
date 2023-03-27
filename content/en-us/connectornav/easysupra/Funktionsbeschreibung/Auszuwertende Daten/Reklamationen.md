@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Reclamations
 
-The easySUPRA module enables the connection of the Business Central standard purchasing complaints and thus the evaluation of a quantity-based complaint rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via 
+The Easy Supra module enables the connection of the Business Central standard purchasing complaints and thus the evaluation of a quantity-based complaint rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via 
 the field "Clearing with item". If this manual clearing is 
 is not set, Business Central automatically performs the standard clearing. Thereby 
 for the item, depending on the warehouse issue method, the goods are cleared according to "FIFO" (First-InFirst-Out), for example.

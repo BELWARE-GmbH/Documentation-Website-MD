@@ -13,4 +13,4 @@ Menüpunkt in der Abteilung Verwaltung. Darunter sind die Berichte (Auswertungen
 
 ![](images/connectornav/easysupraWeb/Abb2.png)
 
-**Abbildung 2: easySUPRA im Hauptmenü**
+**Abbildung 2: Easy Supra im Hauptmenü**

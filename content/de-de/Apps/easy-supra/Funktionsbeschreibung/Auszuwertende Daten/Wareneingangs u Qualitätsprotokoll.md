@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Wareneingangs-/Qualitätsprotokoll
 
-Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt easySUPRA eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in easySUPRA mitgelieferten Felder 
+Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt Easy Supra eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in Easy Supra mitgelieferten Felder 
 eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
 eigenständig oder durch den zuständigen Microsoft-Partner durchgeführt werden.
 Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevanten Informationen im Bestellvorgang übertragen werden. Sie finden in den Zeilen der Bestellungen, den

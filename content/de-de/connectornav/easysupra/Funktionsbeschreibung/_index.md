@@ -14,4 +14,4 @@ Historie eingebunden.
 
 ![](images/connectornav/easysupra/Abb2.png)
 
-**Abbildung 2: easySUPRA im Hauptmenü**
+**Abbildung 2: Easy Supra im Hauptmenü**

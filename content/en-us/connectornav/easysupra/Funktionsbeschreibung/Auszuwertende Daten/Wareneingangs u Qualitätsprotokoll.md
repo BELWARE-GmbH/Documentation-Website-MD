@@ -8,8 +8,8 @@ weight: 1
 ---
 ### Goods receipt/quality protocol
 
-The requirements for quality protocols vary from company to company. For this reason, easySUPRA provides a wealth of additional fields with different data types ("Date", "Decimal", "Boolean", etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in easySUPRA. 
-supplied in easySUPRA. Depending on the existing customer license, this set-up can be performed
+The requirements for quality protocols vary from company to company. For this reason, Easy Supra provides a wealth of additional fields with different data types ("Date", "Decimal", "Boolean", etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in Easy Supra. 
+supplied in Easy Supra. Depending on the existing customer license, this set-up can be performed
 independently or by the responsible Microsoft partner.
 After defining the structure of your quality protocol, the relevant information can be transferred in the order process. You will find in the lines of the purchase orders, the
 purchase deliveries and in the purchasing archive, you will find a link to the quality log (see Figure 28).

@@ -8,7 +8,7 @@ weight: 3
 ---
 ### Import / Export
 
-Under "Departments" - "Supplier evaluation" - "Administration" - "Import/export easySUPRA 
+Under "Departments" - "Supplier evaluation" - "Administration" - "Import/export Easy Supra 
 Setup data", data can be exported or imported as .txt files (see Figure 46). This allows the setup of the evaluations to be used across clients or databases.
 
 ![](images/connectornav/easysupra/Abb46.png)

@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Reklamationen
 
-Mit dem Modul easySUPRA wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über 
+Mit dem Modul Easy Supra wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über 
 das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich 
 nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird 
 für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.

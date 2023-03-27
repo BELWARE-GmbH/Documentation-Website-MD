@@ -57,4 +57,4 @@ Codeunit|     90         |  Purch.-Post
 Codeunit|     5063       |  ArchiveManagement
 Codeunit|     5319462    |  SUP Supplier Rating Mgmt.
 XMLport  |   5319462   |  SUP Im-Export Setup Data
-MenuSuite|   1059      |  Dept – easySUPRA
+MenuSuite|   1059      |  Dept – Easy Supra
