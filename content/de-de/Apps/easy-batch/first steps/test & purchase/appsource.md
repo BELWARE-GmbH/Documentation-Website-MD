@@ -17,7 +17,8 @@ Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
+Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
+Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen.
 
 <p style="text-align: center;">
 Zum Bestellformular

@@ -9,7 +9,7 @@ weight: 2
 ### Test & Kauf
 
 ### OnPrem
-Sie haben die Möglichkeit, unsere Connector 365 Mail Subject Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
+Sie haben die Möglichkeit, unsere Connector 365 Mail Subject Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
 
 <p style="text-align: center;">
 Zum Bestellformular

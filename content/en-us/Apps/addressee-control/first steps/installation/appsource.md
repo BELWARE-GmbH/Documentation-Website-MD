@@ -14,7 +14,7 @@ Using the search function, open the **Marketplace for Extensions** and open it.
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-The Microsoft AppSource will open. There you can use the search function again to find the **Connector 365 Address Control**. Click on **Get it now** to start the installation. Before the installation starts, you have to provide some contact information.
+The Microsoft AppSource will open. There you can use the search function again to find the **Connector 365 Addressee Control**. Click on **Get it now** to start the installation. Before the installation starts, you have to provide some contact information.
 
 ![](images/apps/ctimarketplacesearch.PNG)
 

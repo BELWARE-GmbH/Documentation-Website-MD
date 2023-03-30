@@ -16,8 +16,8 @@ Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-
 
 Die App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
 Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
-Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
-Die Lizenzierung erfolgt je Produktivumgebung. In einer Lizenz enthalten sind zusätzlich 3 Sandbox-Umgebungen.
+Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
+Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen.
 
 
 <p style="text-align: center;">

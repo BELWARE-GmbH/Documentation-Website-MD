@@ -37,7 +37,8 @@ Connector 365 E-POST App steht Ihnen für die folgende BC Lizensierung zur Verf�
 - SaaS Premium
 
 Wenn Sie eine Vollversion unserer App erwerben möchten, nutzen Sie dazu bitte unser Bestellformular.
-Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
+Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
+Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen.
 
 <p style="text-align: center;">
 Zum Bestellformular

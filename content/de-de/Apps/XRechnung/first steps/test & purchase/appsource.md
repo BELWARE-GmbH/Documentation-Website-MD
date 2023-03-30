@@ -17,7 +17,8 @@ Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-
 Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
 
 Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser Formular zu bestellen.
-Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen. 
+Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
+Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen.
 
 <p style="text-align: center;">
 Zum Bestellformular
