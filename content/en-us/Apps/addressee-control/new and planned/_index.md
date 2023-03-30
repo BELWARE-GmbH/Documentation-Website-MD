@@ -13,8 +13,14 @@ Here you will find all the important information and instructions on how to inst
 Simply use either the bottom or left navigation menu.
 
 In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
+#### Version 1.3.0.0 - 22.03.2023
+Error Correction:
+- When creating new document layouts and subsequently adding further recipient addresses, these are now correctly adopted.
+- When deleting document layout lines, the linked additional recipient addresses are now also deleted.
 
-#### Version 1.2.0.0
+New features:
+- Checking the correctness of the format e-mail addresses.
+#### Version 1.2.0.0 - 14.03.2023
 From this version on the app also supports reminder reports.
 
 #### Version 1.1.0.0 - 06.01.2023
