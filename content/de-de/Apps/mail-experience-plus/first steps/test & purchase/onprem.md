@@ -9,10 +9,10 @@ weight: 2
 ### Test & Kauf
 
 ### OnPrem
-Sie haben die Möglichkeit unsere Connector 365 Mail Experience Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Sie haben die Möglichkeit, unsere Connector 365 Mail Experience Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
 
 <p style="text-align: center;">
-Zum Formular
+Zum Bestellformular
 </p>
 
 [<img src="/images/apps/Forms_plus.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
@@ -20,14 +20,6 @@ Zum Formular
 Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.
 
 Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Objekte.
-
-Ihre Kosten:
-
-| Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
-|-------------------------------|---------------------------------------|
-|1500,-€                        |55,-€                                  |
-
-*Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.*
 
 Danach können Sie mit der [Installation](/de-de/apps/mail-experience-plus/first-steps/installation/) der Connector 365 Mail Experience Plus App starten
 

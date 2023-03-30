@@ -16,17 +16,12 @@ Die Connector 365 Addressee Control App steht Ihnen in der [Microsoft AppSource]
 
 Nachdem die Connector 365 Addressee Control App installiert wurde, haben Sie die Möglichkeit, sofort loszulegen und die App in vollem Umfang für 30 Tage kostenlos zu nutzen.
 
-Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
 Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
-
-Ihre Kosten:
-
-| Monatliche Subscription inkl. Wartung | Jährliche Subscription inkl. Wartung |
-|---------------------------------------|--------------------------------------|
-| 1,20 €/User                           | 10,80 €/User                         |
+Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
 
 <p style="text-align: center;">
-Zum Formular
+Zum Bestellformular
 </p>
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

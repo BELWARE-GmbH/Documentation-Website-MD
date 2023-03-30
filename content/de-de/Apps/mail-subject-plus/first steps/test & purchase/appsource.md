@@ -12,30 +12,15 @@ weight: 2
 
 Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 
-![](images/apps/HIERNOCHFÜLLEN.PNG)
+![](images/apps/mail_subject_plus_appsource_de.png)
 
 Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-
-Ihre Kosten:
-
-| Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* |
-|-----------------------------------------------------------------------------------------|
-| 0,90€                                                                                   |
-
-| Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit*|
-|-----------------------------------------------------------------------------------------|
-| 1,20€                                                                                   |
-
-*Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
-0,45€ / User / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
-0,60€ / User / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
-
-*Wahlweise monatlich, quartalsweise oder jährlich abgerechnet.
+Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
 
 <p style="text-align: center;">
-Zum Formular
+Zum Bestellformular
 </p>
 
 [<img src="/images/apps/Forms_plus.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

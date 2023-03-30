@@ -17,22 +17,10 @@ Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach dem Download kann ein Nutzer die App komplett frei benutzen.
 
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-
-Ihre Kosten:
-
-| Monatliche Subscription mit jährlicher Abrechnung inkl. Wartung* |
-|------------------------------------------------------------------|
-| 6,90€/Nutzer                                                     |
-
-| Monatliche Subscription mit monatlicher Abrechnung inkl. Wartung* |
-|-------------------------------------------------------------------|
-| 8,30€/Nutzer                                                      |
-
-
-*Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.*
+Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
 
 <p style="text-align: center;">
-Zum Formular
+Zum Bestellformular
 </p>
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

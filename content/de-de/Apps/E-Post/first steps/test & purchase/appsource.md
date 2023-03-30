@@ -36,29 +36,16 @@ Connector 365 E-POST App steht Ihnen für die folgende BC Lizensierung zur Verf�
 - SaaS Essential
 - SaaS Premium
 
-Wenn Sie eine Vollversion unserer App erwerben möchten, nutzen Sie dazu bitte unser Bestellformular
+Wenn Sie eine Vollversion unserer App erwerben möchten, nutzen Sie dazu bitte unser Bestellformular.
+Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
 
 <p style="text-align: center;">
-Zum Formular
+Zum Bestellformular
 </p>
 
 [<img src="/images/apps/E-POST/license_order.PNG">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
-Ihre Kosten:
-
-| Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* |
-|----------------------------------------------------------------------------------------|
-| 9,90€                                                                                  |
-
-| Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit*|
-|----------------------------------------------------------------------------------------|
-| 12,90€                                                                                 |
-
-*Das Abo bezieht sich auf eine Umgebung innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
-4,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
-6,95€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
-
-Die durch die Nutzung entstehenden Portokosten werden direkt über die Deutsche Post mit Ihnen abgerechnet.
+Auch die durch reguläre Nutzung entstehenden Portokosten werden direkt über die Deutsche Post mit Ihnen abgerechnet.
 
 
 

@@ -17,39 +17,10 @@ Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-
 Nach dem Download steht Ihnen die App für 5 Vorgänge kostenlos zur Verfügung.
 
 Sind diese erreicht, haben Sie die Möglichkeit, Ihre App direkt über unser Formular zu bestellen.
-
-Ihre Kosten:
-
-| Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* |
-|-----------------------------------------------------------------------------------------|
-| 19,90€                                                                                  |
-
-| Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit*|
-|-----------------------------------------------------------------------------------------|
-| 25,90€                                                                                  |
-
-*Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
-9,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
-12,95€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
-
-Ihre Kosten für eine Premium** Lizenz:
-
-| Monatliche Premium Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit² |
-|-------------------------------------------------------------------------------------------------|
-| 25,90€                                                                                          |
-
-| Monatliche Premium Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit²|
-|-------------------------------------------------------------------------------------------------|
-| 33,70€                                                                                          |
-
-**Eine Premium Lizenz ist nötig, wenn Sie Servicebelege im XRechnungs-Format erstellen möchten.
-
-²Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant. Jede weitere Umgebung innerhalb eines Tenant kann mit einem Preisvorteil von 50% erworben werden.
-12,95€ / Monat / Umgebung bei jährlicher Zahlung und Laufzeit.
-16,85€ / Monat / Umgebung bei monatlicher Zahlung und Laufzeit.
+Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen. 
 
 <p style="text-align: center;">
-Zum Formular
+Zum Bestellformular
 </p>
 
 [<img src="/images/apps/Forms_xr.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

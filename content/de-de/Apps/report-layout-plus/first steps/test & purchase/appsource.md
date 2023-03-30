@@ -15,11 +15,12 @@ Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-
 ![](images/apps/Report_Layout_Plus/de-de/store_report_layout_plus.png)
 
 Die App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
-Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die anfallenden Kosten können Sie vor Bestellung der hier [verlinkten Preisliste](files/BELWARE_C365_Preisliste_Stand0323.pdf) entnehmen.
 Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
 
 <p style="text-align: center;">
-Zur Bestellung
+Zum Bestellformular
 </p>
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
