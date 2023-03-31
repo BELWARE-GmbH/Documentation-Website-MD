@@ -18,13 +18,9 @@ Zum Bestellformular
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
-Wünschen Sie eine Testphase, erhalten Sie von uns die nötigen Apps für einen Testzeitraum von 30 Tagen.
-Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Apps.
+Wünschen Sie eine Testphase, erhalten Sie von uns die nötigen Runtime-Pakete für einen Testzeitraum von 30 Tagen.
+Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Runtime-Pakete.
 
 Danach können Sie mit der [Installation](de-de/apps/addressee-control/first-steps/installation/onprem/) der Connector 365 Addressee Control App starten.
 
 Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an [support@belware.de](mailto:support@belware.de) und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de.
-
-
-
-

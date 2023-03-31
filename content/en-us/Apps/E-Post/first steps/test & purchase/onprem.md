@@ -10,32 +10,20 @@ weight: 2
 
 ### OnPrem
 
-#### Test
-You have the possibility to test our Connector 365 E-POST App* without obligation or to purchase it directly. For this we need some information from you.
+We grant the option to test the app without obligation for 30 days or to purchase it directly. 
+Before ordering, you can find the costs incurred in the [price list provided on our website](https://www.belware.de/preise?lang=en).
 
 <p style="text-align: center;">
-To the form
+To the order form
 </p>
 
 [<img src="/images/apps/Forms_epost.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
-If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.
-
-If you wish to purchase immediately, we will provide you with the necessary objects.
-
-Your costs:
-
-| Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
-|-----------------------------------------|----------------------------------------|
-|790,-€                                   | 35,-€                                  |
+If you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.
 
 After that you can start with the [installation](/en-us/apps/e-post/first-steps/installation/) of the Connector 365 E-POST App
 
 Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.
 
 ***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**
-
-
-
-
-

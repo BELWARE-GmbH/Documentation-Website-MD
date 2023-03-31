@@ -14,25 +14,15 @@ The Connector 365 CTI for STARFACE App is available in the [Microsoft AppSource]
 
 ![](images/apps/ctiappsourceen.PNG)
 
-After the Connector 365 CTI for STARFACE app is installed, you have the option to get started immediately and use the app for free. However, in the free version you are limited to a single user in the setup. Outside of this limitation, however, you can take full advantage of the Connector 365 CTI for STARFACE App options.
+After installation the full functionality of the app can be used for 30 days free of charge.  
 
-You have the possibility to extend your free version with additional licenses at any time. Each license costs 4.90€/month and is billed either monthly, quarterly or annually.
-
-In the event that additional users are to use the app's functions, you can purchase additional licenses for a fee via our form.
-
-Your costs:
-
-| Subscription incl. maintenance* |
-|---------------------------------|
-|4,90€/User                       |
-| Subscription incl. maintenance*| Subscription incl. maintenance* |
-|---------------------------------------|--------------------------------------|
-| 6,40 €/User                           | 4,90 €/User                          |
-
-*billed either monthly, quarterly or annually
+If the app suits your requirements you can purchase full licenses via our order form.  
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.  
+Before placing an order, you can find the applicable costs in the [price list provided on our website](https://www.belware.de/preise?lang=en).
+One license includes the use of the app in one production and in three sandbox environments. 
 
 <p style="text-align: center;">
-To the form
+To the order form
 </p>
 
 [<img src="/images/apps/Forms_CTI.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

@@ -14,11 +14,12 @@ Die Connector 365 CTI for STARFACE App steht Ihnen im [Microsoft AppSource](http
 
 ![](images/apps/ctiappsourcede.PNG)
 
-Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit, sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf einen einzigen Benutzer in der Einrichtung limitiert. Abgesehen von dieser Einschränkung können Sie die Funktionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.
+Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen. 
 
-Sie haben jederzeit die Möglichkeit, Ihre kostenlose Version um weitere Lizenzen zu erweitern.
-Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
-Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen.
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. 
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. 
+Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen. 
+Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen. 
 
 <p style="text-align: center;">
 Zum Bestellformular

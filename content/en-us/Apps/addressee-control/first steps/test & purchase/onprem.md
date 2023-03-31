@@ -6,30 +6,23 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Test & Kauf
+### Test & Purchase
 
 ### OnPrem
-Sie haben die Möglichkeit unsere Connector 365 CTI for STARFACE App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+
+We grant the option to test the app without obligation for 30 days or to purchase it directly. 
+Before ordering, you can find the costs incurred in the [price list provided on our website](https://www.belware.de/preise?lang=en).  
 
 <p style="text-align: center;">
-Zum Formular
+To the order form
 </p>
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
-Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.
+If you wish a trial period you will receive the necessary runtime packages from us for a trial period of 30 days.
+If you want to buy the software immediately we will send you the necessary runtime packages.
 
-Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Objekte.
-
-Ihre Kosten:
-
-| Kauflizenz + 18% Wartung/Jahr | Monatliche Subscription inkl. Wartung |
-|-------------------------------|---------------------------------------|
-|1900,-€                        |70,-€                                  |
-
-Danach können Sie mit der [Installation](/de-de/apps/cti-for-starface/first-steps/installation/) der Connector 365 CTI for STARFACE App starten
-
-Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an Support@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de
+After that you can start with the [installation](en/apps/addressee-control/first-steps/installation/onprem/) of the Connector 365 Addressee Control App.
 
 
 

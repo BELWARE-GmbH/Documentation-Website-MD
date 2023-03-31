@@ -14,10 +14,11 @@ Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 
 ![](images/apps/senderappsource.PNG-ÄNDERN)
 
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen. 
 
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
-Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. 
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. 
+Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen. 
 Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen.
 
 <p style="text-align: center;">

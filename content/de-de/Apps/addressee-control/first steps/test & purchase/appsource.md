@@ -14,7 +14,7 @@ Die Connector 365 Addressee Control App steht Ihnen in der [Microsoft AppSource]
 
 ![](images/apps/Addresse_Control/AddresseeControlAppSourceDe.png)
 
-Nachdem die Connector 365 Addressee Control App installiert wurde, haben Sie die Möglichkeit, sofort loszulegen und die App in vollem Umfang für 30 Tage kostenlos zu nutzen.
+Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
 
 Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
 Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.

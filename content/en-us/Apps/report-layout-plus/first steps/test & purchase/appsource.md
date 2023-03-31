@@ -14,12 +14,15 @@ The app is available on [Microsoft AppSource](https://appsource.microsoft.com/en
 
 ![](images/apps/Report_Layout_Plus/en-us/store_report_layout_plus.png)
 
-The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
-If you like the app you order licenses using our order form.
-The licensing is based on the user count, regarding all users with either a Team Member or Essentials license will be counted.
+After installation the full functionality of the app can be used for 30 days free of charge.  
+
+If the app suits your requirements you can purchase full licenses via our order form.  
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.  
+Before placing an order, you can find the applicable costs in the [price list provided on our website](https://www.belware.de/preise?lang=en).
+One license includes the use of the app in one production and in three sandbox environments. 
 
 <p style="text-align: center;">
-order now
+to the order form
 </p>
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

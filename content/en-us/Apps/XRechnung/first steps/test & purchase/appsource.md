@@ -14,43 +14,16 @@ The App is available on [Microsoft AppSource](https://appsource.microsoft.com/en
 
 ![](images/XRechnung/xrechnungstore.PNG)
 
-After downloading, the app is available to you free of charge for 5 processes.
+After installation the full functionality of the app can be used for 30 days free of charge.  
 
-Once these are reached, you have the option to order the app directly.
-
-Your costs:
-
-| Monthly subscription incl. maintenance per environment with annual payment and term*       |
-|----------------------------------------------------------------------------------------|
-| 19,90€                                                                                 |
-
-| Monthly subscription incl. maintenance per environment with monthly payment and term*      |
-|----------------------------------------------------------------------------------------|
-| 25,90€                                                                                 |
-
-*The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
-9,95€ / month / environment with annual payment and term.
-12,95€ / month / environment with monthly payment and term.
-
-Your cost for a Premium** license:
-
-| Monthly subscription incl. maintenance per environment with annual payment and term² |
-|-------------------------------------------------------------------------------------------------|
-| 25,90€                                                                                          |
-
-| Monthly Premium subscription incl. maintenance per environment with monthly payment and term²|
-|-------------------------------------------------------------------------------------------------|
-| 33,70€                                                                                          |
-
-**A Premium license is required if you want to create service reports in the XRechnung format.
-
-²The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
-12,95€ / month / environment with annual payment and term.
-16,85€ / month / environment with monthly payment and term.
+If the app suits your requirements you can purchase full licenses via our order form.  
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.  
+Before placing an order, you can find the applicable costs in the [price list provided on our website](https://www.belware.de/preise?lang=en).
+One license includes the use of the app in one production and in three sandbox environments. 
 
 
 <p style="text-align: center;">
-To the form
+To the order form
 </p>
 
 [<img src="/images/apps/Forms_xr.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

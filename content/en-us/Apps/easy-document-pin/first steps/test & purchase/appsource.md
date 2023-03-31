@@ -14,24 +14,15 @@ The app is available in the Microsoft AppSource.
 
 ![](images/apps/senderappsource.PNG-ÄNDERN)
 
-After downloading, a user can use the App completely free.
+After installation the full functionality of the app can be used for 30 days free of charge.  
 
-In case that more Users want to use the function, you can simply order more licenses via our form.
-
-Your costs:
-
-| Subscription incl. maintenance* |
-|---------------------------------|
-|6,90€/User                       |
-
-| Subscription incl. maintenance* |
-|---------------------------------|
-|8,30€/User                       |
-
-*We reserve the right to change prices in the event of functional enhancements.*
+If the app suits your requirements you can purchase full licenses via our order form.  
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.  
+Before placing an order, you can find the applicable costs in the [price list provided on our website](https://www.belware.de/preise?lang=en).
+One license includes the use of the app in one production and in three sandbox environments. 
 
 <p style="text-align: center;">
-To the form
+To the order form
 </p>
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)

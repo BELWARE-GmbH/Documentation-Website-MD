@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Setup
 
-To set the destination address logic as desired via the **Connector 365 Addresse Control** app, open one of the *Report Selections* pages.
+To set the destination address logic as desired via the **Connector 365 Addressee Control** app, open one of the *Report Selections* pages.
 
 {{< notice info note >}}
 Please refer to the following table of currently usable report selections for use with **Connector 365 Addressee Control**.

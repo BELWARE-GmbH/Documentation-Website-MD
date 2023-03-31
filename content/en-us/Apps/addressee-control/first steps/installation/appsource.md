@@ -28,7 +28,7 @@ You will receive a short confirmation that the installation is being performed. 
 
 You will not be notified about the completion of the installation, but the process should not take more than a few minutes.
 
-If everything worked, you can now find the **Connector 365 Address Control** under **Installed Extensions**.
+If everything worked, you can now find the **Connector 365 Addressee Control** under **Installed Extensions**.
 
 ![](images/apps/ctiinstalledde.PNG)
 

@@ -9,23 +9,18 @@ weight: 2
 ### Test & Purchase
 
 ### OnPrem
-You have the possibility to test our Connector 365 Easy Batch App without obligation or to purchase it directly. For this we need some information from you..
+
+We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the [price list provided on our website](https://www.belware.de/preise?lang=en).
 
 <p style="text-align: center;">
-To the form
+To the order form
 </p>
 
 [<img src="/images/apps/Forms_easy.png">](https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u)
 
-If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.
-
-If you wish an immediate purchase, you will receive the necessary objects from us.
-
-Your costs:
-
-| Purchase license + 18% maintenance/year | Monthly Subscription incl. maintenance |
-|-----------------------------------------|----------------------------------------|
-|790,-€                                   |35,-€                                   |
+If you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.
 
 After that you can start with the [installation](/en-us/apps/easy-batch/first-steps/installation/) of the Connector 365 Easy Batch App
 

@@ -27,7 +27,7 @@ The following options are available to you as a registered E-POST customer:
 
 For both options you need your EKP number. If you do not have it at hand, please contact us.
 
-Atfer installing the app it can be used freely for 30 days.
+After installation the full functionality of the app can be used for 30 days free of charge.
 The postage costs incurred during testing will be billed directly to you via Deutsche Post.
 
 If the trial period is too short for you, please contact us at **support@belware.de**. We will be happy to arrange an individual test period with you. 
@@ -37,32 +37,17 @@ Connector 365 E-POST API is available for the following BC licensing:
 - SaaS Essential
 - SaaS Premium
 
-If you would like to purchase a full version of our App, please contact us via **info@belware.de**
-
-If you want to purchase a full version of our app, please use our order form
+If the app suits your requirements you can purchase full licenses via our order form.  
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.  
+Before placing an order, you can find the applicable costs in the [price list provided on our website](https://www.belware.de/preise?lang=en).  
+One license includes the use of the app in one production and in three sandbox environments.
+The postage costs incurred through use will be billed to you directly by Deutsche Post.
 
 <p style="text-align: center;">
-To the form
+To the order form
 </p>
 
 [<img src="/images/apps/Forms_epost.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
-
-Your costs:
-
-| Monthly subscription incl. maintenance per environment with annual payment and term*       |
-|----------------------------------------------------------------------------------------|
-| 9,90€                                                                                 |
-
-| Monthly subscription incl. maintenance per environment with monthly payment and term*      |
-|----------------------------------------------------------------------------------------|
-| 12,90€                                                                                 |
-
-*The subscription is for one environment within a tenant. Each additional environment within a tenant can be purchased with a 50% discount.
-4,95€ / month / environment with annual payment and term.
-6,50€ / month / environment with monthly payment and term.
-
-The postage costs incurred through use will be billed to you directly via Deutsche Post.
-
 
 
 ***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**

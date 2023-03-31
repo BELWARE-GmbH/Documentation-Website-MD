@@ -9,10 +9,10 @@ weight: 2
 ### Installation
 
 ### OnPrem
-You will receive the objects for the Connector 365 Base & Addresse Control App from us by mail, so that you can use the app, these must first be published and then installed.
+You will receive the objects for the Connector 365 Base & Addressee Control App from us by mail. These must first be published and then installed.
 
-#### Publish the Connector 365 Base & Address Control App
-Publishing the Connector 365 Base & Address Control App is done via the **Business Central Administration Shell**. First, transfer the files we send you to the server where your Business Central instance is running.
+#### Publish the Connector 365 Base & Addressee Control app
+Publishing the Connector 365 Base & Addressee Control app is done via the **Business Central Administration Shell**. First, transfer the files we send you to the server where your Business Central instance is running.
 
 ![](images/apps/adminshell.PNG)
 
@@ -31,13 +31,13 @@ Now that you are in the appropriate folder, you can use the following command to
 
 **Example:**
 
-```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
+```Publish-NAVApp -ServerInstance yourBusinessCentralinstance -Path ".\BaseApp.app"```
 
-Afterwards you should also perform the process for the actual Connector 365 CTI for STARFACE app
+Afterwards you should also perform the process for the actual Connector 365 Addressee Control app
 
 **Example:**
 
-```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\CTIforSTARFACE.app"```
+```Publish-NAVApp -ServerInstance yourBusinessCentralinstance -Path ".\AddresseeControl.app"```
 
 Both apps should now be published in the system.
 
@@ -46,13 +46,13 @@ Both apps should now be published in the system.
 {{< /notice >}}
 #
 
-#### Installing the Connector 365 Base & Address Control App
+#### Installing the Connector 365 Base & Addressee Control app
 
-In the extension management of your environment, you will now see the apps as published, but they are not yet installed.
+In the extension management of your environment you will now see the apps as published, but they are not yet installed.
 
 ![](images/apps/ctipublishde.PNG)
 
-##### Installing via the Clients
+##### Installing via the Client
 Open your Business Central environment, open the search function and search for **Extension Management**.
 
 There you should now find the two apps with the status not installed. By clicking on the 3 dots of the respective app, you can now install it in your environment via the **Install** item.
@@ -63,7 +63,7 @@ There you should now find the two apps with the status not installed. By clickin
 In case you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you have to use the **Install-NAVApp** command. You should specify the **tenant ID** when doing this. In the following examples we install the apps in two tenants.
 
 {{< notice info "Note" >}}
- _The installation order also matters, please always install the Connector 365 Base App first_.
+ _The installation order also matters, please always install the Connector 365 Base app first_.
 {{< /notice >}}
 #
 
@@ -71,13 +71,13 @@ To install the Connector 365 Base app, use the following command:
 
 **Example:**
 
-```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance yourBusinessCentralinstance -Name "Connector 365 Base" -Tenant Tenant1, Tenant2```
 
-The Connector 365 Address Control App follows:
+The Connector 365 Addressee Control App follows:
 
 **Example:**
 
-```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Addressee Control" -Tenant Tenant1, Tenant2```
+```Install-NAVApp -ServerInstance yourBusinessCentralinstance -Name "Connector 365 Addressee Control" -Tenant Tenant1, Tenant2```
 
 You can now start with the [Setup](en-us/apps/addressee-control/first-steps/setup/).
 
