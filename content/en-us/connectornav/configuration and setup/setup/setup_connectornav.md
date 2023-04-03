@@ -15,7 +15,7 @@ weight: 1
 Using the default funktion the fields com_job to com_form are via the server name automatically listed. The funktion DocImport creates for all documents listed in the document entry register an entry in the job list. This way external documents can be made acessable in Microsoft Dynamics NAV.
 
 ##### Register general
-![](/images/connectornav/einrichtung_register_allgemein.png)<center>_Connector NAV setup, Register general_</center>
+![](/images/connectornav/einrichtung_register_allgemein2.png)<center>_Connector NAV setup, Register general_</center>
 
 All imporant settings are deposited in the Connector NAV setup once.
 
@@ -30,7 +30,8 @@ All imporant settings are deposited in the Connector NAV setup once.
 |Path (com_err)   | In this path feedback files with errors are stored, which are read by the Connector NAV. These *.JOB files are later renamed to *.erl files and should be archived from time to time.   |
 |Path (com_tmp)   | This path can be used to store bodypath and attached files. |
 |Path (com_form)  | Letter papers (PDF background layout) can be stored here to be attached to a document with the merge programm. Valid when using a product iPaper.   |
-|JobId            | The extension of the job file that your communication software suppoerts is stored here. (OfficeMaster, Twinfax, Faxmaker, Tobit, C3000)|
+|Document File Location | The selection determines where report files created by the Connector are archived. Options are:<br />- void: the files don't get archived<br />- Filesystem: the files get stored in the local filesystem<br />- Database: the files get stored in the NAV database<br />- Database + Filesystem: the files get archived in both the NAV database and the local filesystem |
+|Jobmark          | The extension of the job file that your communication software suppoerts is stored here. (OfficeMaster, Twinfax, Faxmaker, Tobit, C3000)|
 |FileID           | The fileID for fax transmission is set here. The recommended type is TIFF or PDF.|
 |FileID Mail      | The fileID for sending by e-mail is set here. The recommended type is TIFF or PDF.|
 |Printer          | This printer driver represents the default printer for the users, so it is NOT necessary to store it again for each user, as long as the same printerdriver (e.g. eDocPrintPro or iPaper) is used. |

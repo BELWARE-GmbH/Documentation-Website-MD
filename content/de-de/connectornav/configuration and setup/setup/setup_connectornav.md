@@ -15,7 +15,7 @@ weight: 1
 Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen. Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.
 
 ##### Register Allgemein
-![](/images/connectornav/einrichtung_register_allgemein.png)<center>_Connector NAV Einrichtung, Register Allgemein_</center>
+![](/images/connectornav/einrichtung_register_allgemein2.png)<center>_Connector NAV Einrichtung, Register Allgemein_</center>
 
 In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.
 
@@ -30,6 +30,7 @@ In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hi
 |Pfad (com_err) | In diesem Pfad werden Rückmeldungsdateien mit Fehlerinformationen abgelegt, welche vom Connector NAV eingelesen werden. Diese *.JOB Dateien werden später in *.erl Dateien umbenannt und sollten von Zeit zu Zeit archiviert werden.|
 |Pfad (com_tmp) | Dieser Pfad kann zur Ablage von Bodytextdateien und Anhängen genutzt werden.|
 |Pfad (com_form) | Briefpapiere (PDF-Hintergrund-Layout) können hier abgelegt werden um mit dem Mergeprogramm einem Dokument beigefügt zu werden. Gültig beim Einsatz des Produktes iPaper.|
+|Dateiablageort | Über die Auswahl wird festgelegt, ob und wo die über den Connector erzeugten Belegdateien gespeichert werden. Optionen sind:<br />- leer: Belegdateien werden nicht archiviert<br />- Dateisystem: Belegdateien werden im lokalen Dateisystem gespeichert<br />- Datenbank: Belegdateien werden in der NAV-Datenbank gespeichert<br />- Datenbank + Dateisystem: Belegdateien werden im lokalen Dateisystem und der NAV-Datenbank archiviert |
 |Jobkennung | Hier wird die Endung der Jobdatei hinterlegt, die Ihre Kommunikationssoftware unterstützt. (OfficeMaster, Twinfax, Faxmaker, Tobit, C3000)|
 |Dateikennung | Hier wird die Dateikennung für den Faxversand eingestellt. Der empfohlene Typ ist TIFF oder PDF.|
 |Dateikennung Mail | Hier wird die Dateikennung für den E-Mail Versand eingestellt. Der empfohlene Typ ist PDF.|
