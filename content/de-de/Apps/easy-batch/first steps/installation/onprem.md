@@ -76,7 +76,9 @@ Es folgt noch die Connector 365 Easy Batch App:
 
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Easy Batch" -Tenant Tenant1, Tenant2```
 
-Sie können nun mit der [Einrichtung](/de-de/apps/mail_sender_plus/first-steps/setup/) starten.
+{{< notice info "Hinweis">}}
+_Damit die App ihre Aufgaben erfüllen kann, ist darauf zu achten, dass in der Konfiguration des Business Central Servers der Task Scheduler aktiviert ist. Vor Business Central 2022 release wave 2 (V21) kann dies grafisch über das Business Central Server Administration Tool erfolgen. Ab der genannten Version ist hierfür das Kommando Set-NAVServerConfiguration mit entsprechenden Parametern in der Administration Shell zu nutzen._
+{{< /notice >}}
+#
 
-
-
+Nach der Installation können Sie mit der [Einrichtung](/de-de/apps/easy-batch/first-steps/setup/) starten.
