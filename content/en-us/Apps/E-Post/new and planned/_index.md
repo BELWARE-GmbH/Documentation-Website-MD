@@ -16,7 +16,7 @@ weight: 1
     - Pos. service invoices
     - Pos. service credit memos
 
-### Version 2.4.0.3 - 13.04.2023
+### Version 2.4.0.3 - 14.04.2023
 - Corrections:
   - Corrected the view of the status cue in the role center.
 ### Version 2.4.0.1 - 03.03.2023

@@ -9,7 +9,7 @@ weight: 1
 
 ### New and planned
 
-### Version 2.5.0.0 - 13.04.2023
+### Version 2.5.0.0 - 14.04.2023
 - Implementation of additional table for saving additional files for each process.
 - Implementation of API pages for the use of Power Automate.
 - Support for the app Mail Scenarios Plus.

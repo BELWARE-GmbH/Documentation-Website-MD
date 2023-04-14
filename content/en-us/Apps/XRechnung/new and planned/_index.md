@@ -9,7 +9,7 @@ weight: 1
 
 ### New and planned
 
-### Version 2.3.0.0 - 13.04.2023
+### Version 2.3.0.0 - 14.04.2023
 - Implementation of additional table for saving additional files for each process.
 ### Version 2.2.0.0 - 06.01.2023
 - Implementation of new license check.

@@ -11,7 +11,7 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
-### Version 2.6.0.0 - 13.04.2023
+### Version 2.6.0.0 - 14.04.2023
 - Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.
 - Implementierung von API Seiten zur Nutzung von Power Automate.
 - Unterstützung der App Mail Scenarios Plus
