@@ -15,6 +15,10 @@ weight: 1
 - Other report types (service invoices/credit memos)
     - Pos. service invoices
     - Pos. service credit memos
+
+### Version 2.4.0.3 - 13.04.2023
+- Corrections:
+  - Corrected the view of the status cue in the role center.
 ### Version 2.4.0.1 - 03.03.2023
 - Correction for sending external documents:
  - The parameter DocName no longer needs to be filled for successfully sending external documents.
