@@ -11,6 +11,8 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.3.0.0 - 14.04.2023
+- Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.
 ### Version 2.2.0.0 - 06.01.2023
 - Implementierung der neuen Lizenzprüfung.
 

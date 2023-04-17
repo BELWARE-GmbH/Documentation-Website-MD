@@ -11,6 +11,11 @@ weight: 1
 
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
+
+### Version 2.6.0.0 - 14.04.2023
+- Implementation of additional table for saving additional files for each process.
+- Implementation of API pages for the use of Power Automate.
+- Support for the app Mail Scenarios Plus.
 ### Version 2.5.0.0 - 02.03.2023
 - Immediate information that the documents are enqueued for processing, when executing the action **Send via Batch**.
 - Immediate information that the selected tasks are enqueued for retry, when tasks are retried.
