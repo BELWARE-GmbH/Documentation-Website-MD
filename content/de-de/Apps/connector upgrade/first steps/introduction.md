@@ -17,3 +17,9 @@ Im Einzelnen werden folgende Daten übertragen:
 - Inhalte der alten Rückmeldungstabelle in die neue Rückmeldungstabelle, um Statusmeldungen zu archivierten Vorgängen anzeigen zu können
 - Einträge der alten Jobliste in die neue Aktivitätenliste, um archivierte Vorgänge weiterhin verfügbar zu haben
 - Einstellungen aus der Kommunikationsmatrix des Connector NAV/BC in die Dokumentlayouts des Business Central Standards
+
+### Voraussetzungen
+
+Folgende Vorraussetzungen sind für die Installation und Ausführung der ***Connector-Upgrade*** Anwendung erforderlich:
+* Die ***Connector 365 Base*** App ist erfolgreich installiert
+* Alle Connector NAV/BC Tabellen der älteren NAV/BC Installation (<=BC14) sind in der SQL-Datenbank der neuen Business Central Version enthalten
