@@ -8,6 +8,7 @@ weight: 5
 ---
 ### Upgrade aus der Connector 365 Einrichtung
 
+Bitte prüfen Sie die [Voraussetzungen](/de-de/apps/connector-upgrade/first-steps/introduction) bevor Sie fortfahren.
 
 In der ***Jobliste*** werden alle Aktivitäten, die im Rahmen der Funktionen des Connector NAV/BC ausgeführt werden, protokolliert.
 Die ***Connector 365 Apps*** verwenden eine ähnliche Tabelle (***Connector 365 Aktivitäten***), um jegliche Aktivitäten festzuhalten.
@@ -20,13 +21,20 @@ Dabei werden auch die Statusinformationen der einzelnen Einträge berücksichtig
 
 Sollte der Prozess z. B. durch Serverprobleme vorzeitig abgebrochen werden, kann der Vorgang beliebig wiederholt werden. Dabei wird der Prozess nicht gänzlich neu gestartet, sondern nach dem zuletzt erfolgreich übertragenen Datensatz weitergeführt. Auch bei mehrfachen unerwarteten Abbrüchen kann dieses Vorgehen so oft wiederholt werden, bis alle Datensätze erfolgreich übertragen wurden.
 
-
-{{< notice warning Hinweis >}}
+{{< notice info Hinweis >}}
 Bei einer sehr großen Menge an zu transferierenden Daten kann das Upgrade unter Umständen eine lange Ausführungszeit beanspruchen.
 Es wird daher empfohlen das Upgrade außerhalb der Geschäftszeiten zu planen, und dass für die Ausführung genügend zeitliche Ressourcen zur Verfügung stehen.
 {{</ notice >}}
 
 ### Upgrade durchführen
+
+
+{{< notice warning Wichtig>}}
+Die ***Connector NAV/BC Jobliste*** ist mandantenunabhängig. Die ***Connector 365 Aktivitäten***-Tabelle ist jedoch mandantenspezifisch.
+Das heißt bei der Übertragung der ***Jobliste*** wird auf den aktuellen Mandanten gefiltert. Wenn der Wunsch besteht, die komplette ***Jobliste*** zu übernehmen, und mehrere Mandanten vorhanden sind, so muss der nachfolgende Prozess einmal pro Mandant ausgeführt werden.
+{{< /notice >}}
+
+<br>
 
 Über die Suchfunktion von Business Central können Sie die Connector 365 Einrichung aufrufen:
 |![](/images/apps/Base/suche_connector_einr_de.png)|

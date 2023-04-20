@@ -11,6 +11,8 @@ weight: 6
 
 ### Einleitung
 
+Bitte prüfen Sie die [Voraussetzungen](/de-de/apps/connector-upgrade/first-steps/introduction) bevor Sie fortfahren.
+
 Die Kommunikationsmatrix des Connector NAV/BC enthält, falls gepflegt, Einrichtungsdaten die bestimmen, ob und wie Belege für einzelne Debitoren, Kreditoren oder auch Kontakte 
 verabeitet werden.
 In der Produkt-Reihe ***Connector 365*** (Business Central Versionen > 14), ist die Kommunikationsmatrix nicht mehr als eigene Tabelle vorhanden.
