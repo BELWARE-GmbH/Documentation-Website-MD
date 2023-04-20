@@ -27,20 +27,17 @@ Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von fo
 
 **Beispiel:**
 
-```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\UpgradeApp.app"```
+```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\UpgradeApp.app -SkipVerification"```
 
 Die App sollte nun im System veröffentlicht sein.
 
-{{< notice info "Hinweis" >}}
- _In Versionen bis BC 16 müssen Sie dem Befehl noch den parameter -SkipVerification hinzufügen, da es sonst zu einer Fehlermeldung kommt._
-{{< /notice >}}
 #
 
 #### Installieren der Connector 365 Upgrade App
 
 In der Erweiterungsverwaltung Ihrer Umgebung wird Ihnen die App nun als veröffentlicht angezeigt, jedoch ist sie noch nicht installiert.
 
-![](images/apps/ctipublishde.PNG)
+![](images/apps/Upgrade%20App/erweiterungsverwaltung_nicht_installiert.png)
 
 ##### Installieren via des Clients
 Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
