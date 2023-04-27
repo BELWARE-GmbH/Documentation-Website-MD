@@ -11,6 +11,9 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.3.0.1 - 26.04.2023
+Korrektur:
+- Schreiben eines negativen Validierungsberichts beim Versand über Easy Batch führt nicht mehr zum Fehler.
 ### Version 2.3.0.0 - 14.04.2023
 - Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.
 ### Version 2.2.0.0 - 06.01.2023
