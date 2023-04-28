@@ -26,6 +26,16 @@ Bei einer sehr großen Menge an zu transferierenden Daten kann das Upgrade unter
 Es wird daher empfohlen das Upgrade außerhalb der Geschäftszeiten zu planen, und dass für die Ausführung genügend zeitliche Ressourcen zur Verfügung stehen.
 {{</ notice >}}
 
+### Welche Daten werden beim Upgrade berücksichtigt?
+
+Beim Upgrade werden grundsätzliche alle Feldinhalte übertragen, welche sowohl in der ***Aktivitätenliste*** als auch in der ***Connector NAV/BC Jobliste*** vorhanden sind.
+Zudem werden weitere Tabellen berücksichtigt, welche in direkter Verbindung zur Jobliste stehen:
+* <u>Statusrückmeldungen</u> (***Tabelle CON Feedback***):
+    Zu jedem ***Joblisten***-Eintrag können beliebig viele Statusrückmeldungen zugeordnet werden. Im Zuge des Upgrades werden alle ***CON Feedback***-Einträge in die Tabelle ***BEL365 Feedback Entry*** übertragen. Auf diese Weise bleiben die Statusinformationen der ***Jobliste*** ('+', '-') vorhanden.
+* <u>Dateianhänge</u> (***Tabelle CON File***):
+    Neben Statusinformationen kann ein Eintrag in der ***Jobliste*** beliebig viele Anhänge enthalten. Auch diese werden im Laufe des Upgrades übertragen.
+    Ziel für die Anhänge in der ***Connector 365***-Reihe ist die Tabelle ***BEL365 Activity Entry File***.
+
 ### Upgrade durchführen
 
 
@@ -41,19 +51,19 @@ Das heißt bei der Übertragung der ***Jobliste*** wird auf den aktuellen Mandan
 |-|
 
 Hier finden Sie im Menü "Aktionen"
-|![](/images/apps/Upgrade%20App/connector_einrichtung_aktionen.png)|
+|![](/images/apps/Upgrade%20App/de/connector_einrichtung_aktionen.png)|
 |-|
 
 den Button ***Jobliste übertragen***
-|![](/images/apps/Upgrade%20App/button_transferiere_jobliste.png)|
+|![](/images/apps/Upgrade%20App/de/button_transferiere_jobliste.png)|
 |-|
 
 Sobald der Vorgang abgeschlossen ist, erscheint eine entsprechende Meldung:
 
-|![](/images/apps/Upgrade%20App/joblist_transfer_beendet.png)|
+|![](/images/apps/Upgrade%20App/de/joblist_transfer_beendet.png)|
 |-|
 
 Um die Aktiviäten-Liste einzusehen, geben Sie ***Connector 365 Aktivitäten*** in die Suchleiste ein:
 
-|![](/images/apps/Upgrade%20App/aktivitäten_suche.png)|
+|![](/images/apps/Upgrade%20App/de/aktivitäten_suche.png)|
 |-|
