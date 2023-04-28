@@ -26,6 +26,16 @@ Bei einer sehr großen Menge an zu transferierenden Daten kann das Upgrade unter
 Es wird daher empfohlen das Upgrade außerhalb der Geschäftszeiten zu planen, und dass für die Ausführung genügend zeitliche Ressourcen zur Verfügung stehen.
 {{</ notice >}}
 
+### Welche Daten werden beim Upgrade berücksichtigt?
+
+Beim Upgrade werden grundsätzliche alle Feldinhalte übertragen, welche sowohl in der ***Aktivitätenliste*** als auch in der ***Connector NAV/BC Jobliste*** vorhanden sind.
+Zudem werden weitere Tabellen berücksichtigt, welche in direkter Verbindung zur Jobliste stehen:
+* Statusrückmeldungen (***Tabelle CON Feedback***)
+    -> Zu jedem ***Joblisten***-Eintrag können beliebig viele Statusrückmeldungen zugeordnet werden. Im Zuge des Upgrades werden alle ***CON Feedback***-Einträge in die Tabelle ***BEL365 Feedback Entry*** übertragen. Auf diese Weise bleiben die Statusinformationen der ***Jobliste*** ('+', '-') vorhanden.
+* Dateianhänge (***Tabelle CON File***)
+    -> Neben Statusinformationen kann ein Eintrag in der ***Jobliste*** beliebig viele Anhänge enthalten. Auch diese werden im Laufe des Upgrades übertragen.
+    Ziel für die Anhänge in der ***Connector 365***-Reihe ist die Tabelle ***BEL365 Activity Entry File***.
+
 ### Upgrade durchführen
 
 
