@@ -2,7 +2,7 @@
 title: "Set up your own validator"
 date: 2023-04-14T10:08:56+09:00
 description: 
-draft: true
+draft: false
 collapsible: false
 weight: 10
 ---
