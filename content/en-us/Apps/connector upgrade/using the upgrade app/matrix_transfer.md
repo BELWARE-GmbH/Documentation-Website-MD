@@ -33,17 +33,17 @@ can be addressed with the same number in the Business Central environment.
 Make sure that the desired ***Connector 365 Apps*** are installed.
 Then navigate via the search bar to the ***Connector 365 setup***.
 
-|![](/images/apps/Upgrade%20App/connector_einrichtung_suche.png)|
+|![](/images/apps/Upgrade%20App/en/connector-setup-suche.png)|
 |-|
 
 On the ***Connector 365 Setup*** page, click ***Actions***.
 There should be a button ***Transfer Communication Matrix*** visible.
 
-|![](images/apps/Upgrade%20App/connector_transferiere_matrix.png)|
+|![](images/apps/Upgrade%20App/en/connector_transferiere_matrix.png)|
 |-|
 
 A new page will then open.
-|![](images/apps/Upgrade%20App/connector_transfer_dialog.png)|
+|![](images/apps/Upgrade%20App/en/connector_transfer_dialog.png)|
 |-|
 
 On this page all report IDs are collected, which are entered in the communication matrix.
@@ -72,5 +72,5 @@ Click OK if you want to start the transfer.
 
 When the transfer is finished, a message appears:
 
-|![](images/apps/Upgrade%20App/matrix_transfer_beendet.png)|
+|![](images/apps/Upgrade%20App/en/matrix_transfer_beendet.png)|
 |-|

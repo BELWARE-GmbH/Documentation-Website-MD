@@ -47,23 +47,23 @@ This means that when transferring the ***Joblist***, the current company is filt
 <br>
 
 You can use the Business Central search function to access the Connector 365 setup:
-|![](/images/apps/Base/suche_connector_einr_de.png)|
+|![](/images/apps/Upgrade%20App/en/connector-setup-suche.png)|
 |-|
 
 Here you will find in the menu "Actions"
-|![](/images/apps/Upgrade%20App/connector_einrichtung_aktionen.png)|
+|![](/images/apps/Upgrade%20App/en/connector_einrichtung_aktionen.png)|
 |-|
 
-the button ***Transfer job list***
-|![](/images/apps/Upgrade%20App/button_transferiere_jobliste.png)|
+the button ***Transfer Joblist***
+|![](/images/apps/Upgrade%20App/en/button_transferiere_jobliste.png)|
 |-|
 
-As soon as the process is completed, a corresponding message appears:
+As soon as the process is completed, a corresponding message appears. It will also note, if an update has been completetd before.
 
-|![](/images/apps/Upgrade%20App/joblist_transfer_beendet.png)|
+|![](/images/apps/Upgrade%20App/en/joblist_transfer_beendet.png)|
 |-|
 
 To view the activities list, type ***Connector 365 Activities*** in the search bar:
 
-|![](/images/apps/Upgrade%20App/aktivitäten_suche.png)|
+|![](/images/apps/Upgrade%20App/en/aktivitäten_suche.png)|
 |-|

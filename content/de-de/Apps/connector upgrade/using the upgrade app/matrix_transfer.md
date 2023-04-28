@@ -34,7 +34,7 @@ mit der jeweils gleichen Nummer in der Business Central Umgebung angesprochen we
 Vergewissern Sie sich, dass die gewünschten "Connector 365 Apps" installiert sind.
 Navigieren Sie anschließend über der Suchleiste zu der ***Connector 365 Einrichtung***
 
-|![](/images/apps/Upgrade%20App/connector_einrichtung_suche.png)|
+|![](/images/apps/Upgrade%20App/de/connector_einrichtung_suche.png)|
 |-|
 
 Auf der Seite ***Connector 365 Einrichtung***, klicken Sie auf ***Aktionen***.

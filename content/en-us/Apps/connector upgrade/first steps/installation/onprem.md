@@ -31,20 +31,18 @@ Now that you are in the appropriate folder, you can publish the Upgrade App usin
 
 The app should now be published in the system.
 
-#
-
 #### Install the Connector 365 Upgrade App
 
 In the extension management of your environment, the app is now shown as published, but it is not yet installed.
 
-![](images/apps/Upgrade%20App/erweiterungsverwaltung_nicht_installiert.png)
+![](images/apps/Upgrade%20App/en/published-not-installed.png)
 
 ##### Install via Client
 Open your Business Central environment, open the search function and search for **Extension Management**.
 
 You should now find the app there with the status not installed. By clicking on the 3 dots next to the app, you can now install it in your environment via the **Install** item.
 
-![](images/apps/appinstallde.PNG)
+![](images/apps/Upgrade%20App/en/install_upgrade.png)
 
 ##### Installing via Administration Shell
 If you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you must use the **Install-NAVApp** command. When doing so, you should specify the **Tenant ID**. In the following example, we install the apps in two tenants.

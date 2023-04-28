@@ -51,19 +51,19 @@ Das heißt bei der Übertragung der ***Jobliste*** wird auf den aktuellen Mandan
 |-|
 
 Hier finden Sie im Menü "Aktionen"
-|![](/images/apps/Upgrade%20App/connector_einrichtung_aktionen.png)|
+|![](/images/apps/Upgrade%20App/de/connector_einrichtung_aktionen.png)|
 |-|
 
 den Button ***Jobliste übertragen***
-|![](/images/apps/Upgrade%20App/button_transferiere_jobliste.png)|
+|![](/images/apps/Upgrade%20App/de/button_transferiere_jobliste.png)|
 |-|
 
 Sobald der Vorgang abgeschlossen ist, erscheint eine entsprechende Meldung:
 
-|![](/images/apps/Upgrade%20App/joblist_transfer_beendet.png)|
+|![](/images/apps/Upgrade%20App/de/joblist_transfer_beendet.png)|
 |-|
 
 Um die Aktiviäten-Liste einzusehen, geben Sie ***Connector 365 Aktivitäten*** in die Suchleiste ein:
 
-|![](/images/apps/Upgrade%20App/aktivitäten_suche.png)|
+|![](/images/apps/Upgrade%20App/de/aktivitäten_suche.png)|
 |-|
