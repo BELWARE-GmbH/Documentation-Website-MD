@@ -8,8 +8,8 @@ weight: 3
 ---
 ### Using the Connector 365 Upgrade App
 
-Here you will find all the important information and instructions on how to use the Connector 365 Upgrade App correctly.
+Here you can find all important information and hints for the correct use of the Connector 365 Upgrade App.
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
+In case a question could not be answered, we are happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).

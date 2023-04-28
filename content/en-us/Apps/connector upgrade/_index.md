@@ -6,9 +6,9 @@ draft: false
 collapsible: true
 weight: 1
 ---
-### Connector Upgrade Online Help
+### Connector Upgrade Online Hilfe
 
-Here you will find all help and learning resources for our Connector 365 Upgrade App.
+Here you will find all the help and learning resources, for our Connector 365 Upgrade App.
 
 Simply use either the bottom or left navigation menu.
 
