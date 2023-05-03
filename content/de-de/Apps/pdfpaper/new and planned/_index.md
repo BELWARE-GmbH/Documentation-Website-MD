@@ -17,6 +17,19 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 ### Geplante Funktionen für zukünftige Versionen
 - Weitere Funktionen aus Modul PdfPaper
 - Integration von PDF/A-Funktion
+
+### Version 1.3.0.0 - 03.05.2023
+Neue Funktionen:
+- Erweiterung auf Einkaufsbereich
+  - Integration von Funktionsaufrufen im Einkaufsbereich
+    -> Rahmenbestellungen
+    -> Einkaufsgutschriften
+    -> Einkaufsbestellungen
+    -> Einkaufsanfragen
+    -> Einkaufsreklamationen
+  - Möglichkeit des Hinterlegens von Briefpapier in der Berichtsauswahl - Einkauf
+  - Möglichkeit des Hinterlegens von Briefpapier in Dokumentlayouts von Kreditoren
+
 ### Version 1.1.0.1 - 10.01.2023
 Korrekturen:
 - Korrektur der Prioritätensteuerung beim Heranziehen des Briefpapiers.

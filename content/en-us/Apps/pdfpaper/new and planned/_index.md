@@ -17,6 +17,19 @@ In case a question could not be answered, we will be happy to help you personall
 ### Planned functions for future versions
 - Additional functions from PdfPaper module
 - Integration of PDF/A functionality
+
+### Version 1.3.0.0 - 03.05.2023
+New functions:
+- Extension to purchasing area
+  - Integration of function calls in purchasing area
+    -> Blanket purchase orders
+    -> Purchase credit memos
+    -> Purchase orders
+    -> Purchase quotes
+    -> Purchase Return Orders
+  - Possibility to store stationery in report selection - purchase
+  - Possibility to store stationery in document layouts of vendors
+
 ### Version 1.1.0.1 - 10.01.2023
 Corrections:
 - Correction of priority control for picking the stationery.

@@ -8,7 +8,9 @@ weight: 1
 ---
 
 ### New and planned
-
+### Version 2.5.0.1 - 26.04.2023
+Correction:
+- Automatically activate the HTTP request for license verification.
 ### Version 2.5.0.0 - 14.04.2023
 - Implementation of additional table for saving additional files for each process.
 - Implementation of API pages for the use of Power Automate.

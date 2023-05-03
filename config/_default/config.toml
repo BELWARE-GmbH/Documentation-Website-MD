@@ -13,6 +13,7 @@ paginate = 13
 rssLimit = 100
 
 googleAnalytics = "G-L6D63KJZ9Q"
+AnonymizeIP = true
 
 disableKinds = ["taxonomyTerm"]
 
@@ -47,3 +48,13 @@ disableKinds = ["taxonomyTerm"]
 
 [taxonomies]
   tag = "tags"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
