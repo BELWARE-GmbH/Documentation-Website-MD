@@ -17,8 +17,20 @@ By clicking the field **Accepted at** you cand navigate the the complete overvie
 
 ![](images/apps/E-POST/en-us/app_activities_factbox.png)
 
-The page **COnnector 365 Activities** provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred. If the option **Save file in job list** is active in the setup, you can also view the sent document. To do this simply click on the name of the file under **File name**.
+The page **Connector 365 Activities** provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred. If the option **Save file in job list** is active in the setup, you can also view the sent document. To do this simply click on the name of the file under **File name**.
 
-![](images/apps/epostRole centeren.PNG)
+Clicking on the status marker of an entry opens the table of feedback entries.
+![](images/apps/E-POST/en-us/feedback_table_en.png)
 
-In the Role center on the start page you can find the status of all sent and not yet sent documents
+Of interest here are the status ID reported back by the E-Post API, the descriptive status text and time details for various processing steps. In the case of processing errors, these are logged with the associated code, error level and description.
+
+The status is subdivided by the Deutsche Post API into the following levels:
+|Status|Meaning|
+|------|-------|
+|1|**Acceptance of the shipment:** successful transmission of the shipment <br/>Status placement: upon successful upload of the shipment|
+|2|**Processing of the shipment:** PDF has been checked and released for shipment to the printing center <br/>Status placement: a few minutes after acceptance of the shipment|
+|3|**Delivery to print center:** Receipt of the shipment has been reported back to the API by the print center <br/> Status placement: within the next few hours after the shipment has been processed|
+|4|**Processing in print center:** Shipment has been reported back as "shipped" by print center <br/> Status placement: one to two business days after posting to print center|
+
+A quick overview of successfully sent, still open and unsuccessfully sent documents of the last 30 days can be found on the E-Post status tiles in the role center.
+![](images/apps/E-POST/en-us/role_center.png)

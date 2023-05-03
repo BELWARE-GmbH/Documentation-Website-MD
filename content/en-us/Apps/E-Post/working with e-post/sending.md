@@ -10,8 +10,11 @@ weight: 1
 
 ### Sending
 
-With our Connector 365 E-POST App* you can send different types of documents. However, in our application example we will focus on invoices.
-The other document types can be send in the same way.
+{{< notice info "Note" >}}
+The document types [supported by our app](en/de/apps/e-post/first-steps/introduction/) can be found summarized in the [introduction](en/de/apps/e-post/first-steps/introduction/).
+{{< /notice>}}
+
+In our example we focus on posted sales invoices. All other documents can be processed the same way.
 
 First select the document you want to send.
 

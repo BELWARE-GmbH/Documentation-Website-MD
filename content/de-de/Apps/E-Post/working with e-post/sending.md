@@ -10,9 +10,11 @@ weight: 1
 
 ### Versand
 
-Mit unserer Connector 365 E-POST App* können Sie Geb. Verkaufsrechnungen, Geb. Verkaufsgutschriften, Reg. Mahnungen, Verkaufsangebote und Verkaufsaufträge versenden. In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
+{{< notice info "Hinweis" >}}
+Die durch unsere App [unterstützten Belegarten](de-de/apps/e-post/first-steps/introduction/) finden Sie zusammengefasst in der [Einleitung](de-de/apps/e-post/first-steps/introduction/).
+{{< /notice>}}
 
-![](images/apps/E-POST/de-de/app_overview.png)
+In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
 
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
 

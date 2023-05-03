@@ -22,6 +22,20 @@ Die Seite **"Connector 365 Aktivitäten"** bietet Ihnen eine detaillierte Übers
 
 ![](images/apps/E-POST/de-de/app_activities_full.png)
 
-Im Rollencenter auf der Startseite finden Sie den Versandstatus aller postalisch versendeten und noch nicht versendeten Belege: 
+Ein Klick auf die Statusmarkierung eines Eintrags öffnet die Tabelle der Feedbackeinträge.
+![](images/apps/E-POST/de-de/rueckmeldungstabelle_de.png)
 
-![](images/apps/E-POST/de-de/app_role_center.png)
+Interessant sind hier die durch die E-Post API zurückgemeldete Status-ID, der beschreibende Statustext und Zeitangaben zu verschiedenen Bearbeitungsschritten. Bei Verarbeitungsfehlern werden diese mit dazugehörigem Code, Fehlerlevel und Beschreibung protokolliert.
+
+Der Status ist durch die API der Deutschen Post untergliedert in folgende Stufen:
+|Status|Bedeutung|
+|------|---------|
+|1| **Annahme der Sendung:** erfolgreiche Übermittlung der Sendung <br/>Status-Platzierung: bei erfolgreichem Upload der Sendung|
+|2| **Verarbeitung der Sendung:** PDF wurde geprüft und für den Versand an das Druckzentrum freigegeben <br/>Status-Platzierung: einige Minuten nach Annahme der Sendung|
+|3| **Einlieferung in Druckzentrum:** der Empfang der Sendung wurde vom Druckzentrum an die API zurückgemeldet <br/> Status-Platzierung: innerhalb der nächsten Stunden nach Verarbeitung der Sendung|
+|4| **Verarbeitung in Druckzentrum:** Sendung wurde als "versendet" vom Druckzentrum zurückgemeldet <br/> Status-Platzierung: ein bis zwei Werktage nach Einlieferung in das Druckzentrum|
+
+
+Einen schnellen Überblick über erfolgreich versendete, noch offene und nicht erfolgreich versendete Belege der letzten 30 Tage finden Sie auf den Kacheln für den E-Post Status im Rollencenter.
+
+![](images/apps/E-POST/de-de/rollencenter.png)
