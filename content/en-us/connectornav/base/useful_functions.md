@@ -41,3 +41,10 @@ In the example below, the placeholder %36 is replaced by the name of the seller 
 #### SetBodytextArray(ArrayText: ARRAY [100] OF Text[1024])
 
 This function can be used to preallocate an array of dimension 100. The call is made in the DoJob routine before the function call FaxMailWorkflowOneML. The individual dimensions are output one after the other at the position with the placeholder %23.
+
+#### OnBeforeExitFilename(CONJoblist : Record "CON Joblist";VAR Filename : Text)
+
+Used to implement individual placeholders outside the %1 - %8 defined by us for the structure of the file names of the documents.
+The self-selected placeholders should start at %100 to avoid conflicts with other placeholders.
+
+![](images/connectornav/base/OnBeforeExitFilename_Bsp.png)

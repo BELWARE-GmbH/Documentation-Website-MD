@@ -41,3 +41,10 @@ Im unten zu sehenden Beispiel wird der Platzhalter %36 durch den Namen, der dies
 #### SetBodytextArray(ArrayText: ARRAY [100] OF Text[1024])
 
 Mit dieser Funktion kann ein Array der Dimension 100 vorbelegt werden. Der Aufruf erfolgt in der DoJob Routine vor dem Funktionsaufruf FaxMailWorkflowOneML. Die einzelnen Dimensionen werden an der Stelle mit dem Platzhalter %23 nacheinander ausgegeben.
+
+#### OnBeforeExitFilename(CONJoblist : Record "CON Joblist";VAR Filename : Text)
+
+Dient zur Umsetzung individueller Platzhalter außerhalb der von uns definierten %1 - %8 für den Aufbau der Dateinamen der Belege.
+Die selbst gewählten Platzhalter sollten bei %100 starten, um Konflikte mit anderen Platzhaltern zu vermeiden.
+
+![](images/connectornav/base/OnBeforeExitFilename_Bsp.png)
