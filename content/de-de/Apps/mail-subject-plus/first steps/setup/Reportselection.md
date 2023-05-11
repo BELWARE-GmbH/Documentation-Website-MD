@@ -21,17 +21,21 @@ weight: 1
 
 ![](images/apps/Mail_Subject_Plus/de-de/app_report_selection.png)
 
-In der Berichtsauswahl finden Sie das Feld **"Betreff"**, durch Klicken des Feldes gelangen Sie zur Seite **E-Mail-Betreff**.
+In der Berichtsauswahl finden Sie das Feld **"E-Mail-Betreffs"**, das anzeigt, wieviele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite **E-Mail-Betreff**.
+Hier können Sie nun je Sprachcode einen individuellen Betreff definieren. Zum Einen gibt es hier die Möglichkeit, einen statischen Betreff zu formulieren, der in alle Nachrichten gleich eingefügt wird.
 
-![](images/apps/Mail_Subject_Plus/de-de/app_email_subject.png)
+![](images/apps/Mail_Subject_Plus/de-de/Dialog_Email_Betreff.png)
 
+Zum Anderen besteht die Möglichkeit, den Betreff dynamisch zu gestalten. Durch die Nutzung von Platzhaltern passt er sich dann an den Inhalt der Nachricht an.
 
-Hier können Sie nun je Sprachcode einen beliebigen Betreff definieren. Über die **[...]**-Schaltfläche im Feld **Betrefftext** gelangen Sie zur Seite **E-Mail-Betreff-Platzhalter**, welche es Ihnen zusätzlich ermöglicht dynamische Platzhalter zu definieren.
+![](images/apps/Mail_Subject_Plus/de-de/Dialog_Email_Betreff_m_Platzhalter.png)
+
+ Definieren können Sie die Platzhalter, indem Sie im Feld **Betrefftext** auf die **[...]**-Schaltfläche am rechten Rand klicken. So gelangen Sie zur Seite **E-Mail-Betreff-Platzhalter**, auf der Sie die Definitionen vornehmen können.
 
 ![](images/apps/Mail_Subject_Plus/de-de/app_email_subject_placeholder.png)
 
 #### Platzhalter definieren
-Es öffnet sich nun das Fenster **"E-Mail-Betreff-Platzhalter"**, hier können Sie nun die Möglichkeit Ihre Platzhalter zu definieren. Ihnen stehen zwei Felder zur Verfügung:
+Auf der Seite **"E-Mail-Betreff-Platzhalter"** stehen Ihnen zwei Felder zur Verfügung:
 
 **Platzhalter** - Hier definieren Sie wie Ihr Platzhalter aussehen soll
 **Definition** - Diseses Feld definiert, auf welches Feld sich ihr zuvor eingegebener Platzhalter bezieht.
@@ -70,9 +74,6 @@ Nachdem Sie nun Ihre Platzhalter definiert haben, können Sie den Betreff mit Pl
 - **%3** - Das Fälligkeitsdatum
 
 Damit könnten wir nun Beispielsweise, diesen Betreff aufbauen: Unsere Rechnung **%1** für **%2** - Fällig **%3**
-
-![](images/apps/subjectreportselectionfillde.PNG)
-
-wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
+Wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
 
 

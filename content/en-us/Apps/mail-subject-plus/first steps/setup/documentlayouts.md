@@ -17,10 +17,18 @@ First navigate to the desired customer or vendor. Once there, click **"Navigate"
 
 ![](images/apps/subjectdoclayouten.PNG)
 
-Like before if you want a dynamic subject, you have to set up placeholders first if you want a dynamic subject. You can do this by clicking the **[...]** button next to the email subject text field.
+For this there is on the one hand the option to formulate a static subject, which is inserted unchanged in all messages for the respective use.
+
+![](images/apps/Mail_Subject_Plus/en-us/setup_doclayouts.png)
+
+Another option is to formulate dynamic subjects that adapt to the content of each message by using placeholders.
+
+![](images/apps/Mail_Subject_Plus/en-us/setup_doclayouts_w_placeholder.png)
+
+You can define the placeholders by clicking the **[...]** button on the right margin in the **Email Subject** field.
 
 #### Define placeholder
-Now the window **"Email subject placeholder"** opens, here you have the possibility to define your placeholders. Two fields are available to you:
+Now the window **"Email subject placeholder"** opens, where you have the possibility to define your placeholders. Two fields are available to you:
 
 **Placeholder** - Here you define how your placeholder should look like.
 **Definition** - This field defines to which field your previously entered placeholder refers to.
@@ -64,4 +72,4 @@ With this we could now for example, build this subject: Our invoice **%1** for *
 
 ![](images/apps/subjectdoclayoutdoneen.PNG)
 
-how the subject then looks in use, you will find out in the next [step](en-us/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
+How the subject then looks in use, you will find out in the next [step](en-us/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).

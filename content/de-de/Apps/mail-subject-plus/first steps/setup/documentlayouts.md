@@ -8,8 +8,8 @@ weight: 2
 ---
 ### Einrichtung
 
-### Dokumentenlayouts
-Neben der Berichtsauswahl, können Sie auch individuell pro Debitor einen Betreff festlegen - diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
+### Dokumentlayouts
+Neben der eher allgemeinen Einrichtung in der Berichtsauswahl besteht die Möglichkeit, für jeden Debitor festzulegen, welche Belegart mit welchem Betreff versehen werden soll. Diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
 
 ![](images/apps/subjectcustomerde.PNG)
 
@@ -17,10 +17,19 @@ Navigieren Sie zunächst zu dem gewünschten Debitor bzw. Kreditor. Dort angekom
 
 ![](images/apps/subjectdoclayoutde.PNG)
 
-Auch in den Dokumentenlayouts müssen Sie zunächst Platzhalter einrichten, wenn Sie einen dynamischen Betreff wünschen. Dies können Sie tun in dem Sie neben dem Textfeld für den E-Mail Betreff auf die **[...]**-Schaltfläche klicken.
+Hierzu gibt es zum Einen die Option, einen statischen Betreff zu formulieren, der in alle Nachrichten zur jeweiligen Verwendung unverändert eingefügt wird.
+
+![](images/apps/Mail_Subject_Plus/de-de/Einrichtung_Doklayouts.png)
+
+Eine weitere Option ist die Formulierung dynamischer Betreffe, die sich durch die Nutzung von Platzhaltern an den Inhalt der einzelnen Nachricht anpassen.
+
+![](images/apps/Mail_Subject_Plus/de-de/Einrichtung_Doklayouts_m_Platzhalter.png)
+
+Die Definition der Platzhalter können Sie vornehmen, indem Sie im Feld **E-Mail-Betreff** auf die **[...]**-Schaltfläche am rechten Rand klicken.
 
 #### Platzhalter definieren
-Es öffnet sich nun das Fenster **"E-Mail-Betreff-Platzhalter"**, hier können Sie nun die Möglichkeit Ihre Platzhalter zu definieren. Ihnen stehen zwei Felder zur Verfügung:
+Es öffnet sich nun das Fenster **"E-Mail-Betreff-Platzhalter"**.
+Ihnen stehen zwei Felder zur Verfügung:
 
 **Platzhalter** - Hier definieren Sie wie Ihr Platzhalter aussehen soll
 **Definition** - Diseses Feld definiert, auf welches Feld sich ihr zuvor eingegebener Platzhalter bezieht.
@@ -65,4 +74,4 @@ Damit könnten wir nun Beispielsweise, diesen Betreff aufbauen: Unsere Rechnung 
 
 ![](images/apps/subjectdoclayoutdonede.PNG)
 
-wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
+Wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).

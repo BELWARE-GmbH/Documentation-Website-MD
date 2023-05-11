@@ -21,16 +21,22 @@ Using the search function, open the desired report selection - e.g. the one for 
 
 ![](images/apps/Mail_Subject_Plus/en-us/app_report_selection.png)
 
-In the report selection you will find the field **Subject**, by clikcing the field you navigate to the page **Email Subject**.
+In the report selection you will find the field **"Email subjects"**, which shows how many individual formulations have already been created. Clicking the field will take you to the **Email Subject** editing page.
+Here you can now define an individual subject for each language code. On the one hand there is the possibility to formulate a static subject here, which will be inserted in all messages in the same way.
 
-![](images/apps/Mail_Subject_Plus/en-us/app_email_subject.png)
+![](images/apps/Mail_Subject_Plus/en-us/dialog_email_subject.png)
 
-Here you can define different subjects for each language. By clicking the **[...]** button within the field **Subject Text** you navigate to the page **Email Subject Placeholder**, that allows you to define dynamic placeholders.
+On the other hand, there is the possibility to design the subject dynamically. By using placeholders it then adapts to the content of the message.
+
+![](images/apps/Mail_Subject_Plus/en-us/dialog_email_subject_w_placeholder.png)
+
+ You can define the placeholders by clicking the **[...]** button on the right margin in the **Subject text** field. This will take you to the **Email Subject Placeholders** page where you can set the definitions.
 
 ![](images/apps/Mail_Subject_Plus/en-us/app_email_subject_placeholder.png)
 
+
 #### Define placeholder
-Now the window **"Email subject placeholder"** opens, here you have the possibility to define your placeholders. Two fields are available to you:
+On the page **"Email subject placeholder"** two fields are available to you:
 
 **Placeholder** - Here you define how your placeholder should look like.
 **Definition** - This field defines to which field your previously entered placeholder refers to.
@@ -67,9 +73,6 @@ Now that you have defined your placeholders, you can define the subject with pla
 - **%3** - The due date
 
 With this we could now for example, build this subject: Our invoice **%1** for **%2** - Due **%3**
-
-![](images/apps/subjectdoclayoutdoneen.PNG)
-
-how the subject then looks in use, you will find out in the next [step](en-us/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
+How the subject then looks in use, you will find out in the next [step](en-us/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
 
 
