@@ -17,4 +17,4 @@ Currently, the **Connector 365 XRechung**-App is able to process the following d
  - Service credit memos [^*]
 
 [^*]: **Note:** To create XRechnung files for service reports, a premium license is required. 
- You can order it [here](https://forms.office.com/r/6sXf5yVgai). The function is included OnPrem.
+ You can order it [here](en-us/apps/xrechnung/first-steps/test-purchase/).
