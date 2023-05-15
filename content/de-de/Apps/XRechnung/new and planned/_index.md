@@ -11,6 +11,11 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.4.0.0 - PlatzhalterDatum
+Neuerungen:
+* Integration von **Connector 365 Mail Attachments Plus**
+* Möglichkeit, im Dialog flexibel einzustellen, welche Anhänge in die XRechnung-XML-Datei eingebettet werden, und welche als zusätzliche Anhänge per Mail betrachtet werden
+
 ### Version 2.3.0.1 - 26.04.2023
 Korrektur:
 - Schreiben eines negativen Validierungsberichts beim Versand über Easy Batch führt nicht mehr zum Fehler.
