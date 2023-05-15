@@ -34,5 +34,4 @@ In the field **Add document as attachment** you have 3 selection options which d
 
 **PDF** - The original document is attached as a PDF in addition to the XML of the XRechnung. Other attachments are also attached as usual.
 
-***Note: This setting cannot be customized in the mail dialog. If a special setting is desired, it must be
-this must be set in the document layouts.***
+You can find more about attachments [here](en-us/apps/xrechnung/working-with-xrechnung/attachments)
