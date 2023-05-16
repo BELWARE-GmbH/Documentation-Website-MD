@@ -14,6 +14,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+#### Version 1.4.0.0 - PlatzhalterDatum
+Neue Funktionen:
+ - Unterstützung von Belegarten aus dem Service-Bereich
+
 #### Version 1.3.0.0 - 22.03.2023
 Fehlerkorrektur:
 - Bei Neuanlage von Dokumentlayouts und anschließendem Hinzufügen weiterer Empfängeradressen werden diese nun korrekt übernommen.

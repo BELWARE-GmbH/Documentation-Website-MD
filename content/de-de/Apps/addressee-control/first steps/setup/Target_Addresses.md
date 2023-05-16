@@ -24,6 +24,7 @@ Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen 
 | Mahnung/Zinsrechnung  | <img src="/images/apps/Addresse_Control/tick.png" width=30 > ab Version 1.2.0.0 |
 | Bankkonto | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 | Projekt | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
+| Service | <img src="/images/apps/Addresse_Control/tick.png" width=30 > ab Version 1.4.0.0 |
 
 Die **Connector 365 Addressee Control** App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
 
