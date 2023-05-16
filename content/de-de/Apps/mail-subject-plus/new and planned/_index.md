@@ -11,6 +11,15 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
+
+### Version 2.4.0.0 - PlatzhalterDatum
+Neuerungen: 
+ - Verbesserte Unterstützung von Belegarten aus dem Service-Bereich
+ - Anpassungen bei Lizenzprüfung für Nutzung von Service-Bereich 
+
+Korrekturen:
+ - Fehler bei dem zum Teil der falsche Datensatz aus Berichtsauswahl oder Dokumentlayout gezogen wurde, wurde behoben
+
 ### Version 2.3.0.0 - 28.02.2023
 - Definieren von merhsprachigen Betreffs
 ### Version 2.2.0.0 - 06.01.2023

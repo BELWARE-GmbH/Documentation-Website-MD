@@ -13,6 +13,14 @@ weight: 1
 - Increase length of desired placeholders
 - Preview function
 
+### Version 2.4.0.0 - PlaceholderDate
+New features: 
+ - Improved support of document types from service area
+ - Adjustments in license check for use of service area 
+
+Corrections:
+ - Fixed a bug where the wrong record was sometimes pulled from the report selection or document layout.
+
 ### Version 2.3.0.0 - 28.02.2023
 - Defining multi language subjects
 
