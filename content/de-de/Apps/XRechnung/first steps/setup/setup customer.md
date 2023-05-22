@@ -35,6 +35,5 @@ Im Feld **„Beleg als Anhang hinzufügen“** haben Sie 3 Auswahlmöglichkeit
 
 **PDF** - Der Originalbeleg wird zusätzlich zu der XML der XRechnung als PDF angehangen. Weitere Anhänge werden ebenfalls wie gewohnt angehängt.
 
-***Hinweis: Diese Einstellung lässt sich nicht im Mail-Dialog anpassen. Sollte eine besondere Einstellung gewünscht sein, so
-muss diese in den Dokumentenlayouts gesetzt werden.***
+Mehr zum Thema Anhänge finden Sie [hier](de-de/apps/xrechnung/working-with-xrechnung/attachments).
 

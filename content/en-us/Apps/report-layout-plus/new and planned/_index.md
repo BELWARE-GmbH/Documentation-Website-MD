@@ -11,3 +11,6 @@ weight: 1
 
 ### Version 1.0.0.1 - 07.02.2023
 - First release
+
+### Version 1.1.0.0 - 22.05.2023
+ - Support for document types from service area

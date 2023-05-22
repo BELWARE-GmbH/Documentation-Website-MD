@@ -12,6 +12,14 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.3.0.0 - 22.05.2023
+
+Neuerungen:
+ - Unterstützung für Belegarten aus dem Service-Bereich
+ - Anhänge können nun pro Dokument-Layout-Zeile gepflegt werden
+ - Für Anhänge kann nun eingerichtet werden, ob diese für XRechnung-Versand eingebettet 
+   oder als zusätzliche Mail-Anhänge behandelt werden (nur in Verbindung mit Connector 365 XRechnung)
+
 ### Version 2.1.0.0 - 06.01.2023
 Implementierung der neuen Lizenzprüfung:
 - Ab sofort werden alle Business Central Nutzer der Produktivumgebung zur Lizenzierung berücksichtigt und abgrechnet.

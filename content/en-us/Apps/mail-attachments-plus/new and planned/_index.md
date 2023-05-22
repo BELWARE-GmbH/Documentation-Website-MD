@@ -12,7 +12,15 @@ weight: 1
 ### Planned features for future versions
 - Attachment functionality on furhter levels
 
-### Version 2.2.0.0 - 06.01.2023
+### Version 2.3.0.0 - 22.05.2023
+
+New features:
+ - Support for document types from the service area
+ - Attachments can now be maintained per document layout line
+ - For XRechnung, Attachments can now be configured to be embedded or to be 
+   treated as additional mail attachments (only in connection with Connector 365 XRechnung)
+
+### Version 2.1.0.0 - 06.01.2023
 Implementation of new license check:
 - From now on all Business Central users within the production environment will be considerd for licensing and billing.
 

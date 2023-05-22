@@ -24,6 +24,7 @@ Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal
 Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtbar.
 
 Wenn Sie noch weitere Anhänge haben, welche Sie mitversenden möchten, dann können Sie diese über das Feld **„Datei anhängen“** Ihrer Mail hinzufügen.
+Mehr zum Thema Anhänge finden Sie [hier](de-de/apps/xrechnung/working-with-xrechnung/attachments).
 
 {{< notice info "Hinweis" >}}
  _Für den Fall, dass Sie in den Dokumentlayouts eine einbetten der Anhänge angewählt haben, so werden diese ebenfalls in die XML eingebettet und lassen sich anschließend nur noch maschinell auslesen. Dabei sollte man darauf achten, welche Dateitypen der Empfänger akzeptiert._
