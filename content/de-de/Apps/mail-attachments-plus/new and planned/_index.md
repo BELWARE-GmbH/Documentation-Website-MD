@@ -12,6 +12,10 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.3.0.1 - 22.05.2023
+Korrekturen:
+ - Behebt Fehler, bei dem der Dateiname von Anhängen beim Herunterladen überschrieben wird
+
 ### Version 2.3.0.0 - 22.05.2023
 
 Neuerungen:

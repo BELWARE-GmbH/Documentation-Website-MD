@@ -12,6 +12,10 @@ weight: 1
 ### Planned features for future versions
 - Attachment functionality on furhter levels
 
+### Version 2.3.0.1 - 22.05.2023
+Fixes:
+ - Fixes bug where attachment filename is overwritten during downloading
+
 ### Version 2.3.0.0 - 22.05.2023
 
 New features:
