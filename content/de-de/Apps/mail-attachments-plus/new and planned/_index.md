@@ -12,7 +12,7 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
-### Version 2.3.0.0 - PlatzhalterDatum
+### Version 2.3.0.0 - 22.05.2023
 
 Neuerungen:
  - Unterstützung für Belegarten aus dem Service-Bereich

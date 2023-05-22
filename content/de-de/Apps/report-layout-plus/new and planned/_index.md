@@ -17,5 +17,8 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+### Version 1.1.0.0 - 22.05.2023
+ - Unterstützung für Belegarten aus dem Service-Bereich
+
 ### Version 1.0.0.1 - 07.02.2023
 - Erste Veröffentlichung

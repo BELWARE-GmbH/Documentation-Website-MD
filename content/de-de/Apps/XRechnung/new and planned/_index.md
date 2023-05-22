@@ -11,7 +11,7 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
-### Version 2.4.0.0 - PlatzhalterDatum
+### Version 2.4.0.0 - 22.05.2023
 Neuerungen:
 * Integration von **Connector 365 Mail Attachments Plus**
 * Möglichkeit, im Dialog flexibel einzustellen, welche Anhänge in die XRechnung-XML-Datei eingebettet werden, und welche als zusätzliche Anhänge per Mail betrachtet werden

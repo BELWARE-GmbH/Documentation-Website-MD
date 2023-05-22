@@ -12,7 +12,7 @@ weight: 1
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
 
-### Version 2.4.0.0 - PlatzhalterDatum
+### Version 2.4.0.0 - 22.05.2023
 Neuerungen: 
  - Verbesserte Unterstützung von Belegarten aus dem Service-Bereich
  - Anpassungen bei Lizenzprüfung für Nutzung von Service-Bereich 

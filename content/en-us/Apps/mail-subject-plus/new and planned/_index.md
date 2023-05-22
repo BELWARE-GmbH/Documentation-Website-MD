@@ -13,7 +13,7 @@ weight: 1
 - Increase length of desired placeholders
 - Preview function
 
-### Version 2.4.0.0 - PlaceholderDate
+### Version 2.4.0.0 - 22.05.2023
 New features: 
  - Improved support of document types from service area
  - Adjustments in license check for use of service area 

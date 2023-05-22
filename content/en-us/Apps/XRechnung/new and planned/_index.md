@@ -8,7 +8,7 @@ weight: 1
 ---
 
 ### New and planned
-### Version 2.4.0.0 - PlatzhalterDatum
+### Version 2.4.0.0 - 22.05.2023
 New features:
 * Integration of **Connector 365 Mail Attachments Plus**
 * Possibility to flexibly set in the dialog which attachments are embedded in the XRechnung XML file and which are considered as additional attachments via mail

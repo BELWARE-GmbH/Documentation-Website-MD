@@ -11,7 +11,8 @@ weight: 1
 
 ### Planned features for future versions
 - Attachment functionality on furhter levels
-### Version 2.3.0.0 - PlaceholderDate
+
+### Version 2.3.0.0 - 22.05.2023
 
 New features:
  - Support for document types from the service area
