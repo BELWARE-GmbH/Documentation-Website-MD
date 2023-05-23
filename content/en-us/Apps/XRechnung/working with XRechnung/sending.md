@@ -24,6 +24,7 @@ In the dialog, the sender, the recipient, the subject and also again the Ident I
 The content of the mail can be customized and the current attachments are visible.
 
 If you have other attachments that you want to send, then you can add more attachments via the **“Attach file”** field in the menu bar.
+You can find more on the topic of attachments [here](en-us/apps/xrechnung/working-with-xrechnung/attachments).
 
 {{< notice info "Hinweis" >}}
  _If you have selected embedded attachments in the document layouts, these will also be embedded in the XML and can then only be read by machine. You have to pay attention to which attachments the recipient accepts._

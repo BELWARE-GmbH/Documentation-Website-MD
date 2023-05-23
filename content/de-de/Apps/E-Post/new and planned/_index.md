@@ -18,6 +18,10 @@ weight: 1
   * Bearbeitungsstatus im Zielgebiet
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
+
+### Version 2.5.0.0 - 22.05.2023
+- Unterstützung für Belegarten aus dem Service-Bereich
+
 ### Version 2.4.0.3 - 14.04.2023
 - Korrektur der Anzeige der Statuskachel im Rollencenter
 ### Version 2.4.0.1 - 03.03.2023

@@ -8,6 +8,11 @@ weight: 1
 ---
 
 ### New and planned
+### Version 2.4.0.0 - 22.05.2023
+New features:
+* Integration of **Connector 365 Mail Attachments Plus**
+* Possibility to flexibly set in the dialog which attachments are embedded in the XRechnung XML file and which are considered as additional attachments via mail
+
 ### Version 2.3.0.1 - 26.04.2023
 Correction:
 - Writing a negative validation report when sending via Easy Batch no longer results in an error.

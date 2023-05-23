@@ -13,6 +13,11 @@ Here you will find all the important information and instructions on how to inst
 Simply use either the bottom or left navigation menu.
 
 In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
+
+#### Version 1.4.0.0 - 22.05.2023
+New features:
+ - Support of document types from the service area
+
 #### Version 1.3.0.0 - 22.03.2023
 Error Correction:
 - When creating new document layouts and subsequently adding further recipient addresses, these are now correctly adopted.

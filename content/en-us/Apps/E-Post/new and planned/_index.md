@@ -16,6 +16,9 @@ weight: 1
     - Pos. service invoices
     - Pos. service credit memos
 
+### Version 2.5.0.0 - 22.05.2023
+- Support for document types from service area
+
 ### Version 2.4.0.3 - 14.04.2023
 - Corrections:
   - Corrected the view of the status cue in the role center.

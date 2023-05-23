@@ -22,6 +22,7 @@ Please refer to the following table of currently usable report selections for us
 | Warehouse      | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
 | Reminder/Finance Charge  | <img src="/images/apps/Addresse_Control/tick.png" width=30 > from version 1.2.0.0 on|
 | Bank Account | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
+| Service | <img src="/images/apps/Addresse_Control/tick.png" width=30 > from version 1.4.0.0 on |
 
 The **Connector 365 Addressee Control** app adds a subpage to supported report selection pages.
 
