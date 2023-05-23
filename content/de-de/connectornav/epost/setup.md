@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 1
+weight: 2
 ---
 
 #### Die Einrichtung
@@ -24,6 +24,7 @@ Vor nutzen der E-Post-Funktionen muss zunächst eine Einrichtung stattfinden. Di
 | Sperrfläche anzeigen | Die Deutsche Post erfordert bestimmte freie Bereiche auf Briefe, diese lassen sich mit dieser Option im Testmodus anzeigen. |
 
 ##### Passwort setzen
-Damit die E-POST-Funktion vollständig genutzt werden kann muss ein Passwort gesetzt und ein Geheimnis generiert werden. Dies erfolgt über die **"Passwort setzen"-Schaltfläche**.
+Damit die E-POST-Funktion vollständig genutzt werden kann, muss ein Passwort gesetzt und ein Geheimnis generiert werden. Dies erfolgt über die **"Passwort setzen"-Schaltfläche**.
 
-Mit einem Klick darauf öffnet sich ein neues Fenster und zeitgleich wird ein SMS-Code an die bei der Registrierung angegebene Handy-Nr. gesendet. Geben Sie in dem Fenster nun den Code und das von Ihnen gewünschte Passwort ein und bestätigen Sie den Dialog. Die Felder Geheimnis und Passwort sind nun in der Einrichtung gefüllt.
+Vor Setzen des Passworts sollten Sie sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist. Anschließend klicken Sie auf **"Passwort setzen"** in der Einrichtung. Es öffnet sich nun ein neuer Dialog und gleichzeitig erhält der Admin, der bei der E-POST Registrierung angegeben wurde, eine SMS mit einer PIN.
+Geben Sie das gewünschte Passwort und die PIN in die entsprechenden Felder ein und bestätigen Sie den Dialog mit OK. Das Passwort ist nun gesetzt und es wird automatisch ein Geheimnis generiert und das entsprechende Feld der Einrichtung gefüllt.
