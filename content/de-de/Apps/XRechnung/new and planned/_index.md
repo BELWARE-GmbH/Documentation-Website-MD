@@ -11,6 +11,10 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.4.0.1 - 31.05.2023
+Korrektur:
+- Behebt unzureichende Berechtigungen bei Erzeugen und Versenden von XRechnungen
+
 ### Version 2.4.0.0 - 22.05.2023
 Neuerungen:
 * Integration von **Connector 365 Mail Attachments Plus**
