@@ -10,7 +10,7 @@ weight: 5
 
 ### Check the Tax Category
 
-Finally, it is also worth looking at the tax category, this can be found in the **VAT Posting Setup**, this can again be called up most quickly via the search function.
+It is also worth looking at the tax category, which can be found in the **VAT Posting Setup**. This again can be called up most quickly via the search function.
 
 Here you should now fill the field “Tax category” with the respective designation, you can find this [here](https://docs.peppol.eu/poacc/billing/3.0/codelist/UNCL5305/) finden. In most cases you will only need E S and Z.
 
