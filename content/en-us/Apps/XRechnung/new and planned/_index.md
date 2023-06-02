@@ -8,6 +8,11 @@ weight: 1
 ---
 
 ### New and planned
+
+### Version 2.4.0.1 - 31.05.2023
+Correction:
+- Fixes insufficient permissions at XRechnung creation and sending
+
 ### Version 2.4.0.0 - 22.05.2023
 New features:
 * Integration of **Connector 365 Mail Attachments Plus**
