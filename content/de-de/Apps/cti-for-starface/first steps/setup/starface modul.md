@@ -7,9 +7,11 @@ collapsible: false
 weight: 1
 ---
 ### Einrichtung
-Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf dieser Seite downloaden können.
+Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch diese entsprechend eingerichtet werden. Dazu benötigen Sie ein Modul, das Sie weiter unten auf dieser Seite passend zu Ihrer STARFACE-Version herunterladen können.
 
 #### Informationsquellen
+Für die Einrichtung der STARFACE-Software benötigen Sie einige Informationen. Wo Sie diese in Business Central finden, wird hier beschrieben.
+
 Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter **"Benutzer"** in der jeweiligen **"Benutzerkarte"**. Die Webdienst-URL finden Sie in Business Central unter **"Webdienste", OData V4-URL**.
 
 ![](images/apps/ctiodatade.PNG)

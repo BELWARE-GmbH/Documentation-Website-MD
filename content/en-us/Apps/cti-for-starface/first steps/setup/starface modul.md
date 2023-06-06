@@ -7,7 +7,10 @@ collapsible: false
 weight: 2
 ---
 ### Setup
-In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download on this page.
+In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, it must also be set up accordingly. For this you need a module that you can download further down on this page according to your STARFACE version.
+
+#### Sources of Information
+For the setup of the STARFACE software some information is required. Where to find it in Business Central is described here.
 
 The name of the Microsoft Dynamics 365 Business Central users as well as the respective web key can be found, in Microsoft Dynamics 365 Business Central under **"Users"** in the respective **"User card"**. The web service URL can be found in Business Central under **"Web Services", OData V4 URL**.
 
