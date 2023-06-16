@@ -10,7 +10,7 @@ weight: 1
 
 ### Einleitung
 
-Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken. Mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger als notwendig.
+Beim Versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken. Mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger als notwendig.
 
 Mit dem Connector 365 Easy Batch ist es möglich, mehrere Belege intelligent gesteuert und gleichzeitig zu versenden. Richten Sie die gewünschte Versandmethode in den Dokumentenlayouts ein und wählen Sie einfach Ihre Belege aus, die Sie versenden wollen:  Ein Klick und alle Belege werden versendet.
 

@@ -10,7 +10,7 @@ weight: 1
 
 ### Easy Batch Einrichtung
 
-Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort **Connector 365 EInrichtung** ein.
+Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort **Connector 365 Einrichtung** ein.
 Dort finden Sie den Reiter **Easy Batch Einrichtung**.
 
 Grundsätzlich werden alle Belege über Easy Batch im Hintergrund verarbeitet.

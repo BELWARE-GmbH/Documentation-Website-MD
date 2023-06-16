@@ -42,14 +42,14 @@ Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 3
 Beide Apps sollten nun im System veröffentlicht sein.
 
 {{< notice info "Hinweis" >}}
- _In Versionen bis BC 16 müssen Sie dem Befehl noch den parameter -SkipVerification hinzufügen, da es sonst zu einer Fehlermeldung kommt._
+ _In Versionen bis BC 16 müssen Sie dem Befehl noch den Parameter -SkipVerification hinzufügen, da es sonst zu einer Fehlermeldung kommt._
 {{< /notice >}}
 #
 
 #### Installieren der Connector 365 Base & Easy Batch App
 In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
 
-##### Installieren via des Clients
+##### Installation über den Web-Client
 Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
 
 ![](images/apps/appinstallde.PNG)

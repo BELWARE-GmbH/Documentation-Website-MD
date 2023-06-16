@@ -14,7 +14,7 @@ weight: 1
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Easy Batch** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Easy Batch** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
 ![](images/apps/mailattachmentssuche_ÄNDERN.PNG)
 

@@ -14,7 +14,7 @@ Die Seite Offene Aufgaben bietet Ihnen eine Übersicht sämtlicher Belege, welch
 
 ![](images/apps/Easy_Batch/de-de/app_open_tasks.png)
 
-Neben der geplanten Verarbeitungszeit, kann im Fehlerfall im Feld **Fehlernachricht** nachgeprüft werden, warum die Verarbeitun fehlschlug.
+Neben der geplanten Verarbeitungszeit kann im Fehlerfall im Feld **Fehlernachricht** nachgeprüft werden, warum die Verarbeitung fehlschlug.
 
 Über die Schaltfläche **Verarbeitung stornieren** kann die Verarbeitung für einzelne Belege gestoppt werden.
 
@@ -23,4 +23,4 @@ Es werden nur Aufgaben berücksichtigt, welche bei der Verarbeitung auf einen Fe
 
 Durch Klicken des Felds **Belegnr.** navigieren Sie zum spezifischen Beleg.
 
-Nachdem die Verarbeitung erfolgreich war werden die Vorgänge aus dieser Übersicht entfernt und anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easy-batch/working-with-easy-batch/archive/) archiviert.
+Nachdem die Verarbeitung erfolgreich war, werden die Vorgänge aus dieser Übersicht entfernt und anschließend in den [Connector 365 Aktivitäten](/de-de/apps/easy-batch/working-with-easy-batch/archive/) archiviert.

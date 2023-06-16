@@ -10,7 +10,7 @@ weight: 2
 
 ### Einrichten der Dokumentlayouts
 
-Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren, welche Belege im Stapelversand erhalten wollen, dies entsprechend einrichten.
 
 Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
 
@@ -18,34 +18,32 @@ Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie 
 
 ![](images/apps/easynavigatede.PNG)
 
-Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
+Dort angekommen, werden Sie zwei neue Kontrollelemente entdecken: eine Checkbox zur Steuerung des Stapelmodus und ein Dropdown-Menü für den Jobmodus.
 
-Der Haken im Feld **Stapelmodus** aktiviert für diesen Eintrag den Stapelmodus.
+Der Haken im Feld **Stapelmodus** bewirkt, dass bei der Stapelverarbeitung für die jeweilige Verwendung der hier ausgewählte Jobmodus verwendet wird.
 
-Die Auswahl im Feld **Jobmodus** gibt an wie genaue die Belege des Debitors verarbeitet werden.
-
-Über diese beiden Schaltflächen steuern Sie den Stapelmodus des Debitors.
+Die Auswahl im Feld **Jobmodus** steuert die Art der Ausgabe der Belege.
 
 ![](images/apps/easylayoutde.PNG)
 
-Sie können sämtliche Verwendungszwecke einrichten und im Stapelmodus nutzen. Es ist grundsätzlich möglich mehrere Jobmodi pro Beleg einzustellen, diese werden dann nacheinander abegearbeitet.
+Sie können sämtliche Verwendungszwecke einrichten und im Stapelmodus nutzen. Es ist grundsätzlich möglich, mehrere Jobmodi pro Beleg einzustellen. Diese werden dann nacheinander abgearbeitet.
 
 #### Jobmodus
-Der Jobmodus gibt an wie der Stapel gehandhabt wird. Standardmäßig stehen Ihnen dort drei Optionen zur Verfügung - E-Mail, Druck und Leer.
+Der Jobmodus gibt an, wie der Stapel gehandhabt wird. Standardmäßig stehen Ihnen dort drei Optionen zur Verfügung - E-Mail, Druck und Leer.
 
 **E-Mail**
-Im Modus E-Mail, werden die Belege des Debitors bei Benutzung der Stapelfunktion per E-Mail versendet.
+Im Modus E-Mail werden die Belege des Debitors bei Benutzung der Stapelfunktion per E-Mail versendet.
 
 **Druck**
-Im Modus Druck, werden die Belege des Debitors bei Benutzung der Stapelfunktion ausgedruckt. Es greift der Standard der Druckerauswahl.
+Im Modus Druck werden die Belege des Debitors bei Benutzung der Stapelfunktion ausgedruckt. Es greift der Standard der Druckerauswahl.
 
 **Leer**
-Ein leeres Feld ist ein Sonderfall. Es greift dann, wenn der Haken im Feld Stapelmodus nicht gesetzt ist. Kommt es in dieser Konstellation zum Start der Stapelfunktion so wird das für den jeweiligen Debitor gesetzte *Belegsendeprofil* für die Verarbeitung des Eintrags genutzt. 
+Ein leeres Feld ist ein Sonderfall. Es greift dann, wenn der Haken im Feld Stapelmodus nicht gesetzt ist. Kommt es in dieser Konstellation zum Start der Stapelfunktion, so wird das für den jeweiligen Debitor gesetzte *Belegsendeprofil* für die Verarbeitung des Eintrags genutzt. 
 
-Für den Fall dass Sie entweder die Connector 365 E-POST App, die Connector 365 XRechnung App oder beide Apps einsetzen, so stehen Ihnen noch die folgenden Optionen zur Verfügung:
+Für den Fall, dass Sie entweder die Connector 365 E-POST App, die Connector 365 XRechnung App oder beide Apps einsetzen, so stehen Ihnen noch die folgenden Optionen zur Verfügung:
 
 **XRechnung**
-Im Modus XRechnung, werden die Belege des Debitors bei Benutzung der Stapelfunktion als XRechnung versendet. Dieser Modus benötigt ein vorheriges einrichten der Connector 365 XRechnung App. Weitere Informationen hierzu finden Sie in der Einrichtung der [Connector 365 XRechnung App](/de-de/apps/xrechnung/first-steps/setup/)
+Im Modus XRechnung, werden die Belege des Debitors bei Benutzung der Stapelfunktion als XRechnung versendet. Dieser Modus benötigt ein vorheriges Einrichten der Connector 365 XRechnung App. Weitere Informationen hierzu finden Sie in der Einrichtung der [Connector 365 XRechnung App](/de-de/apps/xrechnung/first-steps/setup/)
 
 **E-POST**
 Im Modus E-POST, werden die Belege des Debitors bei Benutzung der Stapelfunktion als Brief versendet. Dieser Modus benötigt ein vorheriges einrichten der Connector 365 E-POST App. Weitere Informationen hierzu finden Sie in der Einrichtung der [Connector 365 E-POST App](/de-de/apps/e-post/first-steps/setup/)

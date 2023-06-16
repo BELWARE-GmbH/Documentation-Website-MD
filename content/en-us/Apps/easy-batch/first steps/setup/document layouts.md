@@ -18,13 +18,11 @@ Open the desired customer and navigate to the document layouts
 
 ![](images/apps/easynavigateen.PNG)
 
-Once there, you will notice two new buttons, one is a check mark for batch mode and the other is a drop down menu for job mode.
+Once there, you will discover two new controls: a checkbox to control the batch mode and a dropdown menu for the job mode.
 
-The checkmark in the **Batchmode** field activates the batch mode for this entry.
+The check in the **Batch Mode** field causes the job mode selected here to be used during batch processing for the respective usage.
 
-The selection in the **Job Mode** field specifies how the customer's documents will be processed.
-
-These two fields control the batch mode of the customer.
+The selection in the **Job Mode** field controls the way the documents are put out.
 
 ![](images/apps/easylayouten.PNG)
 

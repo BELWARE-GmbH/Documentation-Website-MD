@@ -36,7 +36,7 @@ Implementierung der neuen Lizenzprüfung:
 - Einkaufsbereich um Einkaufsanfragen erweitert.
 - Automatisierter Versand für Einkaufsbestellungen und Einkaufsanfragen.
 - Fehlerkorrektur beim Setzen des E-Mailabsenders.
-  Der E-mailabsender wurde für die einzelnen Szenarios nicht korrekt gesetzt.
+  Der E-Mailabsender wurde für die einzelnen Szenarios nicht korrekt gesetzt.
 
 ### Version 2.2.0.0
  - Kompatibilität mit **Connector 365 Addressee Control** App vom 04.11.2022
@@ -45,9 +45,9 @@ Implementierung der neuen Lizenzprüfung:
 
 ### Version 2.1.0.0
 Verbesserungen:
- - Implementierung der Funktionalität zum erneuten starten offener Aufgaben, welche auf einen Fehler gestoßen sind.
+ - Implementierung der Funktionalität zum erneuten Starten offener Aufgaben, welche auf einen Fehler gestoßen sind.
  - Navigation zum Beleg aus der Liste offener Aufgaben.
- - fehlernachricht nun als Textfeld in die Tabelle der offenen AUfgaben integriert.
+ - Fehlernachricht nun als Textfeld in die Tabelle der offenen Aufgaben integriert.
 
 ### Version 2.0.0.0
 Verbesserungen:
@@ -74,7 +74,7 @@ Korrekturen:
   -- Bei mehreren Einträgen mit der gleichen Berichts-Id für einen Debitor
 
 ### Version 1.0.0.11
-- Korrektur: Fortschrittsanzeige der aktuell bearbeiteten Dokumenten korrigiert
+- Korrektur: Fortschrittsanzeige der aktuell bearbeiteten Dokumente korrigiert
 
 ### Version 1.0.0.10
 - Integration der ***Connector 365 pdfPaper*** App.

@@ -12,7 +12,7 @@ weight: 3
 
 Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
 
-Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von **"Buchen und Senden"** gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Standardmäßig ist die Funktionalität für die Verwendung von **"Buchen und Senden"** gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
 
 #### Einrichten von Belegsendeprofilen
 

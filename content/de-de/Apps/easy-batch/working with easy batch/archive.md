@@ -22,4 +22,4 @@ Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und
 
 ![](images/apps/easyarchivede.PNG)
 
-In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden. Hier könen verschiedene Parameter zur Verarbeitung eingesehen werden, wie z.B. wann der Job durchgeführt wurde, welcher Nutzer ihn ausgelöst hat und welchen Status die Verarbeitung hat.
+In den Aktivitäten werden Jobs aufgeführt, die über den Stapelmodus ausgelöst wurden. Hier könen verschiedene Parameter zur Verarbeitung eingesehen werden, wie z.B. wann der Job durchgeführt wurde, welcher Nutzer ihn ausgelöst hat und welchen Status die Verarbeitung hat.
