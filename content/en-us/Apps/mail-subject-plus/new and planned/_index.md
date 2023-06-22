@@ -13,6 +13,10 @@ weight: 1
 - Increase length of desired placeholders
 - Preview function
 
+### Version 2.5.0.0 - 22.06.2023
+Corrections:
+ - show subject lines in vendor document layouts
+
 ### Version 2.4.0.0 - 22.05.2023
 New features: 
  - Improved support of document types from service area
