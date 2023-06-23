@@ -12,6 +12,10 @@ weight: 1
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
 
+### Version 2.5.0.0 - 22.06.2023
+Korrekturen:
+ - Einblenden von Betreffzeilen in Kreditor-Dokumentlayouts
+
 ### Version 2.4.0.0 - 22.05.2023
 Neuerungen: 
  - Verbesserte Unterstützung von Belegarten aus dem Service-Bereich
