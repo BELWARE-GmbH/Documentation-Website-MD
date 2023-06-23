@@ -12,7 +12,7 @@ weight: 2
 Sie erhalten von uns die Objekte für die Connector 365 Base & Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 
 #### Veröffentlichen der Connector 365 Base & Mail Attachment Plus App
-Das veröffentlichen der Connector 365 Base & Mail Attachment Plus App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.
+Das Veröffentlichen der Connector 365 Base & Mail Attachment Plus App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server, auf dem Ihre Business Central Instanz läuft.
 
 ![](images/apps/adminshell.PNG)
 
@@ -47,9 +47,9 @@ Beide Apps sollten nun im System veröffentlicht sein.
 #
 
 #### Installieren der Connector 365 Base & Mail Attachment Plus App
-In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
+In der Erweiterungsverwaltung Ihrer Umgebung werden Ihnen nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
 
-##### Installieren via des Clients
+##### Installation über den Web-Client
 Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
 
 Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert. Mit einem Klick auf die 3 Punkte der jeweiligen App, können Sie diese nun über den Punkt **Installieren** in Ihrer Umgebung installieren.

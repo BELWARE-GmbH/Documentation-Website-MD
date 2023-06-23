@@ -16,23 +16,23 @@ Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folg
 In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
 
 {{< notice info "Hinweis" >}}
- _Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus._
+ _Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur Verfügung steht, sieht der Ablauf ein wenig anders aus._
 {{< /notice >}}
 #
 
 #### Mail mit Standardanhängen pro Bericht
 
-Öffnen Sie dazu einfach den Bericht für den Sie zuvor Ihre Anhänge eingerichtet haben und klicken Sie anschließend auf **"Drucken/Senden"** und die reguläre **"Per E-Mail senden"** Funktion.
+Öffnen Sie dazu einfach den Bericht, für den Sie zuvor Ihre Anhänge eingerichtet haben und klicken Sie anschließend auf **"Drucken/Senden"** und die reguläre **"Per E-Mail senden"** Funktion.
 
-Es öffnet sich die Standard Microsoft Mail Experience, wenn Sie zum Bereich Anhänge runterscrollen werden Sie die zuvor eingerichteten Anhänge finden.
+Es öffnet sich die Standard Microsoft Mail Experience. Wenn Sie zum Bereich Anhänge herunterscrollen, werden Sie die zuvor eingerichteten Anhänge finden.
 
 ![](images/apps/attachmentdialogreport.PNG)
 
-Es wird Ihnen sicherlich aufgefallen sein, dass nicht alle Anhänge die zuvor eingerichtet wurde auch angehängt wurden, dies liegt daran dass einer der Anhänge mit einem bestimmten Zeitraum versehen wurde in dem wir uns aktuell nicht befinden.
+Es wird Ihnen sicherlich aufgefallen sein, dass nicht alle Anhänge, die zuvor eingerichtet wurden, auch angehängt wurden. Dies liegt daran, dass einer der Anhänge mit einem bestimmten Zeitraum versehen wurde, in dem wir uns aktuell nicht befinden.
 
-Sollte einer der Anhänge nicht passen können Sie diese einfach wie gewohnt, über die 3 Punkte und **"löschen"** entfernen.
+Sollte einer der Anhänge nicht passen, können Sie diesen wie gewohnt über die 3 Punkte und **"löschen"** entfernen.
 
-Ein nutzen der Mail Attachment Plus App verhindert nicht die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei anhängen"** weitere Anhänge hinzufügen. Mit einem Klick auf **"Verwalten"** -> **"Datei anhängen"** ist dies auch möglich.
+Das Nutzen der Mail Attachment Plus App verhindert nicht, die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei anhängen"** weitere Anhänge hinzufügen. Mit einem Klick auf **"Verwalten"** -> **"Datei anhängen"** ist dies auch möglich.
 
 ![](images/apps/attachmentreportsetupchange.PNG)
 

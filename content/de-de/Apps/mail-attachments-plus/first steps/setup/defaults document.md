@@ -18,7 +18,7 @@ Klicken Sie nun bei "Belege" auf die 0, es öffnet sich ein Fenster in dem Sie v
 
 ![](images/apps/attachmentdoc.PNG)
 
-Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle gewünschten Dateien angehängt sind. Ab jetzt können die ausgewählten Dateien immer mit versendet werden, wenn Sie den ausgewählten Beleg versenden.
+Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess, bis alle gewünschten Dateien angehängt sind. Ab jetzt können die ausgewählten Dateien immer mit versendet werden, wenn Sie den ausgewählten Beleg versenden.
 Um diese Option tatsächlich zu nutzen, muss in der passenden Berichtsauswahl bzw. den Dokumentenlayouts des jeweiligen Debitors noch der Haken im Feld **"Dokumentenanhänge verwenden"** gesetzt werden.
 Dabei ist zu beachten, dass die Einstellung in den Dokumentenlayouts diejenige in der Berichtsauswahl überschreibt.
 ![](images/apps/mail_att_plus_berichtsauswahl.png)

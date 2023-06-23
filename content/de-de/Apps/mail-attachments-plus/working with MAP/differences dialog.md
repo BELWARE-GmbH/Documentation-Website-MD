@@ -9,20 +9,20 @@ weight: 1
 ### Arbeiten mit Mail Attachment Plus
 
 #### Unterschiede im Dialog
-Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versand von Mails. Der Prozess zum setzen von Standards ändern sich nicht, lediglich das handhaben der Anhänge im Dialog.
+Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versandes von Mails. Der Prozess zum Setzen von Standards ändert sich nicht, lediglich das Handhaben der Anhänge im Dialog.
 
 ##### Mail Experience
 
 ![](images/apps/attachmentexperience.PNG)
 
-Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Version X.X.X.X) ändert sich im Ablauf im Versand nicht viel, falls Sie schon mit der Mail Experience vertraut sind. Sie können weiterhin die Standardfunktionalitäten der Mail Experience nutzen um Ihre Anhänge zu verwalten. Zusätzlich kommen noch die Standardanhänge des Mail Attachments Plus hinzu, diese interagieren aber nahtlos mit den Funktionalitäten im Standard - Sie können diese also über die schon bekannten Funktion entfernen.
+Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Version X.X.X.X), ändert sich im Ablauf im Versand nicht viel, falls Sie schon mit der Mail Experience vertraut sind. Sie können weiterhin die Standardfunktionalitäten der Mail Experience nutzen, um Ihre Anhänge zu verwalten. Zusätzlich kommen noch die Standardanhänge des Mail Attachments Plus hinzu. Diese interagieren aber nahtlos mit den Funktionalitäten im Standard, Sie können diese also über die schon bekannten Funktion entfernen.
 
 ![](images/apps/attachment.PNG)
 
 **Screenshot Mail Experience**
 
 ##### Regulärer Dialog
-Im schon älteren Dialog, sind noch keine Interaktionen vorgesehen, weshalb wir hier unsere eigenen Knöpfe zum verwalten der Anhänge hinzugefügt haben. Im folgenden werden wir diese erläutern.
+Im schon älteren Dialog, sind noch keine Interaktionen vorgesehen, weshalb wir hier unsere eigenen Knöpfe zum Verwalten der Anhänge hinzugefügt haben. Im Folgenden werden wir diese erläutern.
 
 ![](images/apps/attachmentdefaultdialog.png)
 
@@ -30,7 +30,7 @@ Um Ihre Dateien hinzuzufügen, klicken Sie auf die "0". Sollte dies nicht das er
 
 ![](images/apps/attachmenttable.png)
 
-Um Ihren ersten Anhang hinzuzufügen, klicken Sie auf "Neu" in der Menüleiste oben Links und anschließend "Anhang hinzufügen". Dies öffnet den Dialog, der Ihnen es erlaubt, eine Datei anzuhängen. Wählen Sie Ihre Datei aus und bestätigen Sie den Dialog. Wiederholen Sie diesen Prozess bis Sie alle Ihre Anhänge hinzugefügt haben.
+Um Ihren ersten Anhang hinzuzufügen, klicken Sie auf "Neu" in der Menüleiste oben Links und anschließend "Anhang hinzufügen". Dies öffnet den Dialog, der Ihnen es erlaubt, eine Datei anzuhängen. Wählen Sie Ihre Datei aus und bestätigen Sie den Dialog. Wiederholen Sie diesen Prozess, bis Sie alle Ihre Anhänge hinzugefügt haben.
 
 ![](images/apps/attachmentselection.png)
 

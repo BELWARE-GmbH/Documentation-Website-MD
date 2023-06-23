@@ -40,7 +40,7 @@ Implementierung der neuen Lizenzprüfung:
   - C365 View
   - C365 Edit
   - C365 Setup
-- Nun Abhängig von Base App Version 1.0.1.23
+- Nun abhängig von Base App Version 1.0.1.23
 
 ### Version 1.0.0.10
 - Aus technischen Gründen mussten neue Objekt IDs vergeben werden

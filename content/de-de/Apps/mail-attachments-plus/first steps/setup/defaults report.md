@@ -16,7 +16,7 @@ Standardanhänge sind eine gute Möglichkeit, Zeit zu sparen, wenn Sie Ihren E-M
 
 Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in diesem Beispiel werden wir Verkäufe und Rechnungen verwenden. Wenn Sie sich nicht sicher sind, wo Sie die Berichtsauswahl finden, können Sie jederzeit die Suchfunktion von Dynamics 365 Business Central verwenden.
 
-Wie Sie im obigen Screenshot sehen können, gibt es in diesem Fenster auch ein neues Feld für Anhänge. Der Prozess des Hinzufügens neuer Standard-Anhänge funktioniert wie das Hinzufügen von Anhängen zu Ihrer regulären Mail. Beginnen Sie mit einem Klick auf die 0, um den Anhangsdialog zu öffnen und fügen Sie Ihre Dateien über "Neu" und "Anhang hinzufügen" hinzu.
+Wie Sie im obigen Screenshot sehen können, gibt es in diesem Fenster auch ein neues Feld für Anhänge. Der Prozess des Hinzufügens neuer Standardanhänge funktioniert wie das Hinzufügen von Anhängen zu Ihrer regulären Mail. Beginnen Sie mit einem Klick auf die 0, um den Anhangsdialog zu öffnen und fügen Sie Ihre Dateien über "Neu" und "Anhang hinzufügen" hinzu.
 
 **Festlegen eines Anhangs auf einen bestimmten Zeitraum**
 

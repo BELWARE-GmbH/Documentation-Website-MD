@@ -10,7 +10,7 @@ weight: 2
 
 ### AppSource
 
-Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.mailattachmentsplus|PAppID.bedbabd4-3c73-482d-b8f5-1813e5a2493c?tab=Overview) zur Verfügung.
+Die App steht Ihnen in der [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.mailattachmentsplus|PAppID.bedbabd4-3c73-482d-b8f5-1813e5a2493c?tab=Overview) zur Verfügung.
 
 ![](images/apps/attachmentstore.PNG)
 
@@ -29,7 +29,7 @@ Zum Bestellformular
 
 ![](images/apps/attachmentforms_removed.PNG)
  
-Connector 365 XRechnung steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+Connector 365 XRechnung steht Ihnen für die folgende BC-Lizensierung zur Verfügung:
 
 - SaaS Essential
 - SaaS Premium
