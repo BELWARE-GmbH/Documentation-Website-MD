@@ -9,8 +9,6 @@ weight: 2
 
 #### Die Connector NAV Benutzerbericht Einrichtung
 
-Das Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
-
 ![](/images/connectornav/status/ben_ber_einr.png)<center>Connector NAV Benutzerbericht Einrichtung, Register Allgemein</center>
 
 Für das Versenden von Statusmeldungen wird ein Satz in der Benutzerberichts Einrichtung mit folgenden Parametern angelegt:
