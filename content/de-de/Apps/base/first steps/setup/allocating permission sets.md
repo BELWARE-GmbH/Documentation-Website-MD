@@ -11,6 +11,6 @@ weight: 1
 #### Berechtigungssätze
 Sie können Nutzern drei verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
 
-- **C365, Setup** - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung vorzunehmen und zu ändern
-- **C365, Edit** - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches.
-- **C365, View** - Erlaubt dem Nutzer, die App grundsätzlich zu nutzen
+- **CON365, Setup** - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung vorzunehmen und zu ändern
+- **CON365, Edit** - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches.
+- **CON365, View** - Erlaubt dem Nutzer, die App grundsätzlich zu nutzen

@@ -11,6 +11,6 @@ weight: 1
 ### Permission Sets
 You can assign 3 different types of permission sets to users. Each grants the user a different level of access to the app:
 
-- **C365, Setup** - Enables the user to make changes to the Connector 365 Setup.
-- **C365, Edit** - Enables the user to further setup the app. For example managing email attachments, email subjects and similar.
-- **C365, View** - ENables the user to simply use the app.
+- **CON365, Setup** - Enables the user to make changes to the Connector 365 Setup.
+- **CON365, Edit** - Enables the user to further setup the app. For example managing email attachments, email subjects and similar.
+- **CON365, View** - ENables the user to simply use the app.
