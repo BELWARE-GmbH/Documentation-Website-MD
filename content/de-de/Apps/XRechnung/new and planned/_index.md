@@ -11,6 +11,15 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.5.0.3 - 31.07.2023
+Neuerungen:
+ - Kompatibiltät zu XRechnung 2.3
+ - Leitweg-Id-Prüfung nur noch optional - führt nicht mehr zum Fehler
+ - Möglichkeit, XRechnung Version und Kennung in Einrichtung festzulegen
+
+Korrektur:
+ - Behebt Berechtigungsprobleme bei Nutzung von XRechnung mithilfe von mitgelieferten Berechtitungssätzen
+
 ### Version 2.4.0.1 - 31.05.2023
 Korrektur:
 - Behebt unzureichende Berechtigungen bei Erzeugen und Versenden von XRechnungen

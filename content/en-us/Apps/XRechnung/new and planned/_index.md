@@ -9,6 +9,15 @@ weight: 1
 
 ### New and planned
 
+### Version 2.5.0.3 - 31.07.2023
+New features:
+ - Compatibility with XRechnung 2.3
+ - Ident-Id (Leitweg-Id) check only optional - no longer leading to error
+ - Possibility to set XRechnung version and identifier in setup
+
+Correction:
+ - Fixes permission issues when using XRechnung using supplied permission sets.
+
 ### Version 2.4.0.1 - 31.05.2023
 Correction:
 - Fixes insufficient permissions at XRechnung creation and sending
