@@ -9,6 +9,9 @@ weight: 1
 ### Einrichtung
 
 ### E-POSTBUSINESS API
+
+Unter **Unterstütztes Setup** finden Sie einen Assistenten, der Sie Schritt für Schritt durch den Einrichtungsprozess der App und des E-POST-Kontos führt. Ansonsten können Sie dieser Dokumentation folgen.
+
 Über die Suche unter **"Connector 365 Einrichtung"** können Sie die Einrichtung für die Connector 365 E-POST App* finden. Hier werden alle für eine korrekte Funktion notwendigen Daten eingetragen.
 
 ![](images/apps/E-POST/de-de/app_setup.png)

@@ -18,7 +18,9 @@ In our example we focus on posted sales invoices. All other documents can be pro
 
 First select the document you want to send.
 
-The function for sending letters by post can be found under **Print/Send** in the menu bar. Open it and select **Send as letter** to open the dialog for sending letters.
+Now there are two ways to send the document as a letter. Either by using the standard function **Send...**, whereby the document is sent depending on the specified **document sending profile** or by using the function **Send as Letter**. 
+
+Both functions can be accessed via the menu bar under **Print/Send**.
 
 ![](images/apps/E-POST/en-us/app_send_letter.png)
 
@@ -35,7 +37,7 @@ After you have made all desired changes, you can execute the dispatch with a cli
 {{< /notice >}}
 #
 
-#### Aktionen
+#### Actions
 
 | Field             | Description                                                                                                                    |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------|

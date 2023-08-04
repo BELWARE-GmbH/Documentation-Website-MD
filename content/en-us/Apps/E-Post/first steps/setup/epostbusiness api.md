@@ -6,9 +6,12 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### Erste Schritte
+## Setup
 
-### Einrichtung
+### E-POSTBUSINESS API
+
+Under **Assisted Setup** you can find a wizard that will guide you step by step through the setup process of the App and E-POST account. Otherwise you can follow this documentation.
+
 By searching **"Connector 365 Setup"** you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
 
 ![](images/apps/E-POST/en-us/app_setup.png)

@@ -18,7 +18,9 @@ In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkau
 
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
 
-Die Funktion zum Versenden von postalischen Briefen finden Sie unter **"Drucken/Senden"** in der Menüleiste. Klappen Sie diese auf und wählen **"Als Brief senden"** um den Versand zu starten.
+Es gibt nun zwei Möglichkeiten, den Beleg als Brief zu versenden. Entweder über die Standardfunktion **Senden...**, wobei der Beleg abhängig vom angegebenen **Belegsendeprofil** versendet wird, oder über die Funktion **Als Brief versenden**. 
+
+Beide Funktionen können über die Menüleiste unter **Drucken/Senden** aufgerufen werden.
 
 ![](images/apps/E-POST/de-de/app_send_letter.png)
 

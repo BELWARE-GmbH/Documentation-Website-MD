@@ -6,8 +6,7 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### First steps
-
+## Setup
 ### Report selection
 Before sending the first letter, the reports for sending with E-POST must be defined in the report selection. Currently, this option is available in **"Report selection sales"** and **"Report selection reminder"**.
 
