@@ -12,10 +12,14 @@ weight: 1
 ### Planned functions for future versions
 - Reactivation of negative jobs
 - Contacts editable in dialog
-- Other report types (service invoices/credit memos)
-    - Pos. service invoices
-    - Pos. service credit memos
 
+
+### Version 2.6.0.0 - 07.08.2023
+- New Event **OnBeforeWriteJSONContent** for overriding address data.
+- Implementation of E-POST in the functions of the doucment sending profile
+- Improvement of E-POST setup:
+  - Credentials can now be copied from another company.
+  - Contact data of the E-POST administrator (e-mail address, mobile no.) can now be changed from within the setup.
 ### Version 2.5.0.0 - 22.05.2023
 - Support for document types from service area
 

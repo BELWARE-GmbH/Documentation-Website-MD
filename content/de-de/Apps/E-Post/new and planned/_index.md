@@ -11,14 +11,17 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Erneutes versenden von fehlerhaften Briefen
 - Kontakte im Dialog editierbar
-- Weitere Belegarten
-    - Geb. Service-Rechnungen
-    - Geb. Service-Gutschriften
 - Erweiterungen der Sendungsstatus-Informationen
   * Bearbeitungsstatus im Zielgebiet
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
 
+### Version 2.6.0.0 - 07.08.2023
+- Neues Event **OnBeforeWriteJSONContent** zur Übersteuerung der Adressdaten.
+- Implementierung der E-POST in die Funktionen des Belegsendeprofils.
+- Verbesserung der E-POST-Einrichtung:
+  - Zugangsdaten können nun aus einem anderen Mandanten kopiert werden.
+  - Kontaktdaten des E-POST-Administraots (E-Mail-Adresse, Mobilnr.) können nun aus der Einrichtung heraus geändert werden.
 ### Version 2.5.0.0 - 22.05.2023
 - Unterstützung für Belegarten aus dem Service-Bereich
 

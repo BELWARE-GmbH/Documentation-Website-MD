@@ -12,9 +12,19 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
+### Version 2.9.0.0 - 07.08.2023
+Neuerungen:
+ - Freigabefuntion zu offenen Aufgaben.
+ - Kompatibilität mit Connector 365 Custom Filename hergestellt.
+ - Kompatibilität mit E-POST Belegsendeprofil hergestellt.
+
+Korrekture:
+ - Mehrere E-Mailempfänger werden nun korrekt übergeben und führen nicht mehr zu Fehlern beim Versand.
+ - Fehlende Berechtigungen bei der Nutzung des automatischen Versand führen nicht mehr zum Fehler beim Einstellen der Aufgaben.  
+
 ### Version 2.7.0.0 - 22.05.2023
 Neuerungen:
- - Unterstützung von Belegarten aus dem Service-Bereich
+ - Unterstützung von Belegarten aus dem Service-Bereich.
 
 ### Version 2.6.0.0 - 14.04.2023
 - Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.
