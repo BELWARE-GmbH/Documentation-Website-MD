@@ -18,6 +18,10 @@ But using the Easy Batch setup, you can control, which type of documents wil be 
 
 ![](images/apps/Easy_Batch/en-us/app_setup.png)
 
+First, in the **Processing Time Interval** field, you can specify a time interval globally for all documents, in which the documents are processed.
+This is useful in scenarios where tables are locked during processing or communication with external services takes place.
+This prevents tasks from blocking each other.
+
 All posted document types which can be processed using the app are recorded in the Easy Batch Setup.
 
 In the field **Processing Time** you can enter a fixed time when documents of this type shall be processed.

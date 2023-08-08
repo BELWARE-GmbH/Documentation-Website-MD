@@ -12,6 +12,19 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.10.0.0 - 08.08.2023
+New features:
+ - Adjustability of a time interval for processing open tasks.
+
+### Version 2.9.0.0 - 07.08.2023
+New features:
+ - Release function to open tasks.
+ - Compatibility with Connector 365 Custom Filename established.
+ - Compatibility with E-POST document sending profile established.
+
+Corrections:
+ - Multiple email recipients are now passed correctly and no longer cause errors when sending.
+ - Missing permissions when using automatic sending no longer lead to error when setting tasks.
 ### Version 2.7.0.0 - 22.05.2023
 New features:
  - Support of document types from the service area
