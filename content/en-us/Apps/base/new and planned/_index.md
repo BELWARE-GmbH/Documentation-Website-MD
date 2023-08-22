@@ -8,6 +8,10 @@ weight: 1
 ---
 
 ### New and planned
+
+### Version 2.11.0.0 - $Platzhalter
+Improvements:
+* Synchronization of activity and feedback entries on upgrade to Connector 365 2.0
 ### Version 2.5.0.1 - 26.04.2023
 Correction:
 - Automatically activate the HTTP request for license verification.

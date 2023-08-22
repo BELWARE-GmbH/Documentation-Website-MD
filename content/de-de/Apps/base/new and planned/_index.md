@@ -9,6 +9,10 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.11.0.0 - $Platzhalter
+ Verbesserungen:
+  * Synchronisation von Rückmeldungs- und Aktivitätseinträgen bei Upgrade auf Connector 365 2.0
+
 ### Version 2.5.0.1 - 26.04.2023
 Korrektur:
 - Automatisches aktivieren der HTTP-Request zur Lizenzprüfung.
