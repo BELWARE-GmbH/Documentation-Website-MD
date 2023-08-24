@@ -1,12 +1,19 @@
 ---
-title: "Leitweg-ID"
+title: "Kundenreferenz / Leitweg-ID"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
 weight: 1
 ---
-### Einrichtung
+### Kundenreferenz
+
+Die Kundenreferenz stellt eine Kennung dar, die einen Auftragnehmer eindeutig identifiziert.
+Der Standard XRechnung verwendet das Konzept der **Leitweg-Id** für die Adressierung von öffentlichen Auftraggebern.
+Weiter unten erfahren Sie mehr zum Thema Leitweg-Id.
+
+Grundsätzlich kann der Standard XRechnung allerdings auch im nicht-öffentlichen Raum verwendet werden.
+Hier werden überlicherweise keine Leitweg-Ids verwendet. Stattdessen kann 
 
 ### Leitweg-ID
 
