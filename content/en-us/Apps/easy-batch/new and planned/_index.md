@@ -12,6 +12,12 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.12.0.0 - 25.08.2023
+New features:
+ - Extension of [Communication Matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fiels:
+    * Batchmode
+    * Jobmode
+
 ### Version 2.10.0.0 - 08.08.2023
 New features:
  - Adjustability of a time interval for processing open tasks.

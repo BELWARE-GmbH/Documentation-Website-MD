@@ -12,6 +12,12 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
+### Version 2.12.0.0 - 25.08.2023
+Neuerungen:
+ - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
+    * Stapelmodus
+    * Jobmodus
+
 ### Version 2.10.0.0 - 08.08.2023
 Neuerungen:
  - Einstellbarkeit eines Zeitintervalls zur Verarbeitung offener Aufgaben.
