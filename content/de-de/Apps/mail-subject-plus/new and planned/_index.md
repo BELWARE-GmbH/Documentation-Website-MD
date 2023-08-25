@@ -12,6 +12,11 @@ weight: 1
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
 
+### Version 2.6.0.0 - 25.08.2023
+Neuerungen:
+ - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
+    * E-Mail-Betreff
+
 ### Version 2.5.0.0 - 22.06.2023
 Korrekturen:
  - Einblenden von Betreffzeilen in Kreditor-Dokumentlayouts

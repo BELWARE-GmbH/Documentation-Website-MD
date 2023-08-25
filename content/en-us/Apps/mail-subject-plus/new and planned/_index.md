@@ -13,6 +13,11 @@ weight: 1
 - Increase length of desired placeholders
 - Preview function
 
+### Version 2.6.0.0 - 25.08.2023
+New features:
+ - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:
+    * email subject
+
 ### Version 2.5.0.0 - 22.06.2023
 Corrections:
  - show subject lines in vendor document layouts
