@@ -23,7 +23,9 @@ New features:
   (List and Part in each case)
 
 Corrections:
-- Correction of the function to delete the [Delete activity entries](/en-us/apps/base/first-steps/setup/delete-activity-files/).
+- Correction of the function to [Delete activity entries](/en-us/apps/base/first-steps/setup/delete-activity-files/).
+- fix potential error when updating from Connector 365 version < 2.0 to a version >= 2.0
+
 
 ### Version 2.5.0.1 - 26.04.2023
 Correction:

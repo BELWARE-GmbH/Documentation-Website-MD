@@ -23,7 +23,8 @@ Neuerungen:
   (Jeweils Übersicht- und Karte)
 
 Korrekturen:
-- Korrektur der Funktion zum Löschen der [Löschen der Aktivitäteneinträge](de-de/apps/base/first-steps/setup/delete-activity-files/)
+- Korrektur der Funktion zum [Löschen der Aktivitäteneinträge](de-de/apps/base/first-steps/setup/delete-activity-files/)
+- Fehlerbehung bei Upgrade von einer Connector 365 Version < 2.0 zu einer Version >= 2.0
 ### Version 2.5.0.1 - 26.04.2023
 Korrektur:
 - Automatisches aktivieren der HTTP-Request zur Lizenzprüfung.
