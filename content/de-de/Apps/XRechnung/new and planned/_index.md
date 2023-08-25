@@ -9,6 +9,12 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.7.0.0 - 25.08.2023
+Neuerungen:
+ - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
+    * Kundenreferenz
+    * Dokument als Anhang hinzufügen
+
 ### Geplante Funktionen für zukünftige Versionen
 
 ### Version 2.5.0.3 - 31.07.2023

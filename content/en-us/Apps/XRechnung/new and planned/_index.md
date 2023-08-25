@@ -9,6 +9,12 @@ weight: 1
 
 ### New and planned
 
+### Version 2.7.0.0 - 25.08.2023
+New features:
+ - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:
+    * Buyer Reference
+    * Add Document as Attachment
+
 ### Version 2.5.0.3 - 31.07.2023
 New features:
  - Compatibility with XRechnung 2.3
