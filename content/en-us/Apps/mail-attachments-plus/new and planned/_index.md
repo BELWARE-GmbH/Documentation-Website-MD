@@ -9,6 +9,13 @@ weight: 1
 
 ### New and planned
 
+### Version 2.4.0.0 - 25.08.2023
+New features:
+ - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:
+    * Attachments
+    * Attach Default
+    * Attach Document Attachments
+
 ### Planned features for future versions
 - Attachment functionality on furhter levels
 

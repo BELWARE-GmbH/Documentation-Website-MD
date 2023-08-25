@@ -12,6 +12,13 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.4.0.0 - 25.08.2023
+Neuerungen:
+ - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
+    * Anhänge
+    * Standardanhänge anhängen
+    * Dokumentenanhänge anhängen
+
 ### Version 2.3.0.1 - 22.05.2023
 Korrekturen:
  - Behebt Fehler, bei dem der Dateiname von Anhängen beim Herunterladen überschrieben wird
