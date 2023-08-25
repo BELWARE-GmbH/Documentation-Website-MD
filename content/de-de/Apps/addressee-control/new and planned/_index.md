@@ -14,6 +14,11 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+### Version 1.6.0.0 - 25.08.2023
+Neuerungen:
+ - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
+    * Weitere Ziele
+
 #### Version 1.4.0.0 - 22.05.2023
 Neue Funktionen:
  - Unterstützung von Belegarten aus dem Service-Bereich

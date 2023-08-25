@@ -14,6 +14,11 @@ Simply use either the bottom or left navigation menu.
 
 In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 
+### Version 1.6.0.0 - 25.08.2023
+New features:
+ - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:
+    * Further targets
+
 #### Version 1.4.0.0 - 22.05.2023
 New features:
  - Support of document types from the service area
