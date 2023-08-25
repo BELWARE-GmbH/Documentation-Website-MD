@@ -9,10 +9,25 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.13.0.0
+Neuerungen:
+- Einblenden der [kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) (Dokumentlayouts) in den Seiten:
+  * Kreditoren 
+  * Debitoren
+  (Jeweils Übersicht- und Karte)
+
+- [Aktivitäteneinträge und Statistik](de-de/apps/base/first-steps/setup/infobox-extensions/) in den Seiten
+  * Kreditore
+  * Debitore
+  * Kontakte
+  (Jeweils Übersicht- und Karte)
+
+Korrekturen:
+- Korrektur der Funktion zum Löschen der [Löschen der Aktivitäteneinträge](de-de/apps/base/first-steps/setup/delete-activity-files/)
 ### Version 2.5.0.1 - 26.04.2023
 Korrektur:
 - Automatisches aktivieren der HTTP-Request zur Lizenzprüfung.
-  ### Version 2.5.0.0 - 14.04.2023
+### Version 2.5.0.0 - 14.04.2023
 - Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.
 - Implementierung von API Seiten zur Nutzung von Power Automate.
 - Unterstützung der App Mail Scenarios Plus

@@ -8,6 +8,23 @@ weight: 1
 ---
 
 ### New and planned
+
+### Version 2.13.0.0
+New features:
+- Showing [Communication Matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) (document layouts) in pages:
+  * Vendors
+  * Customers
+  (List and Part in each case)
+
+- Showing [Activity entries and statistics](/en-us/apps/base/first-steps/setup/infobox-extensions/) in the following pages
+  * Vendors
+  * Customers
+  * Contacts
+  (List and Part in each case)
+
+Corrections:
+- Correction of the function to delete the [Delete activity entries](/en-us/apps/base/first-steps/setup/delete-activity-files/).
+
 ### Version 2.5.0.1 - 26.04.2023
 Correction:
 - Automatically activate the HTTP request for license verification.
