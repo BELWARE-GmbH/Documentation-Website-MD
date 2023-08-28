@@ -9,7 +9,7 @@ weight: 10
 
 # Mahnungsversand
 
-## Automatisches Anhängen von Rechnunge bei Mahnungsversand
+## Automatisches Anhängen von Rechnungen bei Mahnungsversand
 
 Wenn Sie Mahnungen an Ihre Kunden verschicken, stellen Sie oft fest, dass diese nach Erhalt der Mahnung eine Kopie der betreffenden Rechnung(en) anfordern.
 Der Connector NAV bietet eine Funktion, um angemahnte Rechnungen automatisch an die E-Mail der Mahnung anzufügen.
@@ -35,7 +35,7 @@ Die Einrichtung ist an dieser Stelle abgeschlossen.
 Bitte achten Sie darauf, dass in der **Connector NAV Einrichtung** ein gültiger Pfad für **Pfad (com_tmp)** eingetragen ist:
 <br>
 ![](images/connectornav/sending-reminder/de/com-temp.png)
-**Pfad (com_tmp)** wird für nämlich für die Dateiablage von angehängten Rechnungen genutzt. 
+**Pfad (com_tmp)** wird nämlich für für die Dateiablage von angehängten Rechnungen genutzt. 
 Sollte kein gültiger Pfad hinterlegt sein, kann es zu Fehlern kommen:
 <br>
 {{< /notice >}}
