@@ -12,30 +12,29 @@ weight: 1
 
 Wenn die Einrichtung abgeschlossen wurde, so können Sie Rechnungen einfach per E-Mail senden. Öffnen Sie also Ihre gebuchten Verkaufsrechnungen und wählen Sie die zu versendende Rechnung aus.
 
-![](images/XRechnung/XRechnungScreenshot3.PNG)
+|![](images/XRechnung/XRechnungScreenshot3.PNG)|
+|-|
  
 **„Drucken/Senden“ -> „Als XRechnung senden“**
 
-Es öffnet sich ein neuer Dialog, in dem Sie vor dem Versenden noch Anpassungen vornehmen können.
+Es öffnet sich anschließend das standardmäßige E-Mail-Fenster mit kleineren Anpassungen für den XRechnung-Versand.
 
-![](images/XRechnung/XRechnungScreenshot4.PNG)
+|![](images/XRechnung/XRechnungScreenshot4.PNG)|
+|-|
 
-Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal die Leitweg-ID einsehen aber auch anpassen.
-Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtbar.
+Im Dialog lassen sich der Absender, der Empfänger, der Betreff sowie die Kundenreferenz einsehen und anpassen.
+Der Inhalt der Mail sowie weitere Anhänge können ebenfalls eingesehen und verändert werden.
+Mehr zum Thema **Anhänge** finden Sie [hier](de-de/apps/xrechnung/working-with-xrechnung/attachments).
 
-Wenn Sie noch weitere Anhänge haben, welche Sie mitversenden möchten, dann können Sie diese über das Feld **„Datei anhängen“** Ihrer Mail hinzufügen.
-Mehr zum Thema Anhänge finden Sie [hier](de-de/apps/xrechnung/working-with-xrechnung/attachments).
-
-{{< notice info "Hinweis" >}}
- _Für den Fall, dass Sie in den Dokumentlayouts eine einbetten der Anhänge angewählt haben, so werden diese ebenfalls in die XML eingebettet und lassen sich anschließend nur noch maschinell auslesen. Dabei sollte man darauf achten, welche Dateitypen der Empfänger akzeptiert._
-{{< /notice >}}
-#
-Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über **„E-Mail senden“** auslösen. Im Hintergrund wird nun noch eine Prüfung auf das Schema der XRechnung vorgenommen.
+Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über **E-Mail senden** auslösen.
+Dabei wird eine XML-Datei erzeugt und je nach [Einrichtung](/de-de/apps/xrechnung/first-steps/setup/base-setup/) auf korrekten Syntax validiert, bevor es dann über den herkömmlichen E-Mail-Weg versandt wird.
+Sollte das Validieren von XRechnungen aktiviert und eine beim XRechnung-Versand erzeugte XML-Datei fehlerhaft validiert worden sein,
+so wird der Mail-Versand abgebrochen. Sie erhalten zusätzlich einen Prüfbericht, indem die Gründe für das Ablehnen der entsprechenden XRechnung protokolliert sind. Mehr Informationen zum Thema **Prüfbericht** erhalten Sie [hier](/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/).
 
 ### Nach dem Versand
 
-Falls die Prüfung des Dokumentes erfolgreich war, so wird die Rechnung versendet.
-
+Falls die Prüfung des Dokuments erfolgreich war, so wird die Rechnung versendet.
 Nach dem Absenden erhält der Empfänger eine **„xml“-Datei**. Diese ist die zugehörige Rechnung im **„XRechnung“**-Format.
 
-![](images/XRechnung/xrechnungemail.png)
+|![](images/XRechnung/xrechnungemail.png)|
+|-|

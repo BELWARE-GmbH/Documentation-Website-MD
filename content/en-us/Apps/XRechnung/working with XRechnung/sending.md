@@ -12,26 +12,26 @@ weight: 1
 
 If the setup has been completed, then you can easily send invoices by email. Simply open your posted sales invoices and select the invoice you want to send.
 
-![](images/XRechnung/XRechnungScreenshot3.PNG)
+|![](images/XRechnung/XRechnungScreenshot3_en.png)|
+|-|
  
 **„Print/Send“ -> „Send as XRechnung“**
 
-A new dialog opens where you can make adjustments before sending.
+The standard e-mail window will then open with minor adjustments for XRechnung sending.
 
-![](images/XRechnung/XRechnungScreenshot4.PNG)
+|![](images/XRechnung/XRechnungScreenshot4_en.png)|
+|-|
 
-In the dialog, the sender, the recipient, the subject and also again the Ident ID can be viewed but also adjusted.
-The content of the mail can be customized and the current attachments are visible.
+In the dialog, the sender, the recipient, the subject and the customer reference can be viewed and adjusted.
+The content of the mail and other attachments can also be viewed and modified.
 
-If you have other attachments that you want to send, then you can add more attachments via the **“Attach file”** field in the menu bar.
 You can find more on the topic of attachments [here](en-us/apps/xrechnung/working-with-xrechnung/attachments).
 
-{{< notice info "Hinweis" >}}
- _If you have selected embedded attachments in the document layouts, these will also be embedded in the XML and can then only be read by machine. You have to pay attention to which attachments the recipient accepts._
-{{< /notice >}}
-#
-If you have made the desired changes, you can trigger the dispatch via **“Send Email”**. In the background, a check for the scheme of the XRechnung is now performed.
 
+When you have made the desired changes, you can trigger the dispatch via **send email**.
+This will generate an XML file and validate it for correct syntax depending on [setup](/en-us/apps/xrechnung/first-steps/setup/base-setup/) before it is then sent via the conventional email route.
+If XRechnung validation is enabled and an XML file generated during XRechnung sending has been validated incorrectly,
+the mail dispatch will be aborted. You will also receive a validation report in which the reasons for rejecting the corresponding XRechnung are logged. More information about the **validation report** can be found [here](/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/).
 ### After sending
 
 If the verification of the document was successful, the invoice will be sent.
@@ -39,4 +39,5 @@ If the verification of the document was successful, the invoice will be sent.
 After sending, the recipient will receive, among other things, a **“xml-file”**.
 This is the corresponding invoice in **“XRechnung”** format.
 
-![](images/XRechnung/xrechnungemail.png)
+|![](images/XRechnung/xrechnungemail.png)|
+|-|

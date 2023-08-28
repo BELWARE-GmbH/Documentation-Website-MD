@@ -6,26 +6,29 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Einrichtung
+# Einrichtung
 
-### Debitor
+## Debitor
 
 ![](images/XRechnung/XRechnungScreenshot1.png)
 
-Die Einstellungen, um Belege im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter **„Navigieren“ - „Dokumentlayouts“** des jeweiligen Debitors.
+Die Debitorspezifischen Einstellungen für das Versenden von XRechnungen werden in den **Dokumentlayouts** des jeweiligen Debitors vorgenommen.
 
-Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun folgende neue Felder zur Verfügung:
-- **Leitweg-ID** 
+Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nach Installation der **Connector 365 XRechnung** App folgende weitere Felder zur Verfügung:
+- **Kundenreferenz** 
 - **Beleg als Anhang hinzufügen**
 
 ![](images/XRechnung/xr_doc_layout.png)
 
-In das Feld **Leitweg-ID** wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs
+In das Feld **Kundenreferenz** wird die Kennung des Empfängers, bei einem öffentlichen Auftraggerber die Leitweg-ID, eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können.
 
-***Hinweis: Die Leitweg-ID kann auch im E-Mail-Dialog gesetzt werden, das heißt sie muss nicht zwingend in den Dokumentenlayouts gesetzt werden.***
+{{< notice info Hinweis >}}
+Die Kundenreferenz kann auch im E-Mail-Dialog gesetzt werden, das heißt sie muss nicht zwingend in den Dokumentlayouts gesetzt werden.
+{{< /notice >}}
 
+<br>
 
-Im Feld **„Beleg als Anhang hinzufügen“** haben Sie 3 Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.
+Im Feld **Beleg als Anhang hinzufügen** haben Sie drei Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.
 
 ![](images/XRechnung/xrechnungbeleganhang.PNG)
 

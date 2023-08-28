@@ -13,7 +13,7 @@ Der Standard XRechnung verwendet das Konzept der **Leitweg-Id** für die Adressi
 Weiter unten erfahren Sie mehr zum Thema Leitweg-Id.
 
 Grundsätzlich kann der Standard XRechnung allerdings auch im nicht-öffentlichen Raum verwendet werden.
-Hier werden überlicherweise keine Leitweg-Ids verwendet. Stattdessen kann 
+Hier werden überlicherweise keine Leitweg-Ids, sondern eigene Kennungen verwendet.
 
 ### Leitweg-ID
 

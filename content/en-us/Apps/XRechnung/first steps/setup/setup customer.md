@@ -6,27 +6,31 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Setup
+# Setup
 
-### Customer
+## Customer
 
 ![](images/XRechnung/XRechnungScreenshot1.png)
 
-The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under **"Navigate" - "Document layouts"** of the respective customer.
+The customer-specific settings for sending XRechnung are made in the **Document layouts** of the respective customer.
 
-When you open the document layouts, following new fields are now available:
-- **Ident ID**
+When you open the document layouts, the following additional fields will be available after installing the **Connector 365 XInvoice** app:
+- **Buyer Reference**
 - **Add document as attachment**
 
 ![](images/XRechnung/xr_doc_layout_en.png)
  
-In the field **Ident ID** the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient. This field is subject to a syntax check and only allows valid Ident IDs.
+In the field **Buyer Reference** the id of the customer is entered. This is necessary to uniquely identify an invoice recipient.
 
-***Note: The route ID can also be set in the e-mail dialog, i.e. it does not necessarily have to be set in the document layouts.***
+{{< notice info >}}
+The customer reference can also be set in the e-mail dialog, i.e. it does not necessarily have to be set in the document layouts.
+{{< /notice >}}
 
-In the field **Add document as attachment** you have 3 selection options which determine how the original document and any attachments are handled.
+<br>
 
-![](images/XRechnung/xrechnungbeleganhang.PNG)
+In the **Add document as attachment** field, you have three choices that determine how the original document and any attachments are handled.
+
+![](images/XRechnung/xr-embed-optoins.png)
 
 **No** - The original document will not be sent additionally, only the XML of the XRechnung will be sent.
 
