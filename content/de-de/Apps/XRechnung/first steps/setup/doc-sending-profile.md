@@ -29,7 +29,7 @@ Einrichten von Belegsendeprofilen
 Nachdem Sie die Belegsendeprofile eingerichtet haben, können Sie eines als Standard einstellen, das wirksam wird, wenn in einem Kunden keine Angabe zum Belegsendeprofil gemacht wurde.
 
 {{< notice warning Hinweis>}}
-Bitte beachten Sie, dass der eine XRechnung-Verarbeitung nur für [unterstützte Belegarten](de-de/apps/xrechnung/first-steps/introduction) erfolgt.
+Bitte beachten Sie, dass eine XRechnung-Verarbeitung nur für [unterstützte Belegarten](de-de/apps/xrechnung/first-steps/introduction) erfolgt.
 {{< /notice >}}
 
 #### Sendeprofil für einen Debitor festlegen
