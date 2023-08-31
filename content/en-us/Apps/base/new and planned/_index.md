@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+### Version 2.13.0.2
+Improvements:
+- Performance improvements for the Connector 365 Statistics
+
 ### Version 2.13.0.0
 New features:
 - Showing [Communication Matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) (document layouts) in pages:

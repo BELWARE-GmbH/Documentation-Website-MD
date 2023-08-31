@@ -9,6 +9,10 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.13.0.2
+Verbesserungen:
+- Performance-Verbesserungen für die Connector 365 Statistiken
+
 ### Version 2.13.0.0
 Neuerungen:
 - Einblenden der [kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) (Dokumentlayouts) in den Seiten:

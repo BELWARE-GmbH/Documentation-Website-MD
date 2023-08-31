@@ -9,6 +9,11 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.8.0.0 - 31.08.2023
+
+Neuerungen:
+- Erweiterung der [Belegsendeprofile](de-de/apps/xrechnung/first-steps/setup/doc-sending-profile) um die Möglichkeit der XRechnung-Verarbeitung 
+
 ### Version 2.7.0.0 - 25.08.2023
 Neuerungen:
  - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
