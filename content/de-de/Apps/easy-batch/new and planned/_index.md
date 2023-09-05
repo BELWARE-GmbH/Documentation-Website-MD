@@ -12,6 +12,10 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
+### Version 2.12.0.1 - 09.09.2023
+Korrekturen:
+ - Behebt Fehler bei Stapelversand mittels Belegsendeprofil-Einrichtung
+
 ### Version 2.12.0.0 - 25.08.2023
 Neuerungen:
  - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
