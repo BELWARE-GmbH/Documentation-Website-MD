@@ -77,3 +77,15 @@ Damit könnten wir nun Beispielsweise, diesen Betreff aufbauen: Unsere Rechnung 
 Wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
 
 
+#### Prioritäten
+
+ In den Berichtsauswahl-Seiten können Sie konfigurieren, welche Berichte Sie verwenden wollen und ob diese als E-Mail-Anhang bzw. als E-Mail-Text verwendet werden sollen.
+
+ Die Connector 365 Mail Subject Plus App verwendet bevorzugt Einträge, die für E-Mail-Anhänge definiert sind.
+ In einer Konstellation, in der verschiedene Berichte eingerichtet sind, werden die Betreffzeilen der jeweiligen Anhänge herangezogen.
+
+ |![](images/apps/Mail_Subject_Plus/de-de/report-selection-multiple-entries.png)|
+ |-|
+
+ In oberen Beispiel werden die Einstellungen für die Berichte **124** und **297** für den E-Mail-Versand berücksichtigt.
+

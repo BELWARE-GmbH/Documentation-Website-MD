@@ -6,12 +6,19 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### Neue und geplan
+### Neue und geplant
 
 ### Geplante Funktionen für zukünftige Versionen
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
 
+### Version 2.8.0.0 - 29.09.2023
+Neuerungen:
+ - Erleichterte Einrichtung durch Nutzung von Einrichtungsassistent
+
+Korrekturen: 
+ - Auflösen von Betreffzeilen für E-Mails, die nur einen Bodytext und keine Anhänge haben
+ 
 ### Version 2.6.0.0 - 25.08.2023
 Neuerungen:
  - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:

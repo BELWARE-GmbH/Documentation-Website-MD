@@ -13,6 +13,13 @@ weight: 1
 - Increase length of desired placeholders
 - Preview function
 
+### Version 2.8.0.0 - 29.09.2023
+New features:
+ - Easier setup through use of setup wizard
+ 
+Fixes: 
+ - Resolve subject lines for emails that have only body text and no attachments
+
 ### Version 2.6.0.0 - 25.08.2023
 New features:
  - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:
