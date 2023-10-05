@@ -19,6 +19,10 @@ In case a question could not be answered, we will be glad to help you personally
 - Hiding the CTI functions in the Role center for non-CTI users
 - Add compatibility for versons 7.2 and 7.3 for STARFACE phone systems
 
+### Version 2.2.0.0 - 15.09.2023
+- Manual creation of phone entries
+- Adjustment of CTI client startup behavior - client is started automatically only once per session
+
 ### Version 2.1.0.1 - 14.04.2023
 - Anpassung des Azure AD-App Berechtigungssatzes für die neue Version
 ### Version 2.1.0.0 - 06.01.2023
