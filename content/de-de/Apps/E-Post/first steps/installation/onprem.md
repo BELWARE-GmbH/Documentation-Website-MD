@@ -81,4 +81,3 @@ Sie können nun mit der [Einrichtung](/de-de/apps/e-post/first-steps/setup/) sta
 ***Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.**
 
 
-
