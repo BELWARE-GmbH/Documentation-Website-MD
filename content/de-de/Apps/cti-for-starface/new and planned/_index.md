@@ -17,6 +17,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 - Ausblenden der CTI-Funktionen im Rollencenter für Nicht-CTI-Nutzer
 - Herstellen der Kompatibilität für Version 7.2 und 7.3 der STARFACE Telefonanlage
 
+### Version 2.2.0.0 - 15.09.2023
+- manuelles Erstellen von Telefoneinträgen
+- Anpassung des Startverhalten des CTI-Clients - Client wird nur einmal pro Session automatisch gestartet
+
 ### Version 2.1.0.1 - 14.04.2023
 - Anpassung des Azure AD-App Berechtigungssatzes für die neue Version
 ### Version 2.1.0.0 - 06.01.2023
