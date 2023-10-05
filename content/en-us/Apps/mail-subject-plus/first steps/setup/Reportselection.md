@@ -75,4 +75,14 @@ Now that you have defined your placeholders, you can define the subject with pla
 With this we could now for example, build this subject: Our invoice **%1** for **%2** - Due **%3**
 How the subject then looks in use, you will find out in the next [step](en-us/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
 
+#### Priorities
 
+ In the Report Selection pages, you can configure which reports you want to use and whether they should be used as email attachments or as email text.
+
+ The Connector 365 Mail Subject Plus app preferentially uses entries defined for email attachments.
+ In a constellation where different reports are set up, the subject lines of the respective attachments are used.
+
+ |![](images/apps/Mail_Subject_Plus/en-us/report-selection-multiple-entries.png)|
+ |-|
+
+ In the above example, the settings for the **124** and **297** reports are taken into account for sending e-mails.

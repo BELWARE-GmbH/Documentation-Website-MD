@@ -10,7 +10,7 @@ weight: 1
 
 ### Berichtsauswahl
 
-Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus. Für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte unterstützt aus den Bereichen
+Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus. Für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte unterstützt aus den Bereichen:
 - Verkauf
 - Einkauf
 - Service
@@ -19,23 +19,23 @@ weight: 1
 - Fertigungsauftrag
 - Bankkonto
 
-![](images/apps/Mail_Subject_Plus/de-de/app_report_selection.png)
+![](/images/apps/custom-filename/de/report-selection-intro.png)
 
-In der Berichtsauswahl finden Sie das Feld **"E-Mail-Betreffs"**, das anzeigt, wieviele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite **E-Mail-Betreff**.
+In der Berichtsauswahl finden Sie das Feld **"Dateiname"**, das anzeigt, wieviele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite **Dateiname**.
 Hier können Sie nun je Sprachcode einen individuellen Betreff definieren. Zum Einen gibt es hier die Möglichkeit, einen statischen Betreff zu formulieren, der in alle Nachrichten gleich eingefügt wird.
 
-![](images/apps/Mail_Subject_Plus/de-de/Dialog_Email_Betreff.png)
+![](/images/apps/custom-filename/de/report-selection-static.png)
 
 Zum Anderen besteht die Möglichkeit, den Betreff dynamisch zu gestalten. Durch die Nutzung von Platzhaltern passt er sich dann an den Inhalt der Nachricht an.
 
-![](images/apps/Mail_Subject_Plus/de-de/Dialog_Email_Betreff_m_Platzhalter.png)
+![](/images/apps/custom-filename/de/report-selection-dynamic.png)
 
- Definieren können Sie die Platzhalter, indem Sie im Feld **Betrefftext** auf die **[...]**-Schaltfläche am rechten Rand klicken. So gelangen Sie zur Seite **E-Mail-Betreff-Platzhalter**, auf der Sie die Definitionen vornehmen können.
+ Definieren können Sie die Platzhalter, indem Sie im Feld **Betrefftext** auf die **[...]**-Schaltfläche am rechten Rand klicken. So gelangen Sie zur Seite **Dateiname-Platzhalter**, auf der Sie die Definitionen vornehmen können.
 
 ![](images/apps/Mail_Subject_Plus/de-de/app_email_subject_placeholder.png)
 
 #### Platzhalter definieren
-Auf der Seite **"E-Mail-Betreff-Platzhalter"** stehen Ihnen zwei Felder zur Verfügung:
+Auf der Seite **"Dateiname-Platzhalter"** stehen Ihnen zwei Felder zur Verfügung:
 
 **Platzhalter** - Hier definieren Sie wie Ihr Platzhalter aussehen soll
 **Definition** - Diseses Feld definiert, auf welches Feld sich ihr zuvor eingegebener Platzhalter bezieht.
@@ -64,28 +64,14 @@ Mehr dazu finden Sie unter [Events](/de-de/apps/mail-subject-plus/working-with-m
 
 Wiederholen Sie diesen Prozess für alle gewünschten Felder/Platzhalter die Sie in Ihrem Betreff verwenden möchten.
 
-![](images/apps/subjectplaceholderfilledde.PNG)
-
-#### Beispiel für einen Betreff mit Platzhaltern
-Nachdem Sie nun Ihre Platzhalter definiert haben, können Sie den Betreff mit Platzhaltern definieren. Schließen Sie die Einrichtung für die Platzhalter und klicken Sie erneut in das **"E-Mail Betreff"**-Feld. Für unser Beispiel haben wir folgende Platzhalter für eine Rechnung definiert.
+#### Beispiel für einen Dateinamen mit Platzhaltern
+Nachdem Sie nun Ihre Platzhalter definiert haben, können Sie Dateinamen beliebig mit diesen Platzhaltern ausstatten. Schließen Sie die Einrichtung für die Platzhalter und klicken Sie erneut in das **"Dateiname"**-Feld. Für unser Beispiel haben wir folgende Platzhalter für eine Rechnung definiert.
 
 - **%1** - die Rechnungsnummer
 - **%2** - Der Empfängername
 - **%3** - Das Fälligkeitsdatum
 
-Damit könnten wir nun Beispielsweise, diesen Betreff aufbauen: Unsere Rechnung **%1** für **%2** - Fällig **%3**
+Damit könnten wir nun Beispielsweise, diesen Dateinamen aufbauen: **Unsere Rechnung ***%1*** für ***%2*** - Fällig: ***%3*****
 Wie der Betreff dann in Verwendung aussieht, erfahren Sie im nächsten [Schritt](de-de/apps/mail-subject-plus/working-with-mail-subject-plus/maildialogue/).
 
-
-#### Prioritäten
-
- In den Berichtsauswahl-Seiten können Sie konfigurieren, welche Berichte Sie verwenden wollen und ob diese als E-Mail-Anhang bzw. als E-Mail-Text verwendet werden sollen.
-
- Die Connector 365 Mail Subject Plus App verwendet bevorzugt Einträge, die für E-Mail-Anhänge definiert sind.
- In einer Konstellation, in der verschiedene Berichte eingerichtet sind, werden die Betreffzeilen der jeweiligen Anhänge herangezogen.
-
- |![](images/apps/Mail_Subject_Plus/de-de/report-selection-multiple-entries.png)|
- |-|
-
- In oberen Beispiel werden die Einstellungen für die Berichte **124** und **297** für den E-Mail-Versand berücksichtigt.
 
