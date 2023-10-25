@@ -31,6 +31,10 @@ Corrections:
 - fix potential error when updating from Connector 365 version < 2.0 to a version >= 2.0
 
 
+### Version 2.11.0.0 - 22.08.2023
+Improvements:
+* Synchronization of activity and feedback entries on upgrade to Connector 365 2.0
+
 ### Version 2.5.0.1 - 26.04.2023
 Correction:
 - Automatically activate the HTTP request for license verification.
