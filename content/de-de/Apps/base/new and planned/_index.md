@@ -9,6 +9,10 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.15.0.3
+Verbesserungen:
+ - Beheben von Fehler bei Speicherung und Anzeige diverser Belegarten in der Aktivitätenliste
+
 ### Version 2.13.0.2
 Verbesserungen:
 - Performance-Verbesserungen für die Connector 365 Statistiken
