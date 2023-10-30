@@ -1,15 +1,16 @@
 ---
-title: "Test & Kauf"
+title: "Test & Purchase"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: true
 collapsible: true
 weight: 2
 ---
-### Testen und kaufen der Connector 365 Mail Custom Filename
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Custom Filename.
+### Test and buy the Connector 365 Mail Custom Filename app
 
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Here you can find all important information and hints for testing and buying the Connector 365 Mail Custom Filename.
 
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
+Just use either the bottom or left navigation menu.
+
+In case a question could not be answered, we will be glad to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).

@@ -9,73 +9,75 @@ weight: 2
 ### Installation
 
 ### OnPrem
-Sie erhalten von uns die Objekte für die Connector 365 Base & Custom Filename App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+You will receive the objects for the Connector 365 Base & Custom Filename App from us by mail, in order for you to use the app, they must first be published and then installed.
 
-#### Veröffentlichen der Connector 365 Base & Custom Filename App
-Das veröffentlichen der Connector 365 Base & Custom Filename App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.
+#### Publishing the Connector 365 Base & Custom Filename App
+Publishing the Connector 365 Base & Custom Filename App is done via the **Business Central Administration Shell**. First, transfer the files we sent to you to the server where your Business Central instance is running.
 
-![](images/apps/adminshell.PNG)
+|![](images/apps/adminshell.PNG)|
+|-|
 
-Starten Sie nun die **Business Central Administration Shell** um den Prozess der Veröffentlichung zu starten. Navigieren Sie mit der Administration Shell zunächst an den Speicherort für die Datei mit dem **cd** Befehl.
+Now start the **Business Central Administration Shell** to start the process of publishing. Using the Administration Shell, first navigate to the location for the file using the **cd** command.
 
-**Beispiel:**
+**Example:**
 
 ```cd C:\Apps```
 
-Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von folgendem Befehl zunächst die Basis App veröffentlichen
+Now that you are in the appropriate folder, you can use the following command to first publish the base app
 
 {{< notice info "Hinweis" >}}
- _Die Reihenfolge der Veröffentlichung ist wichtig, bitte veröffentlichen Sie immer zuerst die Connector 365 Base App._
+The order of publication is important, please always publish the **Connector 365 Base** App first.
 {{< /notice >}}
 #
 
-**Beispiel:**
+**Example:**
 
 ```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
 
-Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 365 Custom Filename App durchführen
+Afterwards, you should also perform the process for the actual **Connector 365 Custom Filename** App
 
-**Beispiel:**
+**Example:**
 
 ```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\customfilename.app"```
 
-Beide Apps sollten nun im System veröffentlicht sein.
+Both apps should now be published in the system.
 
 #
 
-#### Installieren der Connector 365 Base & Custom Filename App
-In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
+#### Installing the Connector 365 Base & Custom Filename App
+In the extension management of your environment you will now see the apps as published, but they are not installed yet.
 
-##### Installieren via des Clients
-Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
+##### Install via the client
+Open your Business Central environment, open the search function and search for **Extension Management**.
 
-![](images/apps/appinstallde.PNG)
+|![](images/apps/appinstallen.PNG)|
+|-|
 
-Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert. Mit einem Klick auf die 3 Punkte der jeweiligen App, können Sie diese nun über den Punkt **Installieren** in Ihrer Umgebung installieren.
+There you should now find the two apps with the status not installed. By clicking on the 3 dots of the respective app, you can now install it in your environment via the **Install** item.
 
-##### Installieren via der Administration Shell
-Für den Fall, dass Sie die Installation über die Administration Shell vornehmen wollen (dies hat den Vorteil, dass man gleich auf mehreren Tenants installieren kann), müssen Sie den **Install-NAVApp** Befehl nutzen. Dabei sollten Sie die **Tenant ID** spezifizieren. In den folgenden Beispielen installieren wir die Apps in zwei Tenants.
+##### Install via the Administration Shell
+In case you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you have to use the **Install-NAVApp** command. You should specify the **tenant ID** when doing this. In the following examples we install the apps in two tenants.
 
 {{< notice info "Hinweis" >}}
- _Auch die Reihenfolge bei der Installation spielt eine Rolle, installieren Sie bitte zuerst immer die Connector 365 Base App_
+The order of installation also matters, please always install the Connector 365 Base App first.
 {{< /notice >}}
 #
 
-Für die Installation der Connector 365 Base App nutzen Sie den folgende Befehle:
+To install the Connector 365 Base App, use the following commands:
 
-**Beispiel:**
+**Example:**
 
 ```Sync-NAVApp -ServerInstance $IhreBusinessCentralInstanz -Name "Connector 365 Base" -Version $AppVersion -Tenant Tenant1, Tenant2```
 ```Install-NAVApp -ServerInstance $IhreBusinessCentralInstanz -Name "Connector 365 Base" -Version $AppVersion -Tenant Tenant1, Tenant2```
 
-Es folgt noch die Connector 365 Custom Filename App:
+The Connector 365 Custom Filename App follows:
 
 **Beispiel:**
 
 ```Sync-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Custom Filename" -Version $AppVersion -Tenant Tenant1, Tenant2```
 ```Install-NAVApp -ServerInstance IhreBusinessCentralInstanz -Name "Connector 365 Custom Filename" -Version $AppVersion -Tenant Tenant1, Tenant2```
 
-Sie können nun mit der [Einrichtung](/de-de/apps/mail-subject-plus/first-steps/setup/) starten.
+You can now start with the [setup](/en-us/apps/custom-filename/first-steps/setup/).
 
 
 

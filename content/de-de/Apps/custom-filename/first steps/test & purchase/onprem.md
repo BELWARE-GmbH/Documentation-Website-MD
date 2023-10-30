@@ -21,6 +21,6 @@ Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für
 
 Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Objekte.
 
-Danach können Sie mit der [Installation](/de-de/apps/mail-subject-plus/first-steps/installation/) der Connector 365 Custom Filename App starten
+Danach können Sie mit der [Installation](de-de/apps/custom-filename/first-steps/installation/onprem) der Connector 365 Custom Filename App starten
 
 Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an Support@belware.de und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de

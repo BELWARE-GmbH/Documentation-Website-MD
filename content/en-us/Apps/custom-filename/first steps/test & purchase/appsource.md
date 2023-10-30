@@ -10,26 +10,27 @@ weight: 2
 
 ### AppSource
 
-Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+The app is available in the [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_custom_filename%7CPAPPID.879c2015-6f09-42ba-b3e6-874dcb07ff75?tab=Overview).
 
-![](images/apps/mail_subject_plus_appsource_de.png)
+|![](images/apps/custom-filename/en/appsource.png)|
+|-|
 
-Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen. 
+After installation, you can use the app in full for 30 days free of charge. 
 
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. 
-Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. 
-Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen. 
-Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen. 
+If you like the app, you can purchase paid licenses via our order form. 
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license. 
+Before placing an order, you can find the applicable costs in the [price list provided on our website](https://www.belware.de/preise?lang=en). 
+In this context, one license includes the use of the app in one production and in three sandbox environments. 
 
 <p style="text-align: center;">
-Zum Bestellformular
+To order form
 </p>
 
 [<img src="/images/apps/Forms_plus.png">](https://forms.office.com/pages/responsepage.aspx?id=wbg8p1B5wk60E37fEWJ6gDRBQTgxSJtOuCsCUFr9Wj5UQjg1Wkg0SVVEN0w5T1AxUEdKTlc1TU40US4u)
 
 ![](images/apps/senderforms_removed.PNG)
  
-Connector 365 Custom Filename steht Ihnen für die folgende BC Lizensierung zur Verfügung:
+Connector 365 Custom Filename is available for the following BC licensing:
 
 - SaaS Essential
 - SaaS Premium
