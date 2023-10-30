@@ -12,7 +12,8 @@ weight: 2
 
 Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 
-![](images/apps/mail_subject_plus_appsource_de.png)
+|![](images/apps/custom-filename/de/appsource.png)|
+|-|
 
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen. 
 
