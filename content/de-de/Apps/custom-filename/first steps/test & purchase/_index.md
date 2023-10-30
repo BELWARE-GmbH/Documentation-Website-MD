@@ -6,9 +6,9 @@ draft: true
 collapsible: true
 weight: 2
 ---
-### Testen und kaufen der Connector 365 Mail Custom Filename
+### Testen und kaufen der Connector 365 Mail Custom Filename App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Custom Filename.
+Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Custom Filename App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

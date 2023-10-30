@@ -10,7 +10,7 @@ weight: 2
 
 ### AppSource
 
-Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Die App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_custom_filename%7CPAPPID.879c2015-6f09-42ba-b3e6-874dcb07ff75?tab=Overview) zur Verfügung.
 
 |![](images/apps/custom-filename/de/appsource.png)|
 |-|
