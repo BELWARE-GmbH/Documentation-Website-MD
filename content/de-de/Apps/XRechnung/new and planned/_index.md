@@ -9,6 +9,12 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.8.0.2 - 06.11.2023
+Korrekturen:
+ - Korrektur der Anzeige von XRechnung-Status in Rollencenter:
+   -> Gesendete XRechnungen der letzten 30 Tage
+   -> XRechnung-Entwürfe im Ausgang
+
 ### Version 2.8.0.0 - 31.08.2023
 
 Neuerungen:

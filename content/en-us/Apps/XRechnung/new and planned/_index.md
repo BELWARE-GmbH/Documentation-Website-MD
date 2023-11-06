@@ -9,6 +9,12 @@ weight: 1
 
 ### New and planned
 
+### Version 2.8.0.2 - 06.11.2023
+Corrections:
+ - Correction of the display of XRechnung status in role center:
+   -> Sent XRechnung in the last 30 days
+   -> Draft XRechnung in outbox
+
 ### Version 2.8.0.0 - 31.08.2023
 
 New features:
