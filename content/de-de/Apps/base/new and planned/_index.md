@@ -9,6 +9,8 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.16.0.0 03.11.2023
+
 ### Version 2.13.0.2
 Verbesserungen:
 - Performance-Verbesserungen für die Connector 365 Statistiken
