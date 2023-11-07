@@ -56,7 +56,7 @@ Zusätzlich wurde die Möglichkeit offen gelassen, XRechnung-Versionen auch manu
 |![](images/apps/XRechnung/de/xr_update_version_manually_de.png)|
 |-|
 
-Aktuell voreingstellt Versionen und Kennungen:
+Aktuell voreingstellte Versionen und Kennungen:
 
 | Version | Kennung | Gültig ab |
 |-|-|-|
