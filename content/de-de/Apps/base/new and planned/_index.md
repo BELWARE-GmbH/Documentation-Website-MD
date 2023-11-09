@@ -9,7 +9,9 @@ weight: 1
 
 ### Neu und geplant
 
-### Version 2.16.0.0 03.11.2023
+### Version 2.16.0.5 09.11.2023
+Verbesserungen:
+ - Beheben von Fehler bei Speicherung und Anzeige diverser Belegarten in der Aktivitätenliste
 
 ### Version 2.13.0.2
 Verbesserungen:
