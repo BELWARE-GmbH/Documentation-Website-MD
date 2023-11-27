@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+### Version 2.16.0.5 09.11.2023
+Improvements:
+ - Fixing errors in saving and displaying various document types in the activity list.
+
 ### Version 2.13.0.2
 Improvements:
 - Performance improvements for the Connector 365 Statistics
