@@ -22,7 +22,7 @@ To the order form
 If you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
 If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.
 
-After that you can start with the [installation](/en-us/apps/mail-experience-plus/first-steps/installation/) of the Connector 365 Mail Experience Plus App
+After that you can start with the [installation](/en-us/apps/mail-experience-plus/first-steps/installation/) of the Connector 365 Mail Experience Pro App
 
 Should any questions arise in advance, please contact Support@belware.de for technical inquiries and Info@belware.de for general inquiries such as prices, procedures or similar.
 

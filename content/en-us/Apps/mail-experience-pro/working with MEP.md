@@ -1,13 +1,13 @@
 ---
-title: "Working with Mail Experience Plus"
+title: "Working with Mail Experience Pro"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
 weight: 3
 ---
-### Working with Mail Experience Plus
-The Connector 365 Mail Experience Plus app combines the 3 apps from our Mail Plus series into one power app. Below we provide information on how to use each area. 
+### Working with Mail Experience Pro
+The Connector 365 Mail Experience Pro app combines the 7 apps from our Mail Pro series into one power app. Below we provide information on how to use each area. 
 
 
 ##### Mail Subject Plus area
@@ -26,3 +26,23 @@ Addressee Control allows you to control of the addressee per report type.
 For each report type you decide wether the customer from the field **Bill-to Customer** or **Sell-to Customer** will be used to define the addressee. 
 
 [Setup Addressee](https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/)
+
+##### Custom Filename
+Use preset filenames in your files and avoid sending unpersonalized documents.
+
+[Setup Addressee](https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/)
+
+##### Easy Batch
+Process multiple documents at once with ease.
+
+[Setup Addressee](https://docs.belware.de/en-us/apps/easy-batch/first-steps/setup/)
+
+##### Report Layout Plus
+Choose different report layouts for many customizable conditions.
+
+[Setup Addressee](https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/)
+
+##### Easy Document Pin
+Automatically attach invoices to your reminders.
+
+[Setup Addressee](https://docs.belware.de/en-us/apps/easy-document-pin/first-steps/setup/)

@@ -29,7 +29,7 @@ To the order form
 
 ![](images/apps/senderforms_removed.PNG)
  
-Connector 365 Mail Experience Plus is available for the following BC licensing:
+Connector 365 Mail Experience Pro is available for the following BC licensing:
 
 - SaaS Essential
 - SaaS Premium

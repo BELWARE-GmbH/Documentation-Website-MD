@@ -6,8 +6,8 @@ draft: false
 collapsible: true
 weight: 2
 ---
-### Testing and purchasing of the Connector 365 Mail Experience Plus App
-Here you will find all help and learning resources about testing and purchasing the Connector 365 Mail Experience Plus App.
+### Testing and purchasing of the Connector 365 Mail Experience Pro App
+Here you will find all help and learning resources about testing and purchasing the Connector 365 Mail Experience Pro App.
 
 Simply use either the bottom or left navigation menu.
 

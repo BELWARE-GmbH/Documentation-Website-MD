@@ -1,14 +1,14 @@
 ---
-title: "Mail Experience Plus"
+title: "Mail Experience Pro"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: true
 weight: 1
 ---
-### Connector 365 Mail Experience Plus Online Help
+### Connector 365 Mail Experience Pro Online Help
 
-Here you will find all the help and learning resources, for our Microsoft AppSource Mail Experience Plus App.
+Here you will find all the help and learning resources, for our Microsoft AppSource Mail Experience Pro App.
 
 Just use either the bottom or left navigation menu.
 

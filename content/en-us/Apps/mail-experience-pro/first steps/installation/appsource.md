@@ -14,7 +14,7 @@ Using the search function, open the **Extension Marketplace** and open it.
 
 ![](images/apps/epostextensionen.PNG)
 
-The Microsoft AppSource opens. There you can use the search function again to find the **Connector 365 Mail Experience Plus**. Click on **Get it now** to start the installation. Before the installation starts, you have to provide some contact information.
+The Microsoft AppSource opens. There you can use the search function again to find the **Connector 365 Mail Experience Pro**. Click on **Get it now** to start the installation. Before the installation starts, you have to provide some contact information.
 
 ![](images/apps/ctimarketplacesearch.PNG)
 
@@ -24,10 +24,10 @@ You will receive a short confirmation that the installation is being performed. 
 
 You will not be notified about the completion of the installation, but the process should not take more than a few minutes.
 
-If everything worked, you can now find the **Connector 365 Mail Experience Plus** under **Installed Extensions**.
+If everything worked, you can now find the **Connector 365 Mail Experience Pro** under **Installed Extensions**.
 
 ![](images/apps/ctiinstalleden.PNG)
 
-You can now start with the [setup](/en-us/apps/mail-experience-plus/first-steps/setup/).
+You can now start with the [setup](/en-us/apps/mail-experience-pro/first-steps/setup/).
 
 

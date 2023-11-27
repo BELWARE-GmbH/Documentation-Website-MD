@@ -6,9 +6,9 @@ draft: false
 collapsible: true
 weight: 3
 ---
-### Installation of the Connector 365 Mail Experience Plus App
+### Installation of the Connector 365 Mail Experience Pro App
 
-Here you will find all help and learning resources about installing the Connector 365 Mail Experience Plus App.
+Here you will find all help and learning resources about installing the Connector 365 Mail Experience Pro App.
 
 Simply use either the bottom or left navigation menu.
 
