@@ -56,9 +56,10 @@ Zusätzlich wurde die Möglichkeit offen gelassen, XRechnung-Versionen auch manu
 |![](images/apps/XRechnung/de/xr_update_version_manually_de.png)|
 |-|
 
-Aktuell voreingstellt Versionen und Kennungen:
+Aktuell voreingstellte Versionen und Kennungen:
 
-| Version | Kennung
-|-|-|
-| 2.3 | urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.3 |
-| 2.2 | urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.2 |
+| Version | Kennung | Gültig ab |
+|-|-|-|
+| 3.0 | urn:cen.eu:en16931:2017#compliant#urn:xeinkauf.de:kosit:xrechnung_3.0 | 01.02.2024 |
+| **2.3** | **urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.3** | 01.08.2023 |
+| 2.2 | urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.2 | 01.02.2023 |
