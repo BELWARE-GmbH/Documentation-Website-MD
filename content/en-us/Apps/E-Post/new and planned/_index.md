@@ -12,7 +12,30 @@ weight: 1
 ### Planned functions for future versions
 - Reactivation of negative jobs
 - Contacts editable in dialog
+- Enhancements to shipment status information
+  * Processing status in the destination area
+  * Franking ID
+- Simplification for 'Registered mail return receipt'
 
+### Version 2.8.0.3 - 18.12.2023
+Corrections:
+- Fixed sending of multiple documents with document sending profile.
+
+### Version 2.8.0.2 - 25.10.2023
+Corrections:
+- Fixed sending of multiple documents from list pages.
+
+### Version 2.8.0.1 - 24.10.2023
+New Features:
+- New Event: OnBeforeOpenDialog to change E-POST parameters.
+
+### Version 2.8.0.0 - 24.10.2023
+New Features:
+- New EVent: OnBeforeOpenDialog to change E-POST parameters.
+
+### Version 2.7.0.0 - 06.09.2023
+New Features:
+- Call of event OnAfterCompleteC365Activity after the E-POST process is completed.
 
 ### Version 2.6.0.0 - 07.08.2023
 - New Event **OnBeforeWriteJSONContent** for overriding address data.

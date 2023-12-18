@@ -16,6 +16,26 @@ weight: 1
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
 
+### Version 2.8.0.3 - 18.12.2023
+Korrekturen:
+- Versand von mehreren Dokumenten mit dem Dokumentensendeprofil korrigiert.
+
+### Version 2.8.0.2 - 25.10.2023
+Korrekturen:
+- Versand mehrerer Dokumente von Listenseiten korrigiert.
+
+### Version 2.8.0.1 - 24.10.2023
+Neue Funktionen:
+- Neues Ereignis: OnBeforeOpenDialog zum Ändern der E-POST Parameter.
+
+### Version 2.8.0.0 - 24.10.2023
+Neue Funktionen:
+- Neues EVent: OnBeforeOpenDialog zum Ändern der E-POST-Parameter.
+
+### Version 2.7.0.0 - 06.09.2023
+Neuerungen:
+- Aufruf des EVents OnAfterCompleteC365Activity nachdem der E-POST Vorgang abgeschlossen wurde.
+
 ### Version 2.6.0.0 - 07.08.2023
 - Neues Event **OnBeforeWriteJSONContent** zur Übersteuerung der Adressdaten.
 - Implementierung der E-POST in die Funktionen des Belegsendeprofils.

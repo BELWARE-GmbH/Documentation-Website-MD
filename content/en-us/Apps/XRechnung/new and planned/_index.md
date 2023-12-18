@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+### Version 2.8.0.3 - 11.12.2023
+Corrections:
+ - The definded email subject from Mail Subject Plus will now set for XRechnung as well.
+
 ### Version 2.8.0.2 - 06.11.2023
 Corrections:
  - Correction of the display of XRechnung status in role center:
