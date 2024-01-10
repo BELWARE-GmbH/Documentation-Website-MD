@@ -12,5 +12,5 @@ Here you will find all the help and learning resources, for our Microsoft AppSou
 
 Just use either the bottom or left navigation menu.
 
-In case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the [support page](en-us/apps/help-and-support/).
+In case a question could not be answered, we are happy to help you personally. The necessary contact information can be found on the [support page](en-us/apps/help-and-support/).
 
