@@ -16,7 +16,7 @@ weight: 1
 
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Mail Experience Plus** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
-![](images/apps/mailattachmentssuche.PNG)
+![](images/apps/mailexperienceplusinstall.png)
 
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließend auf **Installieren**.
 
