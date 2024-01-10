@@ -20,9 +20,9 @@ The Microsoft AppSource opens. There you can use the search function again to fi
 
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German. Then click **Install**.
 
-You will receive a short confirmation that the installation is being performed. This takes place fully automatically in the background
+You will receive a short confirmation that the installation is being performed. This takes place fully automatically in the background.
 
-You will not be notified about the completion of the installation, but the process should not take more than a few minutes.
+You will also get a short notification of the completion of the installation. This should not take more than a few minutes.
 
 If everything worked, you can now find the **Connector 365 Mail Experience Plus** under **Installed Extensions**.
 

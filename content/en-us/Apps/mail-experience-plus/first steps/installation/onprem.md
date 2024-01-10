@@ -22,7 +22,7 @@ Now start the **Business Central Administration Shell** to start the publishing 
 
 ```cd C:\Apps```
 
-Now that you are in the appropriate folder, you can use the following command to first publish the base app
+Now that you are in the appropriate folder, you can use the following command to first publish the base app.
 
 {{< notice info "Note" >}}
  _The order of publishing is important, please always publish the Connector 365 Base App first._
@@ -33,7 +33,7 @@ Now that you are in the appropriate folder, you can use the following command to
 
 ```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
 
-Afterwards you should also perform the process for the actual Connector 365 Mail Experience Plus app
+Afterwards you should also perform the process for the actual Connector 365 Mail Experience Plus app.
 
 **Example:**
 

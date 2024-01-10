@@ -14,10 +14,10 @@ The app is available in the Microsoft AppSource.
 
 ![](images/apps/senderappsource.PNG-ÄNDERN)
 
-After installation the full functionality of the app can be used for 30 days free of charge.  
+After installation, you have a trial period of 30 days during which you can use the aps to their full extent.  
 
 If the app suits your requirements you can purchase full licenses via our order form.  
-Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.  
+Licensing is on a per-user basis, whereby each user is counted with a Team Member or Essentials license.  
 Before placing an order, you can find the applicable costs in the [price list provided on our website](https://www.belware.de/preise?lang=en).
 One license includes the use of the app in one production and in three sandbox environments. 
 
