@@ -12,7 +12,7 @@ weight: 2
 Sie erhalten von uns die Objekte für die Connector 365 Base & Addresse Control App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 
 #### Veröffentlichen der Connector 365 Base & Addresse Control App
-Das veröffentlichen der Connector 365 Base & Addresse Control App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.
+Das Veröffentlichen der Connector 365 Base & Addresse Control App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server auf dem Ihre Business Central Instanz läuft.
 
 ![](images/apps/adminshell.PNG)
 
@@ -22,7 +22,7 @@ Starten Sie nun die **Business Central Administration Shell** um den Prozess der
 
 ```cd C:\Apps```
 
-Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von folgendem Befehl zunächst die Basis App veröffentlichen
+Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von folgendem Befehl zunächst die Basis App veröffentlichen.
 
 {{< notice info "Hinweis" >}}
  _Die Reihenfolge der Veröffentlichung ist wichtig, bitte veröffentlichen Sie immer zuerst die Connector 365 Base App._
@@ -33,7 +33,7 @@ Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von fo
 
 ```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
 
-Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 365 Addressee Control App durchführen
+Anschließend solltenführen Sie diesen Prozess auch noch für die eigentliche Connector 365 Addressee Control App durch.
 
 **Beispiel:**
 

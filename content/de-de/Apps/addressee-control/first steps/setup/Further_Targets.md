@@ -24,13 +24,13 @@ Klicken Sie nun auf den Inhalt des Feldes. Es öffnet sich eine weitere Seite:
 |![](images/apps/Addresse_Control/Weitere_Zieladressen_Page.png)|
 |-|
 
-Es sind nun drei Felder zur Verfügung:
+Es stehen Ihnen nun drei Felder zur Verfügung:
 
 | Feld | Funktion|
 |-|-|
-| Ziel | Die E-Mail-Adresse, welche als weiterer Empfängeradresse hinterlegt wird.  |
+| Ziel | Die E-Mail-Adresse, welche als weitere Empfängeradresse hinterlegt wird.  |
 | CC   | Die eingerichtete E-Mail-Adresse (*Ziel*) wird als CC-Empfänger angenommen |
-| BCC  | Die eingerichtete E-Mali-Adresse (*Ziel*) wird als BCC-Empfänger angenommen |
+| BCC  | Die eingerichtete E-Mail-Adresse (*Ziel*) wird als BCC-Empfänger angenommen |
 
 {{< notice info Hinweis >}}
 Wenn eine E-Mail-Adresse eingerichtet ist, jedoch weder **CC** oder **BCC** ausgewählt sind, so wird die eingerichtete E-Mail-Adresse als direkter Empfänger hinterlegt.
@@ -51,7 +51,7 @@ so sollte sich der Wert des Feldes **Weitere Ziele** von *Nein* auf *Ja* geände
 Nun können Sie bei Bedarf die gleichen Schritte für weitere Verwendungen (z.B. Verkaufsgutschrift) wiederholen.
 
 {{< notice info Hinweis>}}
-Die Zieladressen werden pro Debitor **und** pro Berichtsverwendung gespeichert. Ein Debitor kann also für jede Berichtsverwendung verschiedene Zieladressen hinterlegen.
+Die Zieladressen werden pro Debitor **und** pro Berichtsverwendung gespeichert. Ein Debitor kann also für jede Berichtsverwendung verschiedene Zieladressen haben.
 {{< /notice >}}
 
 <br></br>

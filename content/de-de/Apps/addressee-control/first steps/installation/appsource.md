@@ -10,7 +10,7 @@ weight: 1
 
 ### AppSource
 
-Öffnen Sie mithilfe der Suchfunktion den **Marketplace für Erweiterungen** und öffnen Sie ihn.
+Öffnen Sie mithilfe der Suchfunktion den **Marketplace für Erweiterungen** und öffnen Sie diesen.
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
@@ -18,15 +18,15 @@ Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktio
 
 ![](images/apps/Addresse_Control/AddresseeControlAppSourceDe.png)
 
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließen **Installieren**.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen. Unsere App ist in Deutsch und Englisch verfügbar. Klicken Sie anschließend auf **Installieren**.
 
 ![](images/XRechnung/xrechnungsprache.PNG)
 
-Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt wird. Diese findet vollautomatisch im Hintergrund statt
+Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt wird. Diese findet vollautomatisch im Hintergrund statt.
 
 ![](images/XRechnung/xrechnunginstallation.PNG)
 
-Über den Abschluss der Installation werden Sie nicht benachrichtigt, der Prozess sollte aber nicht länger als ein paar Minuten dauern.
+Dieser Prozess sollte nicht länger als ein paar Minuten dauern und Sie erhalten eine Bestätigung des erfolgreichen Downloads.
 
 Wenn alles geklappt hat, können Sie nun den **Connector 365 Addressee Control** unter **Installierte Erweiterungen** finden.
 

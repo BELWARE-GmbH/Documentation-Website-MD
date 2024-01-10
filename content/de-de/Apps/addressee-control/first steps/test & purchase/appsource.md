@@ -10,7 +10,7 @@ weight: 2
 
 ### AppSource
 
-Die Connector 365 Addressee Control App steht Ihnen in der [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.connector_365_addressee_control|PAPPID.8105b8f4-7e56-4f98-8787-80215e00d8ec?tab=Overview) zur Verfügung.
+Die Connector 365 Addressee Control App steht Ihnen im [Microsoft AppSource](https://appsource.microsoft.com/de-de/product/dynamics-365-business-central/PUBID.belwaregmbh2|AID.connector_365_addressee_control|PAPPID.8105b8f4-7e56-4f98-8787-80215e00d8ec?tab=Overview) zur Verfügung.
 
 ![](images/apps/Addresse_Control/AddresseeControlAppSourceDe.png)
 
