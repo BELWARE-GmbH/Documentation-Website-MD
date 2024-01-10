@@ -26,3 +26,8 @@ Addressee Control allows you to control of the addressee per report type.
 For each report type you decide wether the customer from the field **Bill-to Customer** or **Sell-to Customer** will be used to define the addressee. 
 
 [Setup Addressee](https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/)
+
+##### Custom Filename
+Use preset filenames in your files and avoid sending unpersonalized documents.
+
+[Setup Filename](https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/)
