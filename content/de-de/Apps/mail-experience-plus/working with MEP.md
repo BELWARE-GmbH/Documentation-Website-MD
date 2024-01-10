@@ -26,3 +26,8 @@ Addressee Control erlaubt Ihnen die Steuerung des Empfängers auf Ebene der Beri
 Sie entscheiden für jede Berichtsart ob entweder der Debitor aus dem Feld **Verk. an Debitor** oder **Rech. an Debitor** zur Adressbestimmung genutzt wird.
 
 [Einrichtung Addressee](https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/)
+
+##### Bereich Custom Filename
+Mit Custom Filename können Sie eigene Dateinamen generieren je Bericht oder Debitor/Kreditor. Dabei können Sie Platzhalter verwenden um dynamische Dateinamen zu erstellen.
+
+[Einrichtung Filename](https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/)
