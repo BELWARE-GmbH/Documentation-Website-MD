@@ -22,7 +22,7 @@ Starten Sie nun die **Business Central Administration Shell** um den Prozess der
 
 ```cd C:\Apps```
 
-Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von folgendem Befehl zunächst die Basis App veröffentlichen
+Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von folgendem Befehl zunächst die Basis App veröffentlichen.
 
 {{< notice info "Hinweis" >}}
  _Die Reihenfolge der Veröffentlichung ist wichtig, bitte veröffentlichen Sie immer zuerst die Connector 365 Base App._
@@ -33,7 +33,7 @@ Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von fo
 
 ```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
 
-Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 365 Mail Experience Plus App durchführen
+Anschließend sollten Sie den Prozess auch noch für die eigentliche Connector 365 Mail Experience Plus App durchführen.
 
 **Beispiel:**
 
@@ -47,7 +47,7 @@ Beide Apps sollten nun im System veröffentlicht sein.
 #
 
 #### Installieren der Connector 365 Base & Mail Experience Plus App
-In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnne nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
+In der Erweiterungsverwaltung Ihrer Umgebung werden Sie Ihnen nun die Apps als veröffentlicht angezeigt, jedoch sind diese noch nicht installiert.
 
 ##### Installieren via des Clients
 Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
@@ -60,7 +60,7 @@ Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert.
 Für den Fall, dass Sie die Installation über die Administration Shell vornehmen wollen (dies hat den Vorteil, dass man gleich auf mehreren Tenants installieren kann), müssen Sie den **Install-NAVApp** Befehl nutzen. Dabei sollten Sie die **Tenant ID** spezifizieren. In den folgenden Beispielen installieren wir die Apps in zwei Tenants.
 
 {{< notice info "Hinweis" >}}
- _Auch die Reihenfolge bei der Installation spielt eine Rolle, installieren Sie bitte zuerst immer die Connector 365 Base App_
+ _Auch die Reihenfolge bei der Installation spielt eine Rolle, installieren Sie bitte zuerst immer die Connector 365 Base App._
 {{< /notice >}}
 #
 
