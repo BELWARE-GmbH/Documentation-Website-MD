@@ -9,6 +9,10 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.8.0.3 - 11.12.2023
+Korrekturen:
+ - Der E-Mailbetreff aus Mail Subject Plus wird nun auch bei XRechnungen berücksichtigt.
+
 ### Version 2.8.0.2 - 06.11.2023
 Korrekturen:
  - Korrektur der Anzeige von XRechnung-Status in Rollencenter:

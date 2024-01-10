@@ -12,7 +12,26 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
-### Version 2.12.0.1 - 09.09.2023
+### Version 2.14.0.1 - 23.11.2023
+Corrections:
+- The ID of the e-mail message is now correctly written to the list of Connector 365 activities.
+
+### Version 2.14.0.0 - 22.11.2023
+New functions:
+- The recipient email address is now set via a standard function.
+
+### Version 2.13.0.1 - 12.10.2023
+Corrections:
+ - Sending documents without a "Sell-To E-Mail" field when the document layout does not exist no longer causes errors.
+ - The function call from service documents now also passes the correct filter, so that not all documents from the list are set for processing.
+ - E-mail confirmations are now always written correctly to the feedback table.
+ - An authorization error has been fixed.
+
+### Version 2.13.0.0 - 11.10.2023
+New functions:
+ - Added several events to override the Easy Batch parameters.
+
+### Version 2.12.0.1 - 05.09.2023
 Corrections:
  - Fixes errors with batch sending using document sending profile setup
 

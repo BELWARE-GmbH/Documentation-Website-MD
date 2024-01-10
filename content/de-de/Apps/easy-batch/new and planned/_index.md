@@ -12,7 +12,26 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
 
-### Version 2.12.0.1 - 09.09.2023
+### Version 2.14.0.1 - 23.11.2023
+Korrekturen:
+- Die ID der E-Mailnachricht wird nun korrekt in die Liste der Connector 365 Aktivitäten geschrieben.
+
+### Version 2.14.0.0 - 22.11.2023
+Neuerungen:
+- Die Empfänger-E-Mailadresse wird nun durch Nutzen einer Standardfunktion gesetzt.
+
+### Version 2.13.0.1 - 12.10.2023
+Korrekturen:
+ - Der Versand von Belegen ohne "Sell-To E-Mail" Feld bei nicht vorhandenem DOkumentlayout führt nicht mehr zu Fehlern.
+ - Der Funktionsaufruf aus Servicebelegen heraus, übergibt nun auch den korrekten Filter, sodass nicht mehr alle Belege aus der Liste zur Verarbeitung eingestellt werden.
+ - E-Mailrückmeldungen werden nun immer korrekt in die Feedback Tabelle geschrieben.
+ - Berechtigungsfehler behoben.
+
+### Version 2.13.0.0 - 11.10.2023
+Neuerungen:
+ - Mehrere Events hinzugefügt, zur Übersteuerung der Easy Batch Parameter.
+
+### Version 2.12.0.1 - 05.09.2023
 Korrekturen:
  - Behebt Fehler bei Stapelversand mittels Belegsendeprofil-Einrichtung
 

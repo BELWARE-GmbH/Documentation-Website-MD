@@ -58,7 +58,8 @@ Additionally the possibility was left open to edit XRechnung versions manually. 
 
 Currently preset versions and identifiers:
 
-| Version | Id |
-|-|-|
-| 2.3 | urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.3 |
-| 2.2 | urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.2 |
+| Version | Id | Valid from |
+|-|-|-|
+| 3.0 | urn:cen.eu:en16931:2017#compliant#urn:xeinkauf.de:kosit:xrechnung_3.0 | 01.02.2024 |
+| **2.3** | **urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.3** | 01.08.2023 |
+| 2.2 | urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.2 | 01.02.2023 |
