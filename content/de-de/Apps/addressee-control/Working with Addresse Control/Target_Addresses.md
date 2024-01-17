@@ -8,8 +8,8 @@ weight: 4
 ---
 ### Arbeiten mit festgelegten Zieladressen
 
-Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der 
-**Connector 365 Addressee Control** als Zieladresse eingerichtet wurde:
+Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. 
+Es wird hierbei vorausgesetzt, dass der <i> Verkauf-An-Debitor</i> für die Verkaufsrechnungen mithilfe der **Connector 365 Addressee Control** als Zieladresse eingerichtet wurde:
 
 |![](/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_Example_WorkWith.png)|
 |-|
@@ -24,18 +24,18 @@ Zur Vereinfachung wurden im Folgenden für den Rechnungsempfänger **Bill-To-Cus
 
 </br>
 
-Bei Ausführen der Aktion: **Per E-Mail senden**, wird im Standard normalerweise die E-Mail-Adresse des Rechnungsempfängers im E-Mail-Dialog eingetragen:
+Bei Ausführen der Aktion: **Per E-Mail senden**, wird im Standard normalerweise die E-Mail-Adresse des Rechnungsempfängers im E-Mail-Dialog eingetragen. Dies sieht, wie folgt aus:
 
 |![](/images/apps/Addresse_Control/MailDialog_SellToCust.png)|
 |-|
 
-Mit der Einstellung jedoch, dass der Verkauf-an-Debitor für das Setzen der Zieladressen herangezogen werden soll, sieht der Dialog wie folgt aus:
+Mit der Einstellung jedoch, dass der Verkauf-an-Debitor für das Setzen der Zieladressen herangezogen werden soll, sieht der Dialog so aus:
 
 |![](/images/apps/Addresse_Control/MailDialog_BillToCust.png)|
 |-|
 
 
 
-Hier wurde nun die E-Mail-Adresse des Verkauf-an-Debitors als Zieladresse festgelegt. 
+Hier wurde nun die E-Mail-Adresse des Verkauf-an-Debitors als Zieladresse herangezogen. 
 In diesem Beispiel waren weder für den Rechnungsempfänger noch für den Käufer ein Dokumentlayout eingerichtet worden.
-Sofern eingerichtet, werden jedoch noch weitere Empfänger (CC und BCC) entsprechend der eingerichteten Zieladressen-Logik übernommen.
+Sofern eingerichtet, werden die weiteren Empfänger (CC und BCC) jedoch entsprechend der eingerichteten Zieladressen-Logik übernommen.

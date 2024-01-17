@@ -14,7 +14,7 @@ weight: 1
 
 ![](images/XRechnung/marketplacesuch.PNG)
 
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Addressee Control** zu finden. Klicken Sie auf **Get it now** um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den **Connector 365 Addressee Control** zu finden. Klicken Sie auf **Free Trial** um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 
 ![](images/apps/Addresse_Control/AddresseeControlAppSourceDe.png)
 
@@ -26,9 +26,9 @@ Sie bekommen noch eine kurze Bestätigung, dass die Installation durchgeführt w
 
 ![](images/XRechnung/xrechnunginstallation.PNG)
 
-Dieser Prozess sollte nicht länger als ein paar Minuten dauern und Sie erhalten eine Bestätigung des erfolgreichen Downloads.
+Dieser Prozess sollte nicht länger als ein paar Minuten dauern. Anschließend erhalten Sie eine Bestätigung des (erfolgreichen) Downloads.
 
-Wenn alles geklappt hat, können Sie nun den **Connector 365 Addressee Control** unter **Installierte Erweiterungen** finden.
+Nach der Installation können Sie nun den **Connector 365 Addressee Control** in der Erweiterungsverwaltung unter **Installierte Erweiterungen** finden.
 
 ![](images/apps/Addresse_Control/AddresseeControlErwVerwDe.png)
 

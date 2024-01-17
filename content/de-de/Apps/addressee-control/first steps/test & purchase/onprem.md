@@ -23,4 +23,4 @@ Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Runt
 
 Danach können Sie mit der [Installation](de-de/apps/addressee-control/first-steps/installation/onprem/) der Connector 365 Addressee Control App starten.
 
-Sollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an [support@belware.de](mailto:support@belware.de) und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die Info@belware.de.
+Bei technischen Anfragen wenden Sie sich bitte an [support@belware.de](mailto:support@belware.de) und bei allgemeinen Anfragen wie z.B. Preise oder Ablauf an die info@belware.de.

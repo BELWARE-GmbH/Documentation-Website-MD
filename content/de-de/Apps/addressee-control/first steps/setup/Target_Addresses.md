@@ -20,7 +20,6 @@ Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen 
 | Einkauf    | <img src="/images/apps/Addresse_Control/tick.png" width=30 >       |
 | Lager      | <img src="/images/apps/Addresse_Control/cross.png" width=30 >       |
 | Cashflow   | <img src="/images/apps/Addresse_Control/cross.png" width=30 >       |
-| Lager      | <img src="/images/apps/Addresse_Control/cross.png" width=30 >       |
 | Mahnung/Zinsrechnung  | <img src="/images/apps/Addresse_Control/tick.png" width=30 > ab Version 1.2.0.0 |
 | Bankkonto | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 | Projekt | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
@@ -49,11 +48,10 @@ Die angezeigten Felder auf dieser Seite sind Felder, welche einen direkten Bezug
 Legt man also beispielsweise für die Verwendung (Verkaufs-)**Rechnung** eine Verknüpfung zu Feld Nr. **2** - **Verk. an Deb.-Nr.** an, so wird der Empfänger einer Verkaufsrechnung künftig immer aus dem Debitor gesucht, welcher mit **Verk. an Deb.-Nr.** verknüpft ist.
 
 {{< notice info>}}
-Wählt man als Zieladresse eine Feldzuordnung zu einem Debitor/Kreditor, so hat dies auch Einfluss auf die Wahl
-der Dokumentlayouts. Wenn Sie beispielsweise für Verkaufsrechnungen festlegen, dass der Verkauf-an-Debitor für 
-die Suche nach Zieladressen herangezogen werden soll, so werden auch die Einstellungen der Dokumentlayouts des
-entsprechenden Debitors entnommen. Standardmäßig ist in Business Central hierfür der Rechnungsempfänger vorgesehen. 
-Mit **Connector 365 Addressee Control** können Sie also dieses Verhalten übersteuern.
+Wählt man als Zieladresse eine Feldzuordnung zu einem Debitor/Kreditor, so hat dies auch Einfluss auf die Wahl der Dokumentlayouts. 
+Wenn Sie beispielsweise für Verkaufsrechnungen festlegen, dass der Verkauf-an-Debitor für die Suche nach Zieladressen herangezogen werden soll, so werden auch die Einstellungen der Dokumentlayouts des entsprechenden Debitors entnommen. 
+Standardmäßig ist in Business Central hierfür der Rechnungsempfänger vorgesehen. 
+Mit **Connector 365 Addressee Control** können Sie dieses Verhalten übersteuern.
 {{< /notice >}}
 
 <a name="ACCon365" class="anchor"></a>

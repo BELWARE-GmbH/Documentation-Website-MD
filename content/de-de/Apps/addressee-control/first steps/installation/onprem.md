@@ -9,10 +9,10 @@ weight: 2
 ### Installation
 
 ### OnPrem
-Sie erhalten von uns die Objekte für die Connector 365 Base & Addresse Control App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Sie erhalten von uns die Objekte für die Connector 365 Base & Addressee Control App per E-Mail. Für die Nutzung der App, müssen Sie diese Objekte zuerst veröffentlichen und anschließend installieren.
 
-#### Veröffentlichen der Connector 365 Base & Addresse Control App
-Das Veröffentlichen der Connector 365 Base & Addresse Control App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server auf dem Ihre Business Central Instanz läuft.
+#### Veröffentlichen der Connector 365 Base & Addressee Control App
+Das Veröffentlichen der Connector 365 Base & Addressee Control App erfolgt via der **Business Central Administration Shell**. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server auf dem Ihre Business Central Instanz läuft.
 
 ![](images/apps/adminshell.PNG)
 
@@ -22,7 +22,7 @@ Starten Sie nun die **Business Central Administration Shell** um den Prozess der
 
 ```cd C:\Apps```
 
-Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von folgendem Befehl zunächst die Basis App veröffentlichen.
+Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von folgendem Befehl zunächst die Base App veröffentlichen.
 
 {{< notice info "Hinweis" >}}
  _Die Reihenfolge der Veröffentlichung ist wichtig, bitte veröffentlichen Sie immer zuerst die Connector 365 Base App._
@@ -33,7 +33,7 @@ Nun, da Sie sich im entsprechenden Ordner befinden, können Sie mit Hilfe von fo
 
 ```Publish-NAVApp -ServerInstance IhreBusinessCentralInstanz -Path ".\BasisApp.app"```
 
-Anschließend solltenführen Sie diesen Prozess auch noch für die eigentliche Connector 365 Addressee Control App durch.
+Anschließend führen Sie diesen Prozess auch noch für die eigentliche Connector 365 Addressee Control App durch.
 
 **Beispiel:**
 
@@ -53,17 +53,18 @@ In der Erweiterungsverwaltung Ihrer Umgebung werden Ihnen die Apps nun als verö
 ![](images/apps/ctipublishde.PNG)
 
 ##### Installieren via des Clients
-Öffnen Sie Ihre Business Central Umgebung, öffnen Sie die Suchfunktion und suchen Sie nach der **Erweiterungsverwaltung**.
+Öffnen Sie die Suchfunktion in Ihrer Business Central Umgebung und suchen Sie nach der **Erweiterungsverwaltung**.
 
-Dort sollten Sie nun die beiden Apps vorfinden mit dem Status nicht installiert. Mit einem Klick auf die 3 Punkte der jeweiligen App, können Sie diese nun über den Punkt **Installieren** in Ihrer Umgebung installieren.
+Dort sollten Sie nun die beiden Apps vorfinden mit dem Status <i>nicht installiert</i>. Mit einem Klick auf die 3 Punkte der jeweiligen App, können Sie diese nun über den Punkt **Installieren** in Ihrer Umgebung installieren.
 
 ![](images/apps/appinstallde.PNG)
 
 ##### Installieren via der Administration Shell
-Für den Fall, dass Sie die Installation über die Administration Shell vornehmen wollen (dies hat den Vorteil, dass man gleich auf mehreren Tenants installieren kann), müssen Sie den **Install-NAVApp** Befehl nutzen. Dabei sollten Sie die **Tenant ID** spezifizieren. In den folgenden Beispielen installieren wir die Apps in zwei Tenants.
+Für den Fall, dass Sie die Installation über die Administration Shell vornehmen wollen (dies hat den Vorteil, dass man gleich auf mehreren Tenants installieren kann), müssen Sie den **Install-NAVApp** Befehl nutzen. Dabei sollten Sie die **Tenant ID** spezifizieren. 
+In den folgenden Beispielen zeigen wir Ihnen die Installation der Apps in zwei Tenants.
 
 {{< notice info "Hinweis" >}}
- _Auch die Reihenfolge bei der Installation spielt eine Rolle, installieren Sie bitte zuerst immer die Connector 365 Base App_
+ _Auch die Reihenfolge bei der Installation spielt eine Rolle, installieren Sie bitte zuerst immer die Connector 365 Base App._
 {{< /notice >}}
 #
 
