@@ -10,27 +10,23 @@ weight: 1
 
 ### AppSource
 
-Using the search function, open the **Marketplace for Extensions** and open it.
+Using the <i>Tell me-</i>function, open the **Extension Marketplace**.
 
-![](images/XRechnung/marketplacesuch.PNG)
+![](images/apps/custom-filename/en/search-extension-marketplace.png)
 
-The Microsoft AppSource will open. There you can use the search function again to find the **Connector 365 Addressee Control**. Click on **Get it now** to start the installation. Before the installation starts, you have to provide some contact information.
-
-![](images/apps/ctimarketplacesearch.PNG)
+The Microsoft AppSource will open. There you can use the search function to find the **Connector 365 Addressee Control**. Click on **Free Trial** to get the app and start the installation. Before the installation starts, you have to provide some contact information.
 
 After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German. Then click **Install**.
 
-![](images/XRechnung/xrechnungsprache.PNG)
+![](images/apps/custom-filename/en/extension-installation.png)
 
 You will receive a short confirmation that the installation is being performed. The installation takes place fully automatically in the background.
 
-![](images/XRechnung/xrechnunginstallation.PNG)
+You will also be notified about the completion of the installation, but the process should not take more than a few minutes.
 
-You will not be notified about the completion of the installation, but the process should not take more than a few minutes.
+After the installation, you can now find the **Connector 365 Addressee Control** under **Installed Extensions**.
 
-If everything worked, you can now find the **Connector 365 Addressee Control** under **Installed Extensions**.
-
-![](images/apps/ctiinstalledde.PNG)
+![](images/apps/Addresse_Control/installedextensionsaddresseecontrolENU.png)
 
 You can now start with the [Setup](en-us/apps/addressee-control/first-steps/setup/).
 

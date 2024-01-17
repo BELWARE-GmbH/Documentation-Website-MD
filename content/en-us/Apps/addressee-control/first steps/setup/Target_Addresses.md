@@ -22,6 +22,7 @@ Please refer to the following table of currently usable report selections for us
 | Warehouse      | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
 | Reminder/Finance Charge  | <img src="/images/apps/Addresse_Control/tick.png" width=30 > from version 1.2.0.0 on|
 | Bank Account | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
+| Project | <img src="/images/apps/Addresse_Control/cross.png" width=30 > |
 | Service | <img src="/images/apps/Addresse_Control/tick.png" width=30 > from version 1.4.0.0 on |
 
 The **Connector 365 Addressee Control** app adds a subpage to supported report selection pages.
@@ -32,7 +33,7 @@ The **Connector 365 Addressee Control** app adds a subpage to supported report s
 |-|
 
 Now you have the possibility to set the destination address logic for different report usages.
-To do this, click on the **Assist button** (***three dots***) of the **Target from field number** field.
+To do this, click on the **Assist button** (***three dots***) of the field: **Target from field number**.
 
 |![](/images/apps/Addresse_Control/Report_Selection_Sales_AssistButton.png)|
 |-|
@@ -49,7 +50,7 @@ So, for example, if you create a link to field no. **2** - **Sell-to Customer No
 {{< notice info Information>}}
 If you select a field assignment to a customer/vendor as the target address, this also influences the selection of the document layouts.
 For example, if you specify for sales invoices that the sales-to-customer is to be used for the 
-for the search for target addresses, the settings of the document layouts of the corresponding customer will also be taken. By default, the invoice recipient is provided for this in Business Central. 
+search for target addresses, the settings of the document layouts of the corresponding customer will also be taken. By default, the invoice recipient is provided for this in Business Central. 
 With **Connector 365 Addressee Control** you can override this behavior.
 {{< /notice >}}
 

@@ -10,7 +10,7 @@ weight: 2
 
 ### OnPrem
 
-We grant the option to test the app without obligation for 30 days or to purchase it directly. 
+You have the possibility to test our Connector 365 Addressee Control App in advance without obligation for 30 days or you can purchase it directly. 
 Before ordering, you can find the costs incurred in the [price list provided on our website](https://www.belware.de/preise?lang=en).  
 
 <p style="text-align: center;">
@@ -24,6 +24,4 @@ If you want to buy the software immediately we will send you the necessary runti
 
 After that you can start with the [installation](en/apps/addressee-control/first-steps/installation/onprem/) of the Connector 365 Addressee Control App.
 
-
-
-
+Please contact Support@belware.de for technical inquiries and info@belware.de for general inquiries such as prices, procedures or similar.

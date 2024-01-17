@@ -12,4 +12,4 @@ Here you can find some informative videos about our **Connector 365 Address Cont
 
 #### Brief overview of the app
 <p style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vOm5bokQu6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RTZ0vl9val0?si=1_2gXezQpHl-pKY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

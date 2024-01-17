@@ -29,9 +29,9 @@ There are now three fields available:
 
 | Field | Function|
 |-|-|
-| Target | The e-mail address, which is stored as another recipient address |
-| CC   | The configured e-mail address (**Target**) is accepted as CC recipient |
-| BCC  | The configured e-mail address (**Target**) is accepted as BCC recipient |
+| Target address | The e-mail address, which is stored as another recipient address. |
+| CC   | The configured e-mail address (**Target**) is accepted as CC recipient. |
+| BCC  | The configured e-mail address (**Target**) is accepted as BCC recipient. |
 
 {{< notice info Note >}}
 If an e-mail address is set up, but neither **CC** nor **BCC** are selected, the e-mail address set up will be stored as the direct recipient.

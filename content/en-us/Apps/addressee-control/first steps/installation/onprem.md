@@ -9,7 +9,7 @@ weight: 2
 ### Installation
 
 ### OnPrem
-You will receive the objects for the Connector 365 Base & Addressee Control App from us by mail. These must first be published and then installed.
+You will receive the objects for the Connector 365 Base & Addressee Control App from us by email. These must first be published and then installed.
 
 #### Publish the Connector 365 Base & Addressee Control app
 Publishing the Connector 365 Base & Addressee Control app is done via the **Business Central Administration Shell**. First, transfer the files we send you to the server where your Business Central instance is running.
@@ -25,7 +25,7 @@ Now start the **Business Central Administration Shell** to start the process of 
 Now that you are in the appropriate folder, you can use the following command to first publish the base app
 
 {{< notice info "notice" >}}
- _The order of publication is important, please always publish the Connector 365 Base App first._}
+ _The order of publication is important, please always publish the Connector 365 Base App first._
 {{< /notice >}}
 #
 
@@ -33,7 +33,7 @@ Now that you are in the appropriate folder, you can use the following command to
 
 ```Publish-NAVApp -ServerInstance yourBusinessCentralinstance -Path ".\BaseApp.app"```
 
-Afterwards you should also perform the process for the actual Connector 365 Addressee Control app
+Afterwards you should also perform the process for the actual Connector 365 Addressee Control app.
 
 **Example:**
 
@@ -55,7 +55,7 @@ In the extension management of your environment you will now see the apps as pub
 ##### Installing via the Client
 Open your Business Central environment, open the search function and search for **Extension Management**.
 
-There you should now find the two apps with the status not installed. By clicking on the 3 dots of the respective app, you can now install it in your environment via the **Install** item.
+There you should now find the two apps with the status <i>not installed</i>. By clicking on the 3 dots of the respective app, you can now install it in your environment via the **Install** item.
 
 ![](images/apps/appinstallde.PNG)
 
@@ -63,7 +63,7 @@ There you should now find the two apps with the status not installed. By clickin
 In case you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you have to use the **Install-NAVApp** command. You should specify the **tenant ID** when doing this. In the following examples we install the apps in two tenants.
 
 {{< notice info "Note" >}}
- _The installation order also matters, please always install the Connector 365 Base app first_.
+ _The installation order also matters, therefore please install always the Connector 365 Base app first_.
 {{< /notice >}}
 #
 

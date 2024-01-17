@@ -8,9 +8,9 @@ weight: 1
 ---
 ### New and Planned
 
-Here you will find all the important information and instructions on how to install the Connector 365 Addresse Control App.
+Here you will find all the important information and notes on new and planned features of the Connector 365 Addresse Control App.
 
-Simply use either the bottom or left navigation menu.
+Simply use either the navigation menu at the bottom or on the left.
 
 In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 
