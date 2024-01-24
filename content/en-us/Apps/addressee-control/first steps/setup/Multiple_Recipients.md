@@ -8,18 +8,17 @@ weight: 5
 ---
 ### Set up additional e-mail recipients
 
-In addition to the functionality to set up destination addresses per job mode and usage,
-**Connector 365 Addressee Control** offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
+In addition to the functionality to set up destination addresses per job mode and usage, **Connector 365 Addressee Control** offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
 
 ### Setup
 You can store additional customer destination addresses in the document layouts of the desired customer.
 
-The **Connector 365 Addressee Control** app adds another field to the **Document Layouts**: **Additional Destinations**.
+The **Connector 365 Addressee Control** app adds another field to the **Document Layouts**: **Further targets**.
 |![](/images/apps/Addresse_Control/Document_Layouts_Further_Targets_No.png)|
 |-|
 
 The content of the field indicates whether other destination addresses are set up at the current time. In this case
-the content of the ***Other destinations*** field is: **No**, because no destination addresses have been set up yet.
+the content of the ***Further targets*** field is: **No**, because no additional destination addresses have been set up yet.
 
 Now click on the content of the field. Another page will open:
 |![](images/apps/Addresse_Control/FurtherTargets.png)|
@@ -44,8 +43,8 @@ You can create as many lines as you want and configure them differently per line
 |-|
 
 Once you have set up your desired additional recipients, you can close the page.
-If you now go back to the **Document Layouts** of the customer/vendor you just set up,
-the value of the **Additional Destinations** field should have changed from **No** to **Yes**: 
+If you now go back to the **Document Layouts** of the customer/vendor you just set up, the value of the **Further targets** field should have changed from 
+**No** to **Yes**: 
 |![](images/apps/Addresse_Control/Document_Layouts_Further_Targets_Yes.png)|
 |-|
 

@@ -8,8 +8,8 @@ weight: 5
 ---
 ### Videos
 
-Here you can find some informative videos about our **Connector 365 Address Control** App, each video covers a specific topic:
+Here you can find a short video about our **Connector 365 Address Control** App:
 
-#### Brief overview of the app
+#### Short overview of the app
 <p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RTZ0vl9val0?si=1_2gXezQpHl-pKY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Connector 365 Addresse Control Online Help
 
-Here you will find all the help and learning resources, for our Connecto 365 Addresse Control App.
+Here you will find all the help and learning resources, for our Connector 365 Addresse Control App.
 
 Just use either the bottom or left navigation menu.
 
