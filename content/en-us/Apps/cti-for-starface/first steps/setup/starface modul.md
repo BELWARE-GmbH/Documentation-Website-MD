@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 2
+weight: 4
 ---
 ### Setup
 In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, it must also be set up accordingly. For this you need a module that you can download further down on this page according to your STARFACE version.

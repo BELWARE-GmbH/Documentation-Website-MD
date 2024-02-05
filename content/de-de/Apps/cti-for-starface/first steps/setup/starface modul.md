@@ -4,7 +4,7 @@ date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
-weight: 1
+weight: 4
 ---
 ### Einrichtung
 Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch diese entsprechend eingerichtet werden. Dazu benötigen Sie ein Modul, das Sie weiter unten auf dieser Seite passend zu Ihrer STARFACE-Version herunterladen können.
