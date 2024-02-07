@@ -10,6 +10,6 @@ weight: 2
 
 Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 PdfPaper App.
 
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Nutzen Sie zur Navigation einfach entweder das untere oder linke Menü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).

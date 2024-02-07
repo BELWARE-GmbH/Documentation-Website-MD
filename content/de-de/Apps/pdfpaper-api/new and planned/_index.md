@@ -15,9 +15,9 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
 ### Geplante Funktionen für zukünftige Versionen
-- ???
+- weitere Funktionen aus Modul PdfPaper
 
 ### Version 1.0.0.0
-- Hinterlegen von Briefpapier pro Bericht & Debitor
+- Hinterlegen von Briefpapier: Global, pro Bericht & pro Debitor
 - Anlegen von mehreren Briefpapieren
 - Vorschaufunktion
