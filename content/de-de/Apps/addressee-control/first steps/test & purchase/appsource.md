@@ -17,7 +17,7 @@ Die Connector 365 Addressee Control App steht Ihnen im [Microsoft AppSource](htt
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen und testen.
 
 Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
-Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Premium oder Essentials Lizenz, sowie Team Member Lizenz gezählt wird.
 Vor Bestellung können Sie die anfallenden Kosten der [auf unserer Website bereitgestellten Preisliste](https://www.belware.de/preise) entnehmen.
 Dabei beinhaltet eine Lizenz die Nutzung der App in einer Produktiv- und in drei Sandbox-Umgebungen.
 
