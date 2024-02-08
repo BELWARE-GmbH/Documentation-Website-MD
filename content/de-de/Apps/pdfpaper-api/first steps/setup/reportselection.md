@@ -36,6 +36,7 @@ Eine neue Briefpapierkonfiguration erstellen Sie, wie folgt:
 2. Optional können Sie eine Beschreibung hinterlegen, in der Sie den Code weiter beschreiben.
 3. Unter Briefpapier-Vorlage legen Sie fest, welcher Briefpapiercode für welche Briefpapierart verwendet werden soll.
 </p>
+
 Die Optionen die Seiten Ihres Briefpapiers zu kombinieren, sind zahlreich. Hierbei gilt, dass Sie pro Option jeweils ein Briefpapier zuordnen können. Beispiele für die Konfiguration Ihres Briefpapiers finden Sie **hier**. 
 
 #### Anhangskonfiguration
@@ -48,6 +49,7 @@ Um eine neue Anhangskonfiguration zu erstellen, befolgen Sie die folgenden Schri
 4. Positionieren Sie Ihre Anhänge in der gewünschten Reihenfolge.
 5. Fügen Sie eine Drehung Ihren Anhängen hinzu, wenn erforderlich oder gewünscht.
 </p>
+
 Eine ausführlichere und bebilderte Anleitung, sowie ein Beispiel finden Sie **hier**.
 
 #### Konformitätsstufe
