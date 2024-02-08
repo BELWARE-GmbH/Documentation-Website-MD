@@ -1,5 +1,5 @@
 ---
-title: "Briefpapier im der Berichtsauswahl"
+title: "Einrichtung in Berichtsauswahl"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
@@ -8,23 +8,47 @@ weight: 3
 ---
 ### Einrichtung
 
-### Briefpapier im der Berichtsauswahl
+Die in der Berichtsauswahl hinterlegte PDF-Einrichtung wird gegenüber der PDF-Einrichtung in der Connector 365 Einrichtung priorisiert.
 
-Die Berichtsauswahl ist eine von zwei Stellen an der Sie Ihr Briefpapier hinterlegen können. 
+### PDF in der Berichtsauswahl
 
-Öffnen Sie dazu die entsprechende Berichtsauswahl z.B. **"Berichtsauswahl - Verkauf"**. Wählen Sie dort nun den Bericht aus für den Sie ein Briefpapier hinterlegen möchten.
-Sie werden hier das neue Feld **"Stationery"** finden. Klicken Sie auf das Feld, es öffnet sich ein neues Fenster in dem Sie Ihr Briefpapier auswählen können.
+Die Berichtsauswahl ist eine weitere Stelle an der Sie Ihr Briefpapier hinterlegen können neben der Connector 365 Einrichtung und den Dokumentenlayouts. 
 
-Wenn dies das erste mal ist, dass Sie dieses Fenster öffnen, dann wird die Auswahl leer sein.
+Öffnen Sie die entsprechende Berichtsauswahl z.B. **"Berichtsauswahl - Verkauf"**. Wählen Sie dort nun den Bericht aus für den Sie ein Briefpapier hinterlegen möchten.
 
-#### Anlegen eines neuen Briefpapiers
+Sie werden hier nun als neuen Bereich **PDF-Einrichtung** finden. 
 
-Wenn Sie ein ganz neues Briefpapier anlegen möchten, klicken Sie auf **"Neu"**, dem Briefpapier wird automatisch eine neue laufende Nummer vergeben. Über Briefpapier Name, müssen Sie jetzt noch ein konkretes Briefpapier auswählen. Klicken Sie auf die drei Punkte und öffnen Sie im neuen Fenster **"Wählen"** und suchen Sie das Briefpapier aus.
+|![](images/apps/pdf_SaaS/report_selection_DEU.png)|
+|-|
 
-Hinweis: Das Briefpapier muss in dem Ordner der in der [iPaper Einrichtung](/de-de/apps/pdfpaper/first-steps/setup/ipaper) angegeben wurde abgelegt sein, ansonsten wird das Briefpapier nicht korrekt merged.
+Wie in der PDF-Einrichtung unter der Connector 365 Einrichtung stehen Ihnen auch hier wieder folgende Einrichtungsoptionen zur Verfügung:
+<ul>
+<li> Briefpapierkonfiguration </li>
+<li> Anhangskonfiguration </li>
+<li> Konformitätsstufe </li>
+</ul>
 
-Nachdem das Briefpapier hinzugefügt wurde, können Sie dieses nun auswählen.
+#### Briefpapierkonfiguration
+Hier können Sie eine bestehende Briefpapierkonfiguration auswählen oder eine Neue erstellen über **+Neu**.
 
-Sie können nun den von Ihnen gewählten Bericht mit dem eingestellten Briefpapier erstellen. Wiederholen Sie diesen Prozess so lange bis alle von Ihnen verwendeten Berichte eine Briefpapier-Datei hinterlegt haben.
+Eine neue Briefpapierkonfiguration erstellen Sie, wie folgt:
+1. Definieren Sie einen Code.
+2. Optional können Sie eine Beschreibung hinterlegen, in der Sie den Code weiter beschreiben.
+3. Unter Briefpapier-Vorlage legen Sie fest, welcher Briefpapiercode für welche Briefpapierart verwendet werden soll.
+</p>
+Die Optionen die Seiten Ihres Briefpapiers zu kombinieren, sind zahlreich. Hierbei gilt, dass Sie pro Option jeweils ein Briefpapier zuordnen können. Beispiele für die Konfiguration Ihres Briefpapiers finden Sie **hier**. 
 
-Sie können jetzt noch optional ein [Briefpapier pro Debitor](/de-de/apps/pdfpaper/first-steps/setup/documentlayouts) hinterlegen.
+#### Anhangskonfiguration
+Auch hier haben Sie die Möglichkeit eine bestehende Anhangskonfiguration auszuwählen oder eine Neue zu erstellen.
+
+Um eine neue Anhangskonfiguration zu erstellen, befolgen Sie die folgenden Schritte:
+1. Definieren Sie einen Code.
+2. Optional können Sie eine Beschreibung hinterlegen, in der Sie die Anhangskonfiguration beschreiben.
+3. Wählen Sie ob Ihr Anhang **vor** oder **nach** dem Hauptdokument hinzugefügt werden soll.
+4. Positionieren Sie Ihre Anhänge in der gewünschten Reihenfolge.
+5. Fügen Sie eine Drehung Ihren Anhängen hinzu, wenn erforderlich oder gewünscht.
+</p>
+Eine ausführlichere und bebilderte Anleitung, sowie ein Beispiel finden Sie **hier**.
+
+#### Konformitätsstufe
+Wenn gewünscht können Sie hier eine Konformitätsstufe wählen, die von der in der Connector 365 Einrichtung hinterlegten Konformitätsstufe abweicht.
