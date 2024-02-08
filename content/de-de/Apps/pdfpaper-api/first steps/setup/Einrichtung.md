@@ -7,12 +7,13 @@ collapsible: false
 weight: 1
 ---
 ### Einrichtung
-Damit Ihre Dokumente in Ihrem Corporate-Design verschickt werden, müssen Sie vorab die PdfPaper-API einrichten. Im Folgenden wird erläutert, welche Schritte notwendig sind, um Ihr Briefpapier zu konfigurieren.
+Damit Ihre Dokumente in Ihrem Corporate-Design verschickt werden, müssen Sie vorab die PdfPaper-API einrichten. Im Folgenden wird erläutert, welche Schritte notwendig sind, für die grundlegende Einrichtung und anschließende Nutzung.
 
 ### Allgemein
 Für die allgemeine Einrichtung der PdfPaper-API suchen Sie über die **Tell me**-Funktion nach **Connector 365 Einrichtung** und öffnen Sie den entsprechenden Link. Klicken Sie anschließend auf **PdfPaper-API-Einrichtung**. Die Einrichtung für die PdfPaper-API klappt aus. 
 
-BILD
+|![](images/apps/pdf_SaaS/C365_pdf_DEU.png)|
+|-|
 
 Hier füllen Sie nun zuerst das folgende Feld aus: **API-Schlüssel**. 
 Den API-Schlüssel erhalten Sie durch die Registrierung/durch Lizenzierung???
@@ -21,40 +22,63 @@ Unter dem Feld Dokumenteneinstellungen, können Sie den **Konformitätsgrad** fe
 
 Bevor Sie die weiteren Felder ausfüllen können, ist es nötig die entsprechenden Dateien im System zu hinterlegen. Um welche Dateien es sich handelt und wie Sie diese hinterlegen, zeigen wir Ihnen jetzt im Detail jeweils für **Briefpapier**, **Zertifikat** und **Anhänge**.
 
-#### Briefpapier
 
+### Briefpapier
 Bevor Sie die Briefpapierkonfiguration einrichten können, ist es notwendig, dass Sie Ihr Briefpapier im Pdf-Format im System hinterlegen. Suchen Sie über die **Tell me**-Funktion nach **Briefpapier**. 
 
 Wenn Sie die PdfPaper-API zum ersten Mal verwenden, dann ist dort noch kein Briefpapier hinterlegt. Klicken Sie daher auf den Button **Neu** und hinterlegen Sie per Drag & Drop das gewünschte Briefpapier. Alternativ klicken Sie auf das Feld und durchsuchen Sie Ihre Dateien, bevor Sie die gewünschte Datei hier hinzufügen.
 
-Nachdem Sie das Briefpapier hinzugefügt haben, erscheint das folgende Fenster:
-
-BILD
+|![](images/apps/pdf_SaaS/Add_stationery_DEU.png)|
+|-|
 
 Weisen Sie Ihrem Briefpapier einen Code und einen eindeutigen Namen zu. Denn je eindeutiger der gewählte Code, desto einfacher die anschließende Konfiguration des Briefpapiers. Es besteht zudem die Möglichkeit für weitere Informationen eine Beschreibung hinzuzufügen. Ebenfalls finden Sie hier Informationen zum Dateinamen und der Dateigröße.
 
-### Briefpapierkonfiguration
+|![](images/apps/pdf_SaaS/Add_stationery_example_DEU.png)|
+|-|
 
-Nachdem Sie Ihr Briefpapier hinterlegt haben. Öffnen Sie über die **Tell me**-Funktionn die **Briefpapierkonfiguration**. Bei Erstkonfiguration ist hier noch keine Briefpapierkonfiguration hinterlegt.
+#### Briefpapierkonfiguration
+Nachdem Sie Ihr Briefpapier hinterlegt haben. Öffnen Sie über die **Tell me**-Funktion die **Briefpapierkonfiguration**. Bei Erstkonfiguration ist hier noch keine Briefpapierkonfiguration hinterlegt.
+
+|![](images/apps/pdf_SaaS/Stationery_tellme_DEU.png)|
+|-|
 
 Eine neue Briefpapierkonfiguration fügen Sie über den Button **Neu** hinzu. Die folgenden Schritte und Optionen sind für die Briefpapierkonfiguration erforderlich:
 1. Weisen Sie Ihrer Briefpapierkonfigurationen einen **Code** zu.
 2. Optional können Sie eine Beschreibung hinterlegen, in der Sie den Code weiter definieren.
-3. In der Tabelle legen Sie unter dem Reiter **Briefpapierart** fest für welche Seite, bzw. Seiten Ihr Briefpapier verwendet wird. Folgende Optionen stehen Ihnen zur Verfügung:
+3. In der Tabelle legen Sie unter dem Reiter **Briefpapierart** fest für welche Seite, bzw. Seiten Ihr Briefpapier verwendet wird. 
+Folgende Optionen stehen Ihnen zur Verfügung:
     - Alle Seiten
     - Erste Seite
     - Der Seite folgen
     - Vorletzte Seite
     - Letzte Seite
 
-Die Optionen die Seiten Ihres Briefpapiers zu konfigurieren, sind zahlreich. Hierbei gilt, dass Sie pro Abschnitt der Seiten jeweils ein Briefpapier hinterlegen können. Im Folgenden führen wir diverse Beispiele an um die möglichen Konfigurationen zu verdeutlichen.
+Die Optionen die Seiten Ihres Briefpapiers zu konfigurieren, sind zahlreich. Hierbei gilt, dass Sie pro Option, bzw. Abschnitt der Seiten jeweils ein Briefpapier hinterlegen können. Im Folgenden führen wir diverse Beispiele an, um die möglichen Konfigurationen zu verdeutlichen.
 
-#### Beispiel 1
+##### Beispiel 1
 Die einfachste Konfiguration ist, wenn Sie für alle Seiten das gleiche Briefpapier verwenden möchten. Wählen Sie hierzu als Briefpapierart **Alle Seiten** und hinterlegen Sie per Code das gewünschte Briefpapier.
 
-#### Beispiel 2
+|![](images/apps/pdf_SaaS/Example_1_allpages_DEU.png)|
+|-|
+
+
+##### Beispiel 2
 Es besteht jedoch ebenfalls die Option mit Hilfe der Konfiguration für einzelne Seiten oder Seiten jeweils ein anderes Briefpapier zu hinterlegen. Hierunter sehen Sie verschiedene Beispielkonfigurationen, wo die Seiten unterschiedliche Briefpapiere zugewiesen bekommen haben.
 
+|![](images/apps/pdf_SaaS/Example_2_differents_DEU.png)|
+|-|
+
 ### Zertifikat
+In der Einrichtung haben Sie die Möglichkeit ein Signaturzertifikat zu hinterlegen. Durch die digitale Signatur wird nicht nur der Autor für eine spätere Authentifizierung, sondern auch der Inhalt des Dokuemts im Moment der Signierung garantiert. Denn das zertfizierte Dokument kann nicht geändert werden, wodurch die Signatur die Integrität sichert.  
+
+#### Signaturzertifikat
+Sie können das Signaturzertifikat ***nur*** in der Connector 365 Einrichtung hinterlegen. Klicken Sie hier auf den Kasten und wählen Sie aus einen der von Ihnen hinterlegten Signaturen eine aus. Wenn Sie noch keine Signatur hinterlegt haben, klicken Sie auf **Neu**. Anschließend fügen Sie Ihre Signatur-Datei durch Drag & Drop, bzw. über das Durchsuchen Ihrer Dateien hinzu.
+
+Das folgende Fenster öffnet sich nachdem Sie eine Datei hinzugefügt haben:
+
+|![](images/apps/pdf_SaaS/Add_Signaturecertificate_DEU.png)|
+|-|
+
+Der Dateiname und die Dateigröße sind im Gegensatz zur obrigen Abbildung mit den Daten Ihrer Sigan
 
 ### Anhänge
