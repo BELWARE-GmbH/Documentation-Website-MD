@@ -6,12 +6,12 @@ draft: false
 collapsible: false
 weight: 2
 ---
-### Arbeiten mit der PdfPaper App
+### Arbeiten mit der PDF App
 
 ### Briefpapier nutzen
 Einmal hinterlegt, wird das Briefpapier automatisch bei der Erstellung von PDFs gemerged. Dabei unterstützen wir jeden Arbeitsvorgang bei dem eine PDF zur Verfügung gestellt wird.
 
-Dabei unterstützen wir die folgenden Berichte:
+Die folgenden Berichte werden unterstützt:
 
 | **Verkauf**          | **Einkauf**          |
 |----------------------|----------------------|
@@ -22,11 +22,11 @@ Dabei unterstützen wir die folgenden Berichte:
 | Geb. Vk-Gutschriften | Geb. EK-Gutschriften |
 | Reg. Mahnungen       |                      |
 
-Unsere anderen Apps, bei denen eine PDF-Erstellung stattfindet, unterstützen ebenfalls die Connector 365 PdfPaper App:
+Unsere anderen Apps, bei denen eine PDF-Erstellung stattfindet, unterstützen ebenfalls die Connector 365 PDF App:
 
 - Connector 365 E-POST API
 - Connector 365 XRechnung
 - Connector 365 Easy Batch
 
-#### Preview Funktion
-Vor dem eigentlich erstellen, der PDF für de n Vorgang, haben Sie die Möglichkeit sich diese einmal in einer Vorschau anzeigen zu lassen. Wählen Sie dazu Ihren Beleg aus und nutzen Sie anschließend die Vorschau-Funktion via **Drucken/Senden** -> **Vorschau**. Nun wird Ihnen der fertige Beleg angezeigt.
+#### Vorschau-Funktion
+Vor dem eigentlich Erstellen, der Pdf für den Vorgang, haben Sie die Möglichkeit sich diese einmal in einer Vorschau anzeigen zu lassen. Wählen Sie dazu Ihren Beleg aus und nutzen Sie anschließend die Vorschau-Funktion via **Aktionen** -> **PDF-Vorschau**. Nun wird Ihnen der fertige Beleg angezeigt.
