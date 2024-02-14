@@ -80,14 +80,14 @@ Es besteht jedoch ebenfalls die Option mit Hilfe der Konfiguration für einzelne
 In der Einrichtung haben Sie die Möglichkeit ein Signaturzertifikat zu hinterlegen. Durch die digitale Signatur wird nicht nur der Autor für eine spätere Authentifizierung, sondern auch der Inhalt des Dokuemts im Moment der Signierung garantiert. Denn das zertfizierte Dokument kann nicht geändert werden, wodurch die Signatur die Integrität sichert.  
 
 #### Signaturzertifikat
-Sie können das Signaturzertifikat ***nur*** in der Connector 365 Einrichtung hinterlegen. Klicken Sie hier auf den Kasten und wählen Sie aus einen der von Ihnen hinterlegten Signaturen eine aus. Wenn Sie noch keine Signatur hinterlegt haben, klicken Sie auf **Neu**. Anschließend fügen Sie Ihre Signatur-Datei durch Drag & Drop, bzw. über das Durchsuchen Ihrer Dateien hinzu.
+Sie können das Signaturzertifikat ***ausschließlich*** in der Connector 365 Einrichtung hinterlegen. Klicken Sie hier auf den Kasten und wählen Sie eine der von Ihnen hinterlegten Signaturen aus. Wenn Sie noch keine Signatur hinterlegt haben, klicken Sie auf **Neu**. Anschließend fügen Sie Ihre Signatur-Datei durch Drag & Drop, bzw. über das Durchsuchen Ihrer Dateien hinzu.
 
 Das folgende Fenster öffnet sich nachdem Sie eine Datei hinzugefügt haben:
 
 |![](images/apps/pdf_SaaS/Add_Signaturecertificate_DEU.png)|
 |-|
 
-Der Dateiname und die Dateigröße sind im Gegensatz zur obrigen Abbildung mit den Daten Ihrer Signatur gefüllt. Mit dem Code beschreiben Sie um welche Signatur es sich handelt, wodurch Sie diese identifizieren können, sollten Sie mehrere verwenden. Ebenfalls können Sie in der Beschreibung weitere Informationen hinterlegen zu dieser. Durch die Vergabe eines Passworts stellen Sie sicher, dass das Signaturzertifikat nur von berechtigten Personen verändert werden kann.
+Der Dateiname und die Dateigröße sind im Gegensatz zur obrigen Abbildung mit den Daten Ihrer Signatur gefüllt. Mit dem Code beschreiben Sie, um welche Signatur es sich handelt, wodurch Sie diese identifizieren können, sollten Sie mehrere verwenden. Ebenfalls können Sie in der Beschreibung weitere Informationen zu dieser hinterlegen. Durch die Vergabe eines Passworts stellen Sie sicher, dass das Signaturzertifikat nur von berechtigten Personen verändert werden kann.
 
 Sie können mehrere Signaturzertfikate hinterlegen, jedoch nur eins aktiv in der App nutzen. Um das Signaturzertifikat zu wechseln, wählen Sie ein anderes Signaturzertifikat aus, welches schon hinterlegt ist oder fügen dieses zuerst über die oben genannten Schritte hinzu.
 
@@ -137,13 +137,13 @@ Hier haben wir beispielhaft einmal die folgenden Anhänge hinzugefügt, wie Sie 
 Im Folgenden gehen wir kurz darauf ein, wie Sie einen bereits hinzugefügten Anhang wieder entfernen können, bzw. wie Sie die Reihenfolge der Anhänge verändern.
 
 ##### Entfernen eines Anhangs
-Im **Vor dem Hauptdokument anhängen** haben wir auf der ersten Positionsnr. den Anhang mit dem Code **Anhang** hinterlegt. Um diesen zu entfernen, klicken Sie auf das Feld zwischen der Positionsnr. 1 und Anhang, wie mit dem roten Rechteck markiert. Über die 3 Punkte können Sie ***Zeile löschen*** auswählen und Ihren Anhang entfernen.
+Im **Vor dem Hauptdokument anhängen** haben wir auf der ersten Positionsnummer den Anhang mit dem Code **Anhang** hinterlegt. Um diesen zu entfernen, klicken Sie auf das Feld zwischen der Positionsnr. 1 und Anhang, wie mit dem roten Rechteck markiert. Über die 3 Punkte können Sie ***Zeile löschen*** auswählen und Ihren Anhang entfernen.
 
 ##### Verändern der Position eines Anhangs
-Im **Nach dem Hauptdokument anhängen** haben wir auf der ersten Positionsnr. den Anhang mit dem Code AGB hinterlegt und auf der zweiten Positionsnr. den Anhang mit dem Code Haftungsausschluss. Die Position dieser beiden möchten wir miteinander tauschen. Da Sie Anhänge nur eine Ebene nach oben verschieben können, müssen Sie Haftungsauschluss auswählen und anschließend den Button **nach oben** klicken. Wiederholen Sie dies entsprechend der Anzahl Position, die dieser nach oben verschoben werden soll.
+Im **Nach dem Hauptdokument anhängen** haben wir auf der ersten Positionsnummer den Anhang mit dem Code "AGB" hinterlegt und auf der zweiten Positionsnummer den Anhang mit dem Code "Haftungsausschluss". Die Position dieser beiden möchten wir miteinander tauschen. Da Sie Anhänge nur eine Ebene nach oben verschieben können, müssen Sie Haftungsauschluss auswählen und anschließend den Button **nach oben** klicken. Wiederholen Sie dies entsprechend der Anzahl Position, die dieser nach oben verschoben werden soll.
 
 {{< notice info "Hinweis" >}}
- _Um einen Anhang mehrere Positionen nach oben zu verschieben, müssen Sie nach jeder Positionsverschiebung nach oben, den Anhang **erneut** auswählen._
+ _Um einen Anhang mehrere Positionen nach oben/unten zu verschieben, müssen Sie nach jeder Positionsverschiebung nach oben/unten, den Anhang **erneut** auswählen. Sie können einen Anhang **nach unten** verschieben, indem Sie dies über die 3 Punkte auswählen._
 {{< /notice >}}
 </p>
 

@@ -6,9 +6,9 @@ draft: false
 collapsible: true
 weight: 4
 ---
-### Einrichtungen der Connector 365 PdfPaper-API App
+### Einrichtungen der Connector 365 PDF App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 PdfPaper App.
+Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 PDF App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

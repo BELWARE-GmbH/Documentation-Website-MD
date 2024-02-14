@@ -6,9 +6,9 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### Neue und geplante Features der Connector 365 PdfPaper-API App
+### Neue und geplante Features der Connector 365 PDF App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 PdfPaper-API App.
+Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 PDF App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

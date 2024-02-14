@@ -6,9 +6,9 @@ draft: true
 collapsible: true
 weight: 1
 ---
-### Connector 365 PdfPaper Online Hilfe
+### Connector 365 PDF Online Hilfe
 
-Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource PdfPaper App.
+Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource PDF App.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

@@ -6,9 +6,9 @@ draft: false
 collapsible: true
 weight: 2
 ---
-### Testen und kaufen der Connector 365 Mail PdfPaper
+### Testen und kaufen der Connector 365 PDF
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail PdfPaper.
+Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 PDF.
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 

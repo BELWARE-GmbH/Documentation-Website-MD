@@ -6,9 +6,9 @@ draft: false
 collapsible: true
 weight: 2
 ---
-### Erste Schritte mit der Connector 365 PdfPaper App
+### Erste Schritte mit der Connector 365 PDF App
 
-Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 PdfPaper App.
+Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 PDF App.
 
 Nutzen Sie zur Navigation einfach entweder das untere oder linke Menü.
 
