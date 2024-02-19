@@ -29,8 +29,14 @@ Die **Connector 365 Addressee Control** App erweitert unterstützte Berichtsausw
 
 *Beispiel aus dem Bereich Verkauf -> **Berichtsauswahl - Verkauf**:*
 
-|<img src="/images/apps/Addresse_Control/Berichtsauswahl_Verkauf.png" />|
+|<img src="/images/apps/Addresse_Control/AddresseeControl_Priorität_der_Adresse_DEU.png" />|
 |-|
+
+{{< notice info Hinweis>}}
+Die Werkseinstellungen sind der Zieladressen-Logik des Standards von Business Central nachempfunden (Stand Februar 2024). Nehmen Sie **nur** Änderungen in den Berichten vor von denen Sie eine abweichende Zieladressenlogik einrichten möchten.
+{{< /notice >}}
+<p></p>
+
 
 Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik einzustellen.
 Klicken Sie hierzu auf den **Assist Button** (***Drei Pünktchen***) des Feldes **Ziel aus Feldnummer**.
