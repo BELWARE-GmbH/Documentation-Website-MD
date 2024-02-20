@@ -33,21 +33,58 @@ Die **Connector 365 Addressee Control** App erweitert unterstützte Berichtsausw
 |-|
 
 {{< notice info Hinweis>}}
-Die Werkseinstellungen sind der Zieladressen-Logik des Standards von Business Central nachempfunden (Stand Februar 2024). Nehmen Sie **nur** Änderungen in den Berichten vor von denen Sie eine abweichende Zieladressenlogik einrichten möchten.
+Die Werkseinstellungen sind der Zieladressen-Logik des Standards von Business Central nachempfunden (Stand Februar 2024). 
+Wir empfehlen Ihnen daher **nur** Änderungen in den Berichten vor zu nehmen, bei denen Sie eine abweichende Zieladressenlogik einrichten möchten.
 {{< /notice >}}
 <p></p>
 
+Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik jeweils abweichend von der Standard-Zieladressen-Logik einzustellen. 
 
-Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik einzustellen.
-Klicken Sie hierzu auf den **Assist Button** (***Drei Pünktchen***) des Feldes **Ziel aus Feldnummer**.
+<div style="text-indent:20px;"><details>
+  <summary>Dokumentenlayouts</summary>
+  <p style="text-indent:30px;">Bei der Standard-Zieladressen-Logik von Business Central hat die höchste Priorität das Dokumentenlayout der Rech. an Deb.-Nr., woraus die</p> <p style="text-indent:30px;">Empfänger E-Mail gezogen wird. Im unten gezeigten Beispiel sehen Sie das Dokumentenlayout des rechnungsempfangenden Debitors. </p>
+  <p style="text-indent:30px;">Für die Verwendung Rechnung sehen Sie das als Empfänger-E-Mail: "demo@belware.de" hinterlegt ist. </p> 
+  <p style="text-indent:30px;">Zusätzlich sind 3 weitere Zieladressen hinterlegt, die bei dieser Verwendung ebenfalls mitgenommen werden.</p>
+  <p style="text-indent:30px;"><img src="/images/apps/Addresse_Control/Dokumentenlayouts_Zieladressen.png" /></p>
+  <p style="text-indent:30px;">Die Abbildung zeigt Ihnen ein Beispiel für die hinterlegte Priorität der Adresse mit den folgenden Parametern: </p>
+  <p style="text-indent:30px;">Dokumentlayouts als Herkunft Art, 10000 Adatum Corporation als Rechn. an Deb.-Nr. und demo@belware.de als Empfänger-E-Mail </p>
+  <p style="text-indent:30px;">mit weiteren 3 Zieladressen.</p>
+</details></div>
 
-|![](/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_AssistButton.png)|
-|-|
+<div style="text-indent:20px;"><details>
+  <summary>Belegkopf</summary>
+  <p style="text-indent:30px;">Nach der Standard-Zieladressen-Logik von Business Central wird, sollte in den Dokumentenlayouts kein Empfänger hinterlegt sein, als</p> 
+  <p style="text-indent:30px;">nächstes die E-Mailadresse aus dem Belegkopf herangezogen.</p>
+ <img src="/images/apps/Addresse_Control/Belegkopf_Zieladresse_DEU.png" />
+ <p style="text-indent:30px;">Hier ist im Belegkopf "adatum@corporation.de als E-Mail hinterlegt.</p>
+</details></div>
 
-Damit öffnet sich eine neue Seite: **Mögliche Zieladressen**.
+<div style="text-indent:20px;"><details>
+  <summary>Debitor</summary>
+  <p style="text-indent:30px;">Im letzten Schritt fällt der Standard von Business Central bei der Zieladressen-Logik auf die E-Mailadresse des rechnungsempfangenden</p> 
+  <p style="text-indent:30px;">Debitors zurück, wenn in den Dokumentenlayouts als auch im Belegkopf keine Empfänger-E-Mail hinterlegt sind. </p>
+  <img src="/images/apps/Addresse_Control/Debitor_Zieladresse_DEU.png" />
+  <p style="text-indent:30px;">Welche E-Mail beim Debitor hinterlegt ist, können Sie über die Debitorenkarte im Abschnitt Adresse und Kontakt einsehen.</p> 
+  <p style="text-indent:30px;">In diesem Beispiel würde bei fehlender E-Mail in den Dokumentenlayouts und im Belegkopf die E-Mailadresse "adatum.corporation@mail.de"</p>
+  <p style="text-indent:30px;">als Empfänger-E-Mail herangezogen, da diese beim rechnungsempfangenden Debitor alas E-Mail hinterlegt ist.</p>
+</details></div>
 
-|![](/images/apps/Addresse_Control/Zieladdressen_Lookup_Page.png)|
-|-|
+<div style="text-indent:20px;"><details>
+  <summary>Kreditor</summary>
+  <p style="text-indent:30px;">Genau wie der Debitor beim Verkauf, wird der Kreditor beim Einkauf als letzte Priorität bezüglich der Zieladressen-Logik herangezogen.</p> 
+  <p style="text-indent:30px;">Die E-Mail, welche beim Kreditor hinterlegt ist, können Sie über die Kreditorenkarte im Abschnitt Adresse und Kontakt einsehen.</p>
+  <img src="/images/apps/Addresse_Control/Priorität_Kreditor_DEU.png" />
+</details></div>
+
+<div style="text-indent:20px;"><details>
+  <summary>Kontakt</summary>
+  <p style="text-indent:30px;">Standardmäßig wird der Kontakt bei der Zieladressen-Logik von Business Central nicht berücksichtigt.</p> 
+  <p style="text-indent:30px;">Für eine flexibele Empfängersteuerung können Sie jedoch auch auf die Ebene des Kontakts zugreifen.</p>
+</details></div>
+<p></p>
+
+
+
 
 Nun haben Sie die Möglichkeit, eines der aufgezeigten Felder als Standard-Zieladresse zu definieren.
 Die angezeigten Felder auf dieser Seite sind Felder, welche einen direkten Bezug zu einem Debitor/Kreditor oder zu einem Kontakt haben.
