@@ -7,14 +7,14 @@ collapsible: false
 weight: 4
 ---
 
-# Besonderheiten bei Nutzung von Connector 365 XRechnung
+### Besonderheiten bei Nutzung von Connector 365 XRechnung
 
 Wenn Sie die **Connector 365 XRechnung** App installiert haben, steht Ihnen bei Hinzufügen von Anhängen ein weiteres
 Feld zur Verfügung, welches direkten Einfluss auf die Funktionsweise der **Connector 365 XRechnung** App nimmt.
 Letztere ist nämlich kompatibel mit der **Connector 365 Mail Attachments Plus** App. Das heißt, dass eingerichtete Anhänge für Debitoren, Berichte oder Belege ebenfalls beim XRechnung-Versand mithilfe der **Connector 365 XRechnung** App berücksichtigt werden. Besonders beim XRechnung-Versand ist, dass Anhänge entweder klassisch als zusätzlicher Anhang per Mail mitversendet werden können, oder aber direkt in eine XRechnung-XML-Datei eingebettet werden (Mehr dazu [hier](de-de/apps/xrechnung)).
 Im Folgenden wird erläutert, wie die besondere Behandlung von Anhängen für XRechnung innerhalb von **Connector 365 Mail Attachments Plus** pro Anhang eingerichtet werden kann.
 
-## Einrichten eines Anhangs
+#### Einrichten eines Anhangs
 
 Gehen Sie sicher, dass die [**Connector 365 XRechnung**](de-de/apps/xrechnung) App installiert ist.
 Befolgen Sie die Schritte für das Einrichten von Standard-Anhängen für  [Debitoren](de-de/apps/mail-attachments-plus/first-steps/setup/defaults-customer), [Belege](de-de/apps/mail-attachments-plus/first-steps/setup/defaults-document) oder [Berichte](de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report).
