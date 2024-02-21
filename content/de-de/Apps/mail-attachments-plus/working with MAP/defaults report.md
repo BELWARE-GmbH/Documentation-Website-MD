@@ -23,7 +23,7 @@ In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild für den Spra
 
 #### Mail mit Standardanhängen pro Bericht
 
-Öffnen Sie dazu einfach den Bericht, für den Sie zuvor Ihre Anhänge eingerichtet haben und klicken Sie anschließend auf **"Drucken/Senden"** und die reguläre **"Per E-Mail senden"** Funktion.
+Öffnen Sie dazu einfach den Bericht, für den Sie zuvor Ihre Anhänge eingerichtet haben und klicken Sie anschließend auf **"Drucken/Senden"** und die reguläre **"E-Mail"** Funktion.
 
 Es öffnet sich die Standard Microsoft Mail Experience. Wenn Sie zum Bereich Anhänge herunterscrollen, werden Sie die zuvor eingerichteten Anhänge finden.
 
@@ -34,7 +34,7 @@ Es wird Ihnen sicherlich aufgefallen sein, dass nicht alle Anhänge, die zuvor e
 
 Sollte einer der Anhänge nicht passen, können Sie diesen wie gewohnt über die 3 Punkte und **"löschen"** entfernen.
 
-Das Nutzen der Mail Attachment Plus App verhindert nicht, die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei anhängen"** weitere Anhänge hinzufügen. Dies können Sie mit einem Klick auf **"Verwalten"** -> **"Datei anhängen"** tun.
+Das Nutzen der Mail Attachment Plus App verhindert nicht, die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei hinzufügen"** weitere Anhänge hinzufügen. Dies können Sie mit einem Klick auf **"Verwalten"** -> **"Datei hinzufügen"** tun.
 
 Wenn Sie alle Änderungen an Ihren Anhängen vorgenommen haben, können Sie Ihre Mail wie gewohnt mit einem Klick auf **"E-Mail senden"** absenden.
 
