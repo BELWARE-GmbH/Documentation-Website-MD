@@ -18,15 +18,15 @@ Im Folgenden wird erläutert, wie die besondere Behandlung von Anhängen für XR
 
 Gehen Sie sicher, dass die [**Connector 365 XRechnung**](de-de/apps/xrechnung) App installiert ist.
 Befolgen Sie die Schritte für das Einrichten von Standard-Anhängen für  [Debitoren](de-de/apps/mail-attachments-plus/first-steps/setup/defaults-customer), [Belege](de-de/apps/mail-attachments-plus/first-steps/setup/defaults-document) oder [Berichte](de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report).
-Beim Öffnen der Anhangsliste, in der Sie neue Anhänge hinzufügen können, sollte ein Feld **Nicht in XRechnung xml einbetten** sichtbar sein:
+Beim Öffnen der Anhangsliste, in der Sie neue Anhänge hinzufügen können, sollte ein Feld **In XRechnung-XML einbetten** sichtbar sein:
 
-|![](images/apps/mail-attachments-plus/de/xr_do_not_embed.png)|
+|![](images/apps/mail-attachments-plus/de/inxmleinbetten.png)|
 |-|
 
-Fügen Sie nun einen beliebigen Anhang hinzu. Standardmäßig, ist das Feld **Nicht in xml XRechnung xml einbetten** nicht angehakt, das heißt für XRechnung werden Anhänge standardmäßig eingebettet.
-Wenn Sie jedoch einrichten möchten, dass der neu eingerichtete Anhang für XRechnungen lediglich als zusätzlichler Anhang verschickt wird, setzen Sie ein Häkchen in das Feld.
+Fügen Sie nun einen beliebigen Anhang hinzu. Standardmäßig, ist das Feld **In XRechnung-XML einbetten** nicht angehakt, das heißt für XRechnung werden Anhänge standardmäßig **nicht** eingebettet.
+Wenn Sie jedoch einrichten möchten, dass der neu eingerichtete Anhang für XRechnungen nicht als zusätzlichler Anhang verschickt wird, sondern in die XRechnung-XML eingebettet wird, setzen Sie ein Häkchen in das Feld.
 
-|![](images/apps/mail-attachments-plus/de/xr_set_do_not_embed.png)|
+|![](images/apps/mail-attachments-plus/de/inxmleingebettet.png)|
 |-|
 
 Weiter Informationen zum Thema Anhänge bei XRechnung erhalten Sie [hier](de-de/apps/xrechnung/working-with-xrechnung/attachments/).
