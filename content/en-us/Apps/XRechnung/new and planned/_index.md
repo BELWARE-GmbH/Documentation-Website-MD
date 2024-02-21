@@ -7,7 +7,18 @@ collapsible: true
 weight: 1
 ---
 
-### New and planned
+# New and planned
+
+## Planned
+
+### March 2024
+ - Setup assistant (wizard)
+
+## Released versions
+
+### Version 2.8.0.6 - 02.02.2024
+New features:
+ - Load XRechnung version 3.0 as default value
 
 ### Version 2.8.0.3 - 11.12.2023
 Corrections:

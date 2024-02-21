@@ -6,12 +6,22 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### New and planned
+# New and planned
 
+## Planned
+
+### March 2024
+ - Setup assistant (wizard)
 
 ### Planned functions for future versions
 - Increase length of desired placeholders
 - Preview function
+
+## Released Versions
+
+### Version 2.8.0.1 - 04.10.2023
+Fixes:
+ - Remove not needed dependencies
 
 ### Version 2.8.0.0 - 29.09.2023
 New features:
