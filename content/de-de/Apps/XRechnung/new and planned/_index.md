@@ -7,7 +7,18 @@ collapsible: false
 weight: 1
 ---
 
-### Neu und geplant
+# Neu und geplant
+
+## Geplant
+
+### März 2024
+ - Einrichtungsassistent (Wizard)
+ 
+## Veröffentlichte Versionen
+
+### Version 2.8.0.6 - 02.02.2024
+Neuerungen:
+ - Lade XRechnung-Version 3.0 als Standardwert
 
 ### Version 2.8.0.3 - 11.12.2023
 Korrekturen:
