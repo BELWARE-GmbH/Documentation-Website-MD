@@ -38,7 +38,9 @@ Wir empfehlen Ihnen daher **nur** Änderungen in den Berichten vor zu nehmen, be
 {{< /notice >}}
 <p></p>
 
-Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik jeweils abweichend von der Standard-Zieladressen-Logik einzustellen. 
+Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik jeweils abweichend von der Standard-Zieladressen-Logik einzustellen.
+
+Im Folgenden beschreiben wir die verschiedenen Felder für die Herkunft Art, sowie wie die Standard-Zieladressen-Logik in Business Central.
 
 <div style="text-indent:20px;"><details>
   <summary>Dokumentenlayouts</summary>
@@ -83,9 +85,12 @@ Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Ziela
 </details></div>
 <p></p>
 
+In der Berichtsauswahl haben Sie die Möglichkeit festzulegen, welches Feld als Standard-Zieladresse verwendet werden soll. Zudem können Sie hier definieren, welche Zieladresse die höchste Priorität bekommt und sollte diese Zieladresse nicht definiert sein, welche weiteren Zieladressen dann abhängig von der zugewiesenen Priorität herangezogen werden sollen.
 
 
 
+
+**ALT**
 Nun haben Sie die Möglichkeit, eines der aufgezeigten Felder als Standard-Zieladresse zu definieren.
 Die angezeigten Felder auf dieser Seite sind Felder, welche einen direkten Bezug zu einem Debitor/Kreditor oder zu einem Kontakt haben.
 Legt man also beispielsweise für die Verwendung (Verkaufs-)**Rechnung** eine Verknüpfung zu Feld Nr. **2** - **Verk. an Deb.-Nr.** an, so wird der Empfänger einer Verkaufsrechnung künftig immer aus dem Debitor gesucht, welcher mit **Verk. an Deb.-Nr.** verknüpft ist.
