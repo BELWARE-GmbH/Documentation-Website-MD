@@ -6,11 +6,22 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### Neue und geplant
+# Neue und geplant
+
+## Geplant
+
+### März 2024
+ - Einrichtungsassistent
 
 ### Geplante Funktionen für zukünftige Versionen
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
+
+## Veröffentlichte Versionen
+
+### Version 2.8.0.1 - 04.10.2023
+Korrekturen:
+ - Entfernen von nicht benötigten Abhängigkeiten
 
 ### Version 2.8.0.0 - 29.09.2023
 Neuerungen:
