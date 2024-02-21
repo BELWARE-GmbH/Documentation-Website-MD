@@ -37,7 +37,7 @@ Da in der Einrichtung das Kästchen für Anhänge pro Bericht und Beleg angehakt
 
 Sollte einer der Anhänge nicht passen können Sie diese einfach wie gewohnt, über die 3 Punkte und **"löschen"** entfernen.
 
-Die Mail Attachment Plus App verhindert nicht die Nutzung der Anhangsfunktionalitäten des Standard. Sie können weiterhin über die Menüleiste unter **"Datei hinzufügen"** weitere Anhänge hinzufügen.
+Die Mail Attachments Plus App verhindert nicht die Nutzung der Anhangsfunktionalitäten des Standard. Sie können weiterhin über die Menüleiste unter **"Datei hinzufügen"** weitere Anhänge hinzufügen.
 
 Wenn Sie alle Änderungen an Ihren Anhängen vorgenommen haben, können Sie Ihre Mail wie gewohnt mit einem Klick auf **"E-Mail senden"** absenden.
 
