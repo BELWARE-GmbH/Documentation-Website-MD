@@ -10,9 +10,31 @@ weight: 4
 
 ### Offene Aufgaben
 
-Die Seite Offene Aufgaben bietet Ihnen eine Übersicht sämtlicher Belege, welche zur Verarbeitung eingestellt wurden, allerdings noch nicht erfolgreich verarbeitet wurden.
+Die Seite **Offene Aufgaben** bietet Ihnen eine Übersicht sämtlicher Belege, welche zur Verarbeitung eingestellt wurden, allerdings noch nicht (erfolgreich) verarbeitet wurden.
 
 ![](images/apps/Easy_Batch/de-de/app_open_tasks.png)
+
+| Feld | Bedeutung |
+|-|-|
+| **Belegnr.** | Mit einem Klick auf die Belegnummer kommen Sie direkt zum entsprechenden Beleg.|
+| **Belegart** | Hier können Sie sehen, um welche Art von Beleg es sich für diese entsprechende Belegnummer handelt.|
+| **Verarbeitungszeit** | x |
+| **Erstellt am** | x |
+| **Erstellt von** | x |
+| **Fehlernachricht** | x |
+| **Freigegeben** | x |
+| **Kontotyp** | x |
+| **Kontonr.** | x |
+| **Kontaktnr.** | x |
+| **Dateien** | x |
+| **Jobmodus** | x |
+| **Empfängeradresse** | x |
+| **Absenderadresse** | x |
+| **Berichts-ID** | x |
+| **Betreff** | x |
+| **Dateiname** | x |
+| **Weitere Empfänger** | x |
+| **Leitweg-ID** | x |
 
 Neben der geplanten Verarbeitungszeit kann im Fehlerfall im Feld **Fehlernachricht** nachgeprüft werden, warum die Verarbeitung fehlschlug.
 
