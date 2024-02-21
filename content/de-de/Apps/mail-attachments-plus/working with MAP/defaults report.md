@@ -11,9 +11,10 @@ Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben,
 
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 
-![](images/apps/attachmentreportsetup.PNG)
+|![](images/apps/mail-attachments-plus/de/anwendungsbeispiel_reportselection.png)
+|-|
 
-In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
+In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild für den Sprachcode DEU angehängt.
 
 {{< notice info "Hinweis" >}}
  _Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur Verfügung steht, sieht der Ablauf ein wenig anders aus._
@@ -26,16 +27,16 @@ In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
 
 Es öffnet sich die Standard Microsoft Mail Experience. Wenn Sie zum Bereich Anhänge herunterscrollen, werden Sie die zuvor eingerichteten Anhänge finden.
 
-![](images/apps/attachmentdialogreport.PNG)
+|![](images/apps/mail-attachments-plus/de/attachmentdialogreport.png)
+|-|
 
 Es wird Ihnen sicherlich aufgefallen sein, dass nicht alle Anhänge, die zuvor eingerichtet wurden, auch angehängt wurden. Dies liegt daran, dass einer der Anhänge mit einem bestimmten Zeitraum versehen wurde, in dem wir uns aktuell nicht befinden.
 
 Sollte einer der Anhänge nicht passen, können Sie diesen wie gewohnt über die 3 Punkte und **"löschen"** entfernen.
 
-Das Nutzen der Mail Attachment Plus App verhindert nicht, die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei anhängen"** weitere Anhänge hinzufügen. Mit einem Klick auf **"Verwalten"** -> **"Datei anhängen"** ist dies auch möglich.
-
-![](images/apps/attachmentreportsetupchange.PNG)
+Das Nutzen der Mail Attachment Plus App verhindert nicht, die Anhangsfunktionalitäten des Standard zu nutzen. Sie können weiterhin über die Menüleiste unter **"Datei anhängen"** weitere Anhänge hinzufügen. Dies können Sie mit einem Klick auf **"Verwalten"** -> **"Datei anhängen"** tun.
 
 Wenn Sie alle Änderungen an Ihren Anhängen vorgenommen haben, können Sie Ihre Mail wie gewohnt mit einem Klick auf **"E-Mail senden"** absenden.
 
-![](images/apps/attachmentreportmail.PNG)
+|![](images/apps/mail-attachments-plus/de/beispiel_email.png)
+|-|
