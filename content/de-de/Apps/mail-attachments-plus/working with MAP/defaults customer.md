@@ -21,7 +21,7 @@ Für den Debitor 10000 Adatum Corporation haben wir hier aktiviert, dass die Sta
 |-|
 
 {{< notice info "Hinweis" >}}
- _Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus._
+ _Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur Verfügung steht, sieht der Ablauf ein wenig anders aus._
 {{< /notice >}}
 #
 
