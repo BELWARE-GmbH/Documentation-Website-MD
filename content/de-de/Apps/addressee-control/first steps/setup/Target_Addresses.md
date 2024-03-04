@@ -11,7 +11,7 @@ weight: 5
 Um die Zieladressen-Logik über die **Connector 365 Addressee Control** App nach Belieben einzustellen, öffnen Sie eine der Seiten *Berichtsauswahlen*.
 
 {{< notice info Hinweis>}}
-Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit **Connector 365 Addressee Control**.
+Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit **Connector 365 Addressee Control**. Dies bedeutet jedoch nicht, dass alle Verwendungen der einzelnen Berichtsauswahlseiten unterstützt werden.
 {{< /notice >}}
 
 | Verwendung | Unterstützt|
@@ -25,7 +25,7 @@ Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen 
 | Projekt | <img src="/images/apps/Addresse_Control/cross.png" width=30 >  |
 | Service | <img src="/images/apps/Addresse_Control/tick.png" width=30 > ab Version 1.4.0.0 |
 
-Die **Connector 365 Addressee Control** App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
+Die **Connector 365 Addressee Control** App erweitert unterstützte Verwendungen einzelner Berichtsauswahlseiten um eine Auswahlliste.
 
 *Beispiel aus dem Bereich Verkauf -> **Berichtsauswahl - Verkauf**:*
 
@@ -42,7 +42,7 @@ Mit Connector 365 Addressee Control haben Sie die Möglichkeit, für verschieden
 
 Im Folgenden beschreiben wir anhand der Standard-Zieladressen-Logik, wie Sie eine eigene Zieladressen-Logik einrichten können.
 
-Im ersten Schritt müssen Sie hierzu wählen, welche Tabelle herangezogen werden soll, in der nach dem Zieladressen-Feld geschaut werden soll. Hierbei können Sie wählen zwischen:
+Im ersten Schritt müssen Sie hierzu definieren, wie das Dokumentlayout zugeordnet werden soll, wie z.B. an 
 - Rechnung an Debitor-Nummer, bzw. Kreditor-Nummer
 - Verkauf an Debitor-Nummer, bzw. Kreditor-Nummer
 
@@ -56,22 +56,14 @@ Anschließend definieren Sie im Bereich **Priorität der Adresse**, welche Tabel
 
 In der Berichtsauswahl haben Sie die Möglichkeit festzulegen, welches Feld als Standard-Zieladresse verwendet werden soll. Zudem können Sie hier definieren, welche Zieladresse die höchste Priorität bekommt und sollte diese Zieladresse nicht definiert sein, welche weiteren Zieladressen dann abhängig von der zugewiesenen Priorität herangezogen werden sollen.
 
-Neben den Standard-Tabellen der Zieladressen-Logik können Sie ebenfalls folgende Tabellen bei der Priorität der Adresse wählen:
+Neben den Standard-Tabellen der Zieladressen-Logik stehen Ihnen ebenfalls folgende Tabellen zur Verfügung:
+
+{{< notice info Hinweis>}}
+Durch Löschen des Filters können Sie auf alle Standard-Tabellen aus Business Central zugreifen.
+{{< /notice >}}
+<p></p>
+
 | Tabelle | Erläuterung |
 |-|-|
 |  Lagerort | Wenn Sie im Beleg einen abweichenden Lagerort hinterlegt haben, können Sie die hier hinterlegte E-Mailadresse bei der Zieladressen-Logik heranziehen, wenn gewünscht. Auf folgende E-Mailadresse würde zugegriffen werden: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_DEU.png" /> |
 | Lief. an Adressee | Wählen Sie eine abweichende Lieferadresse, so können Sie die hier hinterlegte E-Mailadresse als Zieladresse in der Priorität der Adressen definieren. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_DEU.png" /> | 
-
-
-<a name="ACCon365" class="anchor"></a>
-### Kompatibilität zu anderen **Connector 365 Apps**
-
-Mit **Connector 365 Addressee Control** lassen sich auch die Zieladressen-Logik weiterer **Connector 365 Apps** anpassen.
-Folgende **Connector 365 Apps** sind kompatibel zu **Connector 365 Addressee Control**:
-
--  **Connector 365 XRechnung**
--  **Connector 365 E-Post**
--  **Connector 365 Easy Document Pin**
--  **Connector 365 Mail Experience Plus**
-   >  **Connector 365 Mail Attachments Plus**
-   >  **Connector 365 Mail Subject Plus**
