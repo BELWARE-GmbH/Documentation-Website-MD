@@ -31,11 +31,26 @@ Bei Ausführen der Aktion: **Per E-Mail senden**, wird im Standard normalerweise
 
 Mit der Einstellung jedoch, dass der Verkauf-an-Debitor für das Setzen der Zieladressen herangezogen werden soll, sieht der Dialog so aus:
 
-|![](/images/apps/Addresse_Control/MailDialog_BillToCust.png)|
+|![](/images/apps/Addresse_Control/MailDialog_SellTo_DEU.png)|
 |-|
 
 
 
-Hier wurde nun die E-Mail-Adresse des Verkauf-an-Debitors als Zieladresse herangezogen. 
-In diesem Beispiel waren weder für den Rechnungsempfänger noch für den Käufer ein Dokumentlayout eingerichtet worden.
+Hier wurde nun die E-Mail-Adresse des Verkauf-an-Debitors als Zieladresse aus den Dokumentlayouts herangezogen. 
 Sofern eingerichtet, werden die weiteren Empfänger (CC und BCC) jedoch entsprechend der eingerichteten Zieladressen-Logik übernommen.
+
+Wenn in den Dokumentlayouts keine **E-Mail-Adresse** hinterlegt ist, dann greift die Zieladressen-Logik als nächstes auf das E-Mail-Feld im Verkaufsrechnungskopf zurück.
+
+Der E-Maildialog sähe dann, wie folgt aus:
+
+|![](/images/apps/Addresse_Control/MailDialog_Belegkopf.png)|
+|-|
+
+Wenn im Belegkopf der Verkaufsrechnung 102232 keine E-Mail-Adresse hinterlegt ist, dann greift die Zieladressen-Logik auf das nächste hinterlegte Feld. Laut der oben abgebildeten Zieladressen-Logik wird dann auf das E-Mail-Feld des Verkauf an Debitors zugegriffen.
+
+Der E-Mail-Dialog würde dann die E-Mailadresse des Debitors **10000 Adatum Corporation** beinhalten.
+
+|![](/images/apps/Addresse_Control/MailDialog_Debitor.png)|
+|-|
+
+Wenn auch hier das entsprechende Feld keine E-Mailadresse beinhaltet, kommt es zu einer Fehlermeldung, indem das Feld für die Empfänger-E-Mail leer bleibt.
