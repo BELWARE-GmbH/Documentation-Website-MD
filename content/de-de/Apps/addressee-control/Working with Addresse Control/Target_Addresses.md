@@ -11,22 +11,22 @@ weight: 4
 Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. 
 Es wird hierbei vorausgesetzt, dass der <i> Verkauf-An-Debitor</i> für die Verkaufsrechnungen mithilfe der **Connector 365 Addressee Control** als Zieladresse eingerichtet wurde:
 
-|![](/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_Example_WorkWith.png)|
+|![](/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_Example_WorkWith_DEU.png)|
 |-|
 
 Angenommen es soll eine Rechnung verschickt werden, bei welchem der Rechnungsempfänger und der Käufer verschieden sind:
-|![](/images/apps/Addresse_Control/GebVerkRechnungen_SellToBillToCust.png)|
+|![](/images/apps/Addresse_Control/Rechnung_SellToBillToCust_DEU.png)|
 |-|
 
 {{< notice info Hinweis >}}
-Zur Vereinfachung wurden im Folgenden für den Rechnungsempfänger **Bill-To-Customer@mail.de** eingerichtet, für den Käufer **Sell-To-Customer@mail.de**.
+Zur Vereinfachung wurden im Folgenden die Dokumentlayouts für den Rechnungsempfänger mit **documentlayout@bill-to-customer.de** eingerichtet und für den Käufer mit **documentlayout@sell-to-customer.de**.
 {{< /notice >}}
 
 </br>
 
-Bei Ausführen der Aktion: **Per E-Mail senden**, wird im Standard normalerweise die E-Mail-Adresse des Rechnungsempfängers im E-Mail-Dialog eingetragen. Dies sieht, wie folgt aus:
+Bei Ausführen der Aktion: **Per E-Mail senden**, wird im Standard normalerweise die E-Mail-Adresse aus den Dokumentlayouts des Rechnungsempfängers im E-Mail-Dialog eingetragen. Dies sieht, wie folgt aus:
 
-|![](/images/apps/Addresse_Control/MailDialog_SellToCust.png)|
+|![](/images/apps/Addresse_Control/MailDialog_BillTo_DEU.png)|
 |-|
 
 Mit der Einstellung jedoch, dass der Verkauf-an-Debitor für das Setzen der Zieladressen herangezogen werden soll, sieht der Dialog so aus:
