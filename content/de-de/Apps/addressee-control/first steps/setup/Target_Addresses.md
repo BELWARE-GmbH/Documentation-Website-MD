@@ -63,7 +63,7 @@ Durch Löschen des Filters können Sie auf alle Standard-Tabellen aus Business C
 {{< /notice >}}
 <p></p>
 
-| Tabelle | Erläuterung |
+| Tabelle | Beispiel-Feld |
 |-|-|
 |  Lagerort | Wenn Sie im Beleg einen abweichenden Lagerort hinterlegt haben, können Sie die hier hinterlegte E-Mailadresse bei der Zieladressen-Logik heranziehen, wenn gewünscht. Auf folgendes Feld könnte für die E-Mailadresse zugegriffen werden: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_DEU.png" /> |
 | Lief. an Adressee | Wählen Sie eine abweichende Lieferadresse, so können Sie die hier hinterlegte E-Mailadresse, bzw. das entsprechende Feld als Zieladresse definieren. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_DEU.png" /> | 
