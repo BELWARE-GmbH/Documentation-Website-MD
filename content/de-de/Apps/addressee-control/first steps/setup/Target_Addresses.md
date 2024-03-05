@@ -48,11 +48,11 @@ Im ersten Schritt müssen Sie hierzu definieren, wie das Dokumentlayout zugeordn
 
 Anschließend definieren Sie im Bereich **Priorität der Adresse**, welche Tabelle und welches Feld im Bezug auf diese herangezogen werden sollen. Und in welcher Reihenfolge diese vom System herangezogen werden sollen.
 
-| Tabelle | Erläuterung |
+| Tabelle | Beispiel-Feld |
 |-|-|
-|Auswahl des benutzerdefinierten Berichts | Dies ist die Tabelle, auf der das Dokumentlayout basiert. Bei der Standard-Zieladressen-Logik von Business Central hat die höchste Priorität das Dokumentenlayout der Rech. an Deb.-Nr., woraus die Empfänger E-Mail gezogen wird. Im unten gezeigten Beispiel sehen Sie das Dokumentenlayout des Debitors. Für die Verwendung Rechnung sehen Sie das als Empfänger-E-Mail: "demo@belware.de" hinterlegt ist. Zusätzlich sind 3 weitere Zieladressen hinterlegt, die bei dieser Verwendung ebenfalls mitgenommen werden. <img src="/images/apps/Addresse_Control/Dokumentenlayouts_Zieladressen.png" /> Die Abbildung zeigt Ihnen ein Beispiel für die hinterlegte Priorität der Adresse mit den folgenden Parametern: Dokumentlayouts als Zieladress-Tabelle. |
-|Verkaufskopf | Nach der Standard-Zieladressen-Logik von Business Central wird, sollte in den Dokumentlayouts keine Empfänger-E-Mailadresse hinterlegt sein, als nächstes das E-Mail-Feld im Belegkopf herangezogen werden. <img src="/images/apps/Addresse_Control/Belegkopf_Zieladresse_DEU.png" /> Hier ist im Belegkopf "adatum@corporation.de als E-Mail hinterlegt. |
-| Debitor / Kreditor | Im letzten Schritt fällt der Standard von Business Central bei der Zieladressen-Logik auf die E-Mailadresse des Debitors / Kreditors zurück, wenn in den Dokumentlayouts und im Belegkopf jeweils keine E-Mail hinterlegt ist. <img src="/images/apps/Addresse_Control/Debitor_Zieladresse_DEU.png" /> Welche E-Mail beim Debitor/Kreditor hinterlegt ist, können Sie über die Debitorenkarte/Kreditorenkarte im Abschnitt Adresse und Kontakt einsehen. In diesem Beispiel würde bei fehlender E-Mail in den Dokumentenlayouts und im Belegkopf die E-Mailadresse "adatum.corporation@mail.de" als Empfänger-E-Mail herangezogen, da diese beim rechnungsempfangenden Debitor als E-Mail hinterlegt ist. |
+|Auswahl des benutzerdefinierten Berichts | <img src="/images/apps/Addresse_Control/Dokumentenlayouts_Zieladressen.png" /> |
+|Verkaufskopf | <img src="/images/apps/Addresse_Control/Belegkopf_Zieladresse_DEU.png" /> |
+| Debitor / Kreditor | <img src="/images/apps/Addresse_Control/Debitor_Zieladresse_DEU.png" /> |
 
 In der Berichtsauswahl haben Sie die Möglichkeit festzulegen, welches Feld als Standard-Zieladresse verwendet werden soll. Zudem können Sie hier definieren, welche Zieladresse die höchste Priorität bekommt und sollte diese Zieladresse nicht definiert sein, welche weiteren Zieladressen dann abhängig von der zugewiesenen Priorität herangezogen werden sollen.
 
@@ -65,5 +65,5 @@ Durch Löschen des Filters können Sie auf alle Standard-Tabellen aus Business C
 
 | Tabelle | Erläuterung |
 |-|-|
-|  Lagerort | Wenn Sie im Beleg einen abweichenden Lagerort hinterlegt haben, können Sie die hier hinterlegte E-Mailadresse bei der Zieladressen-Logik heranziehen, wenn gewünscht. Auf folgende E-Mailadresse würde zugegriffen werden: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_DEU.png" /> |
-| Lief. an Adressee | Wählen Sie eine abweichende Lieferadresse, so können Sie die hier hinterlegte E-Mailadresse als Zieladresse in der Priorität der Adressen definieren. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_DEU.png" /> | 
+|  Lagerort | Wenn Sie im Beleg einen abweichenden Lagerort hinterlegt haben, können Sie die hier hinterlegte E-Mailadresse bei der Zieladressen-Logik heranziehen, wenn gewünscht. Auf folgendes Feld könnte für die E-Mailadresse zugegriffen werden: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_DEU.png" /> |
+| Lief. an Adressee | Wählen Sie eine abweichende Lieferadresse, so können Sie die hier hinterlegte E-Mailadresse, bzw. das entsprechende Feld als Zieladresse definieren. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_DEU.png" /> | 
