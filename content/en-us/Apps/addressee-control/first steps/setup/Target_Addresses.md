@@ -11,7 +11,7 @@ weight: 1
 To set the destination address logic as desired via the **Connector 365 Addressee Control** app, open one of the *Report Selections* pages.
 
 {{< notice info note >}}
-Please refer to the following table of currently usable report selections for use with **Connector 365 Addressee Control**.
+Please refer to the following table of currently usable report selections for use with **Connector 365 Addressee Control**. However, this does not mean that all uses of the individual report selection pages are supported.
 {{< /notice >}}
 
 | Usage | Supported |
@@ -29,39 +29,40 @@ The **Connector 365 Addressee Control** app adds a subpage to supported report s
 
 *Example from the sales area -> **Report Selection - Sales**:*
 
-|<img src="/images/apps/Addresse_Control/Report_Selection_Sales.png" />|
+|<img src="/images/apps/Addresse_Control/ReportSelection_Sales_ENU.png" />|
 |-|
 
-Now you have the possibility to set the destination address logic for different report usages.
-To do this, click on the **Assist button** (***three dots***) of the field: **Target from field number**.
-
-|![](/images/apps/Addresse_Control/Report_Selection_Sales_AssistButton.png)|
-|-|
-
-This opens a new page: **Possible target addresses**.
-
-|![](/images/apps/Addresse_Control/PossibleTargetAddresses.png)|
-|-|
-
-Now you have the possibility to define one of the shown fields as default destination address.
-The fields shown on this page are fields which have a direct link to a customer/vendor or to a contact.
-So, for example, if you create a link to field no. **2** - **Sell-to Customer No.** for the use (sales) **Invoice**, in the future the recipient of a sales invoice will always be searched from the customer linked to **Sell-to Customer No.**.
-
-{{< notice info Information>}}
-If you select a field assignment to a customer/vendor as the target address, this also influences the selection of the document layouts.
-For example, if you specify for sales invoices that the sales-to-customer is to be used for the 
-search for target addresses, the settings of the document layouts of the corresponding customer will also be taken. By default, the invoice recipient is provided for this in Business Central. 
-With **Connector 365 Addressee Control** you can override this behavior.
+{{< notice info Note>}}
+The factory settings are based on the target address logic of the Business Central standard (as of February 2024). We therefore recommend that you **only** make changes to the reports for which you want to set up a different target address logic.
 {{< /notice >}}
+<p></p>
 
-<a name="ACCon365" class="anchor"></a>
-### Compatibility with other **Connector 365 Apps**
+With Connector 365 Addressee Control, you have the option of setting the target address logic for various report uses differently from the standard target address logic of Business Central.
 
-With **Connector 365 Addressee Control**, the destination address logic of additional **Connector 365 Apps** can also be customized.
-The following **Connector 365 Apps** are compatible with **Connector 365 Addressee Control**:
--  **Connector 365 XRechnung**
--  **Connector 365 E-Post**
--  **Connector 365 Easy Document Pin**
--  **Connector 365 Mail Experience Plus**
-   >  **Connector 365 Mail Attachments Plus**
-   >  **Connector 365 Mail Subject Plus**
+In the following, which options you have to set up your own target address logic.
+
+In the first step, define how the document layout should be assigned, e.g. to
+- Bill-to Customer No. / Bill-to Vendor No.
+- Sell-To Customer No. / Sell-to Vendor No.
+
+Then define in the **Priority of address** area which table and which field should be used in relation to this. And in which order they should be pulled up by the system.
+
+| Table | Example of field |
+|-|-|
+|Custom Report Selection | <img src="/images/apps/Addresse_Control/Dokumentlayouts_Zieladressen_ENU.png"/> |
+|Sales Header | <img src="/images/apps/Addresse_Control/Belegkopf_Zieladresse_ENU.png" /> |
+| Customer / Vendor | <img src="/images/apps/Addresse_Control/Debitor_Zieladresse_ENU.png" /> |
+
+In the report selection, you have the option of specifying which field is to be used as the default destination address. Define here which address has the highest priority and, if this destination address is not defined, which other destination addreses should be used depending on the assigned priority.
+
+In addition to the standard tables of the destination address logic, the following tables are also available:
+
+{{< notice info Hinweis>}}
+By deleting the filter, all standard tables from Business Central can be accessed.
+{{< /notice >}}
+<p></p>
+
+| Table | Example of field |
+|-|-|
+|  Location | If you have entered a different location in the document, the email address entered here can be used in the target address logic if required. The following field could be accessed for the email address: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_ENU.png" /> |
+| Ship-to Address | If selecting a different ship-to address, define the email address stored here or the corresponding field as the destination address. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_ENU.png" /> | 
