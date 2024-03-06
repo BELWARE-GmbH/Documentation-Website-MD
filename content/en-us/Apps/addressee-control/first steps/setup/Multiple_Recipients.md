@@ -14,37 +14,36 @@ In addition to the functionality to set up destination addresses per job mode an
 You can store additional customer destination addresses in the document layouts of the desired customer.
 
 The **Connector 365 Addressee Control** app adds another field to the **Document Layouts**: **Further targets**.
-|![](/images/apps/Addresse_Control/Document_Layouts_Further_Targets_No.png)|
+|![](/images/apps/Addresse_Control/Document_Layouts_Further_Targets_0_ENU.png)|
 |-|
 
 The content of the field indicates whether other destination addresses are set up at the current time. In this case
-the content of the ***Further targets*** field is: **No**, because no additional destination addresses have been set up yet.
+the content of the ***Further targets*** field is: **0**, because no additional destination addresses have been set up yet.
 
 Now click on the content of the field. Another page will open:
-|![](images/apps/Addresse_Control/FurtherTargets.png)|
+|![](images/apps/Addresse_Control/FurtherTargets_ENU.png)|
 |-|
 
-There are now three fields available:
+You can now add additional target addresses for each report ID here. You can define the recipient type per recipient address. The following options are available to you:
 
 | Field | Function|
 |-|-|
-| Target address | The e-mail address, which is stored as another recipient address. |
+| To | The e-mail address, which is stored as another recipient address. |
 | CC   | The configured e-mail address (**Target**) is accepted as CC recipient. |
 | BCC  | The configured e-mail address (**Target**) is accepted as BCC recipient. |
 
-{{< notice info Note >}}
-If an e-mail address is set up, but neither **CC** nor **BCC** are selected, the e-mail address set up will be stored as the direct recipient.
-{{< /notice >}}
+<p></p>
 
-<br></br>
 You can create as many lines as you want and configure them differently per line.
+<p></p>
+
 ***Example setup***:
-|![](images/apps/Addresse_Control/FurtherTargets_Filled.png)|
+|![](images/apps/Addresse_Control/FurtherTargets_Example_ENU.png)|
 |-|
 
 Once you have set up your desired additional recipients, you can close the page.
 If you now go back to the **Document Layouts** of the customer/vendor you just set up, the value of the **Further targets** field should have changed from 
-**No** to **Yes**: 
+**0** to the **number of other destination addresses** set up, in this example to 3: 
 |![](images/apps/Addresse_Control/Document_Layouts_Further_Targets_Yes.png)|
 |-|
 
