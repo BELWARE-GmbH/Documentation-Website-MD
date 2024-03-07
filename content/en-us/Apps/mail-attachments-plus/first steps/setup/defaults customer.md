@@ -12,8 +12,6 @@ weight: 3
 
 Another way to add attachments is to add them as defaults for customers, for example, if there are conditions that only apply to a specific customer. Open the customer you want to add defaults to and expand the options in the menu via "More options", click "Navigate" and select "Document layouts".
 
-![](images/apps/attachmentnavigation.png)
-
 If preferences have already been set in the report selection, it is possible to automatically attach them when setting up attachments per customer - simply click the **"Copy from Report Selection"**. 
 
 If you want to set up your own attachments, select the report for which you want to add default attachments; in this example we will use invoices. As before, you will notice the new attachments field. Open the attachments dialog box by clicking on the zero.
