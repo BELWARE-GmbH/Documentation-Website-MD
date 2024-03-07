@@ -10,11 +10,12 @@ weight: 2
 
 After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the [Customer Default Attachments](/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-customer/) in the **"Getting Started"** section.
 
-For this example, we have set up the default attachments in invoice shipping as follows:
+For this example, we have set up the default attachments in invoice as follows:
 
 ![](images/apps/attachmentcustomersetup.PNG)
 
-Two PDFs are attached, each with the standards set up per document/report
+For the customer 10000 Adatum Corporation, we have activated here that the standard attachments as well as the document attachments and document line attachments are attached.
+In addition to the two attachments shown above, the attachments from the report selection "invoice" as wel as possible document attachments and document line attachments are also added when an invoice is sent.
 
 {{< notice info "Note" >}}
  _If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different._
@@ -28,13 +29,11 @@ The standard Microsoft Mail Experience will open, if you scroll down to the Atta
 
 ![](images/apps/attachmentdialogcustomer.PNG)
 
-since the box for attachements per report and document were ticked in the setup there are a few other attachments.
+Since the box for attachements per report and document were selected in the setup, there are a few other attachments.
 
-If one of the attachments does not fit, you can simply remove them as usual, via the 3 dots and **"delete"**.
+If one of the attachments does not fit, you can simply remove them as usual, via the 3 dots and **"Delete"**.
 
-Using the Mail Attachment Plus App does not prevent you from using the attachment functionality of the standard. You can still add more attachments via the menu bar under **"Attach file"**. With a click on **"Manage"** -> **"Attach file"** this is also possible.
-
-![](images/apps/attachmentdialogcustomerchange.PNG)
+Using the Mail Attachments Plus App does not prevent you from using the attachment functionality of the standard. You can still add more attachments via the menu bar under **"Attach file"**. With a click on **"Manage"** and then **"Attach file"** this is also possible.
 
 When you have made all the changes to your attachments, you can send your mail as usual by clicking **"Send email"**.
 

@@ -59,4 +59,4 @@ _The "Attach Document Attachments" and "Attach Document Line Attachments" checkb
 {{< /notice >}}
 ####
 
-Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Report Default Attachments](en-us/apps/mail-attachments-plus/working-with-map/defaults-report/)
+Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachments Plus"** under [Report Default Attachments](en-us/apps/mail-attachments-plus/working-with-map/defaults-report/)
