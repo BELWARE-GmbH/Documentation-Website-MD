@@ -14,17 +14,20 @@ Another way to add attachments is to add them as defaults for customers, for exa
 
 ![](images/apps/attachmentnavigation.png)
 
-If you have a previously have set up defaults in the report selection, it is possible to automatically also attach these when setting up attachments per customer - simply click the **"Copy from Report Selection"** button. 
+If preferences have already been set in the report selection, it is possible to automatically attach them when setting up attachments per customer - simply click the **"Copy from Report Selection"**. 
 
-If you want to set up your own attachments select the report for which you want to add default attachments, we will use invoices again in this example. As before, you will notice the new Attachments field. You open the attachments dialog by clicking on the zero.
+If you want to set up your own attachments, select the report for which you want to add default attachments; in this example we will use invoices. As before, you will notice the new attachments field. Open the attachments dialog box by clicking on the zero.
 
-![](images/apps/attachmentdocumentlayouts.png)
+|![](images/apps/mail-attachments-plus/de/attachmentdocumentlayouts.png)
+|-|
 
-The rest of the process works the same as adding standard attachments to reports without customizing them. You can use the same options as before, including the date range. After you have added your defaults, close the Attachments dialog box.
+The rest of the process works the same as adding standard attachments to reports without customizing them. The same options can be used as before, including the date range and the XML embedding option. After adding your defaults, close the attachment dialog box.
 
 {{< notice info "Note" >}}
- _One important thing to note about standards set on a per-custom basis is that they override the regular standards. In case this is not desired, checking the box in the "Standard Attachments" field will add the custom attachments in addition to the standard ones._
+ _Please note that standard attachments that are defined at customer level overwrite the standards set in the report selection. If this is not desired, a checkmark can be placed in the "Attach Default" field. This means that the standard attachments and the customer-specific attachments are added._
 {{< /notice >}}
-#
-
-Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in **"Working with Mail Attachment Plus"** under [Customer Default Attachments](en-us/apps/mail-attachments-plus/working-with-map/defaults-customer/)
+{{< notice info "Note" >}}
+_The checkbox marked in the screenshot above with "Attach Document Attachments" and "Attach Document Line Attachments" is not used to control the attachments uploaded under Attachments. It is used to control whether attachments on the individual document or in the document line should also be added._
+{{< /notice >}}
+####
+As soon as the attachments have been set up, an email can be sent as usual. You can find instructions on how to do this in **"Working with Mail Attachments Plus"** under [Customer Default Attachments](en-us/apps/mail-attachments-plus/working-with-map/defaults-customer/)
