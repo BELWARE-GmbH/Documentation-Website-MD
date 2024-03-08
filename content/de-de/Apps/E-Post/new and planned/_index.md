@@ -16,6 +16,18 @@ weight: 1
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
 
+### Version 2.9.0.2 - 08.03.2024
+Korrekturen:
+- Bei nicht vorhandenem E-POST-Vorgang in der Berichtsauswahl wird eine Meldung ausgegeben.
+
+### Version 2.9.0.1 - 04.03.2024
+Korrekturen:
+- Die *Senden als* Funktion funktioniert wieder mit E-POST 
+
+### Version 2.9.0.0 - 01.03.2024
+Neue Funktionen:
+- Herstellen der Kompatibiltät zur neuen Easy Batch Version
+
 ### Version 2.8.0.3 - 18.12.2023
 Korrekturen:
 - Versand von mehreren Dokumenten mit dem Dokumentensendeprofil korrigiert.

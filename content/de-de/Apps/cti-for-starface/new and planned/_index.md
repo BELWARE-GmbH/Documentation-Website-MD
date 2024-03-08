@@ -15,7 +15,9 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 ### Geplante Funktionen für zukünftige Versionen
 - Anpassung der Jobliste passend zur App
 - Ausblenden der CTI-Funktionen im Rollencenter für Nicht-CTI-Nutzer
-- Herstellen der Kompatibilität für Version 7.2 und 7.3 der STARFACE Telefonanlage
+
+### Version 2.2.0.1 - 30.01.2024
+- nicht mehr genutzte Seite entfernt
 
 ### Version 2.2.0.0 - 15.09.2023
 - manuelles Erstellen von Telefoneinträgen

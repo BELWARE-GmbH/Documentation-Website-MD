@@ -17,6 +17,18 @@ weight: 1
   * Franking ID
 - Simplification for 'Registered mail return receipt'
 
+### Version 2.9.0.2 - 08.03.2024
+Corrections:
+- When no E-POST report is setup in report selections, a message will be displayed.
+
+### Version 2.9.0.1 - 04.03.2024
+Corrections:
+- Die *Senden als* Funktion funktioniert wieder mit E-POST 
+
+### Version 2.9.0.0 - 01.03.2024
+New Features:
+- Herstellen der Kompatibiltät zur neuen Easy Batch Version
+
 ### Version 2.8.0.3 - 18.12.2023
 Corrections:
 - Fixed sending of multiple documents with document sending profile.

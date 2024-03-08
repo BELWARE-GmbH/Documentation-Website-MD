@@ -17,7 +17,9 @@ In case a question could not be answered, we will be glad to help you personally
 ### Planned functions for future versions
 - Customization of the job list to match the app
 - Hiding the CTI functions in the Role center for non-CTI users
-- Add compatibility for versons 7.2 and 7.3 for STARFACE phone systems
+
+### Version 2.2.0.1 - 30.01.2024
+- removed no longer used page
 
 ### Version 2.2.0.0 - 15.09.2023
 - Manual creation of phone entries
@@ -25,6 +27,7 @@ In case a question could not be answered, we will be glad to help you personally
 
 ### Version 2.1.0.1 - 14.04.2023
 - Anpassung des Azure AD-App Berechtigungssatzes für die neue Version
+
 ### Version 2.1.0.0 - 06.01.2023
 - Implementation of new license check.
 - Error correction for writng of activity entries.

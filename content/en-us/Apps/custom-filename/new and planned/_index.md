@@ -8,5 +8,8 @@ weight: 1
 ---
 ### New and planned
 
+### Version 1.1.0.0 - 20.12.2023
+- Set filename placeholders directly from *Filename* page
+
 ### Version 1.0.0.0 - 20.09.2023
  - First release

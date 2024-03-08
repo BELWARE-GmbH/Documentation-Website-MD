@@ -12,6 +12,20 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.15.0.2 - 08.03.2024
+Corrections:
+- Removed not required app dependency so that the app is also compatible with older BC versions.
+
+### Version 2.15.0.1 - 04.03.2024
+Corrections:
+- Report layouts are set correctly according to the standard.
+- The use of XRechnung in the document sending profile no longer leads to errors.
+
+### Version 2.15.0.0 - 01.03.2024
+New features:
+- Extension of open tasks to include all shipping parameters that can be controlled in the connector.
+- Preview function in the open tasks.
+
 ### Version 2.14.0.1 - 23.11.2023
 Corrections:
 - The ID of the e-mail message is now correctly written to the list of Connector 365 activities.

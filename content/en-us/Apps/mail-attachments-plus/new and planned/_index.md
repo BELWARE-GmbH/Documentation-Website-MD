@@ -9,6 +9,23 @@ weight: 1
 
 ### New and planned
 
+### Version 2.7.0.0 - 04.03.2024
+New features:
+- Establish compatibility with the new Easy Batch version
+- Control attachments depending on the language
+- Use of central attachment table for uploading and selecting attachments
+- Automatic attachment of attachments from the document lines
+
+### Version 2.6.0.0 - 06.09.2023
+New features:
+- New event *OnAttachDocumentAttachmentsOnCaseElse* to also enable attachments for other document types
+
+### Version 2.5.0.0 - 14.07.2023
+New features:
+- Event *OnGetC365Attachments* integrated to retrieve and extend attachments in other apps
+
+Translated with DeepL.com (free version)
+
 ### Version 2.4.0.0 - 25.08.2023
 New features:
  - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:

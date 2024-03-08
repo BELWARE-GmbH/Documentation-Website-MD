@@ -12,6 +12,21 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.7.0.0 - 04.03.2024
+Neuerungen:
+- Herstellen der Kompatibiltät zur neuen Easy Batch Version
+- Anhänge abhängig der Sprache steuern
+- Nutzung zentraler Anhangstabelle zum Hochladen und Auswählen von Anhängen
+- Automatisches Anhängen von Anhängen aus den Belegzeilen
+
+### Version 2.6.0.0 - 06.09.2023
+Neuerungen:
+- Neues Event *OnAttachDocumentAttachmentsOnCaseElse* um Anhänge auch für andere Belegarten zu ermöglichen
+
+### Version 2.5.0.0 - 14.07.2023
+Neuerungen:
+- Event *OnGetC365Attachments* integriert um Anhänge in anderen Apps abzurufen und zu erweitern
+
 ### Version 2.4.0.0 - 25.08.2023
 Neuerungen:
  - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
