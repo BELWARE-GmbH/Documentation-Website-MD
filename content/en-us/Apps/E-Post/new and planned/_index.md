@@ -23,11 +23,11 @@ Corrections:
 
 ### Version 2.9.0.1 - 04.03.2024
 Corrections:
-- Die *Senden als* Funktion funktioniert wieder mit E-POST 
+- The *Send as* function works again with E-POST 
 
 ### Version 2.9.0.0 - 01.03.2024
 New Features:
-- Herstellen der Kompatibiltät zur neuen Easy Batch Version
+- Establish compatibility with the new Easy Batch version
 
 ### Version 2.8.0.3 - 18.12.2023
 Corrections:

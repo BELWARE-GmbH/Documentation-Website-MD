@@ -16,6 +16,9 @@ weight: 1
 
 ## Released versions
 
+### Version 2.9.0.0 - 01.03.2024
+- Establish compatibility with the new Easy Batch version
+
 ### Version 2.8.0.6 - 02.02.2024
 New features:
  - Load XRechnung version 3.0 as default value

@@ -8,6 +8,9 @@ weight: 1
 ---
 ### Neu und geplant
 
+### Version 1.1.0.0 - 08.12.2023
+Neue Funktionen:
+- Apps werden nun über einen Wizard, statt vollautomatisch, installiert.
 
 ### Version 1.0.0.0
 - Intelligente Steuerung der Absender-Adresse je Bericht via Mail Sender Plus

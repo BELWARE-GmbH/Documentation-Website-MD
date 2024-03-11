@@ -17,6 +17,19 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+### Version 1.4.0.0 - 11.03.2024
+Neue Funktionen:
+- Zur Auswhal der Berichtslayouts stehen nun sowohl die Tabelle *Berichtslayoutliste* als auch *Benutzerdefinierte Berichtslayouts* zur Verfügung.
+
+### Version 1.3.0.0 - 29.02.2024
+Neue Funktionen:
+- Herstellen der Kompatibiltät zur neuen Easy Batch Version
+
+### Version 1.2.0.0 - 07.09.2023
+Neue Funktionen:
+- Für den E-Mail-Text können nun benutzerspezifische Platzhalter definiert werden.
+- Neues Event *OnBeforeGetLanguageCodeField* um die Funktionalität auch für weitere Berichtsverwendungen zu nutzen. 
+
 ### Version 1.1.0.0 - 22.05.2023
  - Unterstützung für Belegarten aus dem Service-Bereich
 

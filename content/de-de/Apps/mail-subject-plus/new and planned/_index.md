@@ -19,6 +19,10 @@ weight: 1
 
 ## Veröffentlichte Versionen
 
+### Version 2.9.0.0 - 01.03.2024
+Neue Funktionen:
+- Herstellen der Kompatibiltät zur neuen Easy Batch Version
+
 ### Version 2.8.0.1 - 04.10.2023
 Korrekturen:
  - Entfernen von nicht benötigten Abhängigkeiten
