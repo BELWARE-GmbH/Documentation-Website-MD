@@ -14,15 +14,15 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
-#### Version 1.7.0.1 - 011.03.2024
+#### Version 1.7.0.1 - 11.03.2024
 Fehlerkorrektur:
     - Fehler beim Setzen der E-Mailadresse behoben
 
 #### Version 1.7.0.0 - 01.03.2024
 Neuerungen:
- - Bishewrige Steuerung der Empfängeradressen durch Prioritätensteuerung sowohl für E-Mail als auch E-POST
- - Überarvbeitung der Funktion zum Setzen weiterer Empfängeradressen
- - Herstellen der Kompatibiltät zur neuen Easy Batch Version
+ - Bisherige Steuerung der Empfängeradressen durch Prioritätensteuerung sowohl für E-Mail als auch E-POST
+ - Überarbeitung der Funktion zum Setzen weiterer Empfängeradressen
+ - Herstellen der Kompatibilität zur neuen Easy Batch Version
 
 #### Version 1.6.0.0 - 25.08.2023
 Neuerungen:
