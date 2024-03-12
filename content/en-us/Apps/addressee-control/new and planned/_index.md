@@ -14,7 +14,13 @@ Simply use either the navigation menu at the bottom or on the left.
 
 In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 
-### Version 1.6.0.0 - 25.08.2023
+#### Version 1.7.0.0 - 01.03.2024
+New features:
+ - Previous control of recipient addresses through priority control for both e-mail and E-POST
+ - Revision of the function for setting additional recipient addresses
+ - Establish compatibility with the new Easy Batch version
+
+#### Version 1.6.0.0 - 25.08.2023
 New features:
  - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:
     * Further targets
