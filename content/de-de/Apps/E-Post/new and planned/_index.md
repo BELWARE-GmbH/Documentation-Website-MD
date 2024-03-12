@@ -9,7 +9,7 @@ weight: 1
 ### Neu und geplant
 
 ### Geplante Funktionen für zukünftige Versionen
-- Erneutes versenden von fehlerhaften Briefen
+- Erneutes Versenden von fehlerhaften Briefen
 - Kontakte im Dialog editierbar
 - Erweiterungen der Sendungsstatus-Informationen
   * Bearbeitungsstatus im Zielgebiet
@@ -18,7 +18,7 @@ weight: 1
 
 ### Version 2.9.0.2 - 08.03.2024
 Korrekturen:
-- Bei nicht vorhandenem E-POST-Vorgang in der Berichtsauswahl wird eine Meldung ausgegeben.
+- Bei nicht vorhandenem E-POST-Vorgang in der Berichtsauswahl wird eine Meldung ausgegeben
 
 ### Version 2.9.0.1 - 04.03.2024
 Korrekturen:

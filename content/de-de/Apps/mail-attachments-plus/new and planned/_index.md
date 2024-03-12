@@ -14,7 +14,7 @@ weight: 1
 
 ### Version 2.7.0.0 - 04.03.2024
 Neuerungen:
-- Herstellen der Kompatibiltät zur neuen Easy Batch Version
+- Herstellen der Kompatibilität zur neuen Easy Batch Version
 - Anhänge abhängig der Sprache steuern
 - Nutzung zentraler Anhangstabelle zum Hochladen und Auswählen von Anhängen
 - Automatisches Anhängen von Anhängen aus den Belegzeilen

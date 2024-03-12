@@ -14,12 +14,12 @@ weight: 1
 
 ### Version 2.15.0.2 - 08.03.2024
 Korrekturen:
-- nicjt benötigte App-Abhängigkeit entfernt, sodass die App auch mit älteren BC-Versionen kompatibel ist.
+- nicht benötigte App-Abhängigkeit entfernt, sodass die App auch mit älteren BC-Versionen kompatibel ist.
 
 ### Version 2.15.0.1 - 04.03.2024
 Korrekturen:
 - Berichtslayouts werden korrekt analog dem Standard gesetzt.
-- DIe Nutzung von XRechnung im Belegsendeprofil führt nicht mehr zu Fehlern.
+- Die Nutzung von XRechnung im Belegsendeprofil führt nicht mehr zu Fehlern.
 
 ### Version 2.15.0.0 - 01.03.2024
 Neuerungen:
