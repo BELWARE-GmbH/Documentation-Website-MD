@@ -12,7 +12,7 @@ Die in den Dokumentenlayouts oder Beleglayouts hinterlegte Briefpapier-Konfigura
 
 ### Briefpapier im Dokumentenlayout
 
-Sie haben neben der Möglichkeit ein Briefpapier für alle Berichte, sowie per Bericht auch die Möglichkeit ein berichtspezfisches Briefpapier pro Debitor zu hinterlegen. Die Einrichtung hierfür wird in den jeweiligen Dokumentenlayouts vorgenommen.
+Sie haben neben der Möglichkeit ein Briefpapier für alle Berichte, sowie per Bericht auch die Möglichkeit ein berichtspezifisches Briefpapier pro Debitor zu hinterlegen. Die Einrichtung hierfür wird in den jeweiligen Dokumentenlayouts vorgenommen.
 
 Öffnen Sie die Karte des Debitors, bei dem Sie ein abweichendes Briefpapier hinterlegen wollen. 
 
@@ -36,7 +36,7 @@ Für eine neue Briefpapierkonfiguration klicken Sie auf **+Neu** und führen die
 Weitere Informationen, sowie Beispiele für Briefpapierkonfigurationen, finden Sie **hier**.
 
 ##### Briefpapier
-Wenn Sie eine Briefpapierkonfiguratuon hinterlegt haben, können Sie diese einsehen, indem Sie auf das Feld **Briefpapier** klicken. Da für den Bericht **1306 Rechnung** eine Briefpapierkonfiguration mit 3 Briefpapierarten hinterlegt wurde, zeigt das Feld für diesen Bericht eine **3** an. 
+Wenn Sie eine Briefpapierkonfiguration hinterlegt haben, können Sie diese einsehen, indem Sie auf das Feld **Briefpapier** klicken. Da für den Bericht **1306 Rechnung** eine Briefpapierkonfiguration mit 3 Briefpapierarten hinterlegt wurde, zeigt das Feld für diesen Bericht eine **3** an. 
 Für das Briefpapier **RECHNUNG** sehen Sie hier die folgende Konfiguration als Auszug:
 
 |![](images/apps/pdf_SaaS/example_field_stationery_DEU.png)|
@@ -66,7 +66,7 @@ Dies könnte, wie folgt aussehen:
 
 ### Briefpapier im Beleglayout
 Auch für Ihre Kreditoren können Sie pro Bericht ein Briefpapier hinterlegen. Die Einrichtung hierfür wird in den Beleglayouts vorgenommen.
-Öffenen Sie die Karte des Debitors, bei dem Sie ein abweichendes Briefpapier hinterlegen wollen.
+Öffnen Sie die Karte des Debitors, bei dem Sie ein abweichendes Briefpapier hinterlegen wollen.
 
 |![](images/apps/pdf_SaaS/beleglayouts_DEU.png)|
 |-|
