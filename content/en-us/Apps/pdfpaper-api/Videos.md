@@ -8,4 +8,4 @@ weight: 6
 ---
 ### Videos
 
-Here you can find some informative videos about our PdfPaper app, each video covers a special topic
+Here you can find some informative videos about our PDF app, each video covers a special topic

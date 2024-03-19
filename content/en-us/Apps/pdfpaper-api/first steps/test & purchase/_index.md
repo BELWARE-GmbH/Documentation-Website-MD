@@ -8,7 +8,7 @@ weight: 2
 ---
 ### Test and purchase the Connector 365 Mail PdfPaper App
 
-Here you will find all the important information and tips for testing and purchasing the Connector 365 PdfPaper app.
+Here you will find all the important information and tips for testing and purchasing the Connector 365 PDF app.
 
 Simply use either the bottom or left navigation menu.
 

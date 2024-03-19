@@ -6,10 +6,10 @@ draft: false
 collapsible: true
 weight: 4
 ---
-### Installing the Connector 365 PdfPaper App
+### Installing the Connector 365 PDF App
 
-Here you will find all the important information and instructions on how to install the Connector 365 PdfPaper App.
+Here you will find all the important information and instructions for installing the Connector 365 PDF App.
 
 Simply use either the bottom or left navigation menu.
 
-In case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the [support page](en-us/apps/help-and-support/).
+In case that a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
