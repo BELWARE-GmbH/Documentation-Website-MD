@@ -9,6 +9,31 @@ weight: 1
 
 ### New and planned
 
+### Version 2.20.0.1 21.03.2024
+Corrections:
+ - Fixes errors when retrieving body texts
+
+### Version 2.20.0.0 15.03.2024
+New features:
+ - Integrates internal functions for compatibility with the upcoming Connector 365 PDF app
+
+### Version 2.19.0.0 1.03.2024
+New features:
+ - Use of the new layout code fields from report selection / document layouts
+ - Compatibility with the latest functions of the Connector 365 Easy Batch App
+
+### Version 2.18.0.0 7.2.2024
+New features:
+  - Adds bodytext field to the Connector 365 activities
+
+### Version 2.17.0.0 12/15/2023
+New features:
+ - Implements changes to ensure compatibility with priority control of "Connector 365 Addressee Control"
+
+### Version 2.16.06 21.11.2023
+Improvements:
+ - Fixes errors when obtaining body texts
+
 ### Version 2.16.0.5 09.11.2023
 Improvements:
  - Fixing errors in saving and displaying various document types in the activity list.
