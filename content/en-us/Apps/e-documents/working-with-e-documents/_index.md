@@ -2,7 +2,7 @@
 title: "Working with E-Documents"
 date: 2024-04-03
 description: 
-draft: true
+draft: false
 collapsible: true
 weight: 3
 ---
