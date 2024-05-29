@@ -12,6 +12,84 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.15.0.20 - 23.05.2024
+Corrections:
+- When setting reminders as a task via the registration process, only a single message that the documents have been set for processing is displayed.
+
+### Version 2.15.0.19 - 23.05.2024
+Corrections:
+- Error when using the report layouts if a document layout entry exists.
+
+### Version 2.15.0.18 - 21.05.2024
+Corrections:
+- Fixed error when running multiple reports in one operation.
+
+### Version 2.15.0.17 - 16.05.2024
+Corrections:
+- When setting tasks via the booking process, only a single message that the documents have been set for processing is now displayed.
+
+### Version 2.15.0.16 - 16.05.2024
+Corrections:
+- Compatibility for versions < BC23 established.
+
+### Version 2.15.0.15 - 15.05.2024
+Corrections:
+- Compatibility for versions < BC23.6 established.
+
+### Version 2.15.0.14 - 15.05.2024
+Corrections:
+- Fixed an error when using the report layouts.
+
+### Version 2.15.0.13 - 22.04.2024
+Corrections:
+- Fixed a bug in the license check.
+
+### Version 2.15.0.12 - 18.04.2024
+Corrections:
+- Error when deleting open tasks corrected.
+
+### Version 2.15.0.11 - 11.04.2024
+Corrections:
+- Address data is now correctly transferred to the Connector 365 E-POST app.
+
+### Version 2.15.0.10 - 03.04.2024
+Corrections:
+- Open tasks are also deleted when executing the action *Cancel Processing* if the task no longer exists.
+
+### Version 2.15.0.9 - 02.04.2024
+Corrections:
+- Missing object permissions added.
+
+### Version 2.15.0.9 - 02.04.2024
+Corrections:
+- Missing object permissions added.
+
+### Version 2.15.0.8 - 27.03.2024
+Corrections:
+- Compatibility for versions < BC21 established.
+
+### Version 2.15.0.7 - 26.03.2024
+Corrections:
+- Corrected setting of e-mail addresses from the document layouts.
+
+### Version 2.15.0.6 - 22.03.2024
+Corrections:
+- Initial value of the field *recipient type* corrected. 
+
+### Version 2.15.0.5 - 21.03.2024
+Corrections:
+- The correct report layout is now used for the preview.
+
+### Version 2.15.0.4 - 19.03.2024
+Corrections:
+- PDF and print processes are now also executed.
+- When ending a task, the data of all reference tables is also deleted.
+- The document preview is only executed with existing parameters.
+
+### Version 2.15.0.3 - 14.03.2024
+Corrections:
+- Added missing User ID in the *Connector 365 Open Tasks* and *Connector 365 Activities* page.
+
 ### Version 2.15.0.2 - 08.03.2024
 Corrections:
 - Removed not required app dependency so that the app is also compatible with older BC versions.
