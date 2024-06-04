@@ -16,6 +16,54 @@ weight: 1
 
 ## Released versions
 
+### Version 2.9.0.12 - 29.05.2024
+Corrections:
+- The use of report layouts in combination with Connector 365 Easy Batch has been standardized.
+
+### Version 2.9.0.11 - 13.05.2024
+Corrections:
+- New logic for pulling the report layout implemented.
+
+### Version 2.9.0.10 - 11.04.2024
+Corrections:
+- Fixed sending without email text.
+
+### Version 2.9.0.9 - 02.04.2024
+Corrections:
+- Tenant media permissions added
+
+### Version 2.9.0.8 - 28.03.2024
+Corrections:
+- Passing the correct variable for calculating the legal monetary info.
+
+### Version 2.9.0.7 - 28.03.2024
+Corrections:
+- Corrected calculation of legal monetary info.
+
+### Version 2.9.0.6 - 27.03.2024
+Corrections:
+- The report layout is now also reset in versions < BC21.
+
+### Version 2.9.0.5 - 26.03.2024
+Corrections:
+- Correction of the cardinalities of the address addresses.
+
+### Version 2.9.0.4 - 26.03.2024
+Corrections:
+- The e-mail text is now created correctly again.
+
+### Version 2.9.0.3 - 26.03.2024
+Corrections:
+- The filter for report execution is now set correctly again.
+
+### Version 2.9.0.2 - 20.03.2024
+Corrections:
+- dei electronic address of the buyer is now automatically filled with the e_mail address.
+
+### Version 2.9.0.1 - 15.03.2024
+Corrections:
+- Error when writing the activity entry if the validation of the XRechnung is deactivated.
+
 ### Version 2.9.0.0 - 01.03.2024
 - Establish compatibility with the new Easy Batch version
 

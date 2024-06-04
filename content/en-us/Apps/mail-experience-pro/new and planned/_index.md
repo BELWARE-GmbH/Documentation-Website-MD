@@ -8,7 +8,7 @@ weight: 1
 ---
 ### New and planned
 
-### Version 1.3.0.0 - 08.12.2023
+### Version 1.1.0.0 - 08.12.2023
 New functions:
 - Apps are now installed via a wizard instead of fully automatically.
 

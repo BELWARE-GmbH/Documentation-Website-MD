@@ -11,6 +11,10 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.15.0.21 - 04.06.2024
+Korrekturen:
+- Die Aktion "Vorschau E-Mail-Text" lädt die Datei nun immer mit der Endung "-html" herunter.
+
 ### Version 2.15.0.20 - 23.05.2024
 Korrekturen:
 - Beim Einstellen von Mahnungen als Aufgabe über den Registrierungsprozess wird nur noch eine einzelne Meldung, dass die Belege zur Verarbeitung eingestellt wurden, angezeigt.

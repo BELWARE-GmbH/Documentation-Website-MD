@@ -12,6 +12,14 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.7.0.2 - 22.03.2024
+Korrekturen:
+- Herstellen der Kompatibilität mit Versionen < BC21.2
+
+### Version 2.7.0.1 - 20.03.2024
+Korrekturen:
+- Es wird nur noch auf den Sprachcode geprüft, wenn er auch gesetzt wurde.
+
 ### Version 2.7.0.0 - 04.03.2024
 Neuerungen:
 - Herstellen der Kompatibilität zur neuen Easy Batch Version

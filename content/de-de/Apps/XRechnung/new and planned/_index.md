@@ -15,6 +15,55 @@ weight: 1
  - Einrichtungsassistent (Wizard)
  
 ## Veröffentlichte Versionen
+
+### Version 2.9.0.12 - 29.05.2024
+Korrekturen:
+- Das Heranziehen der Berichtslayouts in Kombination mit Connector 365 Easy Batch wurde vereinheitlicht.
+
+### Version 2.9.0.11 - 13.05.2024
+Korrekturen:
+- Neue Logik für das Heranziehen des Berichtslayouts implementiert.
+
+### Version 2.9.0.10 - 11.04.2024
+Korrekturen:
+- Das Senden ohne E-Mail-Text korrigiert.
+
+### Version 2.9.0.9 - 02.04.2024
+Korrekturen:
+- Tenant Media Berechtigungen hinzugefügt
+
+### Version 2.9.0.8 - 28.03.2024
+Korrekturen:
+- Übergeben der korrekten Variable zur Berechung der legal monetary info.
+
+### Version 2.9.0.7 - 28.03.2024
+Korrekturen:
+- Berechnung der legal monetary info korrigiert.
+
+### Version 2.9.0.6 - 27.03.2024
+Korrekturen:
+- Das Berichtslayout wird nun auch in Versionen < BC21 zurückgesetzt.
+
+### Version 2.9.0.5 - 26.03.2024
+Korrekturen:
+- Korrektur der Kardinalitäten der Adressadten.
+
+### Version 2.9.0.4 - 26.03.2024
+Korrekturen:
+- Der E-Mail-Text wird nun wieder korrekt erstellt.
+
+### Version 2.9.0.3 - 26.03.2024
+Korrekturen:
+- Der Filter für die Berichtsausführung wird nun wieder korrekt gesetzt.
+
+### Version 2.9.0.2 - 20.03.2024
+Korrekturen:
+- dei elektronische Adresse des Käufers wird nun automatisch mit der E_Mailadresse gefüllt.
+
+### Version 2.9.0.1 - 15.03.2024
+Korrekturen:
+- Fehler beim Schreiben des Aktivitäteneintrags wenn die Validierung der XRechnung deaktiviert ist.
+
 ### Version 2.9.0.0 - 01.03.2024
 - Herstellen der Kompatibilität zur neuen Easy Batch Version
 

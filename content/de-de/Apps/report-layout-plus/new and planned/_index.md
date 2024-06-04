@@ -17,6 +17,18 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+### Version 1.4.0.3 - 22.03.2024
+Korrekturen:
+- Kompatibilität für Versionen < BC22 hergestellt
+
+### Version 1.4.0.2 - 19.03.2024
+Korrekturen:
+- Funktionalität für die neue Easy Batch Integration wiederhergestellt.
+
+### Version 1.4.0.1 - 15.03.2024
+Korrekturen:
+- App-eigene Berichtslayoutauswahl durch die Auswahl die Seite des Standards ersetzt.
+
 ### Version 1.4.0.0 - 11.03.2024
 Neue Funktionen:
 - Zur Auswhal der Berichtslayouts stehen nun sowohl die Tabelle *Berichtslayoutliste* als auch *Benutzerdefinierte Berichtslayouts* zur Verfügung.

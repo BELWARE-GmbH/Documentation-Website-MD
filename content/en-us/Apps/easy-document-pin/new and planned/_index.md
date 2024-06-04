@@ -12,6 +12,9 @@ weight: 1
 ### Planned functions for future versions
 - Automatic attachment of delivery notes
 
+### Version 2.1.0.1 - 11.01.2023
+- Improved handling of reminder lines.
+
 ### Version 2.1.0.0 - 06.01.2023
 - Implementation of new license check.
 - Improved filtering for linked documents to reminder.

@@ -10,6 +10,9 @@ weight: 1
 ### Neu und geplant
 - Automatisches Anhängen von Lieferscheinen
 
+### Version 2.1.0.1 - 11.01.2023
+- Handhabung der Mahnungszeilen verbessert.
+
 ### Version 2.1.0.0 - 06.01.2023
 - Implementierung neuer Lizenzprüfung
 - Verbesserte Filterung auf mit der Mahnung verknüpfter Belege

@@ -18,6 +18,10 @@ In case a question could not be answered, we will be happy to help you personall
 - Additional functions from PdfPaper module
 - Integration of PDF/A functionality
 
+### Version 1.9.0.1 - 19.01.2024
+Corrections:
+- Read and show of ipaper error messages improved.
+
 ### Version 1.9.0.0 - 17.01.2024
 New functions:
 - Errors during iPaper processing are now output instead of continuing to use the unprocessed PDF.

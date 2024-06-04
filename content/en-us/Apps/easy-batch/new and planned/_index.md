@@ -12,6 +12,10 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.15.0.21 - 04.06.2024
+Corrections:
+- The action "Preview Email Text" on the page "Connector 365 Open Tasks" now always downloads the file with the ending ".html"
+
 ### Version 2.15.0.20 - 23.05.2024
 Corrections:
 - When setting reminders as a task via the registration process, only a single message that the documents have been set for processing is displayed.

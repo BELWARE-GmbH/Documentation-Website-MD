@@ -9,6 +9,14 @@ weight: 1
 
 ### New and planned
 
+### Version 2.7.0.2 - 22.03.2024
+Corrections:
+- Establish compatibility with versions < BC21.2
+
+### Version 2.7.0.1 - 20.03.2024
+Corrections:
+- The language code is only checked if it has been set.
+
 ### Version 2.7.0.0 - 04.03.2024
 New features:
 - Establish compatibility with the new Easy Batch version
