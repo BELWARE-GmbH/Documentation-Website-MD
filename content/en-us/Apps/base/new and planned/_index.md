@@ -9,6 +9,22 @@ weight: 1
 
 ### New and planned
 
+### Version 2.20.0.5 19.04.2024
+Corrections:
+ - License check is repeated up to three times in the event of an error.
+
+### Version 2.20.0.4 03.04.2024
+Corrections:
+ - Compatibility for versions < BC23 established.
+
+### Version 2.20.0.3 02.04.2024
+Corrections:
+ - Added permissions for standard tables.
+
+### Version 2.20.0.2 02.04.2024
+Corrections:
+ - Removed *Document Statistics* subpage from the *Sent emails* page 
+
 ### Version 2.20.0.1 21.03.2024
 Corrections:
  - Fixes errors when retrieving body texts

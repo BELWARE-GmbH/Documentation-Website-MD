@@ -10,7 +10,88 @@ weight: 1
 ### Neu und geplant
 
 ### Geplante Funktionen für zukünftige Versionen
-- Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich.
+
+### Version 2.15.0.21 - 04.06.2024
+Korrekturen:
+- Die Aktion "Vorschau E-Mail-Text" lädt die Datei nun immer mit der Endung "-html" herunter.
+
+### Version 2.15.0.20 - 23.05.2024
+Korrekturen:
+- Beim Einstellen von Mahnungen als Aufgabe über den Registrierungsprozess wird nur noch eine einzelne Meldung, dass die Belege zur Verarbeitung eingestellt wurden, angezeigt.
+
+### Version 2.15.0.19 - 23.05.2024
+Korrekturen:
+- Fehler beim Heranziehen der Berichtslayouts, wenn ein Dokumentlayouteintrag besteht.
+
+### Version 2.15.0.18 - 21.05.2024
+Korrekturen:
+- Fehler beim Ausführen mehrerer Berichte in einem Vorgang korrigiert.
+
+### Version 2.15.0.17 - 16.05.2024
+Korrekturen:
+- Beim Einstellen von Aufgaben über den Buchungsprozess wird nur noch eine einzelne Meldung, dass die Belege zur Verarbeitung eingestellt wurden, angezeigt.
+
+### Version 2.15.0.16 - 16.05.2024
+Korrekturen:
+- Kompatibilität für Versionen < BC23 hergestellt.
+
+### Version 2.15.0.15 - 15.05.2024
+Korrekturen:
+- Kompatibilität für Versionen < BC23.6 hergestellt.
+
+### Version 2.15.0.14 - 15.05.2024
+Korrekturen:
+- Fehler beim Heranziehen der Berichtslayouts korrigiert.
+
+### Version 2.15.0.13 - 22.04.2024
+Korrekturen:
+- Fehler bei der Lizenzprüfung korrigiert.
+
+### Version 2.15.0.12 - 18.04.2024
+Korrekturen:
+- Fehler beim Löschen von offenen Aufgaben korrigiert.
+
+### Version 2.15.0.11 - 11.04.2024
+Korrekturen:
+- Adressdaten werden nun korrekt an die App Connector 365 E-POST übergeben.
+
+### Version 2.15.0.10 - 03.04.2024
+Korrekturen:
+- Offenen Aufgaben werden beim Ausführen der Aktion *Verabtung tornieren* auch gelöscht, wenn die Aufgabe hierzu nicht mehr existiert.
+
+### Version 2.15.0.9 - 02.04.2024
+Korrekturen:
+- Fehlende Objektberechtigungen hinzugefügt.
+
+### Version 2.15.0.9 - 02.04.2024
+Korrekturen:
+- Fehlende Objektberechtigungen hinzugefügt.
+
+### Version 2.15.0.8 - 27.03.2024
+Korrekturen:
+- Kompatibilität für Versionen < BC21 hergestellt.
+
+### Version 2.15.0.7 - 26.03.2024
+Korrekturen:
+- Setzen der E-Mailadressen aus den Dokumentlayouts korrigiert.
+
+### Version 2.15.0.6 - 22.03.2024
+Korrekturen:
+- Initialwert des Feldes *Empfängertyp* korrigiert. 
+
+### Version 2.15.0.5 - 21.03.2024
+Korrekturen:
+- Für die Vorschau wird nun das richtige Berichtslayout verwendet.
+
+### Version 2.15.0.4 - 19.03.2024
+Korrekturen:
+- PDF und Druckvorgänge werden nun auch ausgeführt.
+- Beim Beenden einer Aufgabe werden die Daten aller Referenztabellen aucg gelöscht.
+- Die Belegvorschau wird nur bei vorhandenen Parametern ausgeführt.
+
+### Version 2.15.0.3 - 14.03.2024
+Korrekturen:
+- Fehlende Benutzer-ID in der Seite *Connector 365 Offene Aufgaben* sowie *Connector 365 Aktivitäten* ergänzt
 
 ### Version 2.15.0.2 - 08.03.2024
 Korrekturen:

@@ -14,15 +14,44 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
-#### Version 1.7.0.1 - 11.03.2024
+#### Version 1.7.0.9 - 26.04.2024
+Fehlerkorrektur:
+    - Die Daten der Seite "Weitere Ziele" können nun auch über Webdienste abgerufen werden.
+
+#### Version 1.7.0.8 - 19.04.2024
+Fehlerkorrektur:
+    - Nicht-Primärschlüsselfelder können bei der Einrichtung zur Verknüpfung der Zwischen Belegkopf und Zieltabelle nicht mehr ausgewählt werden.
+    - Der Filter bei der Auswahl der Zieltabelle ist nun um die Kontakttabelle ergänzt.
+
+#### Version 1.7.0.7 - 12.04.2024
+Fehlerkorrektur:
+    - Fehler beim Setzen des E-Mailadresse in Kombination mit der App Connector 365 E-POST behoben.
+
+#### Version 1.7.0.6 - 11.04.2024
+Fehlerkorrektur:
+    - Fehler beim Setzen des Addressdaten in Kombination mit der App Connector 365 E-POST behoben.
+
+#### Version 1.7.0.4 - 05.04.2024
+Fehlerkorrektur:
+    - Übersetzungsfehler korrigiert.
+
+#### Version 1.7.0.3 - 21.03.2024
+Fehlerkorrektur:
+    - Fehler innerhalb des Upgrades auf Version 1.7.0.0 für EInkaufsbelegarten behoben.
+
+#### Version 1.7.0.2 - 11.03.2024
+Fehlerkorrektur:
+    - Fehler bei Nutzung der *Senden als* Funktion des Standards behoben.
+
+#### Version 1.7.0.1 - 06.03.2024
 Fehlerkorrektur:
     - Fehler beim Setzen der E-Mailadresse behoben
 
 #### Version 1.7.0.0 - 01.03.2024
 Neuerungen:
  - Bisherige Steuerung der Empfängeradressen durch Prioritätensteuerung sowohl für E-Mail als auch E-POST
- - Überarbeitung der Funktion zum Setzen weiterer Empfängeradressen
- - Herstellen der Kompatibilität zur neuen Easy Batch Version
+ - Überarvbeitung der Funktion zum Setzen weiterer Empfängeradressen
+ - Herstellen der Kompatibiltät zur neuen Easy Batch Version
 
 #### Version 1.6.0.0 - 25.08.2023
 Neuerungen:

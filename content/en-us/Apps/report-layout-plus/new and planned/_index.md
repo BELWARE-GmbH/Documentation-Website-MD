@@ -9,6 +9,18 @@ weight: 1
 
 ### New and planned
 
+### Version 1.4.0.3 - 22.03.2024
+Corrections:
+- Compatibility for versions < BC22 established
+
+### Version 1.4.0.2 - 19.03.2024
+Corrections:
+- Functionality for the new Easy Batch integration restored.
+
+### Version 1.4.0.1 - 15.03.2024
+Corrections:
+- App's own report layout selection replaced by the selection of the standard page.
+
 ### Version 1.4.0.0 - 11.03.2024
 New functions:
 - Both the *Report layout list* table and *User-defined report layouts* are now available for selecting report layouts.

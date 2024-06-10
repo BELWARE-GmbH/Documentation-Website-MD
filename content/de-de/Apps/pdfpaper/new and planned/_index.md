@@ -18,6 +18,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 - Weitere Funktionen aus Modul PdfPaper
 - Integration von PDF/A-Funktion
 
+### Version 1.9.0.1 - 19.01.2024
+Korrekturen:
+- Lesen und Anzeigen der Fehlermedlung des iPapers verbessert.
+
 ### Version 1.9.0.0 - 17.01.2024
 Neue Funktionen:
 - Fehler während der iPaper-Verarbeitung werden nun ausgegeben, anstatt das unverarbeitete PDF weiter zu nutzen.

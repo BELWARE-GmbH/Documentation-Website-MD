@@ -9,6 +9,22 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.20.0.5 19.04.2024
+Korrekturen:
+ - Lizenzprüfung wird im Fehlerfall bis zu drei mal wiederholt.
+
+### Version 2.20.0.4 03.04.2024
+Korrekturen:
+ - Kompatibilität für Versionen < BC23 hergestellt.
+
+### Version 2.20.0.3 02.04.2024
+Korrekturen:
+ - Berechtigungen für Standardtabellen ergänzt.
+
+### Version 2.20.0.2 02.04.2024
+Korrekturen:
+ - Unterseite "Belegstatistik" aus der Seite "Gesendete E-Mails" entfernt 
+
 ### Version 2.20.0.1 21.03.2024
 Korrekturen:
  - Behebt Fehler bei Abrufen von Bodytexten
