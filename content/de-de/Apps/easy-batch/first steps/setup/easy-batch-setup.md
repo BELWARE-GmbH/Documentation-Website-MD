@@ -18,7 +18,7 @@ Grundsätzlich werden alle Belege über Easy Batch im Hintergrund verarbeitet.
 
 ![](images/apps/Easy_Batch/de-de/app_setup.png)
 
-Zunächst können Sie im Feld **Verarbeitungszeitintervall** global für alle Belege einen Zeitinervall angeben, in welchem dei Belege verarbeitet werden.
+Zunächst können Sie im Feld **Verarbeitungszeitintervall** global für alle Belege einen Zeitinervall angeben, in welchem die Belege verarbeitet werden.
 Dies ist sinnvoll in Szenarien, in denen während der Verarbeitung Tabellen gesperrt werden, oder mit externen Diensten kommuniziert wird.
 Dadurch wird ein gegenseitiges Blockieren der Aufgaben verhindert.
 
