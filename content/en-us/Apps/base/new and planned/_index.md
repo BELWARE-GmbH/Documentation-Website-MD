@@ -9,24 +9,40 @@ weight: 1
 
 ### New and planned
 
-### Version 2.20.0.5 19.04.2024
-Corrections:
+### Version 2.22.0.0 25.07.2024
+New features:
+ - Added new internal event for Report Layout Plus and Addressee Control integration. 
+
+### Version 2.21.0.0 05.07.2024
+New features:
+ - Added new event for integration of new Easy Batch version. 
+
+### Version 2.20.0.7 10.06.2024
+Error corrections:
+ - All license related calls are repeated up to three times.
+
+### Version 2.20.0.6 19.04.2024
+Error corrections:
  - License check is repeated up to three times in the event of an error.
 
+### Version 2.20.0.5 11.04.2024
+Error corrections:
+ - Moved Comminication Matrix for vendors to a separate page, to allow setting up vendor reports.
+
 ### Version 2.20.0.4 03.04.2024
-Corrections:
+Error corrections:
  - Compatibility for versions < BC23 established.
 
 ### Version 2.20.0.3 02.04.2024
-Corrections:
+Error corrections:
  - Added permissions for standard tables.
 
 ### Version 2.20.0.2 02.04.2024
-Corrections:
+Error corrections:
  - Removed *Document Statistics* subpage from the *Sent emails* page 
 
 ### Version 2.20.0.1 21.03.2024
-Corrections:
+Error corrections:
  - Fixes errors when retrieving body texts
 
 ### Version 2.20.0.0 15.03.2024

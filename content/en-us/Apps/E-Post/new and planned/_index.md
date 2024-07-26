@@ -17,6 +17,24 @@ weight: 1
   * Franking ID
 - Simplification for 'Registered mail return receipt'
 
+### Version 2.9.0.6 - 17.07.2024
+Corrections:
+- Check whether address line exists before transfer.
+- Correction of a spelling error in the address data.
+- Removal of quotation marks when transferring address data.
+
+### Version 2.9.0.5 - 11.04.2024
+Corrections:
+- Correction of the setting of the address data.
+
+### Version 2.9.0.4 - 05.04.2024
+Corrections:
+- Correction of a spelling error when setting the address data.
+
+### Version 2.9.0.3 - 15.03.2024
+Corrections:
+- Output of the correct error message if the login fails.
+
 ### Version 2.9.0.2 - 08.03.2024
 Corrections:
 - When no E-POST report is setup in report selections, a message will be displayed.

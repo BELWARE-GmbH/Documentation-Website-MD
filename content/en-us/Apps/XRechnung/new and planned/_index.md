@@ -16,6 +16,10 @@ weight: 1
 
 ## Released versions
 
+### Version 2.9.0.13 - 22.07.2024
+Corrections:
+- The record ID will now be written to the activity entry table, to allow viewing XRechnungen from the document page.
+
 ### Version 2.9.0.12 - 29.05.2024
 Corrections:
 - The use of report layouts in combination with Connector 365 Easy Batch has been standardized.

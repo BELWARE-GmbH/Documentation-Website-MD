@@ -9,6 +9,20 @@ weight: 1
 
 ### New and planned
 
+### Version 2.8.0.1 - 10.07.2024
+Corrections:
+- Attachments are no longer deleted from the attachment selection after sending.
+
+### Version 2.8.0.0 - 05.07.2024
+New features:
+- Attachments can now be added via a separate page action.
+- Attachment name and size are now written to the table.
+- Attachments can now be displayed via the DrillDown of the attachment name field.
+
+### Version 2.7.0.3 - 05.06.2024
+Corrections:
+- Correction of the use of report selection attachments.
+
 ### Version 2.7.0.2 - 22.03.2024
 Corrections:
 - Establish compatibility with versions < BC21.2

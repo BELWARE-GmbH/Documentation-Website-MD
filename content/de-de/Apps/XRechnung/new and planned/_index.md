@@ -16,6 +16,10 @@ weight: 1
  
 ## Veröffentlichte Versionen
 
+### Version 2.9.0.13 - 22.07.2024
+Korrekturen:
+- Die Datensatz-ID wird nun in die Tabelle der Aktivitätseinträge geschrieben, um die Anzeige von XRechnungen auf der Dokumentenseite zu ermöglichen.
+
 ### Version 2.9.0.12 - 29.05.2024
 Korrekturen:
 - Das Heranziehen der Berichtslayouts in Kombination mit Connector 365 Easy Batch wurde vereinheitlicht.

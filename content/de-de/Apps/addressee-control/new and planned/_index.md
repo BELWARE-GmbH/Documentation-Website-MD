@@ -14,6 +14,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+#### Version 1.7.0.10 - 26.07.2024
+Fehlerkorrektur:
+    - Zuvor entfernte Funktion wieder hinzugefügt, um AppSource Validierung zu bestehen.
+
 #### Version 1.7.0.9 - 26.04.2024
 Fehlerkorrektur:
     - Die Daten der Seite "Weitere Ziele" können nun auch über Webdienste abgerufen werden.

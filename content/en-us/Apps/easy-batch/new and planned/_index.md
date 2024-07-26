@@ -12,6 +12,39 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.16.0.0 - 12.07.2024
+New features:
+- The event call OnAfterCreatePdfFileFromReport has been replaced by OnAfterCreateReportPdfFile.
+- Two fields have been added to the Connector 365 Open Task table: Report Selection Sequence and Cust. Rep. Selection Sequence.
+
+### Version 2.15.0.28 - 05.07.2024
+Corrections:
+- Integration with Report Layout Plus corrected.
+
+### Version 2.15.0.27 - 29.06.2024
+Corrections:
+- Fixed check for empty report selection.
+
+### Version 2.15.0.26 - 26.06.2024
+Corrections:
+- Correction to check for unset email text.
+
+### Version 2.15.0.25 - 20.06.2024
+Corrections:
+- Corrected use of the report selection variable.
+
+### Version 2.15.0.24 - 19.06.2024
+Corrections:
+- Transfer of the wrong record to the SetReportParameters function fixed.
+
+### Version 2.15.0.23 - 17.06.2024
+Corrections:
+- Fixed an error when setting the app ID of the report layouts.
+
+### Version 2.15.0.22 - 04.06.2024
+Corrections:
+- Third-party report layouts are now fully supported.
+
 ### Version 2.15.0.21 - 04.06.2024
 Corrections:
 - The action "Preview Email Text" on the page "Connector 365 Open Tasks" now always downloads the file with the ending ".html"

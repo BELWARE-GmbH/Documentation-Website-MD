@@ -11,6 +11,39 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.16.0.0 - 12.07.2024
+Neuerungen:
+- Der Eventaufruf OnAfterCreatePdfFileFromReport wurde durch OnAfterCreateReportPdfFile ersetzt.
+- Die Tabelle Connector 365 Open Task wurde um zwei Felder erweitert: Report Selection Sequence und Cust. Rep. Selection Sequence.
+
+### Version 2.15.0.28 - 05.07.2024
+Korrekturen:
+- Integration mit Report Layout Plus korrigiert.
+
+### Version 2.15.0.27 - 29.06.2024
+Korrekturen:
+- Prüfung, ob auf leere Berichtsauswahl korrigiert.
+
+### Version 2.15.0.26 - 26.06.2024
+Korrekturen:
+- Korrektur der Prüfung auf nicht gesetzten E-Mailtext.
+
+### Version 2.15.0.25 - 20.06.2024
+Korrekturen:
+- Nutzung der Report Selection Variable korrigiert.
+
+### Version 2.15.0.24 - 19.06.2024
+Korrekturen:
+- Übergabe des falschen Records an die Funktion SetReportParameters behoben.
+
+### Version 2.15.0.23 - 17.06.2024
+Korrekturen:
+- Fehler beim Setzen der App ID der Berichtslayouts behoben.
+
+### Version 2.15.0.22 - 04.06.2024
+Korrekturen:
+- Berichtslayouts von Drittanbietern werden nun auch vollständig unterstützt.
+
 ### Version 2.15.0.21 - 04.06.2024
 Korrekturen:
 - Die Aktion "Vorschau E-Mail-Text" lädt die Datei nun immer mit der Endung "-html" herunter.

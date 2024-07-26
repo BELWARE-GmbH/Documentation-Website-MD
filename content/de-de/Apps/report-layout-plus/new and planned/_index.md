@@ -17,6 +17,18 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+### Version 1.5.0.2 - 11.07.2024
+Korrekturen:
+- Das Berichtslayout wird nach dem Setzen mit Easy Batch wieder zurückgesetzt.
+
+### Version 1.5.0.1 - 10.07.2024
+Korrekturen:
+- Anpassungen, dass die App mit dern neuen Easy Batch Version funktioniert.
+
+### Version 1.5.0.0 - 10.07.2024
+Neuerungen:
+- Layouts, welche über die App hinterlegt wurden haben nun immer die höchste Priorität.
+
 ### Version 1.4.0.3 - 22.03.2024
 Korrekturen:
 - Kompatibilität für Versionen < BC22 hergestellt

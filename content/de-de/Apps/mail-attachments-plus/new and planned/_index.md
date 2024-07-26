@@ -12,6 +12,20 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.8.0.1 - 10.07.2024
+Korrekturen:
+- Anhänge werden nach dem Versand nicht mehr aus der Anhangsauswahl gelöscht.
+
+### Version 2.8.0.0 - 05.07.2024
+Neuerungen:
+- Anhänge können nun über eine eigene Page Action hinzugefügt werden.
+- Anhangsname und -größe werden von nun an in die Tabelle geschrieben.
+- Anhänge können nun über den DrillDown des Anhangsnamenfeld angezeigt werden.
+
+### Version 2.7.0.3 - 05.06.2024
+Korrekturen:
+- Korrektur des Heranziehens der Berichtsauswahlanhänge.
+
 ### Version 2.7.0.2 - 22.03.2024
 Korrekturen:
 - Herstellen der Kompatibilität mit Versionen < BC21.2

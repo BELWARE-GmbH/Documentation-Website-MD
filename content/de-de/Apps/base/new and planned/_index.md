@@ -9,9 +9,25 @@ weight: 1
 
 ### Neu und geplant
 
-### Version 2.20.0.5 19.04.2024
+### Version 2.22.0.0 25.07.2024
+Neuerungen:
+ - Neues internes Event für die Integartion von Report Layout Plus und Addressee Control hinzugefügt. 
+
+### Version 2.21.0.0 05.07.2024
+Neuerungen:
+ - Neues Event für die neue Easy Batch Version Integration hinzugefügt.
+
+### Version 2.20.0.7 10.06.2024
+Korrekturen:
+ - Alle Lizenzaufrufe werden bis zu dreimal wiederholt.
+
+### Version 2.20.0.6 19.04.2024
 Korrekturen:
  - Lizenzprüfung wird im Fehlerfall bis zu drei mal wiederholt.
+
+### Version 2.20.0.5 11.04.2024
+Korrekturen:
+ - Kommunikationsmatrix für Kreditoren in eine separate Seite verschoben, sodass kreditorische Belege eingerichtet werden können.
 
 ### Version 2.20.0.4 03.04.2024
 Korrekturen:

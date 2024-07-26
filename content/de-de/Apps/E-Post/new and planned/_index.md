@@ -16,9 +16,27 @@ weight: 1
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
 
+### Version 2.9.0.6 - 17.07.2024
+Korrekturen:
+- Prüfung ob Adresszeile existiert vor der Übertragung.
+- Korrektur eines Rechtschreibfehlers bei den Adressdaten.
+- Entfernen der Anführungszeichen bei der Übertragung der Adressdaten.
+
+### Version 2.9.0.5 - 11.04.2024
+Korrekturen:
+- Korrektur des Setzens der Adressdaten.
+
+### Version 2.9.0.4 - 05.04.2024
+Korrekturen:
+- Korrektur eines Rechtschreibfehlers beim setzen der Adressdaten.
+
+### Version 2.9.0.3 - 15.03.2024
+Korrekturen:
+- Ausgabe der korrekten Fehlermeldung, wenn der Login fehlschlägt.
+
 ### Version 2.9.0.2 - 08.03.2024
 Korrekturen:
-- Bei nicht vorhandenem E-POST-Vorgang in der Berichtsauswahl wird eine Meldung ausgegeben
+- Bei nicht vorhandenem E-POST-Vorgang in der Berichtsauswahl wird eine Meldung ausgegeben.
 
 ### Version 2.9.0.1 - 04.03.2024
 Korrekturen:

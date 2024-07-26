@@ -9,6 +9,18 @@ weight: 1
 
 ### New and planned
 
+### Version 1.5.0.2 - 11.07.2024
+Corrections:
+- The report layout is reset after setting with Easy Batch.
+
+### Version 1.5.0.1 - 10.07.2024
+Corrections:
+- Adjustments that the app works with the new Easy Batch version.
+
+### Version 1.5.0.0 - 10.07.2024
+New features:
+- Layouts stored via the app now always have the highest priority.
+
 ### Version 1.4.0.3 - 22.03.2024
 Corrections:
 - Compatibility for versions < BC22 established
