@@ -14,7 +14,7 @@ footer:
           link: support/
         - title: Impressum
           link: legalnotice/
-          - title: Privacy policy
+        - title: Privacy policy
           link: https://www.belware.de/dsgvo?lang=en
   contents: 
     align: left
