@@ -1,0 +1,16 @@
+name: Update Download Page on BELWARE Docs Website
+on:
+  schedule:
+    - cron:  '0 8 * * *'
+jobs:
+  run-script:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3  # Checkout the code from your repository
+
+      - name: Run PowerShell Script with Secret
+        shell: pwsh
+        run: |
+          ./.github/workflows/UpdateDownloadDocs.ps1 -ClientId: ${{ secrets.CLIENT_ID }} -ClientSecret: ${{ secrets.CLIENT_SECRET }} -TenantId: ${{ secrets.TENANT_ID }} -GitHubPat: ${{ secrets.PAT }}
