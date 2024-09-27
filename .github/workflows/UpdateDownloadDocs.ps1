@@ -55,7 +55,7 @@ $DownloadPageContent = @"
 title: "Downloads"
 date: $FormattedTimestamp
 description: 
-draft: false
+draft: true
 collapsible: false
 weight: 5
 ---
