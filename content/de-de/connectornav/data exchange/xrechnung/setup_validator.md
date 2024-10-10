@@ -2,7 +2,7 @@
 title: "Aufsetzen eines eigenen Validators"
 date: 2023-04-14T10:08:56+09:00
 description: 
-draft: false
+draft: true
 collapsible: false
 weight: 10
 ---
