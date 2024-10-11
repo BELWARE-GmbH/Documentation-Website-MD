@@ -9,6 +9,14 @@ weight: 1
 
 ### New and planned
 
+### Version 2.23.0.0 10.10.2024
+new features:
+ - Changed license check to only apply to SaaS production environments. 
+
+### Version 2.22.0.1 09.10.2024
+Error corrections:
+ - Fixed error when adding new attachments for versions < BC22. 
+
 ### Version 2.22.0.0 25.07.2024
 New features:
  - Added new internal event for Report Layout Plus and Addressee Control integration. 

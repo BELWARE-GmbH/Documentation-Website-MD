@@ -21,21 +21,16 @@ weight: 1
 
 ![](/images/apps/custom-filename/de/report-selection-intro.png)
 
-In der Berichtsauswahl finden Sie das Feld **"Dateiname"**, das anzeigt, wieviele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite **Dateiname**.
-Hier können Sie nun je Sprachcode einen individuellen Betreff definieren. Zum Einen gibt es hier die Möglichkeit, einen statischen Betreff zu formulieren, der in alle Nachrichten gleich eingefügt wird.
+In der Berichtsauswahl finden Sie das Feld **Dateiname**, das anzeigt, wie viele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite **Dateiname**.
+Hier können Sie nun je Sprachcode einen individuellen Dateinamen definieren. Zum Einen gibt es hier die Möglichkeit, einen statischen Dateinamen zu formulieren, welcher für jeden Vorgang identisch ist.
+Zum Anderen besteht die Möglichkeit, den Dateinamen dynamisch zu gestalten. Durch die Nutzung von Platzhaltern - im Beispiel durch %1,%2 definiert - passt er sich dann je Vorgang an.
 
-![](/images/apps/custom-filename/de/report-selection-static.png)
+Die Definition der Platzhalter findet auf der selben Seite im unteren Reiter **Dateinamen-Platzhalter** statt.
 
-Zum Anderen besteht die Möglichkeit, den Betreff dynamisch zu gestalten. Durch die Nutzung von Platzhaltern passt er sich dann an den Inhalt der Nachricht an.
-
-![](/images/apps/custom-filename/de/report-selection-dynamic.png)
-
- Definieren können Sie die Platzhalter, indem Sie im Feld **Betrefftext** auf die **[...]**-Schaltfläche am rechten Rand klicken. So gelangen Sie zur Seite **Dateiname-Platzhalter**, auf der Sie die Definitionen vornehmen können.
-
-![](images/apps/Mail_Subject_Plus/de-de/app_email_subject_placeholder.png)
+![](images/apps/custom-filename/de/app_report_selection_placeholder_setup.png)
 
 #### Platzhalter definieren
-Auf der Seite **"Dateiname-Platzhalter"** stehen Ihnen zwei Felder zur Verfügung:
+Im Reiter **"Dateiname-Platzhalter"** stehen Ihnen zwei Felder zur Verfügung:
 
 **Platzhalter** - Hier definieren Sie wie Ihr Platzhalter aussehen soll
 **Definition** - Diseses Feld definiert, auf welches Feld sich ihr zuvor eingegebener Platzhalter bezieht.

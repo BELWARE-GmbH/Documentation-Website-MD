@@ -6,9 +6,9 @@ draft: false
 collapsible: false
 weight: 1
 ---
-### Neue und geplant
+### Neu und geplant
 
-### Version 1.2.0.1 - 22.03.2023
+### Version 1.2.0.1 - 22.03.2024
 Fehlerkorrekturen:
 - Kompatibilität mit Versionen < BC22 hergestellt.
 

@@ -17,6 +17,10 @@ weight: 1
   * Franking ID
 - Simplification for 'Registered mail return receipt'
 
+### Version 2.9.0.7 - 24.09.2024
+Corrections:
+- Removed unneeded contact table query to avoid errors when using the app with predefined address data.
+
 ### Version 2.9.0.6 - 17.07.2024
 Corrections:
 - Check whether address line exists before transfer.

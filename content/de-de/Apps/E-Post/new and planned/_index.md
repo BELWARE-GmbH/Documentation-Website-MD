@@ -16,6 +16,10 @@ weight: 1
   * FrankierID
 - Vereinfachung für 'Einschreiben Rückschein'
 
+### Version 2.9.0.7 - 24.09.2024
+Korrekturen:
+- Nicht benötigte Abfrage der Kontakttabelle entfernt, um Fehler bei Nutzung der App mit vordefinierten Adressdaten zu vermeiden.
+
 ### Version 2.9.0.6 - 17.07.2024
 Korrekturen:
 - Prüfung ob Adresszeile existiert vor der Übertragung.

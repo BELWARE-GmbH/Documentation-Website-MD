@@ -22,17 +22,12 @@ Use the search function to open the desired report selection - e.g. the one for 
 ![](/images/apps/custom-filename/de/report-selection-intro.png)
 
 In the report selection you will find the **"File name "** field, which indicates how many individual formulations have already been created. Clicking the field takes you to the **File name** editing page.
-Here you can now define an individual subject for each language code. On the one hand, there is the option here to formulate a static subject that will be inserted in all messages in the same way.
+Here you can now define an individual filename for each language code. On one hand, there is the option to formulate a static filename that will be used for each process in the same way.
+On the other hand, it is possible to define the filename dynamically. By using placeholders - in the example defined by %1 and %2 - it then adapts to each process.
 
-![](/images/apps/custom-filename/de/report-selection-static.png)
+The definition of the placeholders is done on the same page in the tab **Placeholder Definition** below.
 
-On the other hand, it is possible to design the subject dynamically. By using placeholders, it then adapts to the content of the message.
-
-![](/images/apps/custom-filename/de/report-selection-dynamic.png)
-
- You can define the placeholders by clicking the **[...]** button on the right margin in the **Subject text** field. This will take you to the **Filename Placeholders** page where you can make the definitions.
-
-![](images/apps/Mail_Subject_Plus/de-de/app_email_subject_placeholder.png)
+![](images/apps/custom-filename/en/app_report_selection_placeholder_setup.png)
 
 #### Define placeholder
 On the **"File name placeholder "** page there are two fields available:

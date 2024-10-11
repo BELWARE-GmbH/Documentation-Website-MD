@@ -14,7 +14,11 @@ Simply use either the navigation menu at the bottom or on the left.
 
 In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 
-#### Version 1.7.0.10 - 26.07.2024
+#### Version 1.7.0.11 - 18.07.2024
+Error correction:
+    - Use email address from coontact for purchase documents instead of document header by default.
+
+#### Version 1.7.0.10 - 10.06.2024
 Error correction:
     - Readded previously removed function to pass AppSource validation.
 

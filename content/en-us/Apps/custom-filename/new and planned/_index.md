@@ -8,7 +8,7 @@ weight: 1
 ---
 ### New and planned
 
-### Version 1.2.0.1 - 22.03.2023
+### Version 1.2.0.1 - 22.03.2024
 Error corrections:
 - Compatibility with versions < BC22 established.
 

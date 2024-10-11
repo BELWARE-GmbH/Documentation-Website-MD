@@ -9,6 +9,14 @@ weight: 1
 
 ### Neu und geplant
 
+### Version 2.23.0.0 10.10.2024
+Neuerungen:
+ - Lizenzprüfung geändert, so dass nur SaaS Produktionsumgebungen geprüft werden. 
+
+### Version 2.22.0.1 09.10.2024
+Korrekturen:
+ - Fehler beim Hinzufügen von Anhängen für Versionen < BC22 korrigiert. 
+
 ### Version 2.22.0.0 25.07.2024
 Neuerungen:
  - Neues internes Event für die Integartion von Report Layout Plus und Addressee Control hinzugefügt. 
