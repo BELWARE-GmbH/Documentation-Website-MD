@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+### Version 2.9.0.0 - 13.09.2024
+New features:
+- New event OnAfterAddAttachments to modify attachments.
+
 ### Version 2.8.0.1 - 10.07.2024
 Corrections:
 - Attachments are no longer deleted from the attachment selection after sending.

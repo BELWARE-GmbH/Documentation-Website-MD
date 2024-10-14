@@ -17,6 +17,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+### Version 1.5.0.3 - 02.08.2024
+Korrekturen:
+- Die Aktivierung des Parts Feldauswahl auf der Seite Berichtslayoutauswahl wurde korrigiert.
+
 ### Version 1.5.0.2 - 11.07.2024
 Korrekturen:
 - Das Berichtslayout wird nach dem Setzen mit Easy Batch wieder zurückgesetzt.

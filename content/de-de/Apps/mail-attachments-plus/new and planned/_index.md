@@ -12,6 +12,10 @@ weight: 1
 ### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+### Version 2.9.0.0 - 13.09.2024
+Neuerungen:
+- Neues Event OnAfterAddAttachments um Anhänge zu ändern hinzugefügt.
+
 ### Version 2.8.0.1 - 10.07.2024
 Korrekturen:
 - Anhänge werden nach dem Versand nicht mehr aus der Anhangsauswahl gelöscht.

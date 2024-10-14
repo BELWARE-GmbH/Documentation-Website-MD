@@ -16,6 +16,14 @@ weight: 1
 
 ## Released versions
 
+### Version 2.10.0.0 - 11.10.2024
+New features:
+- Improved feedback for sending XRechnung to write email error into feedback table.
+
+### Version 2.9.0.14 - 07.10.2024
+Corrections:
+- Use of the standard function GetTaxExemptionReason within the PEPPOL Management codeunit instead of a separate implementation.
+
 ### Version 2.9.0.13 - 22.07.2024
 Corrections:
 - The record ID will now be written to the activity entry table, to allow viewing XRechnungen from the document page.

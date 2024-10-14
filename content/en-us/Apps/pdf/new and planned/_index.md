@@ -17,8 +17,15 @@ In case a question could not be answered, we will be happy to help you personall
 ### Planned functions for future versions
 - further functions from the PdfPaper module
 
-### Version 1.0.0.0
+### Version 1.1.0.0 - 16.09.2024
+New features:
+- New event OnAfterAddAttachmentsOnBeforeMerge to change the attachments to be merged.
+
+### Version 1.0.0.1 - 05.08.2024
+Corrections:
+- Transfer of tenant ID for licensing corrected.
+
+### Version 1.0.0.0 - 22.03.2024
 - Storing stationery: global, per report and per customer
 - creation of multiple stationery
 - preview function
-

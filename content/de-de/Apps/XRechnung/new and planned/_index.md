@@ -16,6 +16,14 @@ weight: 1
  
 ## Veröffentlichte Versionen
 
+### Version 2.10.0.0 - 11.10.2024
+Neue Funktionen:
+- Verbessertes Feedback für das Senden von XRechnungen, um E-Mail-Fehler in die Feedback-Tabelle zu schreiben.
+
+### Version 2.9.0.14 - 07.10.2024
+Korrekturen:
+- Nutzung der Standardfunktion GetTaxExemptionReason innerhalb der Codeunit PEPPOL Management anstatt einer eigenen Implementierung.
+
 ### Version 2.9.0.13 - 22.07.2024
 Korrekturen:
 - Die Datensatz-ID wird nun in die Tabelle der Aktivitätseinträge geschrieben, um die Anzeige von XRechnungen auf der Dokumentenseite zu ermöglichen.

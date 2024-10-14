@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+### Version 1.5.0.3 - 02.08.2024
+Corrections:
+- Fix enabling of field selection part within report layout selection page.
+
 ### Version 1.5.0.2 - 11.07.2024
 Corrections:
 - The report layout is reset after setting with Easy Batch.
