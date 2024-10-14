@@ -46,8 +46,6 @@ New features:
 New features:
 - Event *OnGetC365Attachments* integrated to retrieve and extend attachments in other apps
 
-Translated with DeepL.com (free version)
-
 ### Version 2.4.0.0 - 25.08.2023
 New features:
  - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:

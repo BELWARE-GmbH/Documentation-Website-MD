@@ -42,7 +42,6 @@ At the beginning of the XML port, it is checked whether the document is a sales 
 
 This is the reason why all following events work with "Sales Header" or with "Sales Line".
 
-Translated with www.DeepL.com/Translator (free version)
 {{< /notice >}}
 #
 

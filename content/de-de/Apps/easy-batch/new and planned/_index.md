@@ -11,6 +11,22 @@ weight: 1
 
 ### Geplante Funktionen für zukünftige Versionen
 
+### Version 2.19.0.0 - 01.10.2024
+Neuerungen:
+- Das Vorbelegen der Dokumentlayouts kann nun mittels Debitoren-/Kreditorenvorlagen erfolgen.
+
+### Version 2.18.0.0 - 27.09.2024
+Neuerungen:
+- Beim Jobmodus Druck kann nun mittels Events der Druckername übersteuert werden.
+
+### Version 2.17.0.0 - 05.09.2024
+Neuerungen:
+- Bei gleichzeitiger Nutzung von Easy Document Pin werden Rechnungen nun auch im Stapelversand der E-Mail hinzugefügt.
+
+### Version 2.16.0.1 - 23.08.2024
+Korrekturen:
+- Prüfung auf installierte Apps in separate Funktion ausgelagert um Berechtigungsfehler zu vermeiden.
+
 ### Version 2.16.0.0 - 12.07.2024
 Neuerungen:
 - Der Eventaufruf OnAfterCreatePdfFileFromReport wurde durch OnAfterCreateReportPdfFile ersetzt.

@@ -56,8 +56,6 @@ New functions:
 New functions:
 - Use of iPaper functions with every report execution
 
-Translated with DeepL.com (free version)
-
 ### Version 1.3.0.0 - 03.05.2023
 New functions:
 - Extension to purchasing area

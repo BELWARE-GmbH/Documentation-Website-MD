@@ -12,6 +12,22 @@ weight: 1
 ### Planned functions for future versions
 - Implementation of new document types from purchase as well as service.
 
+### Version 2.19.0.0 - 01.10.2024
+New features:
+- Document layouts can now be pre-assigned using customer/vendor templates.
+
+### Version 2.18.0.0 - 27.09.2024
+New features:
+- In print job mode, the printer name can now be overridden using events.
+
+### Version 2.17.0.0 - 05.09.2024
+New features:
+- When using Easy Document Pin at the same time, invoices are now also added to the e-mail in batch mailing.
+
+### Version 2.16.0.1 - 23.08.2024
+Corrections:
+- Check for installed apps moved to separate function to avoid authorization errors.
+
 ### Version 2.16.0.0 - 12.07.2024
 New features:
 - The event call OnAfterCreatePdfFileFromReport has been replaced by OnAfterCreateReportPdfFile.
