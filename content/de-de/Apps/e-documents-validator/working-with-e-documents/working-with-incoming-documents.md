@@ -64,6 +64,32 @@ Klicken Sie [hier](/de-de/apps/e-documents-validator/first-steps/setup/base-setu
 
 ## Validierungsbericht
 
+Um eingehende Dokumente zu validieren, öffnen Sie zunächst die Seite der eingehenden Belege:
 
+![](images/apps/e-documents-validator/de/inc-docs-list-entries.png)
+|-|
+
+Navigieren Sie zu Ihren gewünschten Eintrag bzw. Ihr Ihr gewünschtes Dokument, dass Sie validieren möchten.
+Gehen Sie in der Aktionsleiste auf **Aktionen** und klicken Sie auf **Validierungsbericht anhängen**.
+
+![](images/apps/e-documents-validator/de/inc-docs-action-validate.png)
+|-|
+
+Bei Erfolg wird nun ein Validierungsbericht des Dokuments erzeugt und an dem Vorgang angehängt.
+Die neu erzeugte Datei kann in der Factbox unter **Eingehende Belegdateien** eingesehen werden:
+Der Validierungsbericht enthält einen Zeitstempel und das Wort **Validierungsbericht** im Dateinamen, und ist vom Typ **XML**:
+
+![](images/apps/e-documents-validator/de/inc-docs-factbox-validation.png)
+|-|
+
+Klicken Sie auf den neu erzeugten Anhang, um den Inhalt einzusehen:
+
+|![](images/apps/e-documents-validator/de/validation-file.png)|
+|-|
+
+{{< notice info Hinweis >}}
+Sie können das Erzeugen von Validierungsberichten auch automatisch bei Import erfolgen lassen.
+Klicken Sie [hier](/de-de/apps/e-documents-validator/first-steps/setup/base-setup) um mehr zu erfahren.
+{{< /notice >}}
 
 ## Anhänge extrahieren
