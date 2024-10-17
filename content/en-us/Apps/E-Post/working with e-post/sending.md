@@ -8,7 +8,7 @@ weight: 1
 ---
 ### Working with E-POST
 
-### Sending
+#### Sending
 
 {{< notice info "Note" >}}
 The document types [supported by our app](en/de/apps/e-post/first-steps/introduction/) can be found summarized in the [introduction](en/de/apps/e-post/first-steps/introduction/).
@@ -24,7 +24,7 @@ Both functions can be accessed via the menu bar under **Print/Send**.
 
 ![](images/apps/E-POST/en-us/app_send_letter.png)
 
-### The dialog
+#### The dialog
 
 In the dialog you have the possibility to adjust certain options for sending the letter, e.g. whether you want to send the letter in black and white or in color.
 

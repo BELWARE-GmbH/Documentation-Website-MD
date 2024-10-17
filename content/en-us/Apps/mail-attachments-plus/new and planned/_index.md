@@ -9,62 +9,62 @@ weight: 1
 
 ### New and planned
 
-### Version 2.9.0.0 - 13.09.2024
+#### Version 2.9.0.0 - 13.09.2024
 New features:
 - New event OnAfterAddAttachments to modify attachments.
 
-### Version 2.8.0.1 - 10.07.2024
+#### Version 2.8.0.1 - 10.07.2024
 Corrections:
 - Attachments are no longer deleted from the attachment selection after sending.
 
-### Version 2.8.0.0 - 05.07.2024
+#### Version 2.8.0.0 - 05.07.2024
 New features:
 - Attachments can now be added via a separate page action.
 - Attachment name and size are now written to the table.
 - Attachments can now be displayed via the DrillDown of the attachment name field.
 
-### Version 2.7.0.3 - 05.06.2024
+#### Version 2.7.0.3 - 05.06.2024
 Corrections:
 - Correction of the use of report selection attachments.
 
-### Version 2.7.0.2 - 22.03.2024
+#### Version 2.7.0.2 - 22.03.2024
 Corrections:
 - Establish compatibility with versions < BC21.2
 
-### Version 2.7.0.1 - 20.03.2024
+#### Version 2.7.0.1 - 20.03.2024
 Corrections:
 - The language code is only checked if it has been set.
 
-### Version 2.7.0.0 - 04.03.2024
+#### Version 2.7.0.0 - 04.03.2024
 New features:
 - Establish compatibility with the new Easy Batch version
 - Control attachments depending on the language
 - Use of central attachment table for uploading and selecting attachments
 - Automatic attachment of attachments from the document lines
 
-### Version 2.6.0.0 - 06.09.2023
+#### Version 2.6.0.0 - 06.09.2023
 New features:
 - New event *OnAttachDocumentAttachmentsOnCaseElse* to also enable attachments for other document types
 
-### Version 2.5.0.0 - 14.07.2023
+#### Version 2.5.0.0 - 14.07.2023
 New features:
 - Event *OnGetC365Attachments* integrated to retrieve and extend attachments in other apps
 
-### Version 2.4.0.0 - 25.08.2023
+#### Version 2.4.0.0 - 25.08.2023
 New features:
  - Extension of [Communication matrix](/en-us/apps/base/first-steps/setup/communication-matrix/) by fields:
     * Attachments
     * Attach Default
     * Attach Document Attachments
 
-### Planned features for future versions
+#### Planned features for future versions
 - Attachment functionality on furhter levels
 
-### Version 2.3.0.1 - 22.05.2023
+#### Version 2.3.0.1 - 22.05.2023
 Fixes:
  - Fixes bug where attachment filename is overwritten during downloading
 
-### Version 2.3.0.0 - 22.05.2023
+#### Version 2.3.0.0 - 22.05.2023
 
 New features:
  - Support for document types from the service area
@@ -72,47 +72,47 @@ New features:
  - For XRechnung, Attachments can now be configured to be embedded or to be 
    treated as additional mail attachments (only in connection with Connector 365 XRechnung)
 
-### Version 2.1.0.0 - 06.01.2023
+#### Version 2.1.0.0 - 06.01.2023
 Implementation of new license check:
 - From now on all Business Central users within the production environment will be considerd for licensing and billing.
 
-### Version 2.0.0.1 from 04.11.2022
+#### Version 2.0.0.1 from 04.11.2022
  - Improved form for license orders
 
-### Version 2.0.0.0
+#### Version 2.0.0.0
 - Attachments will now be considered when using Connector 365 Easy Batch
 - Dependency from the new version of app Connector 365 Base (2.0.0.0)
 
-### Version 1.0.0.12
+#### Version 1.0.0.12
 - New permission sets
   - C365 View
   - C365 Edit
   - C365 Setup
 - Dependency on **Connector 365 Base** app version 1.0.1.23 
 
-### Version 1.0.0.10
+#### Version 1.0.0.10
 - Error correction during transfer of attachments
 
-### Version 1.0.0.9
+#### Version 1.0.0.9
 - New function "Copy from Report Selection"
 - Error correction
 
-### Version 1.0.0.8
+#### Version 1.0.0.8
 - Error correction during transfer of attachments
 
-### Version 1.0.0.7
+#### Version 1.0.0.7
 - Bug fixes
 - Improving the translation
 - Document attachments as email attachments
 
-### Version 1.0.0.5
+#### Version 1.0.0.5
 - Bug fixes
 
-### Version 1.0.0.4
+#### Version 1.0.0.4
 - Unlimited amount of standard attachments per document
 - Adaptation to the Mail Experience
 
-### Version 1.0.0.3
+#### Version 1.0.0.3
 - Unlimited number of attachments in dialog
 - Set unlimited amount of default attachments per report
 - Unlimited amount of standard attachments per customer/report

@@ -14,23 +14,23 @@ Simply use either the bottom or left navigation menu.
 
 In case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 
-### Planned functions for future versions
+#### Planned functions for future versions
 - Additional functions from PdfPaper module
 - Integration of PDF/A functionality
 
-### Version 1.9.0.1 - 19.01.2024
+#### Version 1.9.0.1 - 19.01.2024
 Corrections:
 - Read and show of ipaper error messages improved.
 
-### Version 1.9.0.0 - 17.01.2024
+#### Version 1.9.0.0 - 17.01.2024
 New functions:
 - Errors during iPaper processing are now output instead of continuing to use the unprocessed PDF.
 
-### Version 1.8.0.1 - 16.01.2024
+#### Version 1.8.0.1 - 16.01.2024
 Corrections:
 - The report usage is now set based on the document header.
 
-### Version 1.8.0.0 - 08.09.2023
+#### Version 1.8.0.0 - 08.09.2023
 New functions:
 - New event *OnBeforeSaveReportAsPdf* to override the report parameters.
 - New event *OnBeforeFindReportSelectionStationeryOnAfterSetFilter* to change the report selection.
@@ -40,23 +40,23 @@ New functions:
 Corrections:
 - Added report usage to the report selection filter to prevent the wrong data set from being used.
 
-### Version 1.7.0.0 - 20.06.2023
+#### Version 1.7.0.0 - 20.06.2023
 New functions:
 - Event parameter *ReportUsageGlo* to the events *OnBeforeMergeAttachmentsToIPaperXML* and *OnAfterMergeAttachmentsToIPaperXML* to control attachments depending on the report usage.
 
-### Version 1.6.0.0 - 11.05.2023
+#### Version 1.6.0.0 - 11.05.2023
 New functions:
 - Integration of the product *PDF2Print*, enables the printing of PDFs processed by iPaper on server printers.
 
-### Version 1.5.0.0 - 08.05.2023
+#### Version 1.5.0.0 - 08.05.2023
 New functions:
 - Option to automatically delete the generated PDFs on the file system as soon as a process is completed.
 
-### Version 1.4.0.0 - 07.05.2023
+#### Version 1.4.0.0 - 07.05.2023
 New functions:
 - Use of iPaper functions with every report execution
 
-### Version 1.3.0.0 - 03.05.2023
+#### Version 1.3.0.0 - 03.05.2023
 New functions:
 - Extension to purchasing area
   - Integration of function calls in purchasing area
@@ -68,15 +68,15 @@ New functions:
   - Possibility to store stationery in report selection - purchase
   - Possibility to store stationery in document layouts of vendors
 
-### Version 1.1.0.1 - 10.01.2023
+#### Version 1.1.0.1 - 10.01.2023
 Corrections:
 - Correction of priority control for picking the stationery.
-### Version 1.1.0.0 - 04.01.2023
+#### Version 1.1.0.0 - 04.01.2023
 - Implementation of new license check.
 
 New features:
 - Assign stationeries per responsibilty center.
-### Version 1.0.0.3
+#### Version 1.0.0.3
 New features:
 - Merge multiple PDF files into one
 - Automatic rotation of PDF files if they are in landscape format
@@ -85,7 +85,7 @@ New features:
 
 Corrections:
 - Correction for file name when previewing pdf stationery
-### Version 1.0.0.0
+#### Version 1.0.0.0
 - Setting of stationery per report & customer
 - Create multiple stationery
 - Preview function

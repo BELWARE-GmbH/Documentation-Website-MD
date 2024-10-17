@@ -12,34 +12,34 @@ Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten
 
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
-### Geplante Funktionen für zukünftige Versionen
+#### Geplante Funktionen für zukünftige Versionen
 - Anpassung der Jobliste passend zur App
 - Ausblenden der CTI-Funktionen im Rollencenter für Nicht-CTI-Nutzer
 
-### Version 2.2.0.1 - 30.01.2024
+#### Version 2.2.0.1 - 30.01.2024
 - nicht mehr genutzte Seite entfernt
 
-### Version 2.2.0.0 - 15.09.2023
+#### Version 2.2.0.0 - 15.09.2023
 - manuelles Erstellen von Telefoneinträgen
 - Anpassung des Startverhalten des CTI-Clients - Client wird nur einmal pro Session automatisch gestartet
 
-### Version 2.1.0.1 - 14.04.2023
+#### Version 2.1.0.1 - 14.04.2023
 - Anpassung des Azure AD-App Berechtigungssatzes für die neue Version
-### Version 2.1.0.0 - 06.01.2023
+#### Version 2.1.0.0 - 06.01.2023
 - Implementierung der neuen Lizenzprüfung
 - Fehlerkorrektur beim Schreiben von Aktivitäteneinträgen.
   Hier kam es einigen Fällen zu einem Fehler, da der Datensatz bereits vorhanden war.
 
-### Version 2.0.0.3 vom 16.11.2022
+#### Version 2.0.0.3 vom 16.11.2022
  - Fehlerkorrektur: Wenn ein Personenkontakt anruft, öffnet sich nicht mehr länger die Unternehmenskontaktkarte, sondern die der Person.
  
-### Version 2.0.0.2 vom 04.11.2022
+#### Version 2.0.0.2 vom 04.11.2022
  - Verbessertes Formular für Lizenzbestellungen
 
-### Version 2.0.0.1 vom 17.10.2022
+#### Version 2.0.0.1 vom 17.10.2022
 - Fehlerkorrektur beim Schreiben der Kontakte bei Anrufen
 
-### Version 2.0.0.0 vom 13.10.2022
+#### Version 2.0.0.0 vom 13.10.2022
  - Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0)
  - Überführung der Tabelle "Joblist Entry" in "Activity Entry"
  - Herstellen der Kompatibilität für Version 7.1 der STARFACE Telefonanlage
@@ -47,35 +47,35 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
     - Einträge in der Jobliste wurde nicht immer mit dem richtigen Nutzer zugeordnet.
     - Nicht angenommene Anrufe wurden nicht immer aus dem CTI-Client entfernt.  
 
-### Version 1.1.0.0
+#### Version 1.1.0.0
 - Neue Optionen in der Nutzereinrichtung
   - Anrufrichtung für das Öffnen der CTI-Seite
   - Zeitpunkt des Öffnens der Karte
   - Verhalten bei nicht vorhandenem Kontakt
 - Neue Einrichtung des Moduls für STARFACE ab Version 7.x.
 
-### Version 1.0.1.8
+#### Version 1.0.1.8
 - Die Telefonnotizen lassen sich nun im Nachhinein bearbeiten.
 - Es lässt sich einstellen wann sich die CTI-Karte öffnet.
 
-### Version 1.0.1.3
+#### Version 1.0.1.3
 - Warnung beim Schließen des CTI-Clients
 - Änderung der Einrichtung des Moduls
 
-### Version 1.0.1.1
+#### Version 1.0.1.1
 - CTI-Status im Rollencenter
 - Button zum Öffnen des CTI-Clients im Rollencenter
 - Automatisches konvertieren von Telefonnummern
 - Frei setzbare CTI-Seite
 - Webdienst wird automatisch generiert
 
-### Version 1.0.1.0
+#### Version 1.0.1.0
 - Kleinere Korrekturen
 - Click-to-Dial für Telefon- und Handynummer
 - Unbekannte Nummern bei eingehenden Anrufen anzeigen
 - Der CTI-Client öffnet sich automatisch nach Anmeldung bei Business Central
 
-### Version 1.0.0.1
+#### Version 1.0.0.1
 - Anzeigen von Kontaktdaten bei eingehenden Anrufen
 - Keine verpassten Anrufe durch eine automatische Anrufverwaltung
 - Verlinkung zu Kontakt, Debitor oder Kreditor

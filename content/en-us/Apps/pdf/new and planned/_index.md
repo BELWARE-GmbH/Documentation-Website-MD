@@ -14,18 +14,18 @@ Simply use either the bottom or left navigation menu.
 
 In case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 
-### Planned functions for future versions
+#### Planned functions for future versions
 - further functions from the PdfPaper module
 
-### Version 1.1.0.0 - 16.09.2024
+#### Version 1.1.0.0 - 16.09.2024
 New features:
 - New event OnAfterAddAttachmentsOnBeforeMerge to change the attachments to be merged.
 
-### Version 1.0.0.1 - 05.08.2024
+#### Version 1.0.0.1 - 05.08.2024
 Corrections:
 - Transfer of tenant ID for licensing corrected.
 
-### Version 1.0.0.0 - 22.03.2024
+#### Version 1.0.0.0 - 22.03.2024
 - Storing stationery: global, per report and per customer
 - creation of multiple stationery
 - preview function

@@ -8,7 +8,7 @@ weight: 2
 ---
 ### Working with the E-POST API
 
-### Archive
+#### Archive
 
 After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 
@@ -32,6 +32,11 @@ The status is subdivided by the Deutsche Post API into the following levels:
 |3|**Delivery to print center:** Receipt of the shipment has been reported back to the API by the print center <br/> Status placement: within the next few hours after the shipment has been processed|
 |4|**Processing in print center:** Shipment has been reported back as "shipped" by print center <br/> Status placement: one to two business days after posting to print center|
 |99| **Processing error**: See [error list](en-us/apps/e-post/working-with-e-post/archive#errorlist)|
+
+{{< notice info "Note" >}}
+For letters that were sent in testmode the final state is 2.
+{{< /notice>}}
+#
 
 A quick overview of successfully sent, still open and unsuccessfully sent documents of the last 30 days can be found on the E-Post status tiles in the role center.
 ![](images/apps/E-POST/en-us/role_center.png)

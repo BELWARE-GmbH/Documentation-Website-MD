@@ -8,7 +8,7 @@ weight: 2
 ---
 ### Arbeiten mit der Connector 365 E-POST App
 
-### Archiv
+#### Archiv
 
 Nach dem Versand der Belege können Sie den Versandstatus an verschiedenen Stellen in Dynamics 365 Business Central prüfen:
 
@@ -36,12 +36,15 @@ Der Status ist durch die API der Deutschen Post untergliedert in folgende Stufen
 |4| **Verarbeitung in Druckzentrum:** Sendung wurde als "versendet" vom Druckzentrum zurückgemeldet <br/> Status-Platzierung: ein bis zwei Werktage nach Einlieferung in das Druckzentrum|
 |99| **Verarbeitungsfehler**: Siehe [Fehlerliste](de-de/apps/e-post/working-with-e-post/archive#fehlerliste) |
 
-content\de-de\Apps\E-Post\working with e-post\archive.md
+{{< notice info "Hinweis" >}}
+Für Briefe, welche im Testmodus versendet wurden ist der finale Status 2.
+{{< /notice>}}
+#
 Einen schnellen Überblick über erfolgreich versendete, noch offene und nicht erfolgreich versendete Belege der letzten 30 Tage finden Sie auf den Kacheln für den E-Post Status im Rollencenter.
 
 ![](images/apps/E-POST/de-de/rollencenter.png)
 
-## Fehlerliste
+#### Fehlerliste
 <a id="fehlerliste"></a>
 
 Im Folgenden finden Sie eine Liste von Codes zu möglichen Fehlern, Warnungen und Informationen.

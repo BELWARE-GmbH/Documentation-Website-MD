@@ -8,15 +8,15 @@ weight: 1
 ---
 ### Neu und geplant
 
-### Version 1.2.0.1 - 22.03.2024
+#### Version 1.2.0.1 - 22.03.2024
 Fehlerkorrekturen:
 - Kompatibilität mit Versionen < BC22 hergestellt.
 
-### Version 1.2.0.0 - 15.03.2023
+#### Version 1.2.0.0 - 15.03.2023
 - Eventsubscriber zur neuen Easy Batch Integration hinzugefügt.
 
-### Version 1.1.0.0 - 20.12.2023
+#### Version 1.1.0.0 - 20.12.2023
 - Setzen von Dateinamenplatzhalter direkt aus der Seite *Dateiname*
 
-### Version 1.0.0.0 - 20.09.2023
+#### Version 1.0.0.0 - 20.09.2023
 - Erstveröffentlichung

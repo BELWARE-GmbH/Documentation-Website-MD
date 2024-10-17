@@ -14,18 +14,18 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
-### Geplante Funktionen für zukünftige Versionen
+#### Geplante Funktionen für zukünftige Versionen
 - weitere Funktionen aus Modul PdfPaper
 
-### Version 1.1.0.0 - 16.09.2024
+#### Version 1.1.0.0 - 16.09.2024
 Neuerungen:
 - Neues Event OnAfterAddAttachmentsOnBeforeMerge um die zu mischenden Anhänge ändern.
 
-### Version 1.0.0.1 - 05.08.2024
+#### Version 1.0.0.1 - 05.08.2024
 Korrekturen:
 - Übertragung der Tenant ID zur Lizenzierung korrigiert.
 
-### Version 1.0.0.0 - 22.03.2024
+#### Version 1.0.0.0 - 22.03.2024
 - Hinterlegen von Briefpapier: Global, pro Bericht & pro Debitor
 - Anlegen von mehreren Briefpapieren
 - Vorschaufunktion
