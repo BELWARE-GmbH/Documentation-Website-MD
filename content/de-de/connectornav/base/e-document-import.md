@@ -3,7 +3,7 @@ title: "Das Modul E-Rechnungs-Import"
 date: 2024-10-16
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 4
 ---
 
