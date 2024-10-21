@@ -13,9 +13,9 @@ weight: 1
 zu unterstützen und zu verbessern.
 Zum einen wird die **Validierung** von eingehenden Dokumenten ermöglicht, wodurch recht schnell und einfach 
 auch nicht auffällige Fehlerquellen gefunden werden können.
-Weiterhin wird das **Visualiseren** von XML-Dokumenten unterstützt, indem eine für den Menschen leicht 
-lesbare Form von E-Dokumenten erzeugt und angehangen wird.
-Falls eingehende Dokumente eingebettete **Anhänge** enthalten, so wird zudem ermöglich diese zu extrahieren um 
+Weiterhin wird das **Visualisieren** von XML-Dokumenten unterstützt, indem eine für den Menschen leicht 
+lesbare Form von E-Dokumenten erzeugt und angehängt wird.
+Falls eingehende Dokumente eingebettete **Anhänge** enthalten, so wird zudem ermöglicht diese zu extrahieren um 
 diese direkt in Business Central zu importieren, so dass Sie jederzeit leichten Zugang zu Ihren Anhängen haben.
 
 Im Folgenden erfahren Sie, wie Sie die oben genannten Funktionen in Business Central verwenden können.
@@ -54,8 +54,8 @@ Klicken Sie auf den neu erzeugten Anhang, um den Inhalt einzusehen:
 |-|
 
 Die Visualisierung ist nach mehreren Reitern strukturiert, wie oben im Bild zu sehen ist.
-Dei Datei wird unterteilt in **Übersicht, Details, Zusätze, Anlagen, Laufzettel**.
-Klicken Sie auf die verschiedenen Reiter, um den Inhalt jeweils anzeigeng zu lassen.
+Unterteilt wird diese Datei in **Übersicht, Details, Zusätze, Anlagen, Laufzettel**.
+Klicken Sie auf die verschiedenen Reiter, um den Inhalt jeweils anzeigen zu lassen.
 
 {{< notice info Hinweis >}}
 Sie können das Erzeugen von Visualisierungs-Dateien auch automatisch bei Import erfolgen lassen.
@@ -91,5 +91,3 @@ Klicken Sie auf den neu erzeugten Anhang, um den Inhalt einzusehen:
 Sie können das Erzeugen von Validierungsberichten auch automatisch bei Import erfolgen lassen.
 Klicken Sie [hier](/de-de/apps/e-documents-validator/first-steps/setup/base-setup) um mehr zu erfahren.
 {{< /notice >}}
-
-## Anhänge extrahieren

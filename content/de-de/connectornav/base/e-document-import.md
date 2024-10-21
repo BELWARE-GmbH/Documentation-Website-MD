@@ -13,7 +13,7 @@ weight: 4
 
 Das Modul E-Rechnungs-Import (Validator) ist ein Bestandteil der Connector NAV Basis Extended. 
 Mit dem Modul Modul E-Rechnungs-Import können Sie ankommende E-Rechnungen per E-Mail in Microsoft Dynamics NAV zentral verwalten. Sie minimieren damit den manuellen Aufwand vieler einzelner Arbeitsschritte, die ankommenden XML per Mail über manuelle Online-Tools zu prüfen, zu visualisieren oder auch zu entpacken. 
-Das Modul Modul E-Rechnungs-Import mit unserem Validator unterstützt Sie dabei, all Ihre E-Rechnungen zentral in einem System zu verwalten, direkt zu prüfen, zu visualisieren und embedded Dateien direkt zu entpacken.  
+Das Modul Modul E-Rechnungs-Import mit unserem Validator unterstützt Sie dabei, all Ihre E-Rechnungen zentral in einem System zu verwalten, direkt zu prüfen, zu visualisieren und eingebettete Dateien direkt zu entpacken.  
 
 Alle E-Rechnungen sind zentral am Einkaufs-Vorgang gespeichert und können jederzeit immer wieder eingesehen werden. Sie haben bereits ein DMS System? Unsere Module lassen sich spielend an vorhandene DMS Systeme docken. 
 
@@ -47,7 +47,7 @@ So werden die E-Rechnungen o. Dokumente aus dem ….\COM_IN\... An den richtigen
 ## Verschiebung der E-Rechnung aus Mail nach Dynamics NAV 
  
 
-Ziehen Sie nun die angekommenden E-Rechnungen aus Ihrem Mail-Postfach in den, in unserem Beispiel ….\COM_IN\... Ordner. Das Modul E-Rechnungs-Import (Validator) kann aktuell folgende E-Rechnungen einlesen und verarbeiten: XRechnung, PEPPOL BIS 3, ZUGFERD (XML).  
+Ziehen Sie nun die angekommenen E-Rechnungen aus Ihrem Mail-Postfach in den, in unserem Beispiel ….\COM_IN\... Ordner. Das Modul E-Rechnungs-Import (Validator) kann aktuell folgende E-Rechnungen einlesen und verarbeiten: XRechnung, PEPPOL BIS 3, ZUGFERD (XML).  
 
 |![](images/connectornav/e-documents/de/inc-docs-com-in-folder.png)|
 |-|
@@ -134,7 +134,7 @@ Die Rechtsbegründeten Unterlagen werden mit unserem Modul E-Rechnungs-Import (V
 Connector NAV weitere Verarbeitung der E-Rechnung zu einer Geb. EK-RG oder Geb. EK-GS 
 
 
-Nachdem Sie alle eingehenden Dokumente geprüft haben, können Sie nun aus den XML Dateien Ihre Einkaufs-Rechnungen erstellen. Dafür nutzen Sie die Funktion oben im Menüband "Eingehenden Beleg erzeugen".  
+Nachdem Sie alle eingehenden Dokumente geprüft haben, können Sie nun aus den XML Dateien Ihre Einkaufs-Rechnungen erstellen. Dafür nutzen Sie die Funktion oben im Menü-Band "Eingehenden Beleg erzeugen".  
 
 |![](images/connectornav/e-documents/de/inc-docs-create-doc.png)|
 |-|
