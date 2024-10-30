@@ -54,4 +54,4 @@ The destination addresses are stored per customer/vendor **and** per report usag
 {{< /notice >}}
 
 <br></br>
-Learn [here](/en-us/apps/addressee-control/working-with-addresse-control/further_targets) how to work with the other destination addresses that have been set up.
+Learn [here](/en-us/apps/addressee-control/working-with-addresse-control/further-targets) how to work with the other destination addresses that have been set up.

@@ -15,7 +15,7 @@ Weiter unten erfahren Sie mehr zum Thema Leitweg-Id.
 Grundsätzlich kann der Standard XRechnung allerdings auch im nicht-öffentlichen Raum verwendet werden.
 Hier werden überlicherweise keine Leitweg-Ids, sondern eigene Kennungen verwendet.
 
-### Leitweg-ID
+#### Leitweg-ID
 
 Die Leitweg-ID ist auf jeder elektronischen Rechnung an öffentliche Auftraggeber der Bundesverwaltung anzugeben.
 

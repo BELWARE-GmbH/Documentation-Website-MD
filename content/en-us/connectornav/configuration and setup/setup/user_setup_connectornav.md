@@ -12,7 +12,7 @@ weight: 2
 For the use of the Connector NAV, an entry is created here for each user.
 
 ##### Register general
-![](/images/connectornav/benutzer_einr_reg_allgemein.png)<center>_Connector NAV user setup, register general_</center>
+![](/images/connectornav/benutzer_einr_reg_allgemein_en.png)<center>_Connector NAV user setup, register general_</center>
 
 |Field describtion | |
 |---|---|
@@ -33,6 +33,7 @@ For the use of the Connector NAV, an entry is created here for each user.
 |Fax Notification Address | The fax notification address is entered here.
 |SMS Notification Address | The SMS notification address is entered here.
 |CTI | Here you can specify whether the user uses CTI. (Only in connection with the CTI module).|
+|Check allowed | Here you can specify whether the user is allowed to check jobs.|
 
 ##### Register IncaMail
 ![](/images/connectornav/benutzer_einr_reg_incamail.png)<center>_Connector NAV user setup, register IncaMail_</center>

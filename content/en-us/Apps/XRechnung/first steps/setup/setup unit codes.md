@@ -6,9 +6,6 @@ draft: false
 collapsible: false
 weight: 4
 ---
-
-### Setup
-
 ### Check standard codes for units
 
 Another point worth checking are unit codes. These must have a special designation to be PEPPOL compliant in order to be accepted.

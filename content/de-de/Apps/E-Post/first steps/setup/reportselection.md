@@ -15,4 +15,6 @@ Vor dem ersten Versand muss in der Berichtsauswahl ausgewählt werden, welche Be
 
 Nur Berichte, bei denen der Haken in der Option **"Für E-POST verwenden"** gesetzt ist, werden berücksichtigt.
 
+Bei gleichzeitiger Nutzung der App **Connector 365 Addressee Control** gibt es noch die Möglichkeit die Herkunft der Adressdaten zu bestimmen: [Einrichtung Zieladressen pro Bericht](de-de/apps/addressee-control/first-steps/setup/target-addresses/)
+
 

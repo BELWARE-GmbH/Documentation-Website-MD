@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 1
 ---
-# Basic setup
+# Basic Setup
 
 To set up the basic settings for the **Connector 365 XRechnung** app, navigate via the search bar
 to the **Connector 365 setup**. 

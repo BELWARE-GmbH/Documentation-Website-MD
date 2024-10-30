@@ -6,9 +6,6 @@ draft: false
 collapsible: false
 weight: 
 ---
-
-## Setup
-
 ### Document Sending Profile
 
 The document sending profile is a standard functionality of Microsoft Dynamics 365 Business Central.

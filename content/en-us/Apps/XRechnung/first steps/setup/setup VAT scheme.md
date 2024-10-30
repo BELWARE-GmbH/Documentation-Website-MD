@@ -6,9 +6,6 @@ draft: false
 collapsible: false
 weight: 3
 ---
-
-### Setup
-
 ### Checking the VAT Scheme
 
 You should check the VAT scheme codes for the respective countries. For XRechnung, this is normally only Germany.

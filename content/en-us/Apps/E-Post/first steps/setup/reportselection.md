@@ -14,6 +14,5 @@ Before sending the first letter, the reports for sending with E-POST must be def
 
 Only reports with a check mark in the **"Use for E-POST"** option are taken into account.
 
-***The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post**
-
-
+ 
+When using the **Connector 365 Addressee Control** app at the same time, there is also the option of determining the origin of the address data: [Setup target addresses per report](en-us/apps/addressee-control/first-steps/setup/target-addresses/)

@@ -7,8 +7,6 @@ collapsible: false
 weight: 
 ---
 
-## Einrichtung
-
 ### Belegsendeprofil
 
 Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.

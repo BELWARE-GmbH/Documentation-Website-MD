@@ -6,9 +6,6 @@ draft: false
 collapsible: false
 weight: 3
 ---
-
-### Einrichtung
-
 ### MwSt.-Schema überprüfen
 
 Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.

@@ -6,9 +6,7 @@ draft: false
 collapsible: false
 weight: 2
 ---
-# Setup
-
-## Customer
+### Customer
 
 ![](images/XRechnung/XRechnungScreenshot1.png)
 

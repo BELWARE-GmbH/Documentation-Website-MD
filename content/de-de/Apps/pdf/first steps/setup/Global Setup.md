@@ -1,38 +1,41 @@
 ---
-title: "Einrichtung"
+title: "Globale Einrichtung"
 date: 2020-02-28T10:08:56+09:00
 description: 
 draft: false
 collapsible: false
 weight: 1
 ---
-### Einrichtung
-Damit Ihre Dokumente in Ihrem Corporate-Design verschickt werden, müssen Sie vorab den Connector 365 PDF einrichten. Im Folgenden wird erläutert, welche Schritte notwendig sind, für die grundlegende Einrichtung und anschließende Nutzung.
-
-### Allgemein
-Für die allgemeine Einrichtung der App PDF suchen Sie über die **Tell me**-Funktion nach **Connector 365 Einrichtung** und öffnen Sie den entsprechenden Link. Klicken Sie anschließend auf **PDF-Einrichtung**. Die Einrichtung für die App klappt aus. 
+### Globale Einrichtung
+Damit Ihre Dokumente in Ihrem Corporate-Design verschickt werden, müssen Sie vorab den Connector 365 PDF einrichten. Im Folgenden wird erläutert, welche Schritte notwendig sind, für die grundlegende Einrichtung und anschließende Nutzung. Für die globale Einrichtung der App PDF navigieren Sie über die Suche nach **Connector 365 Einrichtung**. Klicken Sie anschließend auf **PDF-Einrichtung** um den Reiter für die Einrichtung zu öffnen.
 
 |![](images/apps/pdf_SaaS/C365_pdf_DEU.png)|
 |-|
 
-##### API-Schlüssel
-Hier füllen Sie nun zuerst das folgende Feld aus: **API-Schlüssel**. 
-Ihren API-Schlüssel erhalten Sie von uns. Diesen können Sie über das folgende Formular anfragen oder via E-Mail bei uns erhalten. Der API-Schlüssel ist essentiell um die App nutzen zu können.
+Im folgenden gehn wir auf die einzelnen Punkt der Möglichkeiten der Einrichtung ein.
 
-{{< notice info "Hinweis" >}}
- _Auch für die Test-Version benötigen Sie den API-Schlüssel. Bevor Sie Ihren Testzeitraum starten empfehlen wir Ihnen daher bei uns Ihren API-Schlüssel für die Nutzung der App anzufragen._
-{{< /notice >}}
-</p>
-
-##### Konformitätsgrad
+#### Konformität
 Unter dem Feld Dokumenteneinstellungen, können Sie den **Konformitätsgrad** festlegen. Dieser gibt die Konformitätsstufe an, die eine Pdf-Datei erhalten soll, wenn sie erstellt wird.
 
-##### Weitere Felder
-Bevor Sie die weiteren Felder ausfüllen können, ist es nötig die entsprechenden Dateien im System zu hinterlegen. Um welche Dateien es sich handelt und wie Sie diese hinterlegen, zeigen wir Ihnen jetzt im Detail jeweils für **Briefpapier**, **Zertifikat** und **Anhänge**.
+Informationen zu den einzelnen Konformitätsstufen können Sie der Dokumentattion der Adobe-Website entnehmen: [Konformitätsstufen](https://www.adobe.com/de/acrobat/resources/document-files/pdf-types/pdf-a)
 
+#### Zertifikat
+In der Einrichtung haben Sie die Möglichkeit ein Signaturzertifikat zu hinterlegen. Durch die digitale Signatur wird nicht nur der Autor für eine spätere Authentifizierung, sondern auch der Inhalt des Dokuments im Moment der Signierung garantiert. Denn das zertifizierte Dokument kann nicht geändert werden, wodurch die Signatur die Integrität sichert.  
 
-### Briefpapier
-Bevor Sie die Briefpapierkonfiguration einrichten können, ist es notwendig, dass Sie Ihr Briefpapier im Pdf-Format im System hinterlegen. Suchen Sie über die **Tell me**-Funktion nach **Briefpapier**. 
+##### Signaturzertifikat
+Sie können das Signaturzertifikat ***ausschließlich*** in der Connector 365 Einrichtung hinterlegen. Klicken Sie hier auf den Kasten und wählen Sie eine der von Ihnen hinterlegten Signaturen aus. Wenn Sie noch keine Signatur hinterlegt haben, klicken Sie auf **Neu**. Anschließend fügen Sie Ihre Signatur-Datei durch Drag & Drop, bzw. über das Durchsuchen Ihrer Dateien hinzu.
+
+Das folgende Fenster öffnet sich nachdem Sie eine Datei hinzugefügt haben:
+
+|![](images/apps/pdf_SaaS/Add_Signaturecertificate_DEU.png)|
+|-|
+
+Der Dateiname und die Dateigröße sind im Gegensatz zur obigen Abbildung mit den Daten Ihrer Signatur gefüllt. Mit dem Code beschreiben Sie, um welche Signatur es sich handelt, wodurch Sie diese identifizieren können, sollten Sie mehrere verwenden. Ebenfalls können Sie in der Beschreibung weitere Informationen zu dieser hinterlegen. Durch die Vergabe eines Passworts stellen Sie sicher, dass das Signaturzertifikat nur von berechtigten Personen verändert werden kann.
+
+Sie können mehrere Signaturzertfikate hinterlegen, jedoch nur eins aktiv in der App nutzen. Um das Signaturzertifikat zu wechseln, wählen Sie ein anderes Signaturzertifikat aus, welches schon hinterlegt ist oder fügen dieses zuerst über die oben genannten Schritte hinzu.
+
+#### Briefpapier
+Bevor Sie die Briefpapierkonfiguration einrichten können, ist es notwendig, dass Sie Ihr Briefpapier im Pdf-Format im System hinterlegen. Über die Suche könen Sie zur Seite **Briefpapier**. 
 
 Wenn Sie die App PDF zum ersten Mal verwenden, dann ist dort noch kein Briefpapier hinterlegt. Klicken Sie daher auf den Button **Neu** und hinterlegen Sie per Drag & Drop das gewünschte Briefpapier. Alternativ klicken Sie auf das Feld und durchsuchen Sie Ihre Dateien, bevor Sie die gewünschte Datei hier hinzufügen.
 
@@ -44,8 +47,8 @@ Weisen Sie Ihrem Briefpapier einen Code und einen eindeutigen Namen zu. Denn je 
 |![](images/apps/pdf_SaaS/Add_stationery_example_DEU.png)|
 |-|
 
-#### Briefpapierkonfiguration
-Nachdem Sie Ihr Briefpapier hinterlegt haben. Öffnen Sie über die **Tell me**-Funktion die **Briefpapierkonfiguration**. Bei Erstkonfiguration ist hier noch keine Briefpapierkonfiguration hinterlegt.
+##### Briefpapierkonfiguration
+Nachdem Sie Ihr Briefpapier hinterlegt haben. Navigieren Sie über die Suche zur Seite **Briefpapierkonfiguration**. Bei Erstkonfiguration ist hier noch keine Briefpapierkonfiguration hinterlegt.
 
 |![](images/apps/pdf_SaaS/Stationery_tellme_DEU.png)|
 |-|
@@ -63,41 +66,24 @@ Folgende Optionen stehen Ihnen zur Verfügung:
 
 Die Optionen die Seiten Ihres Briefpapiers zu konfigurieren, sind zahlreich. Hierbei gilt, dass Sie pro Option, bzw. Abschnitt der Seiten jeweils ein Briefpapier hinterlegen können. Im Folgenden führen wir diverse Beispiele an, um die möglichen Konfigurationen zu verdeutlichen.
 
-##### Beispiel 1
+###### Beispiel 1
 Die einfachste Konfiguration ist, wenn Sie für alle Seiten das gleiche Briefpapier verwenden möchten. Wählen Sie hierzu als Briefpapierart **Alle Seiten** und hinterlegen Sie per Code das gewünschte Briefpapier.
 
 |![](images/apps/pdf_SaaS/Example_1_allpages_DEU.png)|
 |-|
 
 
-##### Beispiel 2
+###### Beispiel 2
 Es besteht jedoch ebenfalls die Option mit Hilfe der Konfiguration für einzelne Seiten oder Seiten jeweils ein anderes Briefpapier zu hinterlegen. Hierunter sehen Sie verschiedene Beispielkonfigurationen, wo die Seiten unterschiedliche Briefpapiere zugewiesen bekommen haben.
 
 |![](images/apps/pdf_SaaS/Example_2_differents_DEU.png)|
 |-|
 
-### Zertifikat
-In der Einrichtung haben Sie die Möglichkeit ein Signaturzertifikat zu hinterlegen. Durch die digitale Signatur wird nicht nur der Autor für eine spätere Authentifizierung, sondern auch der Inhalt des Dokuments im Moment der Signierung garantiert. Denn das zertifizierte Dokument kann nicht geändert werden, wodurch die Signatur die Integrität sichert.  
+#### Anhänge
+An dieser Stelle der Connector 365 Einrichtung können Sie Ihre Anhänge hinterlegen und die Konfiguration der Anhänge vornehmen.
+Über den Lookup können Sie hier bereits vorhandene Anhangskonfigurationen auswählen oder eine neue Konfiguration erstellen.
 
-#### Signaturzertifikat
-Sie können das Signaturzertifikat ***ausschließlich*** in der Connector 365 Einrichtung hinterlegen. Klicken Sie hier auf den Kasten und wählen Sie eine der von Ihnen hinterlegten Signaturen aus. Wenn Sie noch keine Signatur hinterlegt haben, klicken Sie auf **Neu**. Anschließend fügen Sie Ihre Signatur-Datei durch Drag & Drop, bzw. über das Durchsuchen Ihrer Dateien hinzu.
-
-Das folgende Fenster öffnet sich nachdem Sie eine Datei hinzugefügt haben:
-
-|![](images/apps/pdf_SaaS/Add_Signaturecertificate_DEU.png)|
-|-|
-
-Der Dateiname und die Dateigröße sind im Gegensatz zur obigen Abbildung mit den Daten Ihrer Signatur gefüllt. Mit dem Code beschreiben Sie, um welche Signatur es sich handelt, wodurch Sie diese identifizieren können, sollten Sie mehrere verwenden. Ebenfalls können Sie in der Beschreibung weitere Informationen zu dieser hinterlegen. Durch die Vergabe eines Passworts stellen Sie sicher, dass das Signaturzertifikat nur von berechtigten Personen verändert werden kann.
-
-Sie können mehrere Signaturzertfikate hinterlegen, jedoch nur eins aktiv in der App nutzen. Um das Signaturzertifikat zu wechseln, wählen Sie ein anderes Signaturzertifikat aus, welches schon hinterlegt ist oder fügen dieses zuerst über die oben genannten Schritte hinzu.
-
-### Anhänge
-An dieser Stelle, der Connector 365 Einrichtung, können Sie Ihre Anhänge hinterlegen und die Konfiguration der Anhänge vornehmen.
-Ebenfalls möglich ist es jedoch über die **Tell me**-Funktion nach **Anhängen** zu suchen. In der Verwaltung der Anhänge sehen Sie alle bereits hinzugefügten Medien, die Sie als Anhänge verwenden. Hier können Sie neue Medien hinzufügen indem Sie auf **+Neu** klicken und per Drag & Drop oder per Suche in Ihren Dateien, die entsprechende Datei hinterlegen.
-
-Neue Anhänge können Sie jedoch auch über **Anhänge** in der Connector 365 Einrichtung hinzufügen. Dazu klicken Sie in das Kästchen **Einrichtung von Anhängen** und klicken Sie auf **+Neu** für eine neue Anhangskonfiguration.
-
-Das folgende Fenster öffnet sich nun:
+Über den Lookup gelangen Sie zur Seite **Anhangskonfiguration**
 
 |![](images/apps/pdf_SaaS/Attachment_configuration_DEU.png)|
 |-|

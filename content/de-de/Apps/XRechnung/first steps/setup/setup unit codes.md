@@ -6,9 +6,6 @@ draft: false
 collapsible: false
 weight: 4
 ---
-
-### Einrichtung
-
 ### Standardcodes für Einheiten überprüfen
 
 Ein weiterer Punkt der sich zu überprüfen lohnt sind Einheitencodes. Diese müssen, um PEPPOL-konform zu sein eine spezielle Bezeichnung haben, damit diese akzeptiert werden.

@@ -66,3 +66,11 @@ By deleting the filter, all standard tables from Business Central can be accesse
 |-|-|
 |  Location | If you have entered a different location in the document, the email address entered here can be used in the target address logic if required. The following field could be accessed for the email address: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_ENU.png" /> |
 | Ship-to Address | If selecting a different ship-to address, define the email address stored here or the corresponding field as the destination address. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_ENU.png" /> | 
+
+ 
+#### E-POST
+In combination with **Connector 365 E-POST**, setting up the target addresses also offers the option of determining the origin of the address data for sending letters.
+Depending on the report selection, it is possible to transfer the address data from the contact, customer or vendor.
+You can also use the **Field Mapping** to determine which fields should be used for the recipient's data record.
+You can also use the **Use Name 2** field to specify whether this field should also be inserted in the recipient's address data.
+![](images/apps/Addresse_Control/app-setup-target-addresses-e-post-en.png)

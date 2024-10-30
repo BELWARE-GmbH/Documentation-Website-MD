@@ -6,7 +6,7 @@ draft: false
 collapsible: false
 weight: 1
 ---
-# Grundeinrichtung
+### Grundeinrichtung
 
 Um die grundlegende Einstellungen für die **Connector 365 XRechnung** App vorzunehmen, navigieren Sie über die Suchleiste
 zu der **Connector 365 Einrichtung**. 
@@ -22,7 +22,7 @@ Der Abschnitt XRechnung enthält folgende Felder und Einstellmöglichkeiten:
 | **XRechnung-Version** | Die aktuell genutzte XRechnung Version.|
 | **Kennung XRechnung** | Die XRechnung-Kennung, welche für die aktuelle XRechnung-Version genutzt wird. |
 
-## XRechnung-Version
+### XRechnung-Version
 
 Wie unter [Einleitung](de-de/apps/xrechnung/first-steps/introduction/) aufgeführt, gibt es für XRechnung mehrere veröffentlichte Versionen, die jeweils für einen bestimmten Zeitpunkt gültig sind. 
 In der **Connector 365 Einrichtung** können Sie angeben, welche Version der XRechnung verwendet werden soll. Jede XRechnung Version verwendet dabei eine eigene Kennung (hier **Kennung XRechnung**):

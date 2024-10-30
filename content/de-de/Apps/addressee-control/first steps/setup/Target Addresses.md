@@ -67,3 +67,14 @@ Durch Löschen des Filters können Sie auf alle Standard-Tabellen aus Business C
 |-|-|
 |  Lagerort | Wenn Sie im Beleg einen abweichenden Lagerort hinterlegt haben, können Sie die hier hinterlegte E-Mailadresse bei der Zieladressen-Logik heranziehen, wenn gewünscht. Auf folgendes Feld könnte für die E-Mailadresse zugegriffen werden: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_DEU.png" /> |
 | Lief. an Adressee | Wählen Sie eine abweichende Lieferadresse, so können Sie die hier hinterlegte E-Mailadresse, bzw. das entsprechende Feld als Zieladresse definieren. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_DEU.png" /> | 
+
+#### E-POST
+
+In Kombination mit **Connector 365 E-POST** bietet die Einrichtung der Zieladressen auch die Möglichkeit die Herkunft der Adressdaten für den Briefversand zu bestimmen.
+Je nach Berichtsauswahl gibt es die Möglichkeit die Adressdaten aus dem Kontakt, Debitoren oder Kreditoren zu übernehmen.
+Über die **Feldzuordnung** bestimmen Sie auch hier wieder anhand welcher Felder der Datensatz des Empfänger herangezogen werden soll.
+
+Zusätzlich können Sie über das Feld **Name 2 einfügen** ob dieses Feld auch in die Adressdaten des Empfänger eingefügt werden soll.
+![](images/apps/Addresse_Control/app-setup-target-addresses-e-post-de.png)
+
+

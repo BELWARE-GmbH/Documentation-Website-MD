@@ -6,8 +6,6 @@ draft: false
 collapsible: false
 weight: 5
 ---
-### Setup
-
 ### Check the Tax Category
 
 It is also worth looking at the tax category, which can be found in the **VAT Posting Setup**. This again can be called up most quickly via the search function.

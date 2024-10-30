@@ -50,4 +50,4 @@ Die Zieladressen werden pro Debitor **und** pro Berichtsverwendung gespeichert. 
 {{< /notice >}}
 
 <br></br>
-Erfahren Sie [hier](/de-de/apps/addressee-control/working-with-addresse-control/further_targets), wie Sie mit den eingerichteten weiteren Zieladressen arbeiten können.
+Erfahren Sie [hier](/de-de/apps/addressee-control/working-with-addresse-control/further-targets), wie Sie mit den eingerichteten weiteren Zieladressen arbeiten können.

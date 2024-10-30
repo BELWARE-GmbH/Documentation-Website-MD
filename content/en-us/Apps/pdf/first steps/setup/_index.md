@@ -6,7 +6,7 @@ draft: false
 collapsible: true
 weight: 4
 ---
-### Setting up the Connector 365 PdfPaper App
+### Setting up the Connector 365 PDF App
 
 Here you will find all the important information and notes on setting up the Connector 365 PDF App.
 

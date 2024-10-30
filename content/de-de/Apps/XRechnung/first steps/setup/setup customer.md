@@ -6,13 +6,11 @@ draft: false
 collapsible: false
 weight: 2
 ---
-# Einrichtung
+### Debitor
 
-## Debitor
-
-![](images/XRechnung/XRechnungScreenshot1.png)
 
 Die Debitorspezifischen Einstellungen für das Versenden von XRechnungen werden in den **Dokumentlayouts** des jeweiligen Debitors vorgenommen.
+![](images/XRechnung/XRechnungScreenshot1.png)
 
 Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nach Installation der **Connector 365 XRechnung** App folgende weitere Felder zur Verfügung:
 - **Kundenreferenz** 

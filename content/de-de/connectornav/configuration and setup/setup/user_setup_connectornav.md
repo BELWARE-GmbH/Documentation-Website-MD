@@ -33,6 +33,7 @@ Für die Nutzung des Connector NAV wird hier für jeden Benutzer ein Eintrag ers
 |Fax Benachrichtigungsadresse | Hier wird die Fax Benachrichtigungsadresse eingetragen.|
 |SMS Benachrichtigungsadresse | Hier wir die SMS Benachrichtigungsadresse eingetragen.|
 |CTI | Hier wird angegeben, ob der Benutzer CTI nutzt. (Nur im Zusammenhang mit dem Modul CTI)|
+|Freigabeberechtigung | Hier wir angegeben, ob der Nutzer Jobs freigeben darf.|
 
 ##### Register IncaMail
 ![](/images/connectornav/benutzer_einr_reg_incamail.png)<center>_Connector NAV Benutzer Einrichtung, Register IncaMail_</center>

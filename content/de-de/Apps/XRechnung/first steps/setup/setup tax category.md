@@ -6,8 +6,6 @@ draft: false
 collapsible: false
 weight: 5
 ---
-### Einrichtung
-
 ### Überprüfen der Steuerkategorie
 
 Es lohnt sich auch, die Steuerkategorie anzusehen, diese ist in der **MwSt.-Buchungsmatrix** zu finden. Diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
