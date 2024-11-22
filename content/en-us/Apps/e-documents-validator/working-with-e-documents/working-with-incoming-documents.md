@@ -75,5 +75,5 @@ Click on the newly created attachment to view its content:
 |-|
 
 {{< notice info Note >}}
-ou can also automate the generation of validation reports upon import. Click [here](/de-de/apps/e-documents-validator/first-steps/setup/base-setup) to learn more.
+You can also automate the generation of validation reports upon import. Click [here](/de-de/apps/e-documents-validator/first-steps/setup/base-setup) to learn more.
 {{< /notice >}}
