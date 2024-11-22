@@ -11,7 +11,7 @@ weight: 1
 
 To set up the **Connector 365 E-Documents Validator** extension, navigate to the search bar and enter **Connector 365 Setup**.
 
-|![](images/apps/e-documents-validator/de/setup-search-bar.png)|
+|![](images/apps/e-documents-validator/en/setup-search-bar-enu.png)|
 |-|
 
 Now go to the **E-Documents Validator** group:

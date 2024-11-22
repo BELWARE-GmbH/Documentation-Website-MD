@@ -52,7 +52,8 @@ Open your Business Central environment, open the search function and search for 
 
 There you should now find the two apps with the status not installed. By clicking on the three dots of the respective app, you can now install it in your environment via the **Install** item.
 
-![](images/apps/appinstallde.PNG)
+|![](images/apps/appinstallen.PNG)|
+|-|
 
 ##### Install via the Administration Shell
 If you want to carry out the installation via the Administration Shell (this has the advantage that you can install on several tenants at the same time), you must use the **Install-NAVApp** command. You should specify the **Tenant ID**. In the following examples, we install the apps in two tenants.
