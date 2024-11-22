@@ -168,6 +168,10 @@ Sie sehen nun, dass sich die E-Rechnung komplett in die Zeilen von Dynamics NAV 
 
 E-Rechnung aufgelöst haben. Auch hier stehen Ihnen wieder alle Rechtsbegründeten Unterlagen in der Factbox am Vorgang. zur Verfügung. So können Sie auch zu einem späteren Zeitpunkt immer wieder Zugriff auf diese Dateien. 
 
+{{< notice info Hinweis>}}
+Damit Microsoft Dynamics NAV/Busines Central elektronische Rechnungen auslesen und zuordnen kann, müssen entsprechende **Austauscharten** definiert werden. Mehr dazu [hier](de-de/connectornav/base/e-document-import#data-exchange).
+{{</ notice >}}
+
 |![](images/connectornav/e-documents/de/inc-docs-purchase-doc-factbox.png)|
 |-|
 
@@ -193,3 +197,24 @@ Unser Modul sieht keine Freigabe-Prozesse vor. Freigabe Workflows gibt es bereit
 
 
 Die Verknüpfung von eingehenden E-Rechnungen zu einer Bestellung ist aktuell in der Planung. 
+
+## Datenaustauscharten
+<a id="data-exchange"></a>
+Damit Microsoft Dynamics NAV/Busines Central elektronische Rechnungen auslesen und zuordnen kann, müssen entsprechende **Datenaustauscharten** definiert werden.
+Geben Sie in der Suchleiste **Datenaustauscharten** ein, um die Liste der definierten Austauscharten anzeigen zu lassen.
+
+|![](images/connectornav/e-documents/de/data-exch-types.png)|
+|-|
+
+Jede Austautschart hat neben einem Code und einer Beschreibung eine **Datenaustauschdefinition**.
+Eine Datenaustauschdefinition bestimmt, wie Elemente der elektronischen Rechnung interpretiert werden.
+
+|![](images/connectornav/e-documents/de/data-exch-definitions.png)|
+|-|
+
+Auf der Seite **Datenaustauschdefinitionen** können Sie Definitionen exportieren und importieren.
+Im Folgenden können Sie Datenaustauschdefinitionen für PEPPOL/XRechnung/ZUGFeRD herunterladen.
+
+### Datenaustauschdefinitionen PEPPOL/XRechnung/ZUGFeRD
+
+<a href="/files/e-document-files/e-doc-data-exch-defs-nav-bc.xml" download>Download</a>
