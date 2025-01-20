@@ -40,7 +40,7 @@ Finally, you will need to specify a payment method (which can also be changed la
 When these steps are done you can confirm the button **"Order with costs"** to complete the registration.
 
 {{< notice info "Note" >}}
- _The registration of the E-POSTBUSINESS API is free of charge. Only postage costs are due, as usual. [Current E-POSTBUSINESS API postage costs](/files/dp_preise_01072023.pdf) (only available in German). Deutsche Post will settle the postage costs directly with you._
+ _The registration of the E-POSTBUSINESS API is free of charge. Only postage costs are due, as usual. [Current E-POSTBUSINESS API postage costs](/files/dp_prices_01012025.pdf) (only available in German). Deutsche Post will settle the postage costs directly with you._
 {{< /notice >}}
 #
 
