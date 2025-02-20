@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2025-02-18T08:23:48Z
+date: 2025-02-19T08:23:31Z
 description: 
 draft: false
 collapsible: false
@@ -480,7 +480,7 @@ weight: 5
 [23.3.0.0_Connector 365 E-Documents Validator_1.3.16990.3_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20E-Documents%20Validator/23.3.0.0_Connector%20365%20E-Documents%20Validator_1.3.16990.3_RT.app)
 [23.3.0.0_Connector 365 E-POST_2.10.17052.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20E-POST/23.3.0.0_Connector%20365%20E-POST_2.10.17052.1_RT.app)
 [23.3.0.0_Connector 365 Easy Batch_2.20.16562.0_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Easy%20Batch/23.3.0.0_Connector%20365%20Easy%20Batch_2.20.16562.0_RT.app)
-[23.3.0.0_Connector 365 Easy Document Pin_2.1.15459.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Easy%20Document%20Pin/23.3.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.15459.1_RT.app)
+[23.3.0.0_Connector 365 Easy Document Pin_2.2.18931.0_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Easy%20Document%20Pin/23.3.0.0_Connector%20365%20Easy%20Document%20Pin_2.2.18931.0_RT.app)
 [23.3.0.0_Connector 365 Easy Supra_1.1.16091.0_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Easy%20Supra/23.3.0.0_Connector%20365%20Easy%20Supra_1.1.16091.0_RT.app)
 [23.3.0.0_Connector 365 Mail Attachments Plus_2.9.17749.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Mail%20Attachments%20Plus/23.3.0.0_Connector%20365%20Mail%20Attachments%20Plus_2.9.17749.1_RT.app)
 [23.3.0.0_Connector 365 Mail Subject Plus_2.9.17012.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Mail%20Subject%20Plus/23.3.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.17012.1_RT.app)
