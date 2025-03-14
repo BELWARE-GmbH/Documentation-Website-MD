@@ -1,16 +1,18 @@
 ---
 title: "Downloads"
-date: 2025-03-12T08:24:57Z
+date: 2025-03-13T08:23:28Z
 description: 
 draft: false
 collapsible: false
 weight: 5
 ---
+#### 25.5.0.0
+#### 25.4.0.0
 #### 25.3.0.0
 [25.3.0.0_Connector 365 Addressee Control_1.9.19686.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Addressee%20Control/25.3.0.0_Connector%20365%20Addressee%20Control_1.9.19686.1_RT.app)
 [25.3.0.0_Connector 365 Base_2.24.19985.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Base/25.3.0.0_Connector%20365%20Base_2.24.19985.1_RT.app)
 [25.3.0.0_Connector 365 CTI for STARFACE_2.2.19375.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20CTI%20for%20STARFACE/25.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.19375.1_RT.app)
-[25.3.0.0_Connector 365 Custom Filename_1.2.19396.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Custom%20Filename/25.3.0.0_Connector%20365%20Custom%20Filename_1.2.19396.1_RT.app)
+[25.3.0.0_Connector 365 Custom Filename_1.2.20258.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Custom%20Filename/25.3.0.0_Connector%20365%20Custom%20Filename_1.2.20258.1_RT.app)
 [25.3.0.0_Connector 365 E-Documents Validator_1.3.19501.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20E-Documents%20Validator/25.3.0.0_Connector%20365%20E-Documents%20Validator_1.3.19501.3_RT.app)
 [25.3.0.0_Connector 365 E-POST_2.10.19539.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20E-POST/25.3.0.0_Connector%20365%20E-POST_2.10.19539.1_RT.app)
 [25.3.0.0_Connector 365 Easy Batch_2.24.19926.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Easy%20Batch/25.3.0.0_Connector%20365%20Easy%20Batch_2.24.19926.0_RT.app)
