@@ -8,6 +8,40 @@ weight: 1
 ---
 
 ### Neu und geplant
+
+#### Version 2.16.0.0 - 16.04.2025
+Neue Funktionen:
+- Ermöglicht die Erstellung von XRechnungen im CII-Syntax aus Verkaufsrechnungen
+
+#### Version 2.15.0.0 - 18.03.2025
+Neue Funktionen:
+- Ermöglicht das Berücksichtigen von Nullbetragszeilen beim Erzeugen der XRechnung
+
+#### Version 2.14.0.0 - 18.03.2025
+Korrektur:
+- Information für BT-44 (Buyer name) wird nun standardmäßig aus dem Beleg, nicht länger aus dem Debitor ermittelt
+
+#### Version 2.13.0.0 - 20.02.2025
+Neue Funktionen:
+- Integration einer entkoppelten Funktion zum Erzeugen von XRechnungen inklusive Prüfbericht
+- Es wurde technisch ermöglicht, ungebuchte Rechnungen und Gutschriften (Sales Header) zu verarbeiten
+- Integration weiterer nützlicher Events
+
+#### Version 2.12.0.0 - 31.01.2025
+Neue Funktionen:
+- Ermöglicht das Heranziehen der Mail-Adresse aus dem Debitor, falls keine Mail-Adresse im Dokumentlayout eingerichtet wurde.
+
+#### Version 2.11.0.4 - 31.12.2024
+Korrekturen:
+- Behebt das Problem von leeren Prüfberichten beim Herunterladen und Öffnen aus den Rückmeldungseinträgen
+
+#### Version 2.11.0.2 - 27.12.2024
+Korrekturen:
+- Behobenes Problem beim Scrollen durch Validierungsberichte in verschiedenen Browsern, unter anderem im Microsoft Edge
+
+#### Version 2.11.0.1 - 21.11.2024
+Korrekturen:
+- Beheben von versehentlich zusammengeführten Syntax-Fehler
  
 #### Version 2.10.0.0 - 11.10.2024
 Neue Funktionen:
