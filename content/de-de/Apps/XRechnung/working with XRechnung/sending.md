@@ -19,10 +19,11 @@ Wenn die Einrichtung abgeschlossen wurde, so können Sie Rechnungen einfach per 
 
 Es öffnet sich anschließend das standardmäßige E-Mail-Fenster mit kleineren Anpassungen für den XRechnung-Versand.
 
-|![](images/XRechnung/XRechnungScreenshot4.PNG)|
+|![](images/apps/XRechnung/de/sending-dialog.png)|
 |-|
 
 Im Dialog lassen sich der Absender, der Empfänger, der Betreff sowie die Kundenreferenz einsehen und anpassen.
+Zusätzlich kann auch eingerichtet werden, im welchen Format die XRechnung erzeugt werden soll ([UBL oder CII](de-de/apps/xrechnung/first-steps/setup/base-setup#xrechnung-syntax)).
 Der Inhalt der Mail sowie weitere Anhänge können ebenfalls eingesehen und verändert werden.
 Mehr zum Thema **Anhänge** finden Sie [hier](de-de/apps/xrechnung/working-with-xrechnung/attachments).
 
