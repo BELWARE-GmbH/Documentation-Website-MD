@@ -1,11 +1,30 @@
 ---
 title: "Downloads"
-date: 2025-04-29T18:33:56Z
+date: 2025-05-12T18:33:53Z
 description: 
 draft: false
 collapsible: false
 weight: 5
 ---
+#### 26.1.0.0
+[26.1.0.0_Connector 365 Addressee Control_1.9.22088.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Addressee%20Control/26.1.0.0_Connector%20365%20Addressee%20Control_1.9.22088.3_RT.app)
+[26.1.0.0_Connector 365 Base_2.27.22035.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Base/26.1.0.0_Connector%20365%20Base_2.27.22035.0_RT.app)
+[26.1.0.0_Connector 365 CTI for STARFACE_2.2.22064.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20CTI%20for%20STARFACE/26.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.22064.1_RT.app)
+[26.1.0.0_Connector 365 Custom Filename_1.2.22067.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Custom%20Filename/26.1.0.0_Connector%20365%20Custom%20Filename_1.2.22067.1_RT.app)
+[26.1.0.0_Connector 365 E-Documents_2.0.22070.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20E-Documents/26.1.0.0_Connector%20365%20E-Documents_2.0.22070.3_RT.app)
+[26.1.0.0_Connector 365 E-Documents Validator_1.3.22073.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20E-Documents%20Validator/26.1.0.0_Connector%20365%20E-Documents%20Validator_1.3.22073.3_RT.app)
+[26.1.0.0_Connector 365 E-POST_2.10.22094.2_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20E-POST/26.1.0.0_Connector%20365%20E-POST_2.10.22094.2_RT.app)
+[26.1.0.0_Connector 365 Easy Batch_2.26.22103.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Easy%20Batch/26.1.0.0_Connector%20365%20Easy%20Batch_2.26.22103.0_RT.app)
+[26.1.0.0_Connector 365 Easy Document Pin_2.2.22082.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Easy%20Document%20Pin/26.1.0.0_Connector%20365%20Easy%20Document%20Pin_2.2.22082.0_RT.app)
+[26.1.0.0_Connector 365 Easy Supra_1.3.22058.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Easy%20Supra/26.1.0.0_Connector%20365%20Easy%20Supra_1.3.22058.0_RT.app)
+[26.1.0.0_Connector 365 Mail Attachments Plus_2.9.22092.4_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Mail%20Attachments%20Plus/26.1.0.0_Connector%20365%20Mail%20Attachments%20Plus_2.9.22092.4_RT.app)
+[26.1.0.0_Connector 365 Mail Subject Plus_2.9.22085.2_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Mail%20Subject%20Plus/26.1.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.22085.2_RT.app)
+[26.1.0.0_Connector 365 PDF_1.2.22061.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20PDF/26.1.0.0_Connector%20365%20PDF_1.2.22061.0_RT.app)
+[26.1.0.0_Connector 365 Report Layout Plus_1.5.22079.6_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Report%20Layout%20Plus/26.1.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.22079.6_RT.app)
+[26.1.0.0_Connector 365 SMTP2Fax_1.1.22055.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20SMTP2Fax/26.1.0.0_Connector%20365%20SMTP2Fax_1.1.22055.1_RT.app)
+[26.1.0.0_Connector 365 Upgrade_1.1.22076.2_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Upgrade/26.1.0.0_Connector%20365%20Upgrade_1.1.22076.2_RT.app)
+[26.1.0.0_Connector 365 XRechnung_2.18.22097.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20XRechnung/26.1.0.0_Connector%20365%20XRechnung_2.18.22097.0_RT.app)
+[26.1.0.0_Connector 365 pdfPaper_1.10.22100.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20pdfPaper/26.1.0.0_Connector%20365%20pdfPaper_1.10.22100.0_RT.app)
 #### 26.0.0.0
 [26.0.0.0_Connector 365 Addressee Control_1.9.21294.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Addressee%20Control/26.0.0.0_Connector%20365%20Addressee%20Control_1.9.21294.3_RT.app)
 [26.0.0.0_Connector 365 Base_2.27.21636.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Base/26.0.0.0_Connector%20365%20Base_2.27.21636.0_RT.app)
@@ -24,6 +43,25 @@ weight: 5
 [26.0.0.0_Connector 365 Upgrade_1.1.21341.2_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Upgrade/26.0.0.0_Connector%20365%20Upgrade_1.1.21341.2_RT.app)
 [26.0.0.0_Connector 365 XRechnung_2.18.21815.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20XRechnung/26.0.0.0_Connector%20365%20XRechnung_2.18.21815.0_RT.app)
 [26.0.0.0_Connector 365 pdfPaper_1.10.21357.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20pdfPaper/26.0.0.0_Connector%20365%20pdfPaper_1.10.21357.0_RT.app)
+#### 25.7.0.0
+[25.7.0.0_Connector 365 Addressee Control_1.9.22087.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Addressee%20Control/25.7.0.0_Connector%20365%20Addressee%20Control_1.9.22087.3_RT.app)
+[25.7.0.0_Connector 365 Base_2.27.22034.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Base/25.7.0.0_Connector%20365%20Base_2.27.22034.0_RT.app)
+[25.7.0.0_Connector 365 CTI for STARFACE_2.2.22063.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20CTI%20for%20STARFACE/25.7.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.22063.1_RT.app)
+[25.7.0.0_Connector 365 Custom Filename_1.2.22066.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Custom%20Filename/25.7.0.0_Connector%20365%20Custom%20Filename_1.2.22066.1_RT.app)
+[25.7.0.0_Connector 365 E-Documents_2.0.22069.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20E-Documents/25.7.0.0_Connector%20365%20E-Documents_2.0.22069.3_RT.app)
+[25.7.0.0_Connector 365 E-Documents Validator_1.3.22072.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20E-Documents%20Validator/25.7.0.0_Connector%20365%20E-Documents%20Validator_1.3.22072.3_RT.app)
+[25.7.0.0_Connector 365 E-POST_2.10.22093.2_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20E-POST/25.7.0.0_Connector%20365%20E-POST_2.10.22093.2_RT.app)
+[25.7.0.0_Connector 365 Easy Batch_2.26.22102.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Easy%20Batch/25.7.0.0_Connector%20365%20Easy%20Batch_2.26.22102.0_RT.app)
+[25.7.0.0_Connector 365 Easy Document Pin_2.2.22081.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Easy%20Document%20Pin/25.7.0.0_Connector%20365%20Easy%20Document%20Pin_2.2.22081.0_RT.app)
+[25.7.0.0_Connector 365 Easy Supra_1.3.22057.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Easy%20Supra/25.7.0.0_Connector%20365%20Easy%20Supra_1.3.22057.0_RT.app)
+[25.7.0.0_Connector 365 Mail Attachments Plus_2.9.22091.4_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Mail%20Attachments%20Plus/25.7.0.0_Connector%20365%20Mail%20Attachments%20Plus_2.9.22091.4_RT.app)
+[25.7.0.0_Connector 365 Mail Subject Plus_2.9.22084.2_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Mail%20Subject%20Plus/25.7.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.22084.2_RT.app)
+[25.7.0.0_Connector 365 PDF_1.2.22060.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20PDF/25.7.0.0_Connector%20365%20PDF_1.2.22060.0_RT.app)
+[25.7.0.0_Connector 365 Report Layout Plus_1.5.22078.6_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Report%20Layout%20Plus/25.7.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.22078.6_RT.app)
+[25.7.0.0_Connector 365 SMTP2Fax_1.1.22054.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20SMTP2Fax/25.7.0.0_Connector%20365%20SMTP2Fax_1.1.22054.1_RT.app)
+[25.7.0.0_Connector 365 Upgrade_1.1.22075.2_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Upgrade/25.7.0.0_Connector%20365%20Upgrade_1.1.22075.2_RT.app)
+[25.7.0.0_Connector 365 XRechnung_2.18.22096.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20XRechnung/25.7.0.0_Connector%20365%20XRechnung_2.18.22096.0_RT.app)
+[25.7.0.0_Connector 365 pdfPaper_1.10.22099.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20pdfPaper/25.7.0.0_Connector%20365%20pdfPaper_1.10.22099.0_RT.app)
 #### 25.6.0.0
 [25.6.0.0_Connector 365 Addressee Control_1.9.21290.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20Addressee%20Control/25.6.0.0_Connector%20365%20Addressee%20Control_1.9.21290.3_RT.app)
 [25.6.0.0_Connector 365 Base_2.27.21635.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20Base/25.6.0.0_Connector%20365%20Base_2.27.21635.0_RT.app)
@@ -155,6 +193,25 @@ weight: 5
 [25.0.0.0_Connector 365 Upgrade_1.1.19687.2_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20Upgrade/25.0.0.0_Connector%20365%20Upgrade_1.1.19687.2_RT.app)
 [25.0.0.0_Connector 365 XRechnung_2.18.21808.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20XRechnung/25.0.0.0_Connector%20365%20XRechnung_2.18.21808.0_RT.app)
 [25.0.0.0_Connector 365 pdfPaper_1.10.21091.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20pdfPaper/25.0.0.0_Connector%20365%20pdfPaper_1.10.21091.0_RT.app)
+#### 24.13.0.0
+[24.13.0.0_Connector 365 Addressee Control_1.9.22086.3_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Addressee%20Control/24.13.0.0_Connector%20365%20Addressee%20Control_1.9.22086.3_RT.app)
+[24.13.0.0_Connector 365 Base_2.27.22033.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Base/24.13.0.0_Connector%20365%20Base_2.27.22033.0_RT.app)
+[24.13.0.0_Connector 365 CTI for STARFACE_2.2.22062.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20CTI%20for%20STARFACE/24.13.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.22062.1_RT.app)
+[24.13.0.0_Connector 365 Custom Filename_1.2.22065.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Custom%20Filename/24.13.0.0_Connector%20365%20Custom%20Filename_1.2.22065.1_RT.app)
+[24.13.0.0_Connector 365 E-Documents_2.0.22068.3_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20E-Documents/24.13.0.0_Connector%20365%20E-Documents_2.0.22068.3_RT.app)
+[24.13.0.0_Connector 365 E-Documents Validator_1.3.22071.3_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20E-Documents%20Validator/24.13.0.0_Connector%20365%20E-Documents%20Validator_1.3.22071.3_RT.app)
+[24.13.0.0_Connector 365 E-POST_2.10.22090.2_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20E-POST/24.13.0.0_Connector%20365%20E-POST_2.10.22090.2_RT.app)
+[24.13.0.0_Connector 365 Easy Batch_2.26.22101.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Easy%20Batch/24.13.0.0_Connector%20365%20Easy%20Batch_2.26.22101.0_RT.app)
+[24.13.0.0_Connector 365 Easy Document Pin_2.2.22080.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Easy%20Document%20Pin/24.13.0.0_Connector%20365%20Easy%20Document%20Pin_2.2.22080.0_RT.app)
+[24.13.0.0_Connector 365 Easy Supra_1.3.22056.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Easy%20Supra/24.13.0.0_Connector%20365%20Easy%20Supra_1.3.22056.0_RT.app)
+[24.13.0.0_Connector 365 Mail Attachments Plus_2.9.22089.4_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Mail%20Attachments%20Plus/24.13.0.0_Connector%20365%20Mail%20Attachments%20Plus_2.9.22089.4_RT.app)
+[24.13.0.0_Connector 365 Mail Subject Plus_2.9.22083.2_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Mail%20Subject%20Plus/24.13.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.22083.2_RT.app)
+[24.13.0.0_Connector 365 PDF_1.2.22059.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20PDF/24.13.0.0_Connector%20365%20PDF_1.2.22059.0_RT.app)
+[24.13.0.0_Connector 365 Report Layout Plus_1.5.22077.6_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Report%20Layout%20Plus/24.13.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.22077.6_RT.app)
+[24.13.0.0_Connector 365 SMTP2Fax_1.1.22053.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20SMTP2Fax/24.13.0.0_Connector%20365%20SMTP2Fax_1.1.22053.1_RT.app)
+[24.13.0.0_Connector 365 Upgrade_1.1.22074.2_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20Upgrade/24.13.0.0_Connector%20365%20Upgrade_1.1.22074.2_RT.app)
+[24.13.0.0_Connector 365 XRechnung_2.18.22095.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20XRechnung/24.13.0.0_Connector%20365%20XRechnung_2.18.22095.0_RT.app)
+[24.13.0.0_Connector 365 pdfPaper_1.10.22098.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.13.0.0/Connector%20365%20pdfPaper/24.13.0.0_Connector%20365%20pdfPaper_1.10.22098.0_RT.app)
 #### 24.12.0.0
 [24.12.0.0_Connector 365 Addressee Control_1.9.21288.3_RT.app](https://belwareapps.blob.core.windows.net/apps/24.12.0.0/Connector%20365%20Addressee%20Control/24.12.0.0_Connector%20365%20Addressee%20Control_1.9.21288.3_RT.app)
 [24.12.0.0_Connector 365 Base_2.27.21620.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.12.0.0/Connector%20365%20Base/24.12.0.0_Connector%20365%20Base_2.27.21620.0_RT.app)
