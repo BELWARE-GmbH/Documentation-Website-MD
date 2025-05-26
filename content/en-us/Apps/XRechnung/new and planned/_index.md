@@ -9,6 +9,40 @@ weight: 1
 
 ### New and planned
 
+#### Version 2.16.0.0 - 16.04.2025
+New features:
+- Enables the creation of XRechnungen in CII syntax from sales invoices
+
+#### Version 2.15.0.0 - 18.03.2025
+New features:
+- Enables zero amount lines to be taken into account when generating an XRechnung
+
+#### Version 2.14.0.0 - 18.03.2025
+Corrections:
+- Information for BT-44 (buyer name) is now determined by default from the document, no longer from the customer
+
+#### Version 2.13.0.0 - 20.02.2025
+New Features:
+- Integration of a decoupled function for generating XRechnung including test report
+- It was made technically possible to process unposted invoices and credit notes (sales headers)
+- Integration of further useful events
+
+#### Version 2.12.0.0 - 31.01.2025
+New functions:
+- Enables the mail address to be taken from the customer if no mail address has been set up in the document layout.
+
+#### Version 2.11.0.4 - 31.12.2024
+Corrections:
+- Fixes the problem of empty test reports when downloading and opening from the feedback entries
+
+#### Version 2.11.0.2 - 27.12.2024
+Corrections:
+- Fixed problem when scrolling through validation reports in various browsers, including Microsoft Edge
+
+#### Version 2.11.0.1 - 21.11.2024
+Corrections:
+- Fixing of accidentally merged syntax errors
+
 #### Version 2.10.0.0 - 11.10.2024
 New features:
 - Improved feedback for sending XRechnung to write email error into feedback table.

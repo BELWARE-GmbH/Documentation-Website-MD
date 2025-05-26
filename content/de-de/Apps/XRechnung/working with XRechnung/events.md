@@ -376,7 +376,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
         <td colspan=3><b>Buyer electronic address/Scheme identifier</b></td>
     <tr>
         <td colspan=3>Das Bildungsmuster für Buyer electronic address. <br><br> Es ist die Codeliste Electronic Address Scheme code list (EAS) zu verwenden.
-                      Die Codeliste wird von der Connecing Eruope Facility gepflegt und herausgegeben.</td>
+                      Die Codeliste wird von der Connecing Europe Facility gepflegt und herausgegeben.</td>
     </tr>
     <tr>
         <td><b>Buyer identifier</b></td>
@@ -451,7 +451,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
 . VAR InvoiceLineAccountingCost : Text
 ```
 
-### OnAfterGetLineItemInfo
+#### OnAfterGetLineItemInfo
 
 ```al
  . SalesLine: Record "Sales Line"
@@ -464,7 +464,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . VAR OriginCountryIdCodeListID: Text
 ```
 
-### OnAfterGetAccountingSupplierPartyLegalEntityBIS
+#### OnAfterGetAccountingSupplierPartyLegalEntityBIS
 ```al
  . SalesHeader: record "Sales Header"
  . var PartyLegalEntityRegName: Text
@@ -475,7 +475,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var SupplRegAddrCountryIdListId: Text
 ```
 
-### OnAfterGetAccountingSupplierPartyTaxSchemeBIS
+#### OnAfterGetAccountingSupplierPartyTaxSchemeBIS
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -485,7 +485,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var TaxSchemeID: text
 ```
 
-### OnAfterGetAccountingSupplierPartyPostalAddr
+#### OnAfterGetAccountingSupplierPartyPostalAddr
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -497,7 +497,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var IdentificationCoder: text
 ```
 
-### OnAfterGetAccountingSupplierPartyInfoBIS
+#### OnAfterGetAccountingSupplierPartyInfoBIS
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -529,7 +529,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
     </tr>
 </table>
 
-### OnAfterGetAccountingCustomerPartyPostalAddr
+#### OnAfterGetAccountingCustomerPartyPostalAddr
 ```al
  . SalesHeader: record "Sales Header"
  . var CustomerStreetName: text (BT-35)
@@ -540,7 +540,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var CustomerIdentificationCode: text (BT-40)
 ```
 
-### OnAfterGetAccountingCustomerPartyTaxSchemeBIS(
+#### OnAfterGetAccountingCustomerPartyTaxSchemeBIS
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -549,7 +549,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var CustTaxSchemeID: text
 ```
 
-### OnAfterGetAccountingCustomerPartyLegalEntityBIS
+#### OnAfterGetAccountingCustomerPartyLegalEntityBIS
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -558,7 +558,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var CustPartyLegalEntityIDSchemeID: text
 ```
 
-### OnAfterGetAccountingCustomerPartyContact
+#### OnAfterGetAccountingCustomerPartyContact
 
 ```al
  . var SalesHeader: record "Sales Header"
@@ -568,7 +568,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var CustContactElectronicMail: text
 ```
 
-### OnAfterGetGLNDeliveryInfo
+#### OnAfterGetGLNDeliveryInfo
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -577,7 +577,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var DeliveryIDSchemeID: text
 ```
 
-### OnAfterGetDeliveryAddress
+#### OnAfterGetDeliveryAddress
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -589,7 +589,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var DeliveryCountryIdCode: text
 ```
 
-### OnAfterGetLineItemClassfiedTaxCategoryBIS
+#### OnAfterGetLineItemClassfiedTaxCategoryBIS
 
 ```al
  . SalesLine: record "Sales Line"
@@ -599,7 +599,8 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var ClassifiedTaxCategorySchemeID: text
 ```
 
-### OnAfterGetLineAllowanceChargeInfo
+#### OnAfterGetLineAllowanceChargeInfo
+
 ```al
  . SalesLine: record "Sales Line"
  . SalesHeader: record "Sales Header"
@@ -609,7 +610,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var InvLnAllowanceChargeAmtCurrID: text
 ```
 
- ### OnAterGetLineDeliveryInfo
+ #### OnAterGetLineDeliveryInfo
 
 ```al
  . SalesLine: record "Sales Line"
@@ -619,7 +620,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var InvoiceLineDeliveryIDSchemeID: text
 ```
 
-### OnAfterGetLineDeliveryPostalAddr
+#### OnAfterGetLineDeliveryPostalAddr
 
 ```al
  . SalesLine: record "Sales Line"
@@ -633,7 +634,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var InvLineDeliveryCountryListID: text
 ```
 
-### OnAfterGetTaxRepresentativePartyInfo
+#### OnAfterGetTaxRepresentativePartyInfo
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -643,7 +644,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var PayeePartyTaxSchemeTaxSchemeID: text
 ```
 
-### OnAfterGetAllowanceChargeInfo
+#### OnAfterGetAllowanceChargeInfo
 
 ```al
  . TempVATAmountLine: record "VAT Amount Line"
@@ -659,7 +660,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var AllowanceChargeTaxSchemeID: text
 ```
 
-### OnAfterGetTaxExemptionReason
+#### OnAfterGetTaxExemptionReason
 
 ```al
  . SalesHeader: record "Sales Header"
@@ -668,7 +669,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var TaxTotalTaxCategoryID: text
 ```
 
-### OnAfterGetLineAdditionalItemPropertyInfo
+#### OnAfterGetLineAdditionalItemPropertyInfo
 
 ```al
  . SalesLine: record "Sales Line"
@@ -677,7 +678,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var AdditionalItemPropertyValue: Text
 ```
 
-### OnAfterGetLinePriceAllowanceChargeInfo
+#### OnAfterGetLinePriceAllowanceChargeInfo
 
 ```al
  . SalesHeader: record "Sales Header"
