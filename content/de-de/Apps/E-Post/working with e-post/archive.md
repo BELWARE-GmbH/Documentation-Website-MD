@@ -86,6 +86,7 @@ Im Folgenden finden Sie eine Liste von Codes zu möglichen Fehlern, Warnungen un
 | E321 | (Überholt) Es wurden nicht alle notwendigen Rückschein-Adressfelder für Einschreiben per Rückschein angegeben|
 | E322 | Zu hohe Abfragefrequenz von Letter-Status Anfragen. Die Mindestdauer zwischen 2 Statusabfragen liegt bei 5 Sekunden.|
 | E323 | Kein Inhalt im Empfängerbereich der PDF erkannt (Weiße Fläche)|
+| E333 | Senderadresse auf Dokument nicht vorhanden|
 | E399 | Allgemeiner Fehler: {Platzhalter für Fehlerdetails}|
 | E501 | API-Status: Inaktiv {Platzhalter für Fehlerdetails}|
 | E601 | PlugIn Fehler: {Platzhalter für Fehlerdetails}|
@@ -99,7 +100,6 @@ Im Folgenden finden Sie eine Liste von Codes zu möglichen Fehlern, Warnungen un
 |W201 | Überschreitung Adressbereich: {Platzhalter für Details}|
 |W202 | Überschreitung Sperrfläche Links: Dieser Bereich wird im Druckzentrum geweißt|
 |W220 | Die angegeben Daten zum Rückschein von Einschreiben werden mit dem 01.10.2022 nur noch automatisch aus dem Sichtfenster des Briefes ermittelt. Dies gilt insbesondere für die Rücksendeadresse aus der im Sichtfenster ermittelbaren Absenderzeile. Mögliche explizite Angaben werden ab diesem Zeitpunkt nicht mehr verwendet.|
-|W301 | Senderadresse nicht vorhanden |
 |W501 | API-Status: Wartungsankündigung {Platzhalter für Details} |
 |W601 | PlugIn Warnung: {Platzhalter für Details} |
 
