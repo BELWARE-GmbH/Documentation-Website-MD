@@ -83,6 +83,7 @@ Below you will find a list of codes related to possible errors, warnings and inf
 | E321 | (Overhauled) Not all necessary return address fields for registered mail by return receipt were specified|
 | E322 | Too high query frequency of letter status requests. The minimum time between 2 status queries is 5 seconds|.
 | E323 | No content detected in recipient area of PDF (White area)|
+| E333 | Sender address not available on document|
 | E399 | General error: {placeholder for error details}|
 | E501 | API status: Inactive {placeholder for error details}|
 | E601 | PlugIn error: {placeholder for error details}|
@@ -96,7 +97,6 @@ Below you will find a list of codes related to possible errors, warnings and inf
 |W201 | Overrun address range: {placeholder for details}|
 |W202 | Exceeding blocking area left: This area is whitened in the print center|
 |W220 | The specified data for the return receipt of registered mail will only be determined automatically from the viewing window of the letter as of 01.10.2022. This applies in particular to the return address from the sender line that can be determined in the window. Possible explicit entries will no longer be used from this date onwards.
-|W301 | Sender address not available |
 |W501 | API status: maintenance notification {placeholder for details} |
 |W601 | PlugIn warning: {placeholder for details} |
 
