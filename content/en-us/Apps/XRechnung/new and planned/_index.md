@@ -9,7 +9,10 @@ weight: 1
 
 ### New and planned
 
-#### Version 2.16.0.0 - 16.04.2025
+#### Version 2.19.0.0 - 07.07.2025
+New features:
+- A new tab "Connector 365 XRechnung" allows various BT fields to be documented in sales documents. Currently supported: BT-11, BT-12, BT-73, BT74.
+
 New features:
 - Enables the creation of XRechnungen in CII syntax from sales invoices
 
