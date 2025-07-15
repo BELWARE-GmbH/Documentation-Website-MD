@@ -10,6 +10,9 @@ weight: 1
 ### Neu und geplant
 - Automatisches Anhängen von Lieferscheinen
 
+#### Version 2.4.0.0 - 03.07.2025
+- Möglichkeit zur bedarfsgerechten Anpassung der E-Mail-Anhänge.
+
 #### Version 2.1.0.1 - 11.01.2023
 - Handhabung der Mahnungszeilen verbessert.
 

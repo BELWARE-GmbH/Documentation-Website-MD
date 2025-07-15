@@ -12,3 +12,5 @@ Nachdem die Einrichtung der App stattgefunden hat, können Sie sie sofort ohne A
 Sie werden bemerken, dass die angemahnten Rechnungen automatisch an die Mahnung angehängt wurden.
 
 ![](images/apps/edpdialogde.PNG)
+
+Außerdem können Sie Ihre Anhänge je nach Geschäftsanforderungen individuell vor dem E-Mail-Versand anpassen. Somit ist es möglich, weitere Anhänge hinzuzufügen, vorhandene Anhänge zu bearbeiten oder auch zu entfernen.
