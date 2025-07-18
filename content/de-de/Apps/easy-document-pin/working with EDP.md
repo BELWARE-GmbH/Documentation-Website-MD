@@ -13,4 +13,4 @@ Sie werden bemerken, dass die angemahnten Rechnungen automatisch an die Mahnung 
 
 ![](images/apps/edpdialogde.PNG)
 
-Außerdem können Sie Ihre Anhänge je nach Geschäftsanforderungen individuell vor dem E-Mail-Versand anpassen. Somit ist es möglich, weitere Anhänge hinzuzufügen, vorhandene Anhänge zu bearbeiten oder auch zu entfernen.
+Außerdem können Sie Ihre Anhänge je nach Geschäftsanforderungen individuell vor dem E-Mail-Versand anpassen lassen. Durch ein Event kann es durch eine Programmierung einfach ermöglicht werden, weitere Anhänge hinzuzufügen, vorhandene Anhänge zu bearbeiten oder auch zu entfernen.
