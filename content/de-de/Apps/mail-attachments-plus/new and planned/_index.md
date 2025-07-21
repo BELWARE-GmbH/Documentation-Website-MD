@@ -12,6 +12,10 @@ weight: 1
 #### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+#### Version 2.9.0.2 - 06.02.2025
+Neuerungen:
+- Es werden nur noch Anhänge hinzugefügt, die einen Inhalt haben.
+
 #### Version 2.9.0.0 - 13.09.2024
 Neuerungen:
 - Neues Event OnAfterAddAttachments um Anhänge zu ändern hinzugefügt.
