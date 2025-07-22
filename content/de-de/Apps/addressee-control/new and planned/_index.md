@@ -18,6 +18,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 Fehlerkorrektur:
     - Beim Versand mit Easy Batch wird nun auch der Versand von mehreren Rechnungen mit verschiedenen Debitoren unterstützt.
 
+#### Version 1.8.0.1 - 06.02.2025
+Fehlerkorrektur:
+- Wenn die Adressdaten vom Kontakt bezogen werden, werden nun auch andere Kontaktarten als "Person" berücksichtigt.
+
 #### Version 1.7.0.11 - 18.07.2024
 Fehlerkorrektur:
     - Die E-Mailadresse für Einkaufsbelege wird nun standardmäßig aus dem Kontakt genommen anstatt des Belegkopfes.
