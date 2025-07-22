@@ -16,6 +16,10 @@ weight: 1
 Neuerungen:
 - Es werden nur noch Anhänge hinzugefügt, die einen Inhalt haben.
 
+#### Version 2.9.0.1 - 07.01.2025
+Korrekturen:
+- Anhänge werden bei der Nutzung der Connector 365 Easy Batch - App nicht mehr doppelt hinzugefügt.
+
 #### Version 2.9.0.0 - 13.09.2024
 Neuerungen:
 - Neues Event OnAfterAddAttachments um Anhänge zu ändern hinzugefügt.
