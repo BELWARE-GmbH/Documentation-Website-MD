@@ -14,6 +14,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+#### Version 1.8.0.1 - 06.02.2025
+Fehlerkorrektur:
+- Wenn die Adressdaten vom Kontakt bezogen werden, werden nun auch andere Kontaktarten als "Person" berücksichtigt.
+
 #### Version 1.7.0.11 - 18.07.2024
 Fehlerkorrektur:
     - Die E-Mailadresse für Einkaufsbelege wird nun standardmäßig aus dem Kontakt genommen anstatt des Belegkopfes.
