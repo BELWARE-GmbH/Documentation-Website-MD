@@ -14,6 +14,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+#### Version 1.11.0.0 - 24.06.2025
+Neuerungen:
+    - Rahmenaufträge werden nun unterstützt.
+
 #### Version 1.9.0.1 - 04.03.2025
 Fehlerkorrektur:
     - Beim Versand mit Easy Batch wird nun auch der Versand von mehreren Rechnungen mit verschiedenen Debitoren unterstützt.
