@@ -11,6 +11,11 @@ weight: 1
 
 #### Geplante Funktionen für zukünftige Versionen
 
+#### Version 2.28.0.0 - 17.06.2025
+Neuerungen:
+- Rahmenaufträge werden nun unterstützt.
+- Die Aktionen "Als Stapel senden" und "Als E-Mail senden" wurden der Rahmenauftragsübersicht und der Rahmenauftragskarte hinzugefügt.
+
 #### Version 2.19.0.0 - 01.10.2024
 Neuerungen:
 - Das Vorbelegen der Dokumentlayouts kann nun mittels Debitoren-/Kreditorenvorlagen erfolgen.

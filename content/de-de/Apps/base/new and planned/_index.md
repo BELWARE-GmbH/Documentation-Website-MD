@@ -9,6 +9,10 @@ weight: 1
 
 ### Neu und geplant
 
+#### Version 2.29.0.0 24.06.2025
+ - Rahmenaufträge werden nun unterstützt.
+ - Die Infobox "Connector 365" wurde der Rahmenauftragsübersicht und der Rahmenauftragskarte hinzugefügt.
+
 #### Version 2.23.0.0 10.10.2024
 Neuerungen:
  - Lizenzprüfung geändert, so dass nur SaaS Produktionsumgebungen geprüft werden. 
