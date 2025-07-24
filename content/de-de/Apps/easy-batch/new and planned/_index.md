@@ -11,6 +11,9 @@ weight: 1
 
 #### Geplante Funktionen für zukünftige Versionen
 
+#### Version 2.26.0.0 - 16.04.2025
+- XRechnung-Stapelversand nun auch mit CII-Syntax möglich.
+
 #### Version 2.19.0.0 - 01.10.2024
 Neuerungen:
 - Das Vorbelegen der Dokumentlayouts kann nun mittels Debitoren-/Kreditorenvorlagen erfolgen.
