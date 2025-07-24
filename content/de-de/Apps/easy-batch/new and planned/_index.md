@@ -16,6 +16,9 @@ Neuerungen:
 - Rahmenaufträge werden nun unterstützt.
 - Die Aktionen "Als Stapel senden" und "Als E-Mail senden" wurden der Rahmenauftragsübersicht und der Rahmenauftragskarte hinzugefügt.
 
+#### Version 2.26.0.0 - 16.04.2025
+- XRechnung-Stapelversand nun auch mit CII-Syntax möglich.
+
 #### Version 2.19.0.0 - 01.10.2024
 Neuerungen:
 - Das Vorbelegen der Dokumentlayouts kann nun mittels Debitoren-/Kreditorenvorlagen erfolgen.

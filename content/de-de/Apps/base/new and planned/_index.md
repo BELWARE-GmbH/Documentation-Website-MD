@@ -12,6 +12,10 @@ weight: 1
 #### Version 2.29.0.0 24.06.2025
  - Rahmenaufträge werden nun unterstützt.
  - Die Infobox "Connector 365" wurde der Rahmenauftragsübersicht und der Rahmenauftragskarte hinzugefügt.
+ 
+#### Version 2.26.0.0 16.04.2025
+Neuerungen:
+  - Den Base-Parametern wurde das Feld "XRechnung Syntax" hinzugefügt, welches es ermöglicht, die Syntax der XRechnung auf UBL oder CII festzulegen.
 
 #### Version 2.23.0.0 10.10.2024
 Neuerungen:
