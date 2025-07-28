@@ -12,3 +12,5 @@ After the app setup has taken place, you can start using the app immediately wit
 You will notice that the reminded invoices have been automatically attached to the reminder.
 
 ![](images/apps/edpdialogen.PNG)
+
+In addition, you can have your attachments customized individually before sending emails, depending on your business requirements. An event can be programmed to make it easy to add further attachments, edit existing attachments, or even remove them.
