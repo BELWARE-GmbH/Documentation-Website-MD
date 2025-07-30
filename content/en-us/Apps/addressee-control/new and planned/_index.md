@@ -14,9 +14,21 @@ Simply use either the navigation menu at the bottom or on the left.
 
 In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the [support page](en-us/apps/help-and-support/).
 
+#### Version 1.11.0.0 - 24.06.2025
+New feature:
+    - Blanket sales orders are now supported.
+
+#### Version 1.9.0.1 - 04.03.2025
+Error correction:
+    - When sending documents with Easy Batch, the dispatch of multiple invoices to different customers is now also supported.
+
+#### Version 1.8.0.1 - 06.02.2025
+Error correction:
+- When address data is obtained from the contact, other contact types besides “Person” are now also taken into account.
+
 #### Version 1.7.0.11 - 18.07.2024
 Error correction:
-    - Use email address from coontact for purchase documents instead of document header by default.
+    - Use email address from contact for purchase documents instead of document header by default.
 
 #### Version 1.7.0.10 - 10.06.2024
 Error correction:

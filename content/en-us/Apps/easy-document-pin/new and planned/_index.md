@@ -12,6 +12,9 @@ weight: 1
 #### Planned functions for future versions
 - Automatic attachment of delivery notes
 
+#### Version 2.4.0.0 - 03.07.2025
+- Provides the ability to tailor email attachments according to specific requirements.
+
 #### Version 2.1.0.1 - 11.01.2023
 - Improved handling of reminder lines.
 

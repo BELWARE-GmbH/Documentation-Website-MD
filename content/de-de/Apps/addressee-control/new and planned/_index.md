@@ -14,6 +14,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+#### Version 1.11.0.0 - 24.06.2025
+Neuerungen:
+    - Rahmenaufträge werden nun unterstützt.
+
 #### Version 1.9.0.2 - 20.03.2025
 Fehlerkorrektur:
     - Falsche Feldzuweisung der E-Mailadresse in der Berichtsauswahl - Service wurde korrigiert.
