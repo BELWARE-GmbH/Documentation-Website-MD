@@ -18,6 +18,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 Neuerungen:
     - Rahmenaufträge werden nun unterstützt.
 
+#### Version 1.9.0.2 - 20.03.2025
+Fehlerkorrektur:
+    - Falsche Feldzuweisung der E-Mailadresse in der Berichtsauswahl - Service wurde korrigiert.
+
 #### Version 1.9.0.1 - 04.03.2025
 Fehlerkorrektur:
     - Beim Versand mit Easy Batch wird nun auch der Versand von mehreren Rechnungen mit verschiedenen Debitoren unterstützt.
