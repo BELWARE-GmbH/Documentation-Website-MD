@@ -10,7 +10,14 @@ weight: 1
 ### New and Planned
 
 #### Planned functions for future versions
-- Implementation of new document types from purchase as well as service.
+
+#### Version 2.28.0.0 - 17.06.2025
+New feature:
+- Order blankets are now supported.
+- The actions "send as batch" and "send as email" have been added to the order blankets overview and the order blankets card.
+
+#### Version 2.26.0.0 - 16.04.2025
+- XRechnung batch sending possible with CII-syntax.
 
 #### Version 2.19.0.0 - 01.10.2024
 New features:
