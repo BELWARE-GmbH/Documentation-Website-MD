@@ -9,6 +9,15 @@ weight: 1
 
 ### New and planned
 
+#### Version 2.29.0.0 24.06.2025
+New features:
+ - Blanket orders are now supported.
+ - The "Connector 365" info box has been added to the blanket orders overview and the blanket order card. 
+
+#### Version 2.26.0.0 16.04.2025
+New Features:
+ - The field "XRechnung Syntax" has been added to the base parameters, which allows you to specify the syntax of the XRechnung as UBL or CII.
+
 #### Version 2.23.0.0 10.10.2024
 new features:
  - Changed license check to only apply to SaaS production environments. 
