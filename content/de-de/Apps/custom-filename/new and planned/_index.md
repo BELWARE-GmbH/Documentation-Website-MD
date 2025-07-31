@@ -8,6 +8,10 @@ weight: 1
 ---
 ### Neu und geplant
 
+#### Version 1.3.0.0 - 08.07.2025
+Neue Funktionen:
+- Neues Event "OnBeforeSetRecordFilterForEmailPlaceholders" wurde hinzugefügt.
+
 #### Version 1.2.0.1 - 22.03.2024
 Fehlerkorrekturen:
 - Kompatibilität mit Versionen < BC22 hergestellt.
