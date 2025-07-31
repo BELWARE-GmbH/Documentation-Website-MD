@@ -8,6 +8,7 @@ weight: 10
 ---
 
 # Mahnungsversand
+(enthalten seit August 2023)
 
 ## Automatisches Anhängen von Rechnungen bei Mahnungsversand
 
