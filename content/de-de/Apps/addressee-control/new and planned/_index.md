@@ -18,6 +18,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 Neuerungen:
     - Rahmenaufträge werden nun unterstützt.
 
+#### Version 1.10.0.0 - 11.06.2025
+Neuerungen:
+    - Es ist nun möglich, E-Mails an eine zusätzliche E-Mail-Adresse zu versenden.
+
 #### Version 1.9.0.1 - 04.03.2025
 Fehlerkorrektur:
     - Beim Versand mit Easy Batch wird nun auch der Versand von mehreren Rechnungen mit verschiedenen Debitoren unterstützt.
