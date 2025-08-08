@@ -13,6 +13,9 @@ weight: 1
 #### Version 2.4.0.0 - 03.07.2025
 - Möglichkeit zur bedarfsgerechten Anpassung der E-Mail-Anhänge.
 
+#### Version 2.3.0.0 - 15.05.2025
+- Gelangensbestätigungen können nun angehangen werden. Für mehr Informationen, sehen Sie [Arbeiten mit Easy Document Pin](de-de/apps/easy-document-pin/working-with-edp/).
+
 #### Version 2.1.0.1 - 11.01.2023
 - Handhabung der Mahnungszeilen verbessert.
 
