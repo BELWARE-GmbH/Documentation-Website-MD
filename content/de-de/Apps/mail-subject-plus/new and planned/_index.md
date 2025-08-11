@@ -12,6 +12,10 @@ weight: 1
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
 
+#### Version 2.9.0.3 - 29.07.2025
+Korrekturen:
+- Event Subscriber OnBeforeSendEmailDirectly zum Umgehen von Fehlern beim Emailversand in Kombination mit XRechnung
+
 #### Version 2.9.0.0 - 01.03.2024
 Neue Funktionen:
 - Herstellen der Kompatibiltät zur neuen Easy Batch Version
