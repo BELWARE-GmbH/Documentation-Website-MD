@@ -17,6 +17,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 #### Geplante Funktionen für zukünftige Versionen
 - weitere Funktionen aus Modul PdfPaper
 
+#### Version 1.3.0.1 - 17.06.2025
+Korrekturen:
+- Neues Event OnBeforeGetSourceNoFromRecRef zum Umgehen von Überlauffehlern beim Erstellen von Avisen.
+
 #### Version 1.1.0.0 - 16.09.2024
 Neuerungen:
 - Neues Event OnAfterAddAttachmentsOnBeforeMerge um die zu mischenden Anhänge ändern.
