@@ -20,7 +20,7 @@ Neuerungen:
 
 #### Version 1.10.0.0 - 11.06.2025
 Neuerungen:
-    - Es ist nun möglich, E-Mails an eine zusätzliche E-Mail-Adresse zu versenden.
+    - Es ist nun möglich, über die Berichtsauswahl eine standardisierte Auswahl an weiteren Empfängern je Beleg zu hinterlegen. [Zur Einrichtung](/de-de/apps/addressee-control/first-steps/setup/default-addresses).
 
 #### Version 1.9.0.1 - 04.03.2025
 Fehlerkorrektur:
