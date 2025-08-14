@@ -15,6 +15,9 @@ weight: 1
 #### Version 2.4.0.0 - 03.07.2025
 - Provides the ability to tailor email attachments according to specific requirements.
 
+#### Version 2.3.0.1 - 03.06.2025
+- Missing permissions have been added.
+
 #### Version 2.1.0.1 - 11.01.2023
 - Improved handling of reminder lines.
 
