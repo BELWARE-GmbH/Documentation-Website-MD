@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+#### Version 2.9.0.3 - 27.03.2025
+Corrections:
+- Documents missing the language code field are now supported for processing.
+
 #### Version 2.9.0.2 - 06.02.2025
 New features:
 - Only attachments that contain content will be added.
