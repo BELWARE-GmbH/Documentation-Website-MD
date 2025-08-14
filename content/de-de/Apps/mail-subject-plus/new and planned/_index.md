@@ -14,7 +14,7 @@ weight: 1
 
 #### Version 2.9.0.3 - 29.07.2025
 Korrekturen:
-- Event Subscriber OnBeforeSendEmailDirectly zum Umgehen von Fehlern beim Emailversand in Kombination mit XRechnung
+- Laufzeitfehler im Zusammenspiel mit XRechnung wurden korrigiert.
 
 #### Version 2.9.0.0 - 01.03.2024
 Neue Funktionen:
