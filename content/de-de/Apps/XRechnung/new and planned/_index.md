@@ -21,6 +21,10 @@ Neue Funktionen:
 Neue Funktionen:
 - Kompatibilität mit BC-Versionen vor BC25 gewährleistet.
 
+#### Version 2.17.0.0 - 24.04.2025
+Neuerungen:
+- Kompatibilität mit BC-Versionen vor BC22 gewährleistet.
+
 #### Version 2.16.0.0 - 16.04.2025
 Neue Funktionen:
 - Ermöglicht die Erstellung von XRechnungen im CII-Syntax aus Verkaufsrechnungen
