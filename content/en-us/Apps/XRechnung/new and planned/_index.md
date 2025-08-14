@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+#### Version 2.19.0.1 - 17.07.2025
+Corrections:
+- A validation error when the shipment date was not filled has been fixed.
+
 #### Version 2.19.0.0 - 07.07.2025
 New features:
 - A new tab "Connector 365 XRechnung" allows various BT fields to be documented in sales documents. Currently supported: BT-11, BT-12, BT-73, BT74.
