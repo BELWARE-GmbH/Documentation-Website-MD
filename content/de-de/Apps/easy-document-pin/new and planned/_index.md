@@ -13,6 +13,9 @@ weight: 1
 #### Version 2.4.0.0 - 03.07.2025
 - Möglichkeit zur bedarfsgerechten Anpassung der E-Mail-Anhänge.
 
+#### Version 2.3.0.1 - 03.06.2025
+- Fehlende Berechtigungen wurden hinzugefügt.
+
 #### Version 2.1.0.1 - 11.01.2023
 - Handhabung der Mahnungszeilen verbessert.
 
