@@ -18,6 +18,10 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 Neuerungen:
     - Rahmenaufträge werden nun unterstützt.
 
+#### Version 1.10.0.0 - 11.06.2025
+Neuerungen:
+    - Es ist nun möglich, über die Berichtsauswahl eine standardisierte Auswahl an weiteren Empfängern je Beleg zu hinterlegen. [Zur Einrichtung](/de-de/apps/addressee-control/first-steps/setup/default-addresses).
+
 #### Version 1.9.0.2 - 20.03.2025
 Fehlerkorrektur:
     - Falsche Feldzuweisung der E-Mailadresse in der Berichtsauswahl - Service wurde korrigiert.
