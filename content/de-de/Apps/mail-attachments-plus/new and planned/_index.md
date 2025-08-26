@@ -12,6 +12,10 @@ weight: 1
 #### Geplante Funktionen für zukünftige Versionen
 - Anhangsfunktionalitäten auf weiteren Ebenen
 
+#### Version 2.9.0.3 - 27.03.2025
+Korrekturen:
+- Es können nun auch Belege verarbeitet werden, welche das Feld Sprachcode nicht enthalten.
+
 #### Version 2.9.0.2 - 06.02.2025
 Neuerungen:
 - Es werden nur noch Anhänge hinzugefügt, die einen Inhalt haben.

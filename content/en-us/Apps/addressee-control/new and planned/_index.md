@@ -18,6 +18,10 @@ In case a question could not be answered, we will be happy to help you personall
 New feature:
     - Blanket sales orders are now supported.
 
+#### Version 1.19.0.2 - 20.03.2025
+Error correction:
+    - Incorrect field assignment of the email address in the report selection - service has been corrected.
+
 #### Version 1.9.0.1 - 04.03.2025
 Error correction:
     - When sending documents with Easy Batch, the dispatch of multiple invoices to different customers is now also supported.

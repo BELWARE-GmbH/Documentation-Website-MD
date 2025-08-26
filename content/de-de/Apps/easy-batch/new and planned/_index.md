@@ -11,6 +11,10 @@ weight: 1
 
 #### Geplante Funktionen für zukünftige Versionen
 
+#### Version 2.28.0.1 - 27.06.2025
+Korrekturen:
+- Die gleichzeitige Verarbeitung von mehreren Belegen wurde verbessert.
+
 #### Version 2.28.0.0 - 17.06.2025
 Neuerungen:
 - Rahmenaufträge werden nun unterstützt.
@@ -18,6 +22,10 @@ Neuerungen:
 
 #### Version 2.26.0.0 - 16.04.2025
 - XRechnung-Stapelversand nun auch mit CII-Syntax möglich.
+
+#### Version 2.25.0.3 - 10.04.2025
+Korrekturen:
+- Die Behandlung von Fehlermeldungen wurde im Rahmen von Stapelbuchungen angepasst.
 
 #### Version 2.19.0.0 - 01.10.2024
 Neuerungen:
