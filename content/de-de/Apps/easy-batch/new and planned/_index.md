@@ -13,7 +13,7 @@ weight: 1
 
 #### Version 2.28.0.1 - 27.06.2025
 Korrekturen:
-- Die gleichzeitige Verarbeitung von mehreren Belegen wurde korrigiert.
+- Die gleichzeitige Verarbeitung von mehreren Belegen wurde verbessert.
 
 #### Version 2.28.0.0 - 17.06.2025
 Neuerungen:
