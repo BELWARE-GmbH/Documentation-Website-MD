@@ -12,6 +12,10 @@ weight: 1
 - Länge der gewünschten Platzhalter erhöhen
 - Vorschaufunktion
 
+#### Version 2.9.0.3 - 29.07.2025
+Korrekturen:
+- Laufzeitfehler im Zusammenspiel mit XRechnung wurden korrigiert.
+
 #### Version 2.9.0.2 - 10.04.2025
 Korrekturen:
 - Einbezug von zuvor nicht unterstützten Berichtsverwendungen
