@@ -17,6 +17,10 @@ Korrekturen:
 Neue Funktionen:
 - Ein neuer Reiter "Connector 365 XRechnung" ermöglicht es, in Verkaufsbelegen verschiedene BT-Felder zu dokumentieren. Derzeit unterstützt: BT-11, BT-12, BT-73, BT-74.
 
+#### Version 2.18.0.1 - 15.05.2025
+Korrektur:
+- Die XRechnung-Syntax wird nun lediglich in XRechnung-Vorgängen angezeigt.
+
 #### Version 2.18.0.0 - 30.04.2025
 Neue Funktionen:
 - Kompatibilität mit BC-Versionen vor BC25 gewährleistet.
