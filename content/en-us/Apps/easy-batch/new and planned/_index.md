@@ -11,6 +11,10 @@ weight: 1
 
 #### Planned functions for future versions
 
+#### Version 2.28.0.1 - 27.06.2025
+Corrections:
+- The simultaneous processing of multiple documents has been improved.
+
 #### Version 2.28.0.0 - 17.06.2025
 New feature:
 - Order blankets are now supported.
