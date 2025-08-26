@@ -20,7 +20,7 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
 #### Version 1.3.0.1 - 17.06.2025
 Korrekturen:
 - Neues Event OnBeforeGetSourceNoFromRecRef zum Umgehen von Überlauffehlern beim Erstellen von Avisen.
-- Durch das neue Event kann die Herkunftsnr. in der Berichtsauswahl nun aktiv gesetzt werden.
+- Durch das neue Event kann individuell bestimmt werden, welches Feld der jeweiligen Belegtabellen als Herkunftsnr. dienen soll. 
 - Die Integration der App Addressee Control wurde korrigiert.
 
 #### Version 1.1.0.0 - 16.09.2024
