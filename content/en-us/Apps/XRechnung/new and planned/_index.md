@@ -21,6 +21,10 @@ New features:
 New features:
 - Compatibility with BC-Versions prior to BC25 guaranteed.
 
+#### Version 2.17.0.0 - 24.04.2025
+Updates:
+- Compatibility with BC versions prior to BC22 is ensured.
+
 #### Version 2.16.0.0 - 16.04.2025
 New features:
 - Enables the creation of XRechnungen in CII syntax from sales invoices
