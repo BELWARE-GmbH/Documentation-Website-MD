@@ -12,6 +12,14 @@ weight: 1
 - Increase length of desired placeholders
 - Preview function
 
+#### Version 2.9.0.3 - 29.07.2025
+Corrections:
+- Runtime errors related to XRechnung have been resolved.
+
+#### Version 2.9.0.2 - 10.04.2025
+Corrections:
+- Inclusion of previously unsupported report usages.
+
 #### Version 2.9.0.0 - 01.03.2024
 New Features:
 - Establish compatibility with the new Easy Batch version
