@@ -16,6 +16,10 @@ weight: 1
 Korrekturen:
 - Laufzeitfehler im Zusammenspiel mit XRechnung wurden korrigiert.
 
+#### Version 2.9.0.2 - 10.04.2025
+Korrekturen:
+- Einbezug von zuvor nicht unterstützten Berichtsverwendungen
+
 #### Version 2.9.0.0 - 01.03.2024
 Neue Funktionen:
 - Herstellen der Kompatibiltät zur neuen Easy Batch Version

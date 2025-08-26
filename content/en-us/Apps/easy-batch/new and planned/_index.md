@@ -19,6 +19,10 @@ New feature:
 #### Version 2.26.0.0 - 16.04.2025
 - XRechnung batch sending possible with CII-syntax.
 
+#### Version 2.25.0.3 - 10.04.2025
+Corrections:
+- The handling of error messages has been adjusted for batch postings.
+
 #### Version 2.19.0.0 - 01.10.2024
 New features:
 - Document layouts can now be pre-assigned using customer/vendor templates.
