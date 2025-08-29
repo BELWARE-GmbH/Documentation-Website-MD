@@ -17,6 +17,10 @@ Corrections:
 New features:
 - A new tab "Connector 365 XRechnung" allows various BT fields to be documented in sales documents. Currently supported: BT-11, BT-12, BT-73, BT74.
 
+#### Version 2.18.0.1 - 15.05.2025
+Corrections:
+- The XRechnung syntax is now only displayed in XRechnung-related processes.
+
 #### Version 2.18.0.0 - 30.04.2025
 New features:
 - Compatibility with BC-Versions prior to BC25 guaranteed.
