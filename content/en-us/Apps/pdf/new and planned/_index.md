@@ -17,6 +17,12 @@ In case a question could not be answered, we will be happy to help you personall
 #### Planned functions for future versions
 - further functions from the PdfPaper module
 
+#### Version 1..0.1 - 17.06.2025
+Corrections:
+- New event OnBeforeGetSourceNoFromRecRef introduced to avoid overflow errors when generating payment advices.
+- Customizable source number field: The event allows specifying which field in the document tables should be used as the source number.
+- Corrected integration of the Addressee Control app.
+
 #### Version 1.1.0.0 - 16.09.2024
 New features:
 - New event OnAfterAddAttachmentsOnBeforeMerge to change the attachments to be merged.
