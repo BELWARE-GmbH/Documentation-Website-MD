@@ -531,7 +531,7 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
 
 #### OnAfterGetSupplierPartyIdentificationID
 
-```
+```al
  . SalesHeader: record "Sales Header"
  . var SupplierPartyIdentificationID: text
  . var SupplierPartyIdentificationIDSchemeID: text
