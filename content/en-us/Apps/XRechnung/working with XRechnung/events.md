@@ -530,7 +530,7 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
 
 #### OnAfterGetSupplierPartyIdentificationID
 
-```
+```al
  . SalesHeader: record "Sales Header"
  . var SupplierPartyIdentificationID: text
  . var SupplierPartyIdentificationIDSchemeID: text
