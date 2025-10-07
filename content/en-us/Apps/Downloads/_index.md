@@ -1,11 +1,15 @@
 ---
 title: "Downloads"
-date: 2025-09-23T18:32:13Z
+date: 2025-10-06T18:35:50Z
 description: 
 draft: false
 collapsible: false
 weight: 5
 ---
+#### 27.0.0.0
+[27.0.0.0_Connector 365 Base_2.29.25847.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Base/27.0.0.0_Connector%20365%20Base_2.29.25847.0_RT.app)
+#### 26.5.0.0
+[26.5.0.0_Connector 365 Base_2.29.25846.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20Base/26.5.0.0_Connector%20365%20Base_2.29.25846.0_RT.app)
 #### 26.4.0.0
 [26.4.0.0_Connector 365 Addressee Control_1.11.24515.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20Addressee%20Control/26.4.0.0_Connector%20365%20Addressee%20Control_1.11.24515.0_RT.app)
 [26.4.0.0_Connector 365 Base_2.29.24480.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20Base/26.4.0.0_Connector%20365%20Base_2.29.24480.0_RT.app)
@@ -84,7 +88,7 @@ weight: 5
 [26.1.0.0_Connector 365 pdfPaper_1.10.22100.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20pdfPaper/26.1.0.0_Connector%20365%20pdfPaper_1.10.22100.0_RT.app)
 #### 26.0.0.0
 [26.0.0.0_Connector 365 Addressee Control_1.11.23245.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Addressee%20Control/26.0.0.0_Connector%20365%20Addressee%20Control_1.11.23245.0_RT.app)
-[26.0.0.0_Connector 365 Base_2.29.23270.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Base/26.0.0.0_Connector%20365%20Base_2.29.23270.0_RT.app)
+[26.0.0.0_Connector 365 Base_2.29.25805.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Base/26.0.0.0_Connector%20365%20Base_2.29.25805.0_RT.app)
 [26.0.0.0_Connector 365 CTI for STARFACE_2.2.21316.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20CTI%20for%20STARFACE/26.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.21316.1_RT.app)
 [26.0.0.0_Connector 365 Custom Filename_1.3.23743.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Custom%20Filename/26.0.0.0_Connector%20365%20Custom%20Filename_1.3.23743.0_RT.app)
 [26.0.0.0_Connector 365 E-Documents_2.0.21311.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20E-Documents/26.0.0.0_Connector%20365%20E-Documents_2.0.21311.3_RT.app)
@@ -100,6 +104,7 @@ weight: 5
 [26.0.0.0_Connector 365 Upgrade_1.1.21341.2_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Upgrade/26.0.0.0_Connector%20365%20Upgrade_1.1.21341.2_RT.app)
 [26.0.0.0_Connector 365 XRechnung_2.20.24925.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20XRechnung/26.0.0.0_Connector%20365%20XRechnung_2.20.24925.0_RT.app)
 [26.0.0.0_Connector 365 pdfPaper_1.10.21357.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20pdfPaper/26.0.0.0_Connector%20365%20pdfPaper_1.10.21357.0_RT.app)
+#### 25.11.0.0
 #### 25.10.0.0
 [25.10.0.0_Connector 365 Addressee Control_1.11.24513.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20Addressee%20Control/25.10.0.0_Connector%20365%20Addressee%20Control_1.11.24513.0_RT.app)
 [25.10.0.0_Connector 365 Base_2.29.24479.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20Base/25.10.0.0_Connector%20365%20Base_2.29.24479.0_RT.app)
