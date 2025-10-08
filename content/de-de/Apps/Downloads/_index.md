@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2025-10-07T06:39:44Z
+date: 2025-10-07T18:36:48Z
 description: 
 draft: false
 collapsible: false
@@ -23,6 +23,7 @@ weight: 5
 [27.0.0.0_Connector 365 Upgrade_1.1.25892.2_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Upgrade/27.0.0.0_Connector%20365%20Upgrade_1.1.25892.2_RT.app)
 [27.0.0.0_Connector 365 XRechnung_2.20.25917.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20XRechnung/27.0.0.0_Connector%20365%20XRechnung_2.20.25917.0_RT.app)
 [27.0.0.0_Connector 365 pdfPaper_1.10.25891.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20pdfPaper/27.0.0.0_Connector%20365%20pdfPaper_1.10.25891.0_RT.app)
+#### 26.6.0.0
 #### 26.5.0.0
 [26.5.0.0_Connector 365 Addressee Control_1.11.25896.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20Addressee%20Control/26.5.0.0_Connector%20365%20Addressee%20Control_1.11.25896.0_RT.app)
 [26.5.0.0_Connector 365 Base_2.29.25867.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20Base/26.5.0.0_Connector%20365%20Base_2.29.25867.0_RT.app)
