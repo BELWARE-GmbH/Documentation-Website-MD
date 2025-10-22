@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2025-10-21T07:33:58Z
+date: 2025-10-21T18:37:28Z
 description: 
 draft: false
 collapsible: false
@@ -153,6 +153,7 @@ weight: 5
 [26.0.0.0_Connector 365 Upgrade_1.1.21341.2_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Upgrade/26.0.0.0_Connector%20365%20Upgrade_1.1.21341.2_RT.app)
 [26.0.0.0_Connector 365 XRechnung_2.21.26208.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20XRechnung/26.0.0.0_Connector%20365%20XRechnung_2.21.26208.0_RT.app)
 [26.0.0.0_Connector 365 pdfPaper_1.10.21357.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20pdfPaper/26.0.0.0_Connector%20365%20pdfPaper_1.10.21357.0_RT.app)
+#### 25.12.0.0
 #### 25.11.0.0
 #### 25.10.0.0
 [25.10.0.0_Connector 365 Addressee Control_1.11.24513.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20Addressee%20Control/25.10.0.0_Connector%20365%20Addressee%20Control_1.11.24513.0_RT.app)
@@ -360,6 +361,7 @@ weight: 5
 [25.0.0.0_Connector 365 Upgrade_1.1.19687.2_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20Upgrade/25.0.0.0_Connector%20365%20Upgrade_1.1.19687.2_RT.app)
 [25.0.0.0_Connector 365 XRechnung_2.21.26196.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20XRechnung/25.0.0.0_Connector%20365%20XRechnung_2.21.26196.0_RT.app)
 [25.0.0.0_Connector 365 pdfPaper_1.10.21091.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20pdfPaper/25.0.0.0_Connector%20365%20pdfPaper_1.10.21091.0_RT.app)
+#### 24.16.0.0
 #### 24.15.0.0
 [24.15.0.0_Connector 365 Addressee Control_1.11.23644.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.15.0.0/Connector%20365%20Addressee%20Control/24.15.0.0_Connector%20365%20Addressee%20Control_1.11.23644.0_RT.app)
 [24.15.0.0_Connector 365 Base_2.29.23612.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.15.0.0/Connector%20365%20Base/24.15.0.0_Connector%20365%20Base_2.29.23612.0_RT.app)
