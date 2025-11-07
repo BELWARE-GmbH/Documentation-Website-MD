@@ -1,5 +1,5 @@
 ---
-title: "E-Mail‑Versand über den Connector NAV/BC via Microsoft Graph API"
+title: "E-Mail‑Versand via Microsoft Graph API"
 date: 2025-11-07T10:00:00+01:00
 draft: false
 collapsible: false
