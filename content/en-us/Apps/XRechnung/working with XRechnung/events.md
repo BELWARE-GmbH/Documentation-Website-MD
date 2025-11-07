@@ -528,6 +528,38 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
     </tr>
 </table>
 
+#### OnAfterGetSupplierPartyIdentificationID
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var SupplierPartyIdentificationID: text
+ . var SupplierPartyIdentificationIDSchemeID: text
+```
+
+<table style="width:100%">
+    <tr style="background-color:#eceff1">
+        <th> Name </th>
+        <th> Business Term </th>
+        <th> Semantic Data Type </th>
+    </tr>
+    <tr>
+        <td><b>Seller identifier</b></td>
+        <td>BT-29</td>
+        <td>Identifier</td>
+    </tr>
+    <tr>
+        <td colspan=3>An identifier (usually assigned by the buyer) of the seller, such as the creditor number for budget management or the supplier number for the ordering system.</td>
+    </tr>
+    <tr>
+        <td><b>Seller identifier/Scheme identifier</b></td>
+        <td>BT-29-1</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan=3>Identifier of the scheme for the element 'Seller identifier' (BT-29).<br> Note: If the element is used, the identifier must be chosen from the entries in the list published by the ISO/IEC 6523 maintenance agency.</td>
+    </tr>
+</table>
+
 #### OnAfterGetAccountingCustomerPartyPostalAddr
 ```al
  . SalesHeader: record "Sales Header"

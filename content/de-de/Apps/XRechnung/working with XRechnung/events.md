@@ -529,6 +529,39 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
     </tr>
 </table>
 
+#### OnAfterGetSupplierPartyIdentificationID
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var SupplierPartyIdentificationID: text
+ . var SupplierPartyIdentificationIDSchemeID: text
+```
+
+<table style="width:100%">
+    <tr style="background-color:#eceff1">
+        <th> Name </th>
+        <th> Business Term </th>
+        <th> Semantischer Datentyp </th>
+    </tr>
+    <tr>
+        <td><b>Seller identifier</b></td>
+        <td>BT-29</td>
+        <td>Identifier</td>
+    </tr>
+    <tr>
+        <td colspan=3>Eine (i. d. R. vom Erwerber vergebene) Kennung des Verkäufers, wie z. B. die Kreditorennummer für das Mittelbewirtschaftungsverfahren oder die Lieferantennummer für das Bestellsystem.</td>
+    </tr>
+    <tr>
+        <td><b>Seller identifier/Scheme identifier</b></td>
+        <td>BT-29-1</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan=3>Kennung des Bildungsschemas für das Element ‚Seller identifier‘ (BT-29).
+Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen der von der ISO/IEC 6523 maintenance agency veröffentlichten Liste zu wählen.</td>
+    </tr>
+</table>
+
 #### OnAfterGetAccountingCustomerPartyPostalAddr
 ```al
  . SalesHeader: record "Sales Header"
