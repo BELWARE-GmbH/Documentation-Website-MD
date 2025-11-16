@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2025-11-13T18:36:05Z
+date: 2025-11-15T18:33:39Z
 description: 
 draft: false
 collapsible: false
@@ -19,7 +19,7 @@ weight: 5
 [27.0.0.0_Connector 365 Mail Attachments Plus_2.9.25909.4_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Mail%20Attachments%20Plus/27.0.0.0_Connector%20365%20Mail%20Attachments%20Plus_2.9.25909.4_RT.app)
 [27.0.0.0_Connector 365 Mail Subject Plus_2.9.25890.3_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Mail%20Subject%20Plus/27.0.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.25890.3_RT.app)
 [27.0.0.0_Connector 365 PDF_1.4.26882.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20PDF/27.0.0.0_Connector%20365%20PDF_1.4.26882.0_RT.app)
-[27.0.0.0_Connector 365 Report Layout Plus_1.5.25911.6_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Report%20Layout%20Plus/27.0.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.25911.6_RT.app)
+[27.0.0.0_Connector 365 Report Layout Plus_1.6.26940.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Report%20Layout%20Plus/27.0.0.0_Connector%20365%20Report%20Layout%20Plus_1.6.26940.0_RT.app)
 [27.0.0.0_Connector 365 Upgrade_1.1.25892.2_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Upgrade/27.0.0.0_Connector%20365%20Upgrade_1.1.25892.2_RT.app)
 [27.0.0.0_Connector 365 XRechnung_2.22.26859.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20XRechnung/27.0.0.0_Connector%20365%20XRechnung_2.22.26859.0_RT.app)
 [27.0.0.0_Connector 365 pdfPaper_1.10.25891.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20pdfPaper/27.0.0.0_Connector%20365%20pdfPaper_1.10.25891.0_RT.app)
