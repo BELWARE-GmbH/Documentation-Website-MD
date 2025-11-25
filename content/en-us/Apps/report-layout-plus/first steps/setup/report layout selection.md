@@ -30,7 +30,8 @@ By clicking the field **Field Description** you can reach the selection of the f
 
 ![](images/apps/Report_Layout_Plus/en-us/app_field_selection_lookup.png)
 
-Using the field **Fieldvalue** you can reach the selection with the avaiable values of the previously selected field. This overview includes all values of the specific document header. You can choose one vlaue or enter a custom value. 
+Using the field **Fieldvalue** you can reach the selection with the avaiable values of the previously selected field. This overview includes all values of the specific document header. You can choose one vlaue or enter a custom value. Additionally, it is possible to enter a filter expression as you are accustomed to from Business Central.
+
 The field **Layout Code** allows you to select the desired layout.
 Now you can add as many additional conditions as you like. These will be considered in descending order. For instance if the condition of line 1 is met, then all following lines will no longer be considered.
 Using the field **Operator** you can combine conditions of adjacent lines. In order to do this you have to select the operator **AND**. In the process always the report layout of the last AND line will be used.
