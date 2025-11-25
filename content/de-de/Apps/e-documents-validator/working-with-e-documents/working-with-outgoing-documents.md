@@ -7,7 +7,7 @@ collapsible: true
 weight: 2
 ---
 
-# Arbeiten mit ausgehenden E-Dokumenten
+### Arbeiten mit ausgehenden E-Dokumenten
 
 Damit in Business Central Belege wie zum Beispiel die gebuchten Verkaufsrechnungen ordnungsgemäß
 zu E-Belege gewandelt werden können, ist es wichtig, dass alle notwendigen Informationen in den jeweiligen Belegen vorhanden sind,
@@ -17,7 +17,7 @@ Zusätzlich zu Prüfungen vom aktuellen Business Central Standard hilft **Connec
 noch **vor** dem Buchen von Belegen festzustellen, ob eventuell Daten fehlen, oder sogar ob fehlerhafte Daten im zu verarbeitenden 
 Beleg vorhanden sind. Dies senkt den Aufwand für das nachträgliche Korrigieren erheblich.
 
-## Voraussetzungen für die Validierung im Buchungsprozess
+#### Voraussetzungen für die Validierung im Buchungsprozess
 
 Um die Validierung im Buchungsprozess zu aktivieren sind zwei Schritte notwendig: 
 
@@ -25,7 +25,7 @@ Um die Validierung im Buchungsprozess zu aktivieren sind zwei Schritte notwendig
 2. Der Debitor, der den elektronischen Beleg erhalten soll, ist entsprechend eingerichtet. Mehr dazu finden Sie unten.
 
 
-## Debitor für den elektronischen Beleg einrichten
+#### Debitor für den elektronischen Beleg einrichten
 
 Im Folgenden wird beispielhaft anhand der Verwendung **Verkaufsrechnung** gezeigt, wie ein Debitor für den elektronischen Versand eingerichtet werden kann.
 
@@ -56,7 +56,7 @@ Anschließend wählen Sie einen geeigneten **Serviceflowcode**.
 |![](images/apps/e-documents-validator/de/out-doc-sending-profile-sending-options.png)|
 |-|
 
-## Arbeiten mit *Connector 365 E-Documents Validator* im Buchungsprozess
+#### Arbeiten mit *Connector 365 E-Documents Validator* im Buchungsprozess
 
 Erfassen Sie eine neue **Verkaufsrechnung** für den Debitoren, den Sie für E-Documents eingerichtet haben.
 Wenn die Rechnungsdaten vollständig sind, klicken Sie auf **Buchen**, um die Rechnung zu buchen.

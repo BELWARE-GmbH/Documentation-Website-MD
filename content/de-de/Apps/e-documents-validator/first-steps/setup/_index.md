@@ -7,7 +7,7 @@ collapsible: false
 weight: 1
 ---
 
-# Basiseinrichtung
+### Basiseinrichtung
 
 Um die Extension **Connector 365 E-Documents Validator** einzurichten, navigieren Sie in die Suchleiste und geben Sie 
 **Connector 365 Einrichtung** ein.
