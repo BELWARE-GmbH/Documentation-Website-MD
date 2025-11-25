@@ -9,9 +9,33 @@ weight: 1
 
 ### Neu und geplant
 
-#### Version 2.29.0.0 24.06.2025
- - Rahmenaufträge werden nun unterstützt.
- - Die Infobox "Connector 365" wurde der Rahmenauftragsübersicht und der Rahmenauftragskarte hinzugefügt.
+#### Version 2.33.0.0 - 25.11.2025
+Neuerungen:
+- **Verbesserte Benutzerlizenzierung:** Nicht aktivierte Benutzer werden nicht länger für die Anzahl Nutzerlizenzen berücksichtigt
+
+#### Version 2.32.0.0 - 25.11.2025
+Neuerungen:
+- **Erweiterte Role Center Integration:** Die Connector 365 Cue Page ist nun in allen standardmäßig aktivierten Role Centern integriert
+- **Verbesserte Benutzeroberfläche:** Integration in Accounting Manager, Finance Manager, Purchasing Manager, Service Manager und weitere Role Center
+- **Bessere Sichtbarkeit:** Connector 365 Funktionen sind nun in allen wichtigen Arbeitsbereichen verfügbar
+
+#### Version 2.31.0.0 - 21.11.2025
+Neuerungen:
+- **Addressee Control Events als obsolet markiert:** Drei bisherige Events wurden als veraltet gekennzeichnet und durch ein neues einheitliches Event ersetzt
+- **Zukunftssicherheit:** Vorbereitung auf kommende Verbesserungen der Addressee Control-Funktionalität
+
+#### Version 2.30.0.0 - 14.11.2025
+Neuerungen:
+- **ZUGFeRD PDF-Unterstützung:** Neues Event zur Ermöglichung der ZUGFeRD PDF-Erstellung
+- **Erweiterte Base Parameters:** Neue Felder für ZUGFeRD-Konfiguration hinzugefügt
+- **PDF Conformance Level Enum:** Neue Enum für verschiedene PDF-Konformitätsstufen
+- **Verbesserte App-Integration:** Optimierte Kommunikation zwischen XRechnung, Easy Batch und PDF-Apps
+
+#### Version 2.29.0.0 - 04.06.2025
+Neuerungen:
+- **Rahmenaufträge-Unterstützung:** Rahmenaufträge werden nun vollständig unterstützt
+- **Neue Fact Boxes:** Die Infobox "Connector 365" wurde der Rahmenauftragsübersicht und der Rahmenauftragskarte hinzugefügt
+- **Erweiterte Custom Report Selection:** Integration von Blanket Sales Orders in die benutzerdefinierte Report-Auswahl
  
 #### Version 2.26.0.0 16.04.2025
 Neuerungen:

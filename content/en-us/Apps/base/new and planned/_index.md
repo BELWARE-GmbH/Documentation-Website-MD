@@ -9,10 +9,33 @@ weight: 1
 
 ### New and planned
 
-#### Version 2.29.0.0 24.06.2025
-New features:
- - Blanket orders are now supported.
- - The "Connector 365" info box has been added to the blanket orders overview and the blanket order card. 
+#### Version 2.33.0.0 - 25.11.2025
+New Features:
+- **Improved User Licensing:** Inactive users are no longer considered for the number of user licenses
+
+#### Version 2.32.0.0 - 25.11.2025
+New Features:
+- **Extended Role Center Integration:** The Connector 365 Cue Page is now integrated into all standard activated Role Centers
+- **Improved User Interface:** Integration into Accounting Manager, Finance Manager, Purchasing Manager, Service Manager and other Role Centers
+- **Better Visibility:** Connector 365 functions are now available in all important workspaces
+
+#### Version 2.31.0.0 - 21.11.2025
+New Features:
+- **Addressee Control Events marked as obsolete:** Three existing events were marked as deprecated and replaced by a new unified event
+- **Future-proofing:** Preparation for upcoming improvements to Addressee Control functionality
+
+#### Version 2.30.0.0 - 14.11.2025
+New Features:
+- **ZUGFeRD PDF Support:** New event to enable ZUGFeRD PDF creation
+- **Extended Base Parameters:** New fields added for ZUGFeRD configuration
+- **PDF Conformance Level Enum:** New enum for different PDF conformance levels
+- **Improved App Integration:** Optimized communication between XRechnung, Easy Batch, and PDF apps
+
+#### Version 2.29.0.0 - 04.06.2025
+New Features:
+- **Blanket Orders Support:** Blanket orders are now fully supported
+- **New Fact Boxes:** The "Connector 365" info box has been added to the blanket orders overview and the blanket order card
+- **Extended Custom Report Selection:** Integration of Blanket Sales Orders into custom report selection 
 
 #### Version 2.26.0.0 16.04.2025
 New Features:
