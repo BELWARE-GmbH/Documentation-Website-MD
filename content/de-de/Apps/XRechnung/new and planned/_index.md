@@ -9,6 +9,13 @@ weight: 1
 
 ### Neu und geplant
 
+#### Version 2.23.0.0 - 14.11.2025
+**Korrekturen:**
+
+**Korrektur Event-Parameter für Verkaufsgutschriften**
+- Behebung einer fehlerhaften Parameterübergabe im Event OnAfterGetLineGeneralInfo für Verkaufsgutschriften
+- Der Parameter SalesCrMemoLineID wird nun korrekt übergeben
+
 #### Version 2.22.0.0 - 14.11.2025
 **Neue Funktionen:**
 

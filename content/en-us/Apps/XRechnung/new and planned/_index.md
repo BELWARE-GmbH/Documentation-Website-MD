@@ -12,15 +12,18 @@ weight: 1
 #### Version 2.23.0.0 - 14.11.2025
 **New Features:**
 
+**Event Parameter Fix for Sales Credit Memos**
+- Fixed incorrect parameter passing in the OnAfterGetLineGeneralInfo event for sales credit memos
+- The SalesCrMemoLineID parameter is now correctly passed
+
+#### Version 2.22.0.0 - 14.11.2025
+**New Features:**
+
 **ZUGFeRD PDF Support**
 - Full integration of ZUGFeRD functionality for creating PDF/A-3B compliant documents
 - Automatic embedding of XRechnung XML data in PDF attachments according to ZUGFeRD standard
 - Support for CII syntax (Cross Industry Invoice) in PDF generation
 - Configurable PDF/A-3B conformance levels for different use cases
-- Enables hybrid presentation of invoices (human-readable PDF + machine-readable XML)
-
-**Enhanced Allowance Charge Handling**
-- Migration of allowance charge processing from Microsoft standard to XRechnung-specific implementation
 - Enables hybrid presentation of invoices (human-readable PDF + machine-readable XML)
 
 #### Version 2.21.0.0 - 21.10.2025
