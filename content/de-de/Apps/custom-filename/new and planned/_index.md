@@ -8,6 +8,10 @@ weight: 1
 ---
 ### Neu und geplant
 
+#### Version 1.4.0.0 - TBA
+Neue Funktionen:
+- Integration in Vendor Report Selections: Custom Filename Funktionalität wurde für Kreditorenberichtsauswahl hinzugefügt
+
 #### Version 1.3.0.0 - 08.07.2025
 Neue Funktionen:
 - Neues Event "OnBeforeSetRecordFilterForEmailPlaceholders" wurde hinzugefügt.
