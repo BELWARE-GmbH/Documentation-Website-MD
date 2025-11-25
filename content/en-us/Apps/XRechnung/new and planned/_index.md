@@ -9,7 +9,7 @@ weight: 1
 
 ### New and planned
 
-#### Version 2.23.0.0 - 14.11.2025
+#### Version 2.23.0.0 - 18.11.2025
 **New Features:**
 
 **Event Parameter Fix for Sales Credit Memos**

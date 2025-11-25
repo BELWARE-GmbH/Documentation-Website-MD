@@ -9,7 +9,7 @@ weight: 1
 
 ### Neu und geplant
 
-#### Version 2.23.0.0 - 14.11.2025
+#### Version 2.23.0.0 - 18.11.2025
 **Korrekturen:**
 
 **Korrektur Event-Parameter für Verkaufsgutschriften**
