@@ -72,21 +72,20 @@ Aktuell voreingstellte Versionen und Kennungen:
 
 Die XRechnung ist ein standardisiertes Rechnungsformat für elektronische Rechnungen an öffentliche Auftraggeber in Deutschland. Sie basiert auf europäischen Vorgaben (insb. EN 16931) und kann in unterschiedlichen Syntax-Formaten umgesetzt werden.
 
-- ***Bisheriger Standard: UBL***
-In der bisherigen Umsetzung wurde die XRechnung im Syntax-Format UBL (Universal Business Language) erzeugt.
-UBL ist ein XML-basiertes Format, das international weit verbreitet ist.
+- ***UBL***
+UBL (Universal Business Language) ist ein XML-basiertes Format, das international weit verbreitet ist.
 Es bietet eine klare Struktur für Geschäftsprozesse wie Rechnungen, Lieferscheine oder Bestellungen.
 <br>
 
-- ***Neu: Unterstützung für CII***
-Mit der aktuellen Erweiterung unterstützen wir nun auch die Erzeugung von XRechnungen im CII (Cross Industry Invoice)-Format:
-CII ist ein weiterer XML-basierter Standard, entwickelt von UN/CEFACT.
+- ***CII***
+CII (Cross Industry Invoice) ist ein weiterer XML-basierter Standard, entwickelt von UN/CEFACT.
 Es ist semantisch genauer und bietet mehr Flexibilität, insbesondere bei komplexen Rechnungsinhalten.
 Die Unterstützung von CII stellt eine wichtige Erweiterung dar, da beide Formate offiziell für XRechnungen zugelassen sind.
 <br>
 
-- ***Hinweis: ZUGFeRD***
-Ein verwandtes, aber eigenständiges Format ist ZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland):
-ZUGFeRD kombiniert strukturierte XML-Daten mit einem PDF/A-3-Dokument, in das die XML-Datei eingebettet ist.
+- ***ZUGFeRD-PDF***:
+ZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland) kombiniert strukturierte XML-Daten mit einem PDF/A-3B-Dokument, in das die XML-Datei eingebettet ist.
 Es basiert ebenfalls auf der europäischen Norm EN 16931 und verwendet im XML-Teil den CII-Syntax (Cross Industry Invoice) nach UN/CEFACT.
-ZUGFeRD ist jedoch nicht identisch mit der XRechnung – beide Formate können jedoch parallel genutzt werden, sofern der Empfänger dies unterstützt.
+
+{{< notice info Hinweis >}}
+ZUGFeRD ist nicht identisch mit der XRechnung – beide Formate können jedoch parallel genutzt werden, sofern der Empfänger dies unterstützt.

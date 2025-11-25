@@ -719,3 +719,163 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var PriceAllowanceChargeBaseAmount: text
  . var PriceAllowChargeBaseAmtCurrID: text
 ```
+
+#### OnAfterSetLinePriceAllowanceChargeInfo
+
+```al
+ . var TempLinePriceAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . SalesLine: Record "Sales Line"
+```
+
+This event is triggered after assigning the price allowance charge information for a sales line. It allows further adjustments to the allowance charge data at the line level.
+
+#### OnAfterSetLineAllowanceChargeInfo
+
+```al
+ . var TempLineAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"  
+ . SalesLine: Record "Sales Line"
+```
+
+This event is triggered after assigning the allowance charge information for a sales line. It allows further adjustments to the allowance charge data at the line level.
+
+#### OnAfterSetAllowanceChargeInfo
+
+```al
+ . var TempAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . VatAmtLine: Record "VAT Amount Line"
+```
+
+This event is triggered after assigning the allowance charge information at the document level. It allows further adjustments to the allowance charge data at the header level.
+
+#### OnAfterGetCrMemoBillingReferenceInfo
+
+```al
+ . SalesCrMemoHeader: record "Sales Cr.Memo Header"
+ . var InvoiceDocRefID: text
+ . var InvoiceDocRefIssueDate: text
+```
+
+This event is specific to credit memos and is triggered after determining the invoice reference information. It allows adjustment of the reference ID and issue date of the original invoice.
+
+#### OnAfterGetInvoiceGeneralInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var InvoiceGeneralInfo: Record "UBL-CR Invoice - General"
+```
+
+Allows customization of general invoice information after it has been determined.
+
+#### OnAfterGetPayeePartyInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var PayeePartyInfo: Record "UBL-CR Payee Party"
+```
+
+Event for customizing payee party information.
+
+#### OnAfterGetTaxTotalInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var TaxTotalInfo: Record "UBL-CR Tax Total"
+```
+
+Allows customization of tax total information.
+
+#### OnAfterGetCustomerPartyIdentificationID
+
+```al
+ . Customer: Record Customer
+ . var CustomerPartyIdentificationID: Text
+ . var schemeID: Text
+```
+
+Event for customizing customer party identification number and associated scheme identifier.
+
+#### OnAfterGetLineAdditionalDocumentReferenceInfo
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var LineAdditionalDocRefInfo: Record "UBL-CR Additional Doc Ref"
+```
+
+Allows customization of additional document references at line level.
+
+#### OnAfterGetLineItemStandardItemIdentificationID
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var StandardItemIdentificationID: Text
+ . var schemeID: Text
+```
+
+Event for customizing standard item identification at line level.
+
+#### OnAfterGetLineItemOriginCountryInfo
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var OriginCountryCode: Text
+```
+
+Allows customization of origin country code for items at line level.
+
+#### OnAfterGetInvoiceAdditionalDocumentReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var AdditionalDocRefInfo: Record "UBL-CR Additional Doc Ref"
+```
+
+Event for customizing additional document references at invoice level.
+
+#### OnAfterGetProjectReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var ProjectReferenceID: Text
+```
+
+Allows customization of project reference information.
+
+#### OnAfterGetDespatchDocumentReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var DespatchDocRefInfo: Record "UBL-CR Document Reference"
+```
+
+Event for customizing despatch document references.
+
+#### OnAfterGetReceiptDocumentReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var ReceiptDocRefInfo: Record "UBL-CR Document Reference"
+```
+
+
+#### OnGetInvoiceLine (Invoice specific)
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var skip: Boolean
+```
+
+This event is triggered for each invoice line and allows certain lines to be skipped or modified. By setting `skip` to `true`, a line can be excluded from XRechnung generation.
+
+Allows customization of receipt document references.
+#### OnGetCrMemoLine (Credit Memo Specific)
+
+```al
+ . SalesCrMemoLine: Record "Sales Cr.Memo Line"
+ . var skip: Boolean
+```
+
+Specific event for credit memos that allows certain credit memo lines to be skipped or modified during processing.
+``

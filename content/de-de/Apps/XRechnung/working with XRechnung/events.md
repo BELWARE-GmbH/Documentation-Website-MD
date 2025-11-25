@@ -643,7 +643,7 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var InvLnAllowanceChargeAmtCurrID: text
 ```
 
- #### OnAterGetLineDeliveryInfo
+ #### OnAfterGetLineDeliveryInfo
 
 ```al
  . SalesLine: record "Sales Line"
@@ -721,3 +721,247 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var PriceAllowanceChargeBaseAmount: text
  . var PriceAllowChargeBaseAmtCurrID: text
 ```
+
+#### OnAfterSetLinePriceAllowanceChargeInfo
+
+```al
+ . var TempLinePriceAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . SalesLine: Record "Sales Line"
+```
+
+Dieses Event wird ausgelöst nach der Zuweisung der Preis-Allowance-Charge-Informationen für eine Verkaufszeile. Es ermöglicht weitere Anpassungen an den Allowance-Charge-Daten auf Zeilenebene.
+
+#### OnAfterSetLineAllowanceChargeInfo
+
+```al
+ . var TempLineAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"  
+ . SalesLine: Record "Sales Line"
+```
+
+Dieses Event wird ausgelöst nach der Zuweisung der Allowance-Charge-Informationen für eine Verkaufszeile. Es ermöglicht weitere Anpassungen an den Allowance-Charge-Daten auf Zeilenebene.
+
+#### OnAfterSetAllowanceChargeInfo
+
+```al
+ . var TempAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . VatAmtLine: Record "VAT Amount Line"
+```
+
+Dieses Event wird ausgelöst nach der Zuweisung der Allowance-Charge-Informationen auf Belegebene. Es ermöglicht weitere Anpassungen an den Allowance-Charge-Daten auf Headerebene.
+
+#### OnAfterGetCrMemoBillingReferenceInfo
+
+```al
+ . SalesCrMemoHeader: record "Sales Cr.Memo Header"
+ . var InvoiceDocRefID: text
+ . var InvoiceDocRefIssueDate: text
+```
+
+Dieses Event ist spezifisch für Gutschriften und wird ausgelöst nach dem Ermitteln der Rechnungsreferenz-Informationen. Es ermöglicht die Anpassung der Referenz-ID und des Ausstellungsdatums der ursprünglichen Rechnung.
+
+#### OnAfterGetLineItemInfoWithBuyersItemIdentificationID
+
+```al
+ . SalesLine: Record "Sales Line"
+ . var Description: Text
+ . var Name: Text
+ . var BuyersItemIdentificationID: Text
+ . var SellersItemIdentificationID: Text
+ . var StandardItemIdentificationID: Text
+ . var StdItemIdIDSchemeID: Text
+ . var OriginCountryIdCode: Text
+ . var OriginCountryIdCodeListID: Text
+```
+
+Erweiterte Version des OnAfterGetLineItemInfo Events, die zusätzlich die Möglichkeit bietet, die Buyers Item Identification ID zu setzen. Ermöglicht die Zuordnung von artikelspezifischen Käufer-IDs.
+
+#### OnAfterGetAccountingSupplierPartyLegalEntityBISWithLegalForm
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var PartyLegalEntityRegName: Text
+ . var PartyLegalEntityCompanyID: Text
+ . var PartyLegalEntitySchemeID: Text
+ . var SupplierRegAddrCityName: Text
+ . var SupplierRegAddrCountryIdCode: Text
+ . var SupplRegAddrCountryIdListId: Text
+ . var PartyLegalEntityLegalForm: Text
+```
+
+Erweiterte Version des OnAfterGetAccountingSupplierPartyLegalEntityBIS Events mit zusätzlicher Unterstützung für die Rechtsform (LegalForm) des Lieferanten.
+
+#### OnAfterGetDeliveryAddressWithDeliveryPartyName
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var DeliveryStreetName: text
+ . var DeliveryAdditionalStreetName: text
+ . var DeliveryCityName: text
+ . var DeliveryPostalZone: text
+ . var DeliveryCountrySubentity: text
+ . var DeliveryCountryIdCode: text
+ . var DeliveryPartyName: Text
+```
+
+Erweiterte Version des OnAfterGetDeliveryAddress Events, die zusätzlich den Namen der Lieferpartei ermöglicht.
+
+#### OnAfterGetPaymentMeansPayeeFinancialAccBISWithPayeeFinancialAccountName
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var PayeeFinancialAccountID: Text
+ . var FinancialInstitutionBranchID: Text
+ . var PayeeFinancialAccountName: Text
+```
+
+Erweiterte Version des OnAfterGetPaymentMeansPayeeFinancialAccBIS Events mit zusätzlicher Unterstützung für den Namen des Zahlungsempfänger-Kontos.
+
+#### OnBeforeGetTotals
+
+```al
+ . var SalesLine: Record "Sales Line"
+ . var Skip: Boolean
+```
+
+Dieses Event wird ausgelöst vor der Berechnung der Gesamtbeträge für eine Verkaufszeile. Es ermöglicht das Überspringen bestimmter Zeilen bei der Gesamtberechnung oder die Modifikation der Zeilen vor der Verarbeitung.
+
+#### OnAfterGetBuyerReference
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var BuyerReference: Text
+```
+
+Ermöglicht die Anpassung der Käuferreferenz, die für die Identifikation beim Käufer verwendet wird.
+
+#### OnAfterGetLineUnitCodeInfo
+
+```al
+ . SalesLine: Record "Sales Line"
+ . var unitCode: Text
+```
+
+Ermöglicht die Anpassung der Einheitencodierung für Verkaufszeilen.
+
+#### OnAfterGetInvoiceGeneralInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var InvoiceGeneralInfo: Record "UBL-CR Invoice - General"
+```
+
+Ermöglicht die Anpassung der allgemeinen Rechnungsinformationen nach deren Ermittlung.
+
+#### OnAfterGetPayeePartyInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var PayeePartyInfo: Record "UBL-CR Payee Party"
+```
+
+Event zur Anpassung der Zahlungsempfänger-Informationen.
+
+#### OnAfterGetTaxTotalInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var TaxTotalInfo: Record "UBL-CR Tax Total"
+```
+
+Ermöglicht die Anpassung der Steuer-Gesamtinformationen.
+
+#### OnAfterGetCustomerPartyIdentificationID
+
+```al
+ . Customer: Record Customer
+ . var CustomerPartyIdentificationID: Text
+ . var schemeID: Text
+```
+
+Event zur Anpassung der Kunden-Identifikationsnummer und des zugehörigen Schema-Bezeichners.
+
+#### OnAfterGetLineAdditionalDocumentReferenceInfo
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var LineAdditionalDocRefInfo: Record "UBL-CR Additional Doc Ref"
+```
+
+Ermöglicht die Anpassung zusätzlicher Dokumentreferenzen auf Zeilenebene.
+
+#### OnAfterGetLineItemStandardItemIdentificationID
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var StandardItemIdentificationID: Text
+ . var schemeID: Text
+```
+
+Event zur Anpassung der Standard-Artikel-Identifikation auf Zeilenebene.
+
+#### OnAfterGetLineItemOriginCountryInfo
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var OriginCountryCode: Text
+```
+
+Ermöglicht die Anpassung des Ursprungslandcodes für Artikel auf Zeilenebene.
+
+#### OnAfterGetInvoiceAdditionalDocumentReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var AdditionalDocRefInfo: Record "UBL-CR Additional Doc Ref"
+```
+
+Event zur Anpassung zusätzlicher Dokumentreferenzen auf Rechnungsebene.
+
+#### OnAfterGetProjectReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var ProjectReferenceID: Text
+```
+
+Ermöglicht die Anpassung von Projekt-Referenzinformationen.
+
+#### OnAfterGetDespatchDocumentReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var DespatchDocRefInfo: Record "UBL-CR Document Reference"
+```
+
+Event zur Anpassung von Versanddokument-Referenzen.
+
+#### OnAfterGetReceiptDocumentReferenceInfo
+
+```al
+ . SalesInvoiceHeader: Record "Sales Invoice Header"
+ . var ReceiptDocRefInfo: Record "UBL-CR Document Reference"
+```
+
+Ermöglicht die Anpassung von Wareneingangsdokument-Referenzen.
+
+
+#### OnGetInvoiceLine (Rechnung-spezifisch)
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var skip: Boolean
+```
+
+Dieses Event wird für jede Rechnungszeile ausgelöst und ermöglicht es, bestimmte Zeilen zu überspringen oder zu modifizieren. Durch Setzen von `skip` auf `true` kann eine Zeile von der XRechnung-Erzeugung ausgeschlossen werden.
+
+#### OnGetCrMemoLine (Gutschrift-spezifisch)
+
+```al
+ . SalesCrMemoLine: Record "Sales Cr.Memo Line"
+ . var skip: Boolean
+```
+
+Spezifisches Event für Gutschriften, das es ermöglicht, bestimmte Gutschriftzeilen zu überspringen oder zu modifizieren.
