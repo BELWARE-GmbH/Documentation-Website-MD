@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2025-11-24T18:39:02Z
+date: 2025-11-25T18:33:50Z
 description: 
 draft: false
 collapsible: false
@@ -8,7 +8,7 @@ weight: 5
 ---
 #### 27.0.0.0
 [27.0.0.0_Connector 365 Addressee Control_1.11.25897.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Addressee%20Control/27.0.0.0_Connector%20365%20Addressee%20Control_1.11.25897.0_RT.app)
-[27.0.0.0_Connector 365 Base_2.32.27202.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Base/27.0.0.0_Connector%20365%20Base_2.32.27202.0_RT.app)
+[27.0.0.0_Connector 365 Base_2.33.27224.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Base/27.0.0.0_Connector%20365%20Base_2.33.27224.0_RT.app)
 [27.0.0.0_Connector 365 Custom Filename_1.3.25899.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Custom%20Filename/27.0.0.0_Connector%20365%20Custom%20Filename_1.3.25899.0_RT.app)
 [27.0.0.0_Connector 365 E-Documents_2.0.25902.3_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20E-Documents/27.0.0.0_Connector%20365%20E-Documents_2.0.25902.3_RT.app)
 [27.0.0.0_Connector 365 E-Documents Validator_1.5.26797.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20E-Documents%20Validator/27.0.0.0_Connector%20365%20E-Documents%20Validator_1.5.26797.0_RT.app)
