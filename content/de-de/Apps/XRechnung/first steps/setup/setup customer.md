@@ -33,7 +33,7 @@ Die Kundenreferenz kann auch im E-Mail-Dialog gesetzt werden, das heißt sie mus
 
 Im Feld **Beleg als Anhang hinzufügen** haben Sie drei Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.
 
-![](images/XRechnung/xrechnungbeleganhang.PNG)
+![](images/apps/XRechnung/de/xrechnungbeleganhang.png)
 
 **Nein** - Der Originalbeleg wird nicht zusätzlich mitversendet, es wird nur die XML der XRechnung versendet.
 
@@ -55,7 +55,14 @@ Mehr zum Theme ***XRechnung Syntax*** finden Sie [hier](de-de/apps/xrechnung/fir
 Zum aktuellen Zeitpunkt wird XRechnung-CII ausschließlich für die Belegart **Rechnung** unterstützt.
 {{< /notice >}}
 
-### E-Mail-Empfänger
+#### ZUGFeRD
+
+Sofern die App **Connector 365 PDF** installiert ist, kann die **Konformitätsstufe** auf **PDF/A-3B** gestellt werden.
+In Kombination mit der Syntax **CII** wird nun statt einer einfachen XML eine ZUGFeRD-PDF erstellt und versendet. 
+
+![](images/apps/XRechnung/de/xr-cust-rep-selection-conf-level.png)
+
+#### E-Mail-Empfänger
 
 Beim Versand der XRechnung, wird als E-Mail-Empfänger die Mail-Adresse aus dem Feld ***Empfänger-E-Mail*** verwendet.
 

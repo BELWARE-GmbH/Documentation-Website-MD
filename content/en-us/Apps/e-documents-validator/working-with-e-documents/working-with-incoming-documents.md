@@ -14,6 +14,8 @@ Additionally, it supports the **visualization** of XML documents by generating a
 If incoming documents contain embedded **attachments**, it also allows for their extraction so they can be directly imported into Business Central, ensuring easy access to your attachments at all times.
 
 Below, you will learn how to use the aforementioned features in Business Central.
+All mentioned functions are available both in the overview and the card of incoming documents.
+However, in our example, we will use the overview.
 
 ## Visualization
 

@@ -33,7 +33,7 @@ The customer reference can also be set in the e-mail dialog, i.e. it does not ne
 
 In the **Add document as attachment** field, you have three choices that determine how the original document and any attachments are handled.
 
-![](images/XRechnung/xr-embed-optoins.png)
+![](images/apps/XRechnung/us/xr-embed-options.png)
 
 **No** - The original document will not be sent additionally, only the XML of the XRechnung will be sent.
 
@@ -52,7 +52,14 @@ You can find out more about the **XRechnung syntax** theme [here](en-us/apps/xre
 XRechnung-CII is currently only supported for the **Invoice** document type.
 {{< /notice >}}
 
-### Send to Email
+#### ZUGFeRD
+
+If the **Connector 365 PDF** app is installed, the **Conformance Level** can be set to **PDF/A-3B**.
+In combination with the **CII** syntax, a ZUGFeRD-PDF is now created and sent instead of a simple XML.
+
+![](images/apps/XRechnung/us/xr-cust-rep-selection-conf-level.png)
+
+#### Send to Email
 
 When sending the XRechnung, the email address from the ***Send to Email*** field is used as the email recipient.
 

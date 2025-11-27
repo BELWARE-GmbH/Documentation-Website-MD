@@ -7,7 +7,7 @@ collapsible: true
 weight: 1
 ---
 
-# Arbeiten mit eingehenden Dokumenten 
+### Arbeiten mit eingehenden Dokumenten 
 
 **Connector 365 E-Documents Validator** bietet Werkzeuge an, um den Import von elektronischen Belegen
 zu unterstützen und zu verbessern.
@@ -19,8 +19,10 @@ Falls eingehende Dokumente eingebettete **Anhänge** enthalten, so wird zudem er
 diese direkt in Business Central zu importieren, so dass Sie jederzeit leichten Zugang zu Ihren Anhängen haben.
 
 Im Folgenden erfahren Sie, wie Sie die oben genannten Funktionen in Business Central verwenden können.
+Alle genannten Funktionen sind sowohl in der Überischt als auch der Karte der eingehenden Belege verfügbar.
+In unserem Beispiel nutzen wir jedoch die Übersicht.
 
-## Visualisierung
+#### Visualisierung
 
 Navigieren Sie über die Suchleiste zu der Seite **Eingehende Belege**:
 
@@ -62,7 +64,7 @@ Sie können das Erzeugen von Visualisierungs-Dateien auch automatisch bei Import
 Klicken Sie [hier](/de-de/apps/e-documents-validator/first-steps/setup/base-setup) um mehr zu erfahren.
 {{< /notice >}}
 
-## Validierungsbericht
+#### Validierungsbericht
 
 Um eingehende Dokumente zu validieren, öffnen Sie zunächst die Seite der eingehenden Belege:
 

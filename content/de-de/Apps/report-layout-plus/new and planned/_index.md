@@ -17,6 +17,10 @@ Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der [Support-Seite](de-de/apps/help-and-support/).
 
+#### Version 1.6.0.0 - 25.11.2025
+Neue Funktionen:
+- **Erweiterte Filterung für Berichtslayouts:** Implementierung verbesserter Filterfunktionalität für die Feldauswahl bei Berichtslayouts. Die neue Logik ermöglicht eine präzisere Kontrolle über die Layoutauswahl basierend auf Dokumentfeldern und deren Werten.
+
 #### Version 1.5.0.3 - 02.08.2024
 Korrekturen:
 - Die Aktivierung des Parts Feldauswahl auf der Seite Berichtslayoutauswahl wurde korrigiert.
@@ -30,7 +34,7 @@ Korrekturen:
 - Anpassungen, dass die App mit dern neuen Easy Batch Version funktioniert.
 
 #### Version 1.5.0.0 - 10.07.2024
-Neuerungen:
+Neue Funktionen:
 - Layouts, welche über die App hinterlegt wurden haben nun immer die höchste Priorität.
 
 #### Version 1.4.0.3 - 22.03.2024

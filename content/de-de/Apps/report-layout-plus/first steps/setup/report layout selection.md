@@ -31,7 +31,7 @@ Durch Klick in das Feld **Feldbezeichnung** gelangen Sie in die Auswahl der Feld
 
 ![](images/apps/Report_Layout_Plus/de-de/app_field_selection_lookup.png)
 
-Über das Feld **Feldwert** gelangen Sie in die Auswahl der verfügbaren Werte des zuvor ausgewählten Feldes. Diese Übersicht enthält sämtliche Werte des jeweiligen Belegkopfes. Sie können einen Wert auswählen oder auch einen benutzerdefinierten Wert eingeben.
+Über das Feld **Feldwert** gelangen Sie in die Auswahl der verfügbaren Werte des zuvor ausgewählten Feldes. Diese Übersicht enthält sämtliche Werte des jeweiligen Belegkopfes. Sie können einen Wert auswählen oder auch einen benutzerdefinierten Wert eingeben. Außerdem ist es möglich einen Filterausdruck, wie Sie es aus Business Central gewohnt sind, zu hinterlegen.
 
 Über das Feld **Layoutcode** kann nun das gewünschte Layout ausgewählt werden.
 Nun können noch beliebige weitere Bedingungen hinterlegt werden. Diese werden nach absteigender Priorität berücksichtigt. Sollte also die Bedingung aus Zeile 1 zutreffen, werden die weiteren Zeilen nicht mehr berücksichtigt.
