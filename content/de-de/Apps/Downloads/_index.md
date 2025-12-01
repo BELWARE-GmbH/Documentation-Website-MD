@@ -1,14 +1,15 @@
 ---
 title: "Downloads"
-date: 2025-11-25T18:33:50Z
+date: 2025-11-30T18:42:41Z
 description: 
 draft: false
 collapsible: false
 weight: 5
 ---
+#### 27.1.0.0
 #### 27.0.0.0
 [27.0.0.0_Connector 365 Addressee Control_1.11.25897.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Addressee%20Control/27.0.0.0_Connector%20365%20Addressee%20Control_1.11.25897.0_RT.app)
-[27.0.0.0_Connector 365 Base_2.33.27224.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Base/27.0.0.0_Connector%20365%20Base_2.33.27224.0_RT.app)
+[27.0.0.0_Connector 365 Base_2.34.27355.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Base/27.0.0.0_Connector%20365%20Base_2.34.27355.0_RT.app)
 [27.0.0.0_Connector 365 Custom Filename_1.3.25899.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Custom%20Filename/27.0.0.0_Connector%20365%20Custom%20Filename_1.3.25899.0_RT.app)
 [27.0.0.0_Connector 365 E-Documents_2.0.25902.3_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20E-Documents/27.0.0.0_Connector%20365%20E-Documents_2.0.25902.3_RT.app)
 [27.0.0.0_Connector 365 E-Documents Validator_1.5.26797.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20E-Documents%20Validator/27.0.0.0_Connector%20365%20E-Documents%20Validator_1.5.26797.0_RT.app)
@@ -23,9 +24,10 @@ weight: 5
 [27.0.0.0_Connector 365 Upgrade_1.1.25892.2_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20Upgrade/27.0.0.0_Connector%20365%20Upgrade_1.1.25892.2_RT.app)
 [27.0.0.0_Connector 365 XRechnung_2.23.27010.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20XRechnung/27.0.0.0_Connector%20365%20XRechnung_2.23.27010.0_RT.app)
 [27.0.0.0_Connector 365 pdfPaper_1.10.25891.0_RT.app](https://belwareapps.blob.core.windows.net/apps/27.0.0.0/Connector%20365%20pdfPaper/27.0.0.0_Connector%20365%20pdfPaper_1.10.25891.0_RT.app)
+#### 26.7.0.0
 #### 26.6.0.0
 [26.6.0.0_Connector 365 Addressee Control_1.11.25949.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.6.0.0/Connector%20365%20Addressee%20Control/26.6.0.0_Connector%20365%20Addressee%20Control_1.11.25949.0_RT.app)
-[26.6.0.0_Connector 365 Base_2.33.27223.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.6.0.0/Connector%20365%20Base/26.6.0.0_Connector%20365%20Base_2.33.27223.0_RT.app)
+[26.6.0.0_Connector 365 Base_2.34.27356.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.6.0.0/Connector%20365%20Base/26.6.0.0_Connector%20365%20Base_2.34.27356.0_RT.app)
 [26.6.0.0_Connector 365 Custom Filename_1.3.25943.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.6.0.0/Connector%20365%20Custom%20Filename/26.6.0.0_Connector%20365%20Custom%20Filename_1.3.25943.0_RT.app)
 [26.6.0.0_Connector 365 E-Documents_2.0.25953.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.6.0.0/Connector%20365%20E-Documents/26.6.0.0_Connector%20365%20E-Documents_2.0.25953.3_RT.app)
 [26.6.0.0_Connector 365 E-Documents Validator_1.5.26796.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.6.0.0/Connector%20365%20E-Documents%20Validator/26.6.0.0_Connector%20365%20E-Documents%20Validator_1.5.26796.0_RT.app)
@@ -43,7 +45,7 @@ weight: 5
 [26.6.0.0_Connector 365 pdfPaper_1.10.25940.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.6.0.0/Connector%20365%20pdfPaper/26.6.0.0_Connector%20365%20pdfPaper_1.10.25940.0_RT.app)
 #### 26.5.0.0
 [26.5.0.0_Connector 365 Addressee Control_1.11.25896.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20Addressee%20Control/26.5.0.0_Connector%20365%20Addressee%20Control_1.11.25896.0_RT.app)
-[26.5.0.0_Connector 365 Base_2.33.27222.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20Base/26.5.0.0_Connector%20365%20Base_2.33.27222.0_RT.app)
+[26.5.0.0_Connector 365 Base_2.34.27357.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20Base/26.5.0.0_Connector%20365%20Base_2.34.27357.0_RT.app)
 [26.5.0.0_Connector 365 Custom Filename_1.3.25898.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20Custom%20Filename/26.5.0.0_Connector%20365%20Custom%20Filename_1.3.25898.0_RT.app)
 [26.5.0.0_Connector 365 E-Documents_2.0.25900.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20E-Documents/26.5.0.0_Connector%20365%20E-Documents_2.0.25900.3_RT.app)
 [26.5.0.0_Connector 365 E-Documents Validator_1.5.26795.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20E-Documents%20Validator/26.5.0.0_Connector%20365%20E-Documents%20Validator_1.5.26795.0_RT.app)
@@ -61,7 +63,7 @@ weight: 5
 [26.5.0.0_Connector 365 pdfPaper_1.10.25887.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.5.0.0/Connector%20365%20pdfPaper/26.5.0.0_Connector%20365%20pdfPaper_1.10.25887.0_RT.app)
 #### 26.4.0.0
 [26.4.0.0_Connector 365 Addressee Control_1.11.24515.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20Addressee%20Control/26.4.0.0_Connector%20365%20Addressee%20Control_1.11.24515.0_RT.app)
-[26.4.0.0_Connector 365 Base_2.33.27221.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20Base/26.4.0.0_Connector%20365%20Base_2.33.27221.0_RT.app)
+[26.4.0.0_Connector 365 Base_2.34.27358.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20Base/26.4.0.0_Connector%20365%20Base_2.34.27358.0_RT.app)
 [26.4.0.0_Connector 365 CTI for STARFACE_2.2.24499.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20CTI%20for%20STARFACE/26.4.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.24499.1_RT.app)
 [26.4.0.0_Connector 365 Custom Filename_1.3.24523.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20Custom%20Filename/26.4.0.0_Connector%20365%20Custom%20Filename_1.3.24523.0_RT.app)
 [26.4.0.0_Connector 365 E-Documents_2.0.24503.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20E-Documents/26.4.0.0_Connector%20365%20E-Documents_2.0.24503.3_RT.app)
@@ -80,7 +82,7 @@ weight: 5
 [26.4.0.0_Connector 365 pdfPaper_1.10.24531.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.4.0.0/Connector%20365%20pdfPaper/26.4.0.0_Connector%20365%20pdfPaper_1.10.24531.0_RT.app)
 #### 26.3.0.0
 [26.3.0.0_Connector 365 Addressee Control_1.11.23654.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.3.0.0/Connector%20365%20Addressee%20Control/26.3.0.0_Connector%20365%20Addressee%20Control_1.11.23654.0_RT.app)
-[26.3.0.0_Connector 365 Base_2.33.27220.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.3.0.0/Connector%20365%20Base/26.3.0.0_Connector%20365%20Base_2.33.27220.0_RT.app)
+[26.3.0.0_Connector 365 Base_2.34.27359.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.3.0.0/Connector%20365%20Base/26.3.0.0_Connector%20365%20Base_2.34.27359.0_RT.app)
 [26.3.0.0_Connector 365 CTI for STARFACE_2.2.23662.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.3.0.0/Connector%20365%20CTI%20for%20STARFACE/26.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.23662.1_RT.app)
 [26.3.0.0_Connector 365 Custom Filename_1.3.23746.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.3.0.0/Connector%20365%20Custom%20Filename/26.3.0.0_Connector%20365%20Custom%20Filename_1.3.23746.0_RT.app)
 [26.3.0.0_Connector 365 E-Documents_2.0.23674.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.3.0.0/Connector%20365%20E-Documents/26.3.0.0_Connector%20365%20E-Documents_2.0.23674.3_RT.app)
@@ -99,7 +101,7 @@ weight: 5
 [26.3.0.0_Connector 365 pdfPaper_1.10.23702.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.3.0.0/Connector%20365%20pdfPaper/26.3.0.0_Connector%20365%20pdfPaper_1.10.23702.0_RT.app)
 #### 26.2.0.0
 [26.2.0.0_Connector 365 Addressee Control_1.11.23454.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.2.0.0/Connector%20365%20Addressee%20Control/26.2.0.0_Connector%20365%20Addressee%20Control_1.11.23454.0_RT.app)
-[26.2.0.0_Connector 365 Base_2.33.27219.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.2.0.0/Connector%20365%20Base/26.2.0.0_Connector%20365%20Base_2.33.27219.0_RT.app)
+[26.2.0.0_Connector 365 Base_2.34.27360.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.2.0.0/Connector%20365%20Base/26.2.0.0_Connector%20365%20Base_2.34.27360.0_RT.app)
 [26.2.0.0_Connector 365 CTI for STARFACE_2.2.23457.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.2.0.0/Connector%20365%20CTI%20for%20STARFACE/26.2.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.23457.1_RT.app)
 [26.2.0.0_Connector 365 Custom Filename_1.3.23745.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.2.0.0/Connector%20365%20Custom%20Filename/26.2.0.0_Connector%20365%20Custom%20Filename_1.3.23745.0_RT.app)
 [26.2.0.0_Connector 365 E-Documents_2.0.23459.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.2.0.0/Connector%20365%20E-Documents/26.2.0.0_Connector%20365%20E-Documents_2.0.23459.3_RT.app)
@@ -118,7 +120,7 @@ weight: 5
 [26.2.0.0_Connector 365 pdfPaper_1.10.23466.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.2.0.0/Connector%20365%20pdfPaper/26.2.0.0_Connector%20365%20pdfPaper_1.10.23466.0_RT.app)
 #### 26.1.0.0
 [26.1.0.0_Connector 365 Addressee Control_1.11.23246.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Addressee%20Control/26.1.0.0_Connector%20365%20Addressee%20Control_1.11.23246.0_RT.app)
-[26.1.0.0_Connector 365 Base_2.33.27218.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Base/26.1.0.0_Connector%20365%20Base_2.33.27218.0_RT.app)
+[26.1.0.0_Connector 365 Base_2.34.27361.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Base/26.1.0.0_Connector%20365%20Base_2.34.27361.0_RT.app)
 [26.1.0.0_Connector 365 CTI for STARFACE_2.2.22064.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20CTI%20for%20STARFACE/26.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.22064.1_RT.app)
 [26.1.0.0_Connector 365 Custom Filename_1.3.23744.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20Custom%20Filename/26.1.0.0_Connector%20365%20Custom%20Filename_1.3.23744.0_RT.app)
 [26.1.0.0_Connector 365 E-Documents_2.0.22070.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20E-Documents/26.1.0.0_Connector%20365%20E-Documents_2.0.22070.3_RT.app)
@@ -137,7 +139,7 @@ weight: 5
 [26.1.0.0_Connector 365 pdfPaper_1.10.22100.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.1.0.0/Connector%20365%20pdfPaper/26.1.0.0_Connector%20365%20pdfPaper_1.10.22100.0_RT.app)
 #### 26.0.0.0
 [26.0.0.0_Connector 365 Addressee Control_1.11.23245.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Addressee%20Control/26.0.0.0_Connector%20365%20Addressee%20Control_1.11.23245.0_RT.app)
-[26.0.0.0_Connector 365 Base_2.33.27217.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Base/26.0.0.0_Connector%20365%20Base_2.33.27217.0_RT.app)
+[26.0.0.0_Connector 365 Base_2.34.27362.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Base/26.0.0.0_Connector%20365%20Base_2.34.27362.0_RT.app)
 [26.0.0.0_Connector 365 CTI for STARFACE_2.2.21316.1_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20CTI%20for%20STARFACE/26.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.21316.1_RT.app)
 [26.0.0.0_Connector 365 Custom Filename_1.3.23743.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20Custom%20Filename/26.0.0.0_Connector%20365%20Custom%20Filename_1.3.23743.0_RT.app)
 [26.0.0.0_Connector 365 E-Documents_2.0.21311.3_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20E-Documents/26.0.0.0_Connector%20365%20E-Documents_2.0.21311.3_RT.app)
@@ -155,7 +157,7 @@ weight: 5
 [26.0.0.0_Connector 365 pdfPaper_1.10.21357.0_RT.app](https://belwareapps.blob.core.windows.net/apps/26.0.0.0/Connector%20365%20pdfPaper/26.0.0.0_Connector%20365%20pdfPaper_1.10.21357.0_RT.app)
 #### 25.12.0.0
 [25.12.0.0_Connector 365 Addressee Control_1.11.26266.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20Addressee%20Control/25.12.0.0_Connector%20365%20Addressee%20Control_1.11.26266.0_RT.app)
-[25.12.0.0_Connector 365 Base_2.33.27208.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20Base/25.12.0.0_Connector%20365%20Base_2.33.27208.0_RT.app)
+[25.12.0.0_Connector 365 Base_2.34.27371.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20Base/25.12.0.0_Connector%20365%20Base_2.34.27371.0_RT.app)
 [25.12.0.0_Connector 365 CTI for STARFACE_2.2.26269.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20CTI%20for%20STARFACE/25.12.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.26269.1_RT.app)
 [25.12.0.0_Connector 365 Custom Filename_1.3.26255.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20Custom%20Filename/25.12.0.0_Connector%20365%20Custom%20Filename_1.3.26255.0_RT.app)
 [25.12.0.0_Connector 365 E-Documents_2.0.26268.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20E-Documents/25.12.0.0_Connector%20365%20E-Documents_2.0.26268.3_RT.app)
@@ -173,13 +175,13 @@ weight: 5
 [25.12.0.0_Connector 365 XRechnung_2.23.26994.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20XRechnung/25.12.0.0_Connector%20365%20XRechnung_2.23.26994.0_RT.app)
 [25.12.0.0_Connector 365 pdfPaper_1.10.26253.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.12.0.0/Connector%20365%20pdfPaper/25.12.0.0_Connector%20365%20pdfPaper_1.10.26253.0_RT.app)
 #### 25.11.0.0
-[25.11.0.0_Connector 365 Base_2.33.27207.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.11.0.0/Connector%20365%20Base/25.11.0.0_Connector%20365%20Base_2.33.27207.0_RT.app)
+[25.11.0.0_Connector 365 Base_2.34.27372.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.11.0.0/Connector%20365%20Base/25.11.0.0_Connector%20365%20Base_2.34.27372.0_RT.app)
 [25.11.0.0_Connector 365 Easy Batch_2.30.27163.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.11.0.0/Connector%20365%20Easy%20Batch/25.11.0.0_Connector%20365%20Easy%20Batch_2.30.27163.0_RT.app)
 [25.11.0.0_Connector 365 PDF_1.4.26865.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.11.0.0/Connector%20365%20PDF/25.11.0.0_Connector%20365%20PDF_1.4.26865.0_RT.app)
 [25.11.0.0_Connector 365 XRechnung_2.23.26993.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.11.0.0/Connector%20365%20XRechnung/25.11.0.0_Connector%20365%20XRechnung_2.23.26993.0_RT.app)
 #### 25.10.0.0
 [25.10.0.0_Connector 365 Addressee Control_1.11.24513.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20Addressee%20Control/25.10.0.0_Connector%20365%20Addressee%20Control_1.11.24513.0_RT.app)
-[25.10.0.0_Connector 365 Base_2.33.27206.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20Base/25.10.0.0_Connector%20365%20Base_2.33.27206.0_RT.app)
+[25.10.0.0_Connector 365 Base_2.34.27373.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20Base/25.10.0.0_Connector%20365%20Base_2.34.27373.0_RT.app)
 [25.10.0.0_Connector 365 CTI for STARFACE_2.2.24498.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20CTI%20for%20STARFACE/25.10.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.24498.1_RT.app)
 [25.10.0.0_Connector 365 Custom Filename_1.3.24522.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20Custom%20Filename/25.10.0.0_Connector%20365%20Custom%20Filename_1.3.24522.0_RT.app)
 [25.10.0.0_Connector 365 E-Documents_2.0.24501.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20E-Documents/25.10.0.0_Connector%20365%20E-Documents_2.0.24501.3_RT.app)
@@ -198,7 +200,7 @@ weight: 5
 [25.10.0.0_Connector 365 pdfPaper_1.10.24530.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.10.0.0/Connector%20365%20pdfPaper/25.10.0.0_Connector%20365%20pdfPaper_1.10.24530.0_RT.app)
 #### 25.9.0.0
 [25.9.0.0_Connector 365 Addressee Control_1.11.23651.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.9.0.0/Connector%20365%20Addressee%20Control/25.9.0.0_Connector%20365%20Addressee%20Control_1.11.23651.0_RT.app)
-[25.9.0.0_Connector 365 Base_2.33.27216.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.9.0.0/Connector%20365%20Base/25.9.0.0_Connector%20365%20Base_2.33.27216.0_RT.app)
+[25.9.0.0_Connector 365 Base_2.34.27363.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.9.0.0/Connector%20365%20Base/25.9.0.0_Connector%20365%20Base_2.34.27363.0_RT.app)
 [25.9.0.0_Connector 365 CTI for STARFACE_2.2.23661.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.9.0.0/Connector%20365%20CTI%20for%20STARFACE/25.9.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.23661.1_RT.app)
 [25.9.0.0_Connector 365 Custom Filename_1.3.23742.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.9.0.0/Connector%20365%20Custom%20Filename/25.9.0.0_Connector%20365%20Custom%20Filename_1.3.23742.0_RT.app)
 [25.9.0.0_Connector 365 E-Documents_2.0.23672.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.9.0.0/Connector%20365%20E-Documents/25.9.0.0_Connector%20365%20E-Documents_2.0.23672.3_RT.app)
@@ -216,7 +218,7 @@ weight: 5
 [25.9.0.0_Connector 365 pdfPaper_1.10.23700.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.9.0.0/Connector%20365%20pdfPaper/25.9.0.0_Connector%20365%20pdfPaper_1.10.23700.0_RT.app)
 #### 25.8.0.0
 [25.8.0.0_Connector 365 Addressee Control_1.11.23649.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.8.0.0/Connector%20365%20Addressee%20Control/25.8.0.0_Connector%20365%20Addressee%20Control_1.11.23649.0_RT.app)
-[25.8.0.0_Connector 365 Base_2.33.27215.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.8.0.0/Connector%20365%20Base/25.8.0.0_Connector%20365%20Base_2.33.27215.0_RT.app)
+[25.8.0.0_Connector 365 Base_2.34.27364.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.8.0.0/Connector%20365%20Base/25.8.0.0_Connector%20365%20Base_2.34.27364.0_RT.app)
 [25.8.0.0_Connector 365 CTI for STARFACE_2.2.23660.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.8.0.0/Connector%20365%20CTI%20for%20STARFACE/25.8.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.23660.1_RT.app)
 [25.8.0.0_Connector 365 Custom Filename_1.3.23741.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.8.0.0/Connector%20365%20Custom%20Filename/25.8.0.0_Connector%20365%20Custom%20Filename_1.3.23741.0_RT.app)
 [25.8.0.0_Connector 365 E-Documents_2.0.23670.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.8.0.0/Connector%20365%20E-Documents/25.8.0.0_Connector%20365%20E-Documents_2.0.23670.3_RT.app)
@@ -235,7 +237,7 @@ weight: 5
 [25.8.0.0_Connector 365 pdfPaper_1.10.23698.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.8.0.0/Connector%20365%20pdfPaper/25.8.0.0_Connector%20365%20pdfPaper_1.10.23698.0_RT.app)
 #### 25.7.0.0
 [25.7.0.0_Connector 365 Addressee Control_1.11.23244.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Addressee%20Control/25.7.0.0_Connector%20365%20Addressee%20Control_1.11.23244.0_RT.app)
-[25.7.0.0_Connector 365 Base_2.33.27214.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Base/25.7.0.0_Connector%20365%20Base_2.33.27214.0_RT.app)
+[25.7.0.0_Connector 365 Base_2.34.27365.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Base/25.7.0.0_Connector%20365%20Base_2.34.27365.0_RT.app)
 [25.7.0.0_Connector 365 CTI for STARFACE_2.2.22063.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20CTI%20for%20STARFACE/25.7.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.22063.1_RT.app)
 [25.7.0.0_Connector 365 Custom Filename_1.3.23740.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20Custom%20Filename/25.7.0.0_Connector%20365%20Custom%20Filename_1.3.23740.0_RT.app)
 [25.7.0.0_Connector 365 E-Documents_2.0.22069.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20E-Documents/25.7.0.0_Connector%20365%20E-Documents_2.0.22069.3_RT.app)
@@ -254,7 +256,7 @@ weight: 5
 [25.7.0.0_Connector 365 pdfPaper_1.10.22099.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.7.0.0/Connector%20365%20pdfPaper/25.7.0.0_Connector%20365%20pdfPaper_1.10.22099.0_RT.app)
 #### 25.6.0.0
 [25.6.0.0_Connector 365 Addressee Control_1.11.23243.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20Addressee%20Control/25.6.0.0_Connector%20365%20Addressee%20Control_1.11.23243.0_RT.app)
-[25.6.0.0_Connector 365 Base_2.33.27213.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20Base/25.6.0.0_Connector%20365%20Base_2.33.27213.0_RT.app)
+[25.6.0.0_Connector 365 Base_2.34.27366.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20Base/25.6.0.0_Connector%20365%20Base_2.34.27366.0_RT.app)
 [25.6.0.0_Connector 365 CTI for STARFACE_2.2.21315.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20CTI%20for%20STARFACE/25.6.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.21315.1_RT.app)
 [25.6.0.0_Connector 365 Custom Filename_1.3.23739.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20Custom%20Filename/25.6.0.0_Connector%20365%20Custom%20Filename_1.3.23739.0_RT.app)
 [25.6.0.0_Connector 365 E-Documents_2.0.21310.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20E-Documents/25.6.0.0_Connector%20365%20E-Documents_2.0.21310.3_RT.app)
@@ -273,7 +275,7 @@ weight: 5
 [25.6.0.0_Connector 365 pdfPaper_1.10.21354.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.6.0.0/Connector%20365%20pdfPaper/25.6.0.0_Connector%20365%20pdfPaper_1.10.21354.0_RT.app)
 #### 25.5.0.0
 [25.5.0.0_Connector 365 Addressee Control_1.11.23242.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.5.0.0/Connector%20365%20Addressee%20Control/25.5.0.0_Connector%20365%20Addressee%20Control_1.11.23242.0_RT.app)
-[25.5.0.0_Connector 365 Base_2.33.27212.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.5.0.0/Connector%20365%20Base/25.5.0.0_Connector%20365%20Base_2.33.27212.0_RT.app)
+[25.5.0.0_Connector 365 Base_2.34.27367.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.5.0.0/Connector%20365%20Base/25.5.0.0_Connector%20365%20Base_2.34.27367.0_RT.app)
 [25.5.0.0_Connector 365 CTI for STARFACE_2.2.20301.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.5.0.0/Connector%20365%20CTI%20for%20STARFACE/25.5.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.20301.1_RT.app)
 [25.5.0.0_Connector 365 Custom Filename_1.3.23738.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.5.0.0/Connector%20365%20Custom%20Filename/25.5.0.0_Connector%20365%20Custom%20Filename_1.3.23738.0_RT.app)
 [25.5.0.0_Connector 365 E-Documents_2.0.21059.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.5.0.0/Connector%20365%20E-Documents/25.5.0.0_Connector%20365%20E-Documents_2.0.21059.3_RT.app)
@@ -291,7 +293,7 @@ weight: 5
 [25.5.0.0_Connector 365 pdfPaper_1.10.21096.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.5.0.0/Connector%20365%20pdfPaper/25.5.0.0_Connector%20365%20pdfPaper_1.10.21096.0_RT.app)
 #### 25.4.0.0
 [25.4.0.0_Connector 365 Addressee Control_1.11.23241.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.4.0.0/Connector%20365%20Addressee%20Control/25.4.0.0_Connector%20365%20Addressee%20Control_1.11.23241.0_RT.app)
-[25.4.0.0_Connector 365 Base_2.33.27211.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.4.0.0/Connector%20365%20Base/25.4.0.0_Connector%20365%20Base_2.33.27211.0_RT.app)
+[25.4.0.0_Connector 365 Base_2.34.27368.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.4.0.0/Connector%20365%20Base/25.4.0.0_Connector%20365%20Base_2.34.27368.0_RT.app)
 [25.4.0.0_Connector 365 CTI for STARFACE_2.2.20298.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.4.0.0/Connector%20365%20CTI%20for%20STARFACE/25.4.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.20298.1_RT.app)
 [25.4.0.0_Connector 365 Custom Filename_1.3.23737.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.4.0.0/Connector%20365%20Custom%20Filename/25.4.0.0_Connector%20365%20Custom%20Filename_1.3.23737.0_RT.app)
 [25.4.0.0_Connector 365 E-Documents_2.0.21058.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.4.0.0/Connector%20365%20E-Documents/25.4.0.0_Connector%20365%20E-Documents_2.0.21058.3_RT.app)
@@ -309,7 +311,7 @@ weight: 5
 [25.4.0.0_Connector 365 pdfPaper_1.10.21095.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.4.0.0/Connector%20365%20pdfPaper/25.4.0.0_Connector%20365%20pdfPaper_1.10.21095.0_RT.app)
 #### 25.3.0.0
 [25.3.0.0_Connector 365 Addressee Control_1.11.23240.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Addressee%20Control/25.3.0.0_Connector%20365%20Addressee%20Control_1.11.23240.0_RT.app)
-[25.3.0.0_Connector 365 Base_2.33.27210.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Base/25.3.0.0_Connector%20365%20Base_2.33.27210.0_RT.app)
+[25.3.0.0_Connector 365 Base_2.34.27369.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Base/25.3.0.0_Connector%20365%20Base_2.34.27369.0_RT.app)
 [25.3.0.0_Connector 365 CTI for STARFACE_2.2.21314.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20CTI%20for%20STARFACE/25.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.21314.1_RT.app)
 [25.3.0.0_Connector 365 Custom Filename_1.3.23736.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20Custom%20Filename/25.3.0.0_Connector%20365%20Custom%20Filename_1.3.23736.0_RT.app)
 [25.3.0.0_Connector 365 E-Documents_2.0.21309.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20E-Documents/25.3.0.0_Connector%20365%20E-Documents_2.0.21309.3_RT.app)
@@ -328,7 +330,7 @@ weight: 5
 [25.3.0.0_Connector 365 pdfPaper_1.10.21353.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.3.0.0/Connector%20365%20pdfPaper/25.3.0.0_Connector%20365%20pdfPaper_1.10.21353.0_RT.app)
 #### 25.2.0.0
 [25.2.0.0_Connector 365 Addressee Control_1.11.23239.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.2.0.0/Connector%20365%20Addressee%20Control/25.2.0.0_Connector%20365%20Addressee%20Control_1.11.23239.0_RT.app)
-[25.2.0.0_Connector 365 Base_2.33.27209.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.2.0.0/Connector%20365%20Base/25.2.0.0_Connector%20365%20Base_2.33.27209.0_RT.app)
+[25.2.0.0_Connector 365 Base_2.34.27370.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.2.0.0/Connector%20365%20Base/25.2.0.0_Connector%20365%20Base_2.34.27370.0_RT.app)
 [25.2.0.0_Connector 365 CTI for STARFACE_2.2.19374.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.2.0.0/Connector%20365%20CTI%20for%20STARFACE/25.2.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.19374.1_RT.app)
 [25.2.0.0_Connector 365 Custom Filename_1.3.23735.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.2.0.0/Connector%20365%20Custom%20Filename/25.2.0.0_Connector%20365%20Custom%20Filename_1.3.23735.0_RT.app)
 [25.2.0.0_Connector 365 E-Documents_2.0.21056.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.2.0.0/Connector%20365%20E-Documents/25.2.0.0_Connector%20365%20E-Documents_2.0.21056.3_RT.app)
@@ -347,7 +349,7 @@ weight: 5
 [25.2.0.0_Connector 365 pdfPaper_1.10.21093.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.2.0.0/Connector%20365%20pdfPaper/25.2.0.0_Connector%20365%20pdfPaper_1.10.21093.0_RT.app)
 #### 25.1.0.0
 [25.1.0.0_Connector 365 Addressee Control_1.11.23238.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.1.0.0/Connector%20365%20Addressee%20Control/25.1.0.0_Connector%20365%20Addressee%20Control_1.11.23238.0_RT.app)
-[25.1.0.0_Connector 365 Base_2.33.27205.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.1.0.0/Connector%20365%20Base/25.1.0.0_Connector%20365%20Base_2.33.27205.0_RT.app)
+[25.1.0.0_Connector 365 Base_2.34.27374.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.1.0.0/Connector%20365%20Base/25.1.0.0_Connector%20365%20Base_2.34.27374.0_RT.app)
 [25.1.0.0_Connector 365 CTI for STARFACE_2.2.19373.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.1.0.0/Connector%20365%20CTI%20for%20STARFACE/25.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.19373.1_RT.app)
 [25.1.0.0_Connector 365 Custom Filename_1.3.23734.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.1.0.0/Connector%20365%20Custom%20Filename/25.1.0.0_Connector%20365%20Custom%20Filename_1.3.23734.0_RT.app)
 [25.1.0.0_Connector 365 E-Documents_2.0.21055.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.1.0.0/Connector%20365%20E-Documents/25.1.0.0_Connector%20365%20E-Documents_2.0.21055.3_RT.app)
@@ -366,7 +368,7 @@ weight: 5
 [25.1.0.0_Connector 365 pdfPaper_1.10.21092.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.1.0.0/Connector%20365%20pdfPaper/25.1.0.0_Connector%20365%20pdfPaper_1.10.21092.0_RT.app)
 #### 25.0.0.0
 [25.0.0.0_Connector 365 Addressee Control_1.11.23237.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20Addressee%20Control/25.0.0.0_Connector%20365%20Addressee%20Control_1.11.23237.0_RT.app)
-[25.0.0.0_Connector 365 Base_2.33.27204.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20Base/25.0.0.0_Connector%20365%20Base_2.33.27204.0_RT.app)
+[25.0.0.0_Connector 365 Base_2.34.27375.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20Base/25.0.0.0_Connector%20365%20Base_2.34.27375.0_RT.app)
 [25.0.0.0_Connector 365 CTI for STARFACE_2.2.19372.1_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20CTI%20for%20STARFACE/25.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.19372.1_RT.app)
 [25.0.0.0_Connector 365 Custom Filename_1.3.23733.0_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20Custom%20Filename/25.0.0.0_Connector%20365%20Custom%20Filename_1.3.23733.0_RT.app)
 [25.0.0.0_Connector 365 E-Documents_2.0.21054.3_RT.app](https://belwareapps.blob.core.windows.net/apps/25.0.0.0/Connector%20365%20E-Documents/25.0.0.0_Connector%20365%20E-Documents_2.0.21054.3_RT.app)
