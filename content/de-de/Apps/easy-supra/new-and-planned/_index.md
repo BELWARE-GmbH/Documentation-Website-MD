@@ -23,7 +23,7 @@ weight: 1
 - Verbesserte Sichtbarkeit wichtiger Datumsinformationen in Standard-Business Central Seiten
 - Optimierte Navigation und Dateneingabe
 
-**Fehlerbeheubungen und Verbesserungen**
+**Fehlerbehebungen und Verbesserungen**
 - Korrektur der Company Logo-Anzeige in Lieferantenbewertungslisten-Reports
 - Verwendung der korrekten Tabelle für Quality Protocol in Reports zur präziseren Datenverarbeitung
 - Verbesserte Objekt-ID-Behandlung zur Vermeidung von hardcodierten Referenzen
