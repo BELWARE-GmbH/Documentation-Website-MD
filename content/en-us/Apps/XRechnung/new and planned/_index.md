@@ -9,13 +9,81 @@ weight: 1
 
 ### New and planned
 
+#### Version 2.23.0.0 - 18.11.2025
+**New Features:**
+
+**Event Parameter Fix for Sales Credit Memos**
+- Fixed incorrect parameter passing in the OnAfterGetLineGeneralInfo event for sales credit memos
+- The SalesCrMemoLineID parameter is now correctly passed
+
+#### Version 2.22.0.0 - 14.11.2025
+**New Features:**
+
+**ZUGFeRD PDF Support**
+- Full integration of ZUGFeRD functionality for creating PDF/A-3B compliant documents
+- Automatic embedding of XRechnung XML data in PDF attachments according to ZUGFeRD standard
+- Support for CII syntax (Cross Industry Invoice) in PDF generation
+- Configurable PDF/A-3B conformance levels for different use cases
+- Enables hybrid presentation of invoices (human-readable PDF + machine-readable XML)
+
+#### Version 2.21.0.0 - 21.10.2025
+**New Features:**
+
+**Enhanced Allowance Charge Handling**
+- Migration of allowance charge processing from Microsoft standard to XRechnung-specific implementation
+- Extended field support for complex discount and surcharge scenarios
+- Improved accuracy in calculation of allowance charges at line and document level
+- Optimized performance when processing large volumes of allowance charges
+- Better compatibility with XRechnung validation rules
+
+**New Events for Extended Customization Options**
+- `OnAfterSetLinePriceAllowanceChargeInfo`: Adjustment of price allowance charges at line level
+- `OnAfterSetLineAllowanceChargeInfo`: Modification of allowance charges for individual sales lines
+- `OnAfterSetAllowanceChargeInfo`: Processing of allowance charges at document level
+- `OnAfterGetCrMemoBillingReferenceInfo`: Credit memo-specific invoice reference handling
+- `OnBeforeGetTotals`: Event before total amount calculation with skip functionality
+- `OnAfterGetLineItemInfoWithBuyersItemIdentificationID`: Extended item information with buyer item ID
+- `OnAfterGetAccountingSupplierPartyLegalEntityBISWithLegalForm`: Supplier legal entity with legal form
+- `OnAfterGetDeliveryAddressWithDeliveryPartyName`: Extended delivery address with party name
+- `OnAfterGetPaymentMeansPayeeFinancialAccBISWithPayeeFinancialAccountName`: Extended payment means info with account name
+
+#### Version 2.20.0.1 - 13.10.2025
+Corrections:
+- Skip XML node PartyTaxScheme when TaxSchemeId is empty.
+
+#### Version 2.20.0.0 - 29.08.2025
+**New Features:**
+
+**New Events**
+UBL:
+- `OnAfterGetSupplierPartyIdentificationID`: Allow setting of SupplierPartyIdentificationID and SupplierPartyIdentificationIDSchemeID
+
+CII:
+- `OnAfterGetSellerTradePartyID`: Allow setting of SellerID
+
 #### Version 2.19.0.1 - 17.07.2025
 Corrections:
 - A validation error when the shipment date was not filled has been fixed.
 
 #### Version 2.19.0.0 - 07.07.2025
-New features:
-- A new tab "Connector 365 XRechnung" allows various BT fields to be documented in sales documents. Currently supported: BT-11, BT-12, BT-73, BT74.
+**New Features:**
+
+**Connector 365 XRechnung Tab in Sales Documents**
+- Integration of a new "Connector 365 XRechnung" tab in sales documents
+- Direct documentation and editing of various Business Terms (BT fields)
+- Support for the following BT fields:
+  - BT-11: Project reference
+  - BT-12: Contract reference
+  - BT-73: Invoicing period start date
+  - BT-74: Invoicing period end date
+- Improved user-friendliness through central entry of XRechnung-specific information
+- Automatic validation of entered BT values
+
+*Benefits:*
+- Reduced error susceptibility through central data entry
+- Better overview of XRechnung-relevant fields
+- Simplified compliance with XRechnung requirements
+- Preparation for future BT field extensions
 
 #### Version 2.18.0.1 - 15.05.2025
 Corrections:
@@ -30,8 +98,20 @@ Updates:
 - Compatibility with BC versions prior to BC22 is ensured.
 
 #### Version 2.16.0.0 - 16.04.2025
-New features:
-- Enables the creation of XRechnungen in CII syntax from sales invoices
+**New Features:**
+
+**CII Syntax Support for XRechnung**
+- Full implementation of CII syntax (Cross Industry Invoice) as an alternative to UBL syntax
+- Enables creation of XRechnungen in standardized CII format
+- Compatibility with various European e-invoicing systems that prefer CII
+- Automatic syntax recognition and conversion based on configuration
+- Support for both syntax formats (UBL and CII) in a unified solution
+
+*Technical Details:*
+- Extended XML generation for CII-compliant outputs
+- Optimized validation for both syntax formats
+- Improved interoperability with various e-invoicing platforms
+- Preparation for future ZUGFeRD integration
 
 #### Version 2.15.0.0 - 18.03.2025
 New features:
@@ -42,10 +122,29 @@ Corrections:
 - Information for BT-44 (buyer name) is now determined by default from the document, no longer from the customer
 
 #### Version 2.13.0.0 - 20.02.2025
-New Features:
-- Integration of a decoupled function for generating XRechnung including test report
-- It was made technically possible to process unposted invoices and credit notes (sales headers)
-- Integration of further useful events
+**New Features:**
+
+**Decoupled XRechnung Generation with Validation Report**
+- Implementation of a standalone function for XRechnung creation independent of the sending process
+- Automatic generation of validation reports for quality assurance
+- Ability to pre-validate XRechnungen before sending
+- Improved error diagnosis through detailed validation reports
+
+**Support for Unposted Documents**
+- Technical extension for processing Sales Header records (unposted invoices and credit memos)
+- Enables XRechnung creation even before posting
+- Improved flexibility in workflow for XRechnung processes
+- Preparation for extended draft and approval scenarios
+
+**Enhanced Event Integration**
+- Integration of additional events for extended customization options
+- Improved hooks for user-defined logic
+- Increased flexibility when integrating into existing business processes
+
+*Technical Improvements:*
+- Optimized performance in document processing
+- Extended error handling and logging
+- Improved compatibility with various Business Central versions
 
 #### Version 2.12.0.0 - 31.01.2025
 New functions:

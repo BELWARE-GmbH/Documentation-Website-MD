@@ -9,6 +9,10 @@ weight: 1
 
 ### New and planned
 
+#### Version 1.6.0.0 - 25.11.2025
+New Features:
+- **Enhanced Filtering for Report Layouts:** Implementation of improved filtering functionality for field selection in report layouts. The new logic enables more precise control over layout selection based on document fields and their values.
+
 #### Version 1.5.0.3 - 02.08.2024
 Corrections:
 - Fix enabling of field selection part within report layout selection page.
@@ -22,7 +26,7 @@ Corrections:
 - Adjustments that the app works with the new Easy Batch version.
 
 #### Version 1.5.0.0 - 10.07.2024
-New features:
+New Features:
 - Layouts stored via the app now always have the highest priority.
 
 #### Version 1.4.0.3 - 22.03.2024
@@ -38,15 +42,15 @@ Corrections:
 - App's own report layout selection replaced by the selection of the standard page.
 
 #### Version 1.4.0.0 - 11.03.2024
-New functions:
+New Features:
 - Both the *Report layout list* table and *User-defined report layouts* are now available for selecting report layouts.
 
 #### Version 1.3.0.0 - 29.02.2024
-New functions:
+New Features:
 - Establish compatibility with the new Easy Batch version
 
 #### Version 1.2.0.0 - 07.09.2023
-New functions:
+New Features:
 - User-specific placeholders can now be defined for the email text.
 - New event *OnBeforeGetLanguageCodeField* to use the functionality for other report uses as well.
 

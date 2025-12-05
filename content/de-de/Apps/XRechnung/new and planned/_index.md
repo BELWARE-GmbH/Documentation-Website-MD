@@ -9,16 +9,84 @@ weight: 1
 
 ### Neu und geplant
 
+#### Version 2.23.0.0 - 18.11.2025
+**Korrekturen:**
+
+**Korrektur Event-Parameter für Verkaufsgutschriften**
+- Behebung einer fehlerhaften Parameterübergabe im Event OnAfterGetLineGeneralInfo für Verkaufsgutschriften
+- Der Parameter SalesCrMemoLineID wird nun korrekt übergeben
+
+#### Version 2.22.0.0 - 14.11.2025
+**Neue Funktionen:**
+
+**ZUGFeRD-PDF-Unterstützung**
+- Vollständige Integration der ZUGFeRD-Funktionalität für die Erstellung von PDF/A-3B-konformen Dokumenten
+- Automatische Einbettung von XRechnung-XML-Daten in PDF-Anhänge gemäß ZUGFeRD-Standard
+- Unterstützung für CII-Syntax (Cross Industry Invoice) bei der PDF-Generierung
+- Konfigurierbare PDF/A-3B-Konformitätsstufen für verschiedene Anwendungsfälle
+- Ermöglicht die hybride Darstellung von Rechnungen (human-readable PDF + machine-readable XML)
+
+#### Version 2.21.0.0 - 21.10.2025
+**Neue Funktionen:**
+
+**Verbesserte Allowance Charge-Behandlung**
+- Migration der Allowance Charge-Verarbeitung vom Microsoft-Standard zur XRechnung-spezifischen Implementierung
+- Erweiterte Feldunterstützung für komplexe Rabatt- und Zuschlagsszenarien
+- Verbesserte Genauigkeit bei der Berechnung von Allowance Charges auf Zeilen- und Belegebene
+- Optimierte Performance bei der Verarbeitung großer Mengen von Allowance Charges
+- Bessere Kompatibilität mit XRechnung-Validierungsregeln
+
+**Neue Events für erweiterte Anpassungsmöglichkeiten**
+- `OnAfterSetLinePriceAllowanceChargeInfo`: Anpassung von Preis-Allowance-Charges auf Zeilenebene
+- `OnAfterSetLineAllowanceChargeInfo`: Modifikation von Allowance-Charges für einzelne Verkaufszeilen  
+- `OnAfterSetAllowanceChargeInfo`: Bearbeitung von Allowance-Charges auf Belegebene
+- `OnAfterGetCrMemoBillingReferenceInfo`: Gutschrift-spezifische Rechnungsreferenz-Behandlung
+- `OnBeforeGetTotals`: Event vor der Berechnung der Gesamtbeträge mit Skip-Funktionalität
+- `OnAfterGetLineItemInfoWithBuyersItemIdentificationID`: Erweiterte Artikel-Informationen mit Käufer-Item-ID
+- `OnAfterGetAccountingSupplierPartyLegalEntityBISWithLegalForm`: Lieferanten-Legal-Entity mit Rechtsform
+- `OnAfterGetDeliveryAddressWithDeliveryPartyName`: Erweiterte Lieferadresse mit Party-Name
+- `OnAfterGetPaymentMeansPayeeFinancialAccBISWithPayeeFinancialAccountName`: Erweiterte Zahlungsmittel-Info mit Kontoname
+
+#### Version 2.20.0.1 - 13.10.2025
+Korrekturen:
+- Überspringen des XML-Knotens PartyTaxScheme bei nicht vorhandener TaxSchemeId.
+
+#### Version 2.20.0.0 - 29.08.2025
+**Neue Funktionen:**
+
+**Neue Events**
+UBL:
+- `OnAfterGetSupplierPartyIdentificationID`: Ermöglicht das Setzen von SupplierPartyIdentificationID und SupplierPartyIdentificationIDSchemeID
+
+CII:
+- `OnAfterGetSellerTradePartyID`: Ermöglicht das Setzen der SellerID
+
 #### Version 2.19.0.1 - 17.07.2025
 Korrekturen:
 - Ein Validierungsfehler bei nicht gefülltem Warenausgangsdatum wurde behoben.
 
 #### Version 2.19.0.0 - 07.07.2025
-Neue Funktionen:
-- Ein neuer Reiter "Connector 365 XRechnung" ermöglicht es, in Verkaufsbelegen verschiedene BT-Felder zu dokumentieren. Derzeit unterstützt: BT-11, BT-12, BT-73, BT-74.
+**Neue Funktionen:**
+
+**Connector 365 XRechnung Reiter in Verkaufsbelegen**
+- Integration eines neuen Reiters "Connector 365 XRechnung" in Verkaufsbelegen
+- Direkte Dokumentation und Bearbeitung verschiedener Business Terms (BT-Felder)
+- Unterstützung für folgende BT-Felder:
+  - BT-11: Project reference
+  - BT-12: Contract reference  
+  - BT-73: Invoicing period start date
+  - BT-74: Invoicing period end date
+- Verbesserte Benutzerfreundlichkeit durch zentrale Erfassung XRechnung-spezifischer Informationen
+- Automatische Validierung der eingegebenen BT-Werte
+
+*Vorteile:*
+- Reduzierte Fehleranfälligkeit durch zentrale Dateneingabe
+- Bessere Übersichtlichkeit über XRechnung-relevante Felder
+- Vereinfachte Compliance mit XRechnung-Anforderungen
+- Vorbereitung für zukünftige BT-Felder-Erweiterungen
 
 #### Version 2.18.0.1 - 15.05.2025
-Korrektur:
+Korrekturen:
 - Die XRechnung-Syntax wird nun lediglich in XRechnung-Vorgängen angezeigt.
 
 #### Version 2.18.0.0 - 30.04.2025
@@ -26,26 +94,57 @@ Neue Funktionen:
 - Kompatibilität mit BC-Versionen vor BC25 gewährleistet.
 
 #### Version 2.17.0.0 - 24.04.2025
-Neuerungen:
+Neue Funktionen:
 - Kompatibilität mit BC-Versionen vor BC22 gewährleistet.
 
 #### Version 2.16.0.0 - 16.04.2025
-Neue Funktionen:
-- Ermöglicht die Erstellung von XRechnungen im CII-Syntax aus Verkaufsrechnungen
+**Neue Funktionen:**
+
+**CII-Syntax Support für XRechnung**
+- Vollständige Implementierung der CII-Syntax (Cross Industry Invoice) als Alternative zur UBL-Syntax
+- Ermöglicht die Erstellung von XRechnungen im standardisierten CII-Format
+- Kompatibilität mit verschiedenen europäischen E-Invoicing-Systemen, die CII bevorzugen
+- Automatische Syntax-Erkennung und -Konvertierung basierend auf Konfiguration
+- Unterstützung beider Syntax-Formate (UBL und CII) in einer einheitlichen Lösung
+
+*Technische Details:*
+- Erweiterte XML-Generierung für CII-konforme Ausgaben
+- Optimierte Validierung für beide Syntax-Formate
+- Verbesserte Interoperabilität mit verschiedenen E-Invoicing-Plattformen
+- Vorbereitung für zukünftige ZUGFeRD-Integration
 
 #### Version 2.15.0.0 - 18.03.2025
 Neue Funktionen:
 - Ermöglicht das Berücksichtigen von Nullbetragszeilen beim Erzeugen der XRechnung
 
 #### Version 2.14.0.0 - 18.03.2025
-Korrektur:
+Korrekturen:
 - Information für BT-44 (Buyer name) wird nun standardmäßig aus dem Beleg, nicht länger aus dem Debitor ermittelt
 
 #### Version 2.13.0.0 - 20.02.2025
-Neue Funktionen:
-- Integration einer entkoppelten Funktion zum Erzeugen von XRechnungen inklusive Prüfbericht
-- Es wurde technisch ermöglicht, ungebuchte Rechnungen und Gutschriften (Sales Header) zu verarbeiten
-- Integration weiterer nützlicher Events
+**Neue Funktionen:**
+
+**Entkoppelte XRechnung-Generierung mit Prüfbericht**
+- Implementierung einer eigenständigen Funktion zur XRechnung-Erstellung unabhängig vom Sendevorgang
+- Automatische Generierung von Validierungsberichten zur Qualitätssicherung
+- Möglichkeit zur Vorab-Prüfung von XRechnungen vor dem Versand
+- Verbesserte Fehlerdiagnose durch detaillierte Prüfberichte
+
+**Unterstützung für ungebuchte Belege**
+- Technische Erweiterung zur Verarbeitung von Sales Header-Datensätzen (ungebuchte Rechnungen und Gutschriften)  
+- Ermöglicht die XRechnung-Erstellung bereits vor der Buchung
+- Verbesserte Flexibilität im Workflow für XRechnung-Prozesse
+- Vorbereitung für erweiterte Entwurfs- und Genehmigungsszenarien
+
+**Erweiterte Event-Integration**
+- Integration zusätzlicher Events für erweiterte Anpassungsmöglichkeiten
+- Verbesserte Hooks für benutzerdefinierte Logik
+- Erhöhte Flexibilität bei der Integration in bestehende Geschäftsprozesse
+
+*Technische Verbesserungen:*
+- Optimierte Performance bei der Beleg-Verarbeitung
+- Erweiterte Fehlerbehandlung und Logging
+- Verbesserte Kompatibilität mit verschiedenen Business Central-Versionen
 
 #### Version 2.12.0.0 - 31.01.2025
 Neue Funktionen:
@@ -127,11 +226,11 @@ Korrekturen:
 - Herstellen der Kompatibilität zur neuen Easy Batch Version
 
 #### Version 2.8.0.7 - 05.02.2024
-Neuerungen:
+Neue Funktionen:
  - Kompatibilität zu BC19.2 hergestellt
 
 #### Version 2.8.0.6 - 02.02.2024
-Neuerungen:
+Neue Funktionen:
  - Lade XRechnung-Version 3.0 als Standardwert
 
 #### Version 2.8.0.3 - 11.12.2023
@@ -146,11 +245,11 @@ Korrekturen:
 
 #### Version 2.8.0.0 - 31.08.2023
 
-Neuerungen:
+Neue Funktionen:
 - Erweiterung der [Belegsendeprofile](de-de/apps/xrechnung/first-steps/setup/doc-sending-profile) um die Möglichkeit der XRechnung-Verarbeitung 
 
 #### Version 2.7.0.0 - 25.08.2023
-Neuerungen:
+Neue Funktionen:
  - Erweiterung der [Kommunikationsmatrix](/de-de/apps/base/first-steps/setup/communication-matrix/) um Felder:
     * Kundenreferenz
     * Dokument als Anhang hinzufügen
@@ -158,7 +257,7 @@ Neuerungen:
 #### Geplante Funktionen für zukünftige Versionen
 
 #### Version 2.5.0.3 - 31.07.2023
-Neuerungen:
+Neue Funktionen:
  - Kompatibiltät zu XRechnung 2.3
  - Leitweg-Id-Prüfung nur noch optional - führt nicht mehr zum Fehler
  - Möglichkeit, XRechnung Version und Kennung in Einrichtung festzulegen
@@ -171,7 +270,7 @@ Korrektur:
 - Behebt unzureichende Berechtigungen bei Erzeugen und Versenden von XRechnungen
 
 #### Version 2.4.0.0 - 22.05.2023
-Neuerungen:
+Neue Funktionen:
 * Integration von **Connector 365 Mail Attachments Plus**
 * Möglichkeit, im Dialog flexibel einzustellen, welche Anhänge in die XRechnung-XML-Datei eingebettet werden, und welche als zusätzliche Anhänge per Mail betrachtet werden
 

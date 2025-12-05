@@ -63,9 +63,7 @@ Im Folgenden eine Auflistung der verfügbaren Events und die damit zu verändern
 
 Dies ist der Grund, weshalb alle folgenden Events mit „Sales Header“ oder mit „Sales Line“ arbeiten.
 {{< /notice >}}
-#
-
-### GetGeneralInfoBIS
+#### GetGeneralInfoBIS
 
 {{< notice info >}}
 Dieses Event stammt aus der **Codeunit: PEPPOL Management (1605)**.
@@ -464,6 +462,8 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . VAR OriginCountryIdCodeListID: Text
 ```
 
+Ermöglicht die Anpassung von Artikelinformationen für Rechnungszeilen, einschließlich Beschreibung, Name und verschiedener Identifikations-IDs. Dieses Event wird verwendet, um artikelspezifische Daten wie Verkäufer- und Standard-Identifikationen sowie Herkunftsland-Informationen zu modifizieren.
+
 #### OnAfterGetAccountingSupplierPartyLegalEntityBIS
 ```al
  . SalesHeader: record "Sales Header"
@@ -475,6 +475,8 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var SupplRegAddrCountryIdListId: Text
 ```
 
+Ermöglicht die Anpassung der rechtlichen Angaben des Lieferanten, einschließlich des registrierten Firmennamens, der Unternehmens-ID und der Registrierungsadresse. Dieses Event wird verwendet, um die rechtliche Identität und Registrierungsdaten des Verkäufers in der XRechnung zu modifizieren.
+
 #### OnAfterGetAccountingSupplierPartyTaxSchemeBIS
 
 ```al
@@ -484,6 +486,8 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var CompanyIDSchemeID: text
  . var TaxSchemeID: text
 ```
+
+Ermöglicht die Anpassung der Steuerschema-Informationen des Lieferanten, einschließlich der Steuer-ID und des Steuerschema-Bezeichners. Dieses Event wird verwendet, um umsatzsteuerrechtliche Identifikationen und Klassifikationen des Verkäufers zu modifizieren.
 
 #### OnAfterGetAccountingSupplierPartyPostalAddr
 
@@ -496,6 +500,8 @@ BR-DE-13:	In der Rechnung müssen Angaben zu einer der drei Gruppen „CREDIT TR
  . var CountrySubentity: text
  . var IdentificationCoder: text
 ```
+
+Ermöglicht die Anpassung der Postanschrift des Lieferanten, einschließlich Straßenname, Stadt, Postleitzahl und Länderinformationen. Dieses Event wird verwendet, um die vollständigen Adressdaten des Verkäufers in der XRechnung zu modifizieren.
 
 #### OnAfterGetAccountingSupplierPartyInfoBIS
 
@@ -573,6 +579,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var CustomerIdentificationCode: text (BT-40)
 ```
 
+Ermöglicht die Anpassung der Postanschrift des Kunden, einschließlich Straßenname, Stadt, Postleitzahl und Länderinformationen. Dieses Event wird verwendet, um die vollständigen Adressdaten des Käufers in der XRechnung zu modifizieren.
+
 #### OnAfterGetAccountingCustomerPartyTaxSchemeBIS
 
 ```al
@@ -582,6 +590,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var CustTaxSchemeID: text
 ```
 
+Ermöglicht die Anpassung der Steuerschema-Informationen des Kunden, einschließlich der Steuer-ID und des Steuerschema-Bezeichners. Dieses Event wird verwendet, um umsatzsteuerrechtliche Identifikationen des Käufers zu modifizieren.
+
 #### OnAfterGetAccountingCustomerPartyLegalEntityBIS
 
 ```al
@@ -590,6 +600,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var CustPartyLegalEntityCompanyID: text
  . var CustPartyLegalEntityIDSchemeID: text
 ```
+
+Ermöglicht die Anpassung der rechtlichen Angaben des Kunden, einschließlich des registrierten Firmennamens und der Unternehmens-ID. Dieses Event wird verwendet, um die rechtliche Identität und Registrierungsdaten des Käufers in der XRechnung zu modifizieren.
 
 #### OnAfterGetAccountingCustomerPartyContact
 
@@ -601,6 +613,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var CustContactElectronicMail: text
 ```
 
+Ermöglicht die Anpassung der Kontaktinformationen des Kunden, einschließlich Name, Telefon, Fax und E-Mail-Adresse. Dieses Event wird verwendet, um die Kommunikationsdaten des Käufers in der XRechnung zu modifizieren.
+
 #### OnAfterGetGLNDeliveryInfo
 
 ```al
@@ -609,6 +623,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var DeliveryID: text
  . var DeliveryIDSchemeID: text
 ```
+
+Ermöglicht die Anpassung von GLN-basierten (Global Location Number) Lieferinformationen, einschließlich des tatsächlichen Lieferdatums und der Lieferungs-ID. Dieses Event wird verwendet, um spezifische Lieferidentifikationen und -termine zu modifizieren.
 
 #### OnAfterGetDeliveryAddress
 
@@ -622,6 +638,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var DeliveryCountryIdCode: text
 ```
 
+Ermöglicht die Anpassung der Lieferadresse, einschließlich Straßenname, Stadt, Postleitzahl und Länderinformationen. Dieses Event wird verwendet, um die vollständigen Lieferadressdaten in der XRechnung zu modifizieren.
+
 #### OnAfterGetLineItemClassfiedTaxCategoryBIS
 
 ```al
@@ -631,6 +649,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var InvoiceLineTaxPercent: Text
  . var ClassifiedTaxCategorySchemeID: text
 ```
+
+Ermöglicht die Anpassung der klassifizierten Steuerkategorie-Informationen für Rechnungszeilen, einschließlich der Steuerkategorie-ID und des Steuerprozentsatzes. Dieses Event wird verwendet, um artikelspezifische Steuerklassifikationen zu modifizieren.
 
 #### OnAfterGetLineAllowanceChargeInfo
 
@@ -643,7 +663,9 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var InvLnAllowanceChargeAmtCurrID: text
 ```
 
- #### OnAterGetLineDeliveryInfo
+Ermöglicht die Anpassung von Zu- und Abschlägen auf Rechnungszeilen-Ebene, einschließlich Indikator, Grund und Betrag. Dieses Event wird verwendet, um positionsspezifische Preisanpassungen und deren Begründung zu modifizieren.
+
+#### OnAfterGetLineDeliveryInfo
 
 ```al
  . SalesLine: record "Sales Line"
@@ -652,6 +674,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var InvoiceLineDeliveryID: text
  . var InvoiceLineDeliveryIDSchemeID: text
 ```
+
+Ermöglicht die Anpassung der Lieferinformationen auf Rechnungszeilen-Ebene, einschließlich des tatsächlichen Lieferdatums und der Lieferungs-ID. Dieses Event wird verwendet, um positionsspezifische Lieferdaten zu modifizieren.
 
 #### OnAfterGetLineDeliveryPostalAddr
 
@@ -667,6 +691,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var InvLineDeliveryCountryListID: text
 ```
 
+Ermöglicht die Anpassung der Lieferadresse auf Rechnungszeilen-Ebene, einschließlich Straßenname, Stadt, Postleitzahl und Länderinformationen. Dieses Event wird verwendet, um positionsspezifische Lieferadressdaten zu modifizieren.
+
 #### OnAfterGetTaxRepresentativePartyInfo
 
 ```al
@@ -676,6 +702,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var PayeePartyTaxSchCompIDSchemeID: text
  . var PayeePartyTaxSchemeTaxSchemeID: text
 ```
+
+Ermöglicht die Anpassung der Informationen zum Steuervertreter, einschließlich des Namens und der steuerlichen Identifikationsdaten. Dieses Event wird verwendet, um Angaben zu steuerlichen Vertretern in der XRechnung zu modifizieren.
 
 #### OnAfterGetAllowanceChargeInfo
 
@@ -693,6 +721,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var AllowanceChargeTaxSchemeID: text
 ```
 
+Ermöglicht die Anpassung von Zu- und Abschlägen auf Dokument-Ebene, einschließlich Indikator, Grund, Betrag und Steuerkategorie. Dieses Event wird verwendet, um rechnungsweite Preisanpassungen und deren steuerliche Behandlung zu modifizieren.
+
 #### OnAfterGetTaxExemptionReason
 
 ```al
@@ -702,6 +732,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var TaxTotalTaxCategoryID: text
 ```
 
+Ermöglicht die Anpassung von Steuerbefreiungsgründen und Steuerkategorie-Informationen. Dieses Event wird verwendet, um die Begründung für Steuerbefreiungen und zugehörige Steuerklassifikationen zu modifizieren.
+
 #### OnAfterGetLineAdditionalItemPropertyInfo
 
 ```al
@@ -710,6 +742,8 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var AdditionalItemPropertyName: Text
  . var AdditionalItemPropertyValue: Text
 ```
+
+Ermöglicht die Anpassung zusätzlicher Artikeleigenschaften auf Rechnungszeilen-Ebene, einschließlich Name und Wert der Eigenschaft. Dieses Event wird verwendet, um erweiterte artikelspezifische Informationen und Eigenschaften zu modifizieren.
 
 #### OnAfterGetLinePriceAllowanceChargeInfo
 
@@ -721,3 +755,138 @@ Anmerkung: Wenn das Element verwendet wird, ist die Kennung aus den Einträgen d
  . var PriceAllowanceChargeBaseAmount: text
  . var PriceAllowChargeBaseAmtCurrID: text
 ```
+
+Ermöglicht die Anpassung von preisbezogenen Zu- und Abschlägen auf Rechnungszeilen-Ebene, einschließlich Indikator, Betrag und Basisbetrag. Dieses Event wird verwendet, um preisliche Adjustierungen und Rabatte auf Positionsebene zu modifizieren.
+
+#### OnAfterSetLinePriceAllowanceChargeInfo
+
+```al
+ . var TempLinePriceAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . SalesLine: Record "Sales Line"
+```
+
+Dieses Event wird ausgelöst nach der Zuweisung der Preis-Allowance-Charge-Informationen für eine Verkaufszeile. Es ermöglicht weitere Anpassungen an den Allowance-Charge-Daten auf Zeilenebene.
+
+#### OnAfterSetLineAllowanceChargeInfo
+
+```al
+ . var TempLineAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"  
+ . SalesLine: Record "Sales Line"
+```
+
+Dieses Event wird ausgelöst nach der Zuweisung der Allowance-Charge-Informationen für eine Verkaufszeile. Es ermöglicht weitere Anpassungen an den Allowance-Charge-Daten auf Zeilenebene.
+
+#### OnAfterSetAllowanceChargeInfo
+
+```al
+ . var TempAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . VatAmtLine: Record "VAT Amount Line"
+```
+
+Dieses Event wird ausgelöst nach der Zuweisung der Allowance-Charge-Informationen auf Belegebene. Es ermöglicht weitere Anpassungen an den Allowance-Charge-Daten auf Headerebene.
+
+#### OnAfterGetCrMemoBillingReferenceInfo (Gutschrift-spezifisch)
+
+```al
+ . SalesCrMemoHeader: record "Sales Cr.Memo Header"
+ . var InvoiceDocRefID: text
+ . var InvoiceDocRefIssueDate: text
+```
+
+Dieses Event ist spezifisch für Gutschriften und wird ausgelöst nach dem Ermitteln der Rechnungsreferenz-Informationen. Es ermöglicht die Anpassung der Referenz-ID und des Ausstellungsdatums der ursprünglichen Rechnung.
+
+#### OnAfterGetLineItemInfoWithBuyersItemIdentificationID
+
+```al
+ . SalesLine: Record "Sales Line"
+ . var Description: Text
+ . var Name: Text
+ . var BuyersItemIdentificationID: Text
+ . var SellersItemIdentificationID: Text
+ . var StandardItemIdentificationID: Text
+ . var StdItemIdIDSchemeID: Text
+ . var OriginCountryIdCode: Text
+ . var OriginCountryIdCodeListID: Text
+```
+
+Erweiterte Version des OnAfterGetLineItemInfo Events, die zusätzlich die Möglichkeit bietet, die Buyers Item Identification ID zu setzen. Ermöglicht die Zuordnung von artikelspezifischen Käufer-IDs.
+
+#### OnAfterGetAccountingSupplierPartyLegalEntityBISWithLegalForm
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var PartyLegalEntityRegName: Text
+ . var PartyLegalEntityCompanyID: Text
+ . var PartyLegalEntitySchemeID: Text
+ . var SupplierRegAddrCityName: Text
+ . var SupplierRegAddrCountryIdCode: Text
+ . var SupplRegAddrCountryIdListId: Text
+ . var PartyLegalEntityLegalForm: Text
+```
+
+Erweiterte Version des OnAfterGetAccountingSupplierPartyLegalEntityBIS Events mit zusätzlicher Unterstützung für die Rechtsform (LegalForm) des Lieferanten.
+
+#### OnAfterGetDeliveryAddressWithDeliveryPartyName
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var DeliveryStreetName: text
+ . var DeliveryAdditionalStreetName: text
+ . var DeliveryCityName: text
+ . var DeliveryPostalZone: text
+ . var DeliveryCountrySubentity: text
+ . var DeliveryCountryIdCode: text
+ . var DeliveryPartyName: Text
+```
+
+Erweiterte Version des OnAfterGetDeliveryAddress Events, die zusätzlich den Namen der Lieferpartei ermöglicht.
+
+#### OnAfterGetPaymentMeansPayeeFinancialAccBISWithPayeeFinancialAccountName
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var PayeeFinancialAccountID: Text
+ . var FinancialInstitutionBranchID: Text
+ . var PayeeFinancialAccountName: Text
+```
+
+Erweiterte Version des OnAfterGetPaymentMeansPayeeFinancialAccBIS Events mit zusätzlicher Unterstützung für den Namen des Zahlungsempfänger-Kontos.
+
+#### OnBeforeGetTotals
+
+```al
+ . var SalesLine: Record "Sales Line"
+ . var Skip: Boolean
+```
+
+Dieses Event wird ausgelöst vor der Berechnung der Gesamtbeträge für eine Verkaufszeile. Es ermöglicht das Überspringen bestimmter Zeilen bei der Gesamtberechnung oder die Modifikation der Zeilen vor der Verarbeitung.
+
+#### OnAfterGetBuyerReference
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var BuyerReference: Text
+```
+
+Ermöglicht die Anpassung der Käuferreferenz, die für die Identifikation beim Käufer verwendet wird.
+
+#### OnGetInvoiceLine (Rechnung-spezifisch)
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var skip: Boolean
+```
+
+Dieses Event wird für jede Rechnungszeile ausgelöst und ermöglicht es, bestimmte Zeilen zu überspringen. Durch Setzen von `skip` auf `true` kann eine Zeile von der XRechnung-Erzeugung ausgeschlossen werden.
+
+#### OnGetCrMemoLine (Gutschrift-spezifisch)
+
+```al
+ . SalesCrMemoLine: Record "Sales Cr.Memo Line"
+ . var skip: Boolean
+```
+
+Dieses Event wird für jede Gutschriftzeile ausgelöst und ermöglicht es, bestimmte Zeilen zu überspringen. Durch Setzen von `skip` auf `true` kann eine Zeile von der XRechnung-Erzeugung ausgeschlossen werden.

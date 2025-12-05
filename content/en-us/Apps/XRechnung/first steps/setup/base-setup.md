@@ -70,21 +70,19 @@ Currently preset versions and identifiers:
 
 XRechnung is a standardized invoice format for electronic invoices to public clients in Germany. It is based on European specifications (in particular EN 16931) and can be implemented in various syntax formats.
 
-- ***Previous standard: UBL***
-In the previous implementation, the XRechnung was generated in the syntax format UBL (Universal Business Language).
-UBL is an XML-based format that is widely used internationally.
+- ***UBL***
+UBL (Universal Business Language) is an XML-based format that is widely used internationally.
 It offers a clear structure for business processes such as invoices, delivery bills and orders.
 <br>
 
-- ***New: Support for CII***
-With the current extension, we now also support the creation of XRechnungen in CII (Cross Industry Invoice) format:
-CII is another XML-based standard developed by UN/CEFACT.
+- ***CII***
+CII (Cross Industry Invoice) is another XML-based standard developed by UN/CEFACT.
 It is semantically more precise and offers more flexibility, especially for complex invoice content.
 The support of CII is an important extension, as both formats are officially approved for XRechnungen.
 <br>
 
-- ***Note: ZUGFeRD***
-A related but independent format is ZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland):
-ZUGFeRD combines structured XML data with a PDF/A-3 document in which the XML file is embedded.
+- ***ZUGFeRD PDF***
+ZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland) combines structured XML data with a PDF/A-3B document in which the XML file is embedded.
 It is also based on the European standard EN 16931 and uses the CII syntax (Cross Industry Invoice) according to UN/CEFACT in the XML part.
-However, ZUGFeRD is not identical to the XRechnung - both formats can be used in parallel, provided the recipient supports this.
+
+{{< notice info Hinweis >}}ZUGFeRD is not identical to the XRechnung - both formats can be used in parallel, provided the recipient supports this.

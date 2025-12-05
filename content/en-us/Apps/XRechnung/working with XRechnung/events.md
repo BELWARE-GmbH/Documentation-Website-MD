@@ -63,9 +63,7 @@ At the beginning of the XML port, it is checked whether the document is a sales 
 This is the reason why all following events work with "Sales Header" or with "Sales Line".
 
 {{< /notice >}}
-#
-
-### GetGeneralInfoBIS
+#### GetGeneralInfoBIS
 
 {{< notice info >}}
 This event originates from the **Codeunit: PEPPOL Management (1605)**.
@@ -450,6 +448,7 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
 . VAR LineExtensionAmountCurrencyID : Text
 . VAR InvoiceLineAccountingCost : Text
 ```
+
 #### OnAfterGetLineItemInfo
 
 ```al
@@ -463,6 +462,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . VAR OriginCountryIdCodeListID: Text
 ```
 
+Allows customization of item information for invoice lines, including description, name, and various identification IDs. This event is used to modify item-specific data such as seller and standard identifications as well as country of origin information.
+
 #### OnAfterGetAccountingSupplierPartyLegalEntityBIS
 ```al
  . SalesHeader: record "Sales Header"
@@ -474,6 +475,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var SupplRegAddrCountryIdListId: Text
 ```
 
+Allows customization of the supplier's legal information, including the registered company name, company ID, and registration address. This event is used to modify the legal identity and registration data of the seller in the XRechnung.
+
 #### OnAfterGetAccountingSupplierPartyTaxSchemeBIS
 
 ```al
@@ -483,6 +486,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var CompanyIDSchemeID: text
  . var TaxSchemeID: text
 ```
+
+Allows customization of the supplier's tax scheme information, including the tax ID and tax scheme identifier. This event is used to modify VAT-related identifications and classifications of the seller.
 
 #### OnAfterGetAccountingSupplierPartyPostalAddr
 
@@ -495,6 +500,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var CountrySubentity: text
  . var IdentificationCoder: text
 ```
+
+Allows customization of the supplier's postal address, including street name, city, postal code, and country information. This event is used to modify the complete address data of the seller in the XRechnung.
 
 #### OnAfterGetAccountingSupplierPartyInfoBIS
 
@@ -571,6 +578,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var CustomerIdentificationCode: text (BT-40)
 ```
 
+Allows customization of the customer's postal address, including street name, city, postal code, and country information. This event is used to modify the complete address data of the buyer in the XRechnung.
+
 #### OnAfterGetAccountingCustomerPartyTaxSchemeBIS
 
 ```al
@@ -580,6 +589,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var CustTaxSchemeID: text
 ```
 
+Allows customization of the customer's tax scheme information, including the tax ID and tax scheme identifier. This event is used to modify VAT-related identifications of the buyer.
+
 #### OnAfterGetAccountingCustomerPartyLegalEntityBIS
 
 ```al
@@ -588,6 +599,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var CustPartyLegalEntityCompanyID: text
  . var CustPartyLegalEntityIDSchemeID: text
 ```
+
+Allows customization of the customer's legal information, including the registered company name and company ID. This event is used to modify the legal identity and registration data of the buyer in the XRechnung.
 
 #### OnAfterGetAccountingCustomerPartyContact
 
@@ -599,6 +612,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var CustContactElectronicMail: text
 ```
 
+Allows customization of the customer's contact information, including name, phone, fax, and email address. This event is used to modify the communication data of the buyer in the XRechnung.
+
 #### OnAfterGetGLNDeliveryInfo
 
 ```al
@@ -607,6 +622,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var DeliveryID: text
  . var DeliveryIDSchemeID: text
 ```
+
+Allows customization of GLN-based (Global Location Number) delivery information, including the actual delivery date and delivery ID. This event is used to modify specific delivery identifications and dates.
 
 #### OnAfterGetDeliveryAddress
 
@@ -620,6 +637,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var DeliveryCountryIdCode: text
 ```
 
+Allows customization of the delivery address, including street name, city, postal code, and country information. This event is used to modify the complete delivery address data in the XRechnung.
+
 #### OnAfterGetLineItemClassfiedTaxCategoryBIS
 
 ```al
@@ -629,6 +648,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var InvoiceLineTaxPercent: Text
  . var ClassifiedTaxCategorySchemeID: text
 ```
+
+Allows customization of classified tax category information for invoice lines, including the tax category ID and tax percentage. This event is used to modify item-specific tax classifications.
 
 #### OnAfterGetLineAllowanceChargeInfo
 
@@ -641,7 +662,9 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var InvLnAllowanceChargeAmtCurrID: text
 ```
 
-#### OnAterGetLineDeliveryInfo
+Allows customization of allowances and charges at the invoice line level, including indicator, reason, and amount. This event is used to modify line-specific price adjustments and their justification.
+
+#### OnAfterGetLineDeliveryInfo
 
 ```al
  . SalesLine: record "Sales Line"
@@ -650,6 +673,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var InvoiceLineDeliveryID: text
  . var InvoiceLineDeliveryIDSchemeID: text
 ```
+
+Allows customization of delivery information at the invoice line level, including the actual delivery date and delivery ID. This event is used to modify line-specific delivery data.
 
 #### OnAfterGetLineDeliveryPostalAddr
 
@@ -665,6 +690,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var InvLineDeliveryCountryListID: text
 ```
 
+Allows customization of the delivery address at the invoice line level, including street name, city, postal code, and country information. This event is used to modify line-specific delivery address data.
+
 #### OnAfterGetTaxRepresentativePartyInfo
 
 ```al
@@ -674,6 +701,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var PayeePartyTaxSchCompIDSchemeID: text
  . var PayeePartyTaxSchemeTaxSchemeID: text
 ```
+
+Allows customization of tax representative information, including the name and tax identification data. This event is used to modify tax representative details in the XRechnung.
 
 #### OnAfterGetAllowanceChargeInfo
 
@@ -691,6 +720,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var AllowanceChargeTaxSchemeID: text
 ```
 
+Allows customization of allowances and charges at the document level, including indicator, reason, amount, and tax information. This event is used to modify document-level price adjustments and their tax implications.
+
 #### OnAfterGetTaxExemptionReason
 
 ```al
@@ -699,6 +730,8 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var TaxExemptionReason: text
  . var TaxTotalTaxCategoryID: text
 ```
+
+Allows customization of tax exemption reasons and tax category information. This event is used to modify the justification for tax exemptions and related tax classifications.
 
 #### OnAfterGetLineAdditionalItemPropertyInfo
 
@@ -719,3 +752,139 @@ BR-DE-13:	The invoice must include information on one of the three groups "CREDI
  . var PriceAllowanceChargeBaseAmount: text
  . var PriceAllowChargeBaseAmtCurrID: text
 ```
+
+#### OnAfterSetLinePriceAllowanceChargeInfo
+
+```al
+ . var TempLinePriceAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . SalesLine: Record "Sales Line"
+```
+
+This event is triggered after assigning the price allowance charge information for a sales line. It allows further adjustments to the allowance charge data at the line level.
+
+#### OnAfterSetLineAllowanceChargeInfo
+
+```al
+ . var TempLineAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"  
+ . SalesLine: Record "Sales Line"
+```
+
+This event is triggered after assigning the allowance charge information for a sales line. It allows further adjustments to the allowance charge data at the line level.
+
+#### OnAfterSetAllowanceChargeInfo
+
+```al
+ . var TempAllowanceCharge: Record "BELXRG Allowance Charge"
+ . SalesHeader: Record "Sales Header"
+ . VatAmtLine: Record "VAT Amount Line"
+```
+
+This event is triggered after assigning the allowance charge information at the document level. It allows further adjustments to the allowance charge data at the header level.
+
+#### OnAfterGetCrMemoBillingReferenceInfo (Credit Memo Specific)
+
+```al
+ . SalesCrMemoHeader: record "Sales Cr.Memo Header"
+ . var InvoiceDocRefID: text
+ . var InvoiceDocRefIssueDate: text
+```
+
+This event is specific to credit memos and is triggered after determining the invoice reference information. It allows adjustment of the reference ID and issue date of the original invoice.
+
+#### OnAfterGetLineItemInfoWithBuyersItemIdentificationID
+
+```al
+ . SalesLine: Record "Sales Line"
+ . var Description: Text
+ . var Name: Text
+ . var BuyersItemIdentificationID: Text
+ . var SellersItemIdentificationID: Text
+ . var StandardItemIdentificationID: Text
+ . var StdItemIdIDSchemeID: Text
+ . var OriginCountryIdCode: Text
+ . var OriginCountryIdCodeListID: Text
+```
+
+Extended version of the OnAfterGetLineItemInfo event that additionally provides the possibility to set the Buyer's Item Identification ID. Enables the assignment of item-specific buyer IDs.
+
+Event for customizing standard item identification at line level.
+
+#### OnAfterGetLineItemOriginCountryInfo
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var PartyLegalEntityRegName: Text
+ . var PartyLegalEntityCompanyID: Text
+ . var PartyLegalEntitySchemeID: Text
+ . var SupplierRegAddrCityName: Text
+ . var SupplierRegAddrCountryIdCode: Text
+ . var SupplRegAddrCountryIdListId: Text
+ . var PartyLegalEntityLegalForm: Text
+```
+
+Extended version of the OnAfterGetAccountingSupplierPartyLegalEntityBIS event with additional support for the legal form of the supplier.
+
+#### OnAfterGetDeliveryAddressWithDeliveryPartyName
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var DeliveryStreetName: text
+ . var DeliveryAdditionalStreetName: text
+ . var DeliveryCityName: text
+ . var DeliveryPostalZone: text
+ . var DeliveryCountrySubentity: text
+ . var DeliveryCountryIdCode: text
+ . var DeliveryPartyName: Text
+```
+
+Extended version of the OnAfterGetDeliveryAddress event that additionally allows the name of the delivery party.
+
+#### OnAfterGetPaymentMeansPayeeFinancialAccBISWithPayeeFinancialAccountName
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var PayeeFinancialAccountID: Text
+ . var FinancialInstitutionBranchID: Text
+ . var PayeeFinancialAccountName: Text
+```
+
+Extended version of the OnAfterGetPaymentMeansPayeeFinancialAccBIS event with additional support for the payee financial account name.
+
+#### OnBeforeGetTotals
+
+```al
+ . var SalesLine: Record "Sales Line"
+ . var Skip: Boolean
+```
+
+This event is triggered before calculating the total amounts for a sales line. It allows skipping certain lines in the total calculation or modifying the lines before processing.
+
+#### OnAfterGetBuyerReference
+
+```al
+ . SalesHeader: record "Sales Header"
+ . var BuyerReference: Text
+```
+
+Allows customization of the buyer reference used for identification at the buyer.
+
+#### OnGetInvoiceLine (Invoice specific)
+
+```al
+ . SalesInvoiceLine: Record "Sales Invoice Line"
+ . var skip: Boolean
+```
+
+This event is triggered for each invoice line and allows certain lines to be skipped. By setting `skip` to `true`, a line can be excluded from XRechnung generation.
+
+#### OnGetCrMemoLine (Credit Memo Specific)
+
+```al
+ . SalesCrMemoLine: Record "Sales Cr.Memo Line"
+ . var skip: Boolean
+```
+
+This event is triggered for each credit memo line and allows certain lines to be skipped. By setting `skip` to `true`, a line can be excluded from XRechnung generation.
+``
