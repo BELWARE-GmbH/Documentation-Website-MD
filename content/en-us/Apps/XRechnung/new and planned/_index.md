@@ -49,7 +49,7 @@ weight: 1
 
 #### Version 2.20.0.1 - 13.10.2025
 Corrections:
-- Skip XML node PartyTaxScheme when TaxSchemeId is.
+- Skip XML node PartyTaxScheme when TaxSchemeId is empty.
 
 #### Version 2.20.0.0 - 29.08.2025
 **New Features:**
